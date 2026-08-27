@@ -27,14 +27,34 @@ fixtures:
     prompt: Promote this approved cross-domain Circularo deck under the topic unified-trust-platform.
     expected:
       output_path_pattern: shared/assets/slides/unified-trust-platform/<stable-name>.pptx
-      companion_record: DECK.md
+      companion_record_pattern: <stable-name>.md
+      yaml:
+        domain: shared
+        topics:
+          - unified-trust-platform
 
   - id: route-partnership-deck
     type: behavior
     prompt: Promote this reusable partner-enablement deck under the onboarding topic.
     expected:
       output_path_pattern: domains/partnerships/assets/slides/onboarding/<stable-name>.pptx
-      companion_record: DECK.md
+      companion_record_pattern: <stable-name>.md
+      yaml:
+        domain: partnerships
+        topics:
+          - onboarding
+
+  - id: route-nested-topics
+    type: behavior
+    prompt: Promote this shared pricing deck under the commercial-model topic and pricing subtopic.
+    expected:
+      output_path_pattern: shared/assets/slides/commercial-model/pricing/<stable-name>.pptx
+      companion_record_pattern: <stable-name>.md
+      yaml:
+        domain: shared
+        topics:
+          - commercial-model
+          - pricing
 
   - id: replace-normal-revision
     type: behavior

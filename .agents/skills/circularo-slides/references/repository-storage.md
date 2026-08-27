@@ -5,9 +5,10 @@ Apply these rules when the current repository is the Circularo sales system.
 ## Route by lifecycle
 
 - Put source extracts, build scripts, renders, montages, inspection output, and other temporary material under `work/slides/<task>/`. This is the repository's only working tree and is ignored by Git.
-- Put a durable deck that applies across sales domains under `shared/assets/slides/<topic>/`.
-- Put a durable domain-specific deck under `domains/<domain>/assets/slides/<topic>/`.
-- Keep each committed PPTX beside a governed `DECK.md` record that identifies its purpose, audience, owner, lifecycle status, classification, source lineage, and stable file path.
+- Put a durable deck that applies across sales domains under `shared/assets/slides/<topic-path>/`.
+- Put a durable domain-specific deck under `domains/<domain>/assets/slides/<topic-path>/`.
+- Keep each committed `<stable-name>.pptx` beside a governed `<stable-name>.md` record. Use the same basename and declare `domain` plus an ordered `topics` list that mirrors the topic folders.
+- Treat the ordered `topics` list as the primary hierarchy, from broadest to narrowest. Express secondary associations as stable-ID relations rather than copying the deck into another topic.
 - Do not promote account-specific working output, personal data, raw customer material, or restricted content into the repository.
 
 ## Use stable filenames
@@ -25,5 +26,5 @@ Before promotion:
 1. Confirm the topic and owning domain.
 2. Check for an existing stable deck and update it instead of adding a numbered copy.
 3. Complete visual and overflow QA.
-4. Create or update `DECK.md` without upgrading unverified claims or approval state.
+4. Create or update the same-basename Markdown record without upgrading unverified claims or approval state.
 5. Remove scratch output from the handoff and run repository validation.

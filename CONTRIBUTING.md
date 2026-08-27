@@ -36,11 +36,12 @@ Follow [`domains/README.md`](domains/README.md). A domain is a cohesive sales mo
 ## Add or revise a slide deck
 
 1. Use `work/slides/<task>/` for builds, renders, inspections, and other scratch material.
-2. Choose `shared/assets/slides/<topic>/` for cross-domain decks or `domains/<domain>/assets/slides/<topic>/` for domain-specific decks.
-3. Add or update the companion `DECK.md` record.
-4. Replace the existing stable PPTX for a normal revision. Do not add `v2`, `final`, dated, or initialled copies.
-5. Create another deck only for a durable audience, purpose, language, legal-scope, or domain variant, and name that distinction directly.
-6. Run presentation QA and `rtk make validate` before review.
+2. Choose `shared/assets/slides/<topic-path>/` for cross-domain decks or `domains/<domain>/assets/slides/<topic-path>/` for domain-specific decks.
+3. Add or update the companion `<stable-name>.md` record, using the same basename as the PPTX.
+4. Set `domain` and an ordered `topics` list in YAML so they exactly mirror the physical path.
+5. Replace the existing stable PPTX for a normal revision. Do not add `v2`, `final`, dated, or initialled copies.
+6. Create another deck only for a durable audience, purpose, language, legal-scope, or domain variant, and name that distinction directly.
+7. Run presentation QA and `rtk make validate` before review.
 
 ## Pull request scope
 

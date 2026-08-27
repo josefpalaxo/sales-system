@@ -16,6 +16,7 @@ ALLOWED_CONFLICT_STATUSES = {"open", "resolved", "accepted-risk"}
 ALLOWED_CLASSIFICATIONS = {"public", "internal", "confidential", "restricted"}
 DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 MARKDOWN_LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
+TOPIC_PATTERN = re.compile(r"^[a-z][a-z0-9-]*$")
 
 
 def load_registered_values(path: Path, section: str) -> set[str]:
@@ -118,6 +119,28 @@ def validate() -> list[str]:
             if relation_type not in allowed_relation_types:
                 errors.append(f"{relative}: unregistered relation type '{relation_type}'")
 
+        if kind == "slide-deck":
+            if not record.topics:
+                errors.append(f"{relative}: slide-deck records require a non-empty topics list")
+            for topic in record.topics:
+                if not TOPIC_PATTERN.fullmatch(topic):
+                    errors.append(f"{relative}: invalid topic slug '{topic}'")
+
+            if domain == "shared":
+                slides_root = ROOT / "shared" / "assets" / "slides"
+            else:
+                slides_root = ROOT / "domains" / domain / "assets" / "slides"
+            expected_parent = slides_root.joinpath(*record.topics)
+            if record.path.parent != expected_parent:
+                expected = expected_parent.relative_to(ROOT)
+                errors.append(f"{relative}: topics must mirror folder path '{expected}'")
+
+            deck_path = record.path.with_suffix(".pptx")
+            if not deck_path.exists():
+                errors.append(
+                    f"{relative}: slide-deck record requires same-basename PPTX '{deck_path.name}'"
+                )
+
     known_ids = set(by_id)
     for record in records:
         relative = record.path.relative_to(ROOT)
@@ -135,6 +158,18 @@ def validate() -> list[str]:
     for path in ROOT.rglob("work"):
         if path.is_dir() and path != ROOT / "work" and ".git" not in path.parts:
             errors.append(f"{path.relative_to(ROOT)}: nested work directories are not allowed")
+
+    slide_roots = [ROOT / "shared" / "assets" / "slides"]
+    slide_roots.extend((ROOT / "domains").glob("*/assets/slides"))
+    for slide_root in slide_roots:
+        if not slide_root.exists():
+            continue
+        for deck_path in slide_root.rglob("*.pptx"):
+            record_path = deck_path.with_suffix(".md")
+            if not record_path.exists():
+                errors.append(
+                    f"{deck_path.relative_to(ROOT)}: missing same-basename governed record '{record_path.name}'"
+                )
 
     for markdown_path in ROOT.rglob("*.md"):
         if ".git" in markdown_path.parts or "work" in markdown_path.parts:

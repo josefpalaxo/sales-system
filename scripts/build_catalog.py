@@ -26,6 +26,7 @@ def render() -> tuple[str, str]:
                 "id": record.id,
                 "kind": metadata.get("kind", ""),
                 "domain": metadata.get("domain", ""),
+                "topics": list(record.topics),
                 "title": metadata.get("title", ""),
                 "status": metadata.get("status", ""),
                 "revision": int(metadata["revision"]) if metadata.get("revision", "").isdigit() else None,

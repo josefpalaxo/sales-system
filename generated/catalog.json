@@ -18,7 +18,8 @@
         "source:commercial-model-2026"
       ],
       "status": "reviewed",
-      "title": "Automated Transaction Entitlement"
+      "title": "Automated Transaction Entitlement",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -38,7 +39,8 @@
         "source:commercial-model-2026"
       ],
       "status": "reviewed",
-      "title": "Transactional Document Storage and Retention"
+      "title": "Transactional Document Storage and Retention",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -57,7 +59,8 @@
         "source:commercial-model-2026"
       ],
       "status": "reviewed",
-      "title": "Circularo"
+      "title": "Circularo",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -76,7 +79,8 @@
         "source:commercial-model-2026"
       ],
       "status": "open",
-      "title": "Automated Transactions Inclusion"
+      "title": "Automated Transactions Inclusion",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -95,7 +99,8 @@
         "source:commercial-model-2026"
       ],
       "status": "open",
-      "title": "Transactional Document Storage Limits"
+      "title": "Transactional Document Storage Limits",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -107,14 +112,17 @@
       "kind": "slide-deck",
       "last_reviewed": "2026-08-27",
       "owner": "role:cso",
-      "path": "shared/assets/slides/commercial-model/DECK.md",
+      "path": "shared/assets/slides/commercial-model/circularo-trusted-execution-commercial-model.md",
       "review_by": "2026-11-25",
       "revision": null,
       "source_refs": [
         "source:commercial-model-2026"
       ],
       "status": "draft",
-      "title": "Circularo Trusted Execution Commercial Model"
+      "title": "Circularo Trusted Execution Commercial Model",
+      "topics": [
+        "commercial-model"
+      ]
     },
     {
       "classification": "internal",
@@ -124,12 +132,15 @@
       "kind": "slide-deck",
       "last_reviewed": "2026-08-27",
       "owner": "team:product-marketing",
-      "path": "shared/assets/slides/unified-trust-platform/DECK.md",
+      "path": "shared/assets/slides/unified-trust-platform/circularo-unified-sovereign-trust-platform.md",
       "review_by": "2027-02-23",
       "revision": null,
       "source_refs": [],
       "status": "draft",
-      "title": "Circularo Unified Sovereign Trust Platform"
+      "title": "Circularo Unified Sovereign Trust Platform",
+      "topics": [
+        "unified-trust-platform"
+      ]
     },
     {
       "classification": "internal",
@@ -144,7 +155,8 @@
       "revision": 1,
       "source_refs": [],
       "status": "approved",
-      "title": "Circularo Commercial Model"
+      "title": "Circularo Commercial Model",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -159,7 +171,8 @@
       "revision": 1,
       "source_refs": [],
       "status": "approved",
-      "title": "Sales Repository Architecture Brief"
+      "title": "Sales Repository Architecture Brief",
+      "topics": []
     },
     {
       "classification": "internal",
@@ -179,7 +192,8 @@
         "source:commercial-model-2026"
       ],
       "status": "reviewed",
-      "title": "Transaction-Based Subscription Model"
+      "title": "Transaction-Based Subscription Model",
+      "topics": []
     }
   ],
   "schema_version": 1

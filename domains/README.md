@@ -20,7 +20,7 @@ domains/<domain>/
 
 Use the same layer semantics in every domain. Cross-domain concepts belong under `shared/` and are referenced by stable ID.
 
-The optional `assets/` layer holds governed, reusable binary artifacts owned by the domain. Topic-organized slide decks use `assets/slides/<topic>/` and must follow the asset and versioning rules in `GOVERNANCE.md`.
+The optional `assets/` layer holds governed, reusable binary artifacts owned by the domain. Topic-organized slide decks use `assets/slides/<topic-path>/`; their ordered `topics` YAML must mirror that path. Follow the asset and versioning rules in `GOVERNANCE.md`.
 
 ## Adding a domain
 

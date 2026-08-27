@@ -113,6 +113,8 @@ Durable learning from working material is promoted by extracting the smallest re
 
 Reusable sales artifacts such as slide decks may be committed under `shared/assets/` or `domains/<domain>/assets/`. Each committed artifact must have a companion governed Markdown record that states its stable path, audience, purpose, owner, status, classification, review dates, and source lineage.
 
+For slide decks, `domain` and `topics` are first-class organizational metadata. `topics` is an ordered list of folder slugs below `assets/slides/`, from broadest to narrowest. The Markdown record and PPTX use the same stable basename. A deck therefore has one authoritative physical location; secondary associations use relations rather than copied files.
+
 Normal revisions replace the file at its stable path; Git history stores prior revisions. Do not create `v2`, `final`, dated, or similarly versioned copies unless an explicitly requested frozen edition is a distinct governed artifact. Real audience, language, legal-scope, or domain variants use descriptive stable filenames and separate records.
 
 Binary artifacts do not become canonical merely by being committed. Their companion record must be current and `approved`, and every substantive claim inside the artifact remains subject to the repository's evidence, conflict, and classification rules.

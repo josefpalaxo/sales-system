@@ -40,6 +40,7 @@ RELATION_TYPE_PATTERN = re.compile(r"^\s+-\s*type\s*:\s*['\"]?([^'\"\s#]+)")
 class Record:
     path: Path
     metadata: dict[str, str]
+    topics: tuple[str, ...]
     targets: tuple[str, ...]
     source_refs: tuple[str, ...]
     relation_types: tuple[str, ...]
@@ -66,6 +67,30 @@ def strip_scalar(value: str) -> str:
     if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
         return value[1:-1]
     return value
+
+
+def read_top_level_list(frontmatter: list[str], key: str) -> tuple[str, ...]:
+    """Read a constrained top-level YAML scalar list without a YAML dependency."""
+    values: list[str] = []
+    active = False
+    for line in frontmatter:
+        if line and not line[0].isspace():
+            match = KEY_VALUE_PATTERN.match(line)
+            active = bool(match and match.group(1) == key)
+            if active and match:
+                inline = match.group(2).strip()
+                if inline.startswith("[") and inline.endswith("]"):
+                    values.extend(
+                        strip_scalar(item.strip())
+                        for item in inline[1:-1].split(",")
+                        if item.strip()
+                    )
+            continue
+        if active:
+            item = re.match(r"^\s+-\s+(.+?)\s*$", line)
+            if item:
+                values.append(strip_scalar(item.group(1)))
+    return tuple(values)
 
 
 def read_record(path: Path) -> Record:
@@ -102,6 +127,7 @@ def read_record(path: Path) -> Record:
     return Record(
         path=path,
         metadata=metadata,
+        topics=read_top_level_list(frontmatter, "topics"),
         targets=tuple(targets),
         source_refs=tuple(source_refs),
         relation_types=tuple(relation_types),

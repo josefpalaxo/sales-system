@@ -3,6 +3,8 @@ schema_version: 1
 id: deck:unified-sovereign-trust-platform
 kind: slide-deck
 domain: shared
+topics:
+  - unified-trust-platform
 title: Circularo Unified Sovereign Trust Platform
 status: draft
 classification: internal

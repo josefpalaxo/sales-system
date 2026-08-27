@@ -3,6 +3,8 @@ schema_version: 1
 id: deck:trusted-execution-commercial-model
 kind: slide-deck
 domain: shared
+topics:
+  - commercial-model
 title: Circularo Trusted Execution Commercial Model
 status: draft
 classification: internal
