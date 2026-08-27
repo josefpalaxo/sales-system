@@ -17,6 +17,10 @@
     "conflict:transactional-document-storage-limits": [
       "source:commercial-model-2026"
     ],
+    "deck:trusted-execution-commercial-model": [
+      "source:commercial-model-2026"
+    ],
+    "deck:unified-sovereign-trust-platform": [],
     "source:commercial-model-2026": [],
     "source:repository-architecture-brief": [],
     "subscription-model:transaction-based": [
@@ -39,6 +43,7 @@
       "company:circularo",
       "conflict:automated-transactions-inclusion",
       "conflict:transactional-document-storage-limits",
+      "deck:trusted-execution-commercial-model",
       "subscription-model:transaction-based"
     ]
   }

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <!--
+    Circularo Icon: Database
+    Represents per-user storage allowance, capacity tiers, repositories, and stored data.
+  -->
+  <title id="title">Database</title>
+  <desc id="desc">Database cylinder icon.</desc>
+  <ellipse cx="32" cy="14" rx="22" ry="9" fill="currentColor" />
+  <path d="M10 14v33c0 5 44 5 44 0V14M10 30c0 5 44 5 44 0" fill="none" stroke="currentColor" stroke-width="5" />
+</svg>

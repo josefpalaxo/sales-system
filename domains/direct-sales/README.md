@@ -4,3 +4,4 @@ Direct seller-to-customer motions: prospecting, discovery, qualification, opport
 
 Shared product, commercial, market, competition, proof, and positioning records remain under `shared/`.
 
+Reusable direct-sales artifacts belong under [`assets/`](assets/README.md), organized by artifact type and topic.

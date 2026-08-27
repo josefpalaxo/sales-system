@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <!--
+    Circularo Icon: Person
+    Represents licensed users, per-user entitlement, seats, and user-based capacity calculations.
+  -->
+  <title id="title">Person</title>
+  <desc id="desc">Single user icon.</desc>
+  <circle cx="28" cy="18" r="10" fill="currentColor" />
+  <path d="M11 55c2-21 34-21 36 0z" fill="currentColor" />
+</svg>

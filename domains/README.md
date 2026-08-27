@@ -10,6 +10,7 @@ A domain is a cohesive sales motion with domain-specific knowledge, messaging, m
 ```text
 domains/<domain>/
 ├── README.md
+├── assets/
 ├── knowledge/
 ├── messaging/
 ├── methodology/
@@ -18,6 +19,8 @@ domains/<domain>/
 ```
 
 Use the same layer semantics in every domain. Cross-domain concepts belong under `shared/` and are referenced by stable ID.
+
+The optional `assets/` layer holds governed, reusable binary artifacts owned by the domain. Topic-organized slide decks use `assets/slides/<topic>/` and must follow the asset and versioning rules in `GOVERNANCE.md`.
 
 ## Adding a domain
 
@@ -30,4 +33,3 @@ Use the same layer semantics in every domain. Cross-domain concepts belong under
 7. Run `rtk make catalog` and `rtk make validate`.
 
 Do not create another working directory inside a domain. All working material goes under the root `work/`.
-

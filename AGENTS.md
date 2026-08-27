@@ -23,10 +23,11 @@ Maintain this repository as a governed source of Circularo sales knowledge. Agen
 
 ## Domain boundaries
 
-- Put cross-domain company, product, commercial, market, competition, proof, and positioning records under `shared/`.
-- Put domain-specific knowledge, messaging, methodology, plays, and templates under `domains/<domain>/`.
+- Put cross-domain company, product, commercial, market, competition, proof, positioning, and governed reusable assets under `shared/`.
+- Put domain-specific knowledge, messaging, methodology, plays, templates, and governed reusable assets under `domains/<domain>/`.
 - Add a domain by following `domains/README.md`; do not add new top-level working or knowledge trees.
 - Entity IDs are globally unique across shared and all domains.
+- Keep one stable path for each slide deck; Git history stores normal revisions. Create another deck only for an explicitly distinct durable variant.
 
 ## Agent skills
 
@@ -54,4 +55,3 @@ Maintain this repository as a governed source of Circularo sales knowledge. Agen
 ## Done
 
 Work is complete only when validation passes, generated files are current, conflicts remain visible, and the change can be reviewed by the accountable owner.
-

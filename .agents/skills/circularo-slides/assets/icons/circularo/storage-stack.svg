@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70" role="img" aria-labelledby="title desc">
+  <!--
+    Circularo Icon: Storage Stack
+    Represents archive capacity, DMS repositories, database-style storage, and archival add-ons.
+  -->
+  <title id="title">Storage Stack</title>
+  <desc id="desc">Stacked storage cylinder icon.</desc>
+  <ellipse cx="35" cy="16" rx="24" ry="9" fill="currentColor" />
+  <path d="M11 16v30c0 5 48 5 48 0V16M11 31c0 5 48 5 48 0" fill="none" stroke="currentColor" stroke-width="5" />
+</svg>

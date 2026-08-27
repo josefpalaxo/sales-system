@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <!--
+    Circularo Icon: Gear
+    Represents technical documents, settings, process mechanics, and operational configuration.
+  -->
+  <title id="title">Gear</title>
+  <desc id="desc">Gear or settings icon.</desc>
+  <path d="M24 6v7M24 35v7M6 24h7M35 24h7M11 11l5 5M32 32l5 5M37 11l-5 5M16 32l-5 5" stroke="currentColor" stroke-width="3" />
+  <circle cx="24" cy="24" r="10" fill="none" stroke="currentColor" stroke-width="3" />
+</svg>

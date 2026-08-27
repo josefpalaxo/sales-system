@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-labelledby="title desc">
+  <!--
+    Sovereign Integrations
+    Represents open APIs, enterprise connectors, government platform links, ID providers, and extensible systems.
+    Designed for Circularo Sovereign Trust Platform slides using the approved purple/navy enterprise style.
+  -->
+  <title id="title">Sovereign Integrations</title>
+  <desc id="desc">Gear with connector circuits and platform puzzle piece.</desc>
+  <defs>
+    <linearGradient id="purple-fill" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7a18ff" />
+      <stop offset="48%" stop-color="#7000ff" />
+      <stop offset="100%" stop-color="#1d0090" />
+    </linearGradient>
+    <filter id="icon-shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="9" stdDeviation="6" flood-color="#1d0090" flood-opacity="0.16" />
+    </filter>
+  </defs>
+  <g filter="url(#icon-shadow)">
+    <path d="M73 9h34l6 24 22-12 24 24-12 22 24 6v34l-24 6 12 22-24 24-22-12-6 24H73l-6-24-22 12-24-24 12-22-24-6V73l24-6-12-22 24-24 22 12z" fill="url(#purple-fill)" stroke="#1d0090" stroke-width="5" />
+    <circle cx="90" cy="90" r="37" fill="#ffffff" opacity="0.94" stroke="#1d0090" stroke-width="5" />
+    <path d="M81 69h18v16h17v18H99v17H81v-17H64V85h17z" fill="url(#purple-fill)" stroke="#1d0090" stroke-width="4" />
+    <path d="M9 53h22M9 90h22M9 126h22M149 53h22M149 90h22M149 126h22M31 53h21M31 90h19M31 126h21M128 53h21M130 90h19M128 126h21" fill="none" stroke="#1d0090" stroke-width="4" stroke-linecap="round" />
+    <circle cx="9" cy="53" r="5" fill="#ffffff" stroke="#1d0090" stroke-width="4" />
+    <circle cx="9" cy="90" r="5" fill="#ffffff" stroke="#1d0090" stroke-width="4" />
+    <circle cx="9" cy="126" r="5" fill="#ffffff" stroke="#1d0090" stroke-width="4" />
+    <circle cx="171" cy="53" r="5" fill="#ffffff" stroke="#1d0090" stroke-width="4" />
+    <circle cx="171" cy="90" r="5" fill="#ffffff" stroke="#1d0090" stroke-width="4" />
+    <circle cx="171" cy="126" r="5" fill="#ffffff" stroke="#1d0090" stroke-width="4" />
+  </g>
+</svg>

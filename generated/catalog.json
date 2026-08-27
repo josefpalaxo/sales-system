@@ -99,6 +99,40 @@
     },
     {
       "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "deck:trusted-execution-commercial-model",
+      "kind": "slide-deck",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "shared/assets/slides/commercial-model/DECK.md",
+      "review_by": "2026-11-25",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "draft",
+      "title": "Circularo Trusted Execution Commercial Model"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "deck:unified-sovereign-trust-platform",
+      "kind": "slide-deck",
+      "last_reviewed": "2026-08-27",
+      "owner": "team:product-marketing",
+      "path": "shared/assets/slides/unified-trust-platform/DECK.md",
+      "review_by": "2027-02-23",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "title": "Circularo Unified Sovereign Trust Platform"
+    },
+    {
+      "classification": "internal",
       "depends_on": [],
       "domain": "shared",
       "id": "source:commercial-model-2026",

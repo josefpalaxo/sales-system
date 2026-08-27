@@ -33,6 +33,15 @@ Follow [`domains/README.md`](domains/README.md). A domain is a cohesive sales mo
 4. Do not embed Circularo facts in the skill.
 5. Add realistic trigger, near-neighbor, behavior, and prohibited-behavior fixtures.
 
+## Add or revise a slide deck
+
+1. Use `work/slides/<task>/` for builds, renders, inspections, and other scratch material.
+2. Choose `shared/assets/slides/<topic>/` for cross-domain decks or `domains/<domain>/assets/slides/<topic>/` for domain-specific decks.
+3. Add or update the companion `DECK.md` record.
+4. Replace the existing stable PPTX for a normal revision. Do not add `v2`, `final`, dated, or initialled copies.
+5. Create another deck only for a durable audience, purpose, language, legal-scope, or domain variant, and name that distinction directly.
+6. Run presentation QA and `rtk make validate` before review.
+
 ## Pull request scope
 
 A pull request should change one coherent concept or behavior. Avoid combining unrelated content, schema, packaging, and skill changes.
@@ -40,4 +49,3 @@ A pull request should change one coherent concept or behavior. Avoid combining u
 ## Data policy
 
 Do not commit raw CRM exports, live account briefs, personal data, customer transcripts, credentials, or confidential working files. Use `work/` only for temporary local material; Git ignores it.
-

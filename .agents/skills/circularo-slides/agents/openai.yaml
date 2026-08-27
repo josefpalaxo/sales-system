@@ -1,0 +1,4 @@
+interface:
+  display_name: "Circularo Slides"
+  short_description: "Build polished, on-brand Circularo slide decks"
+  default_prompt: "Use $circularo-slides to create or revise a professional Circularo presentation."

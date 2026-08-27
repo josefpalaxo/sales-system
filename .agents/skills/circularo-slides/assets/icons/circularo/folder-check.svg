@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <!--
+    Circularo Icon: Folder Check
+    Represents transactional archive, completed workflow documents, and included records.
+  -->
+  <title id="title">Folder Check</title>
+  <desc id="desc">Folder with a checkmark badge.</desc>
+  <path d="M8 18h20l5 6h23v28H8z" fill="none" stroke="currentColor" stroke-width="4" />
+  <circle cx="48" cy="46" r="14" fill="currentColor" />
+  <path d="M41 46l5 5 10-12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

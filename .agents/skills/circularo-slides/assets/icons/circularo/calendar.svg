@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <!--
+    Circularo Icon: Calendar
+    Represents expirations, renewals, retention dates, deadlines, and lifecycle events.
+  -->
+  <title id="title">Calendar</title>
+  <desc id="desc">Calendar icon.</desc>
+  <rect x="8" y="10" width="32" height="30" rx="3" fill="none" stroke="currentColor" stroke-width="3" />
+  <path d="M15 5v10M33 5v10M8 20h32M16 27h4M26 27h4M16 34h4M26 34h4" stroke="currentColor" stroke-width="3" />
+</svg>

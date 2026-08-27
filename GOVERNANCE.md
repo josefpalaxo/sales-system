@@ -109,3 +109,10 @@ GitHub rules should require passing checks and CODEOWNER review. `CODEOWNERS` it
 
 Durable learning from working material is promoted by extracting the smallest reusable claim or pattern into a normal record, preserving provenance, and submitting it for review.
 
+## Governed binary assets
+
+Reusable sales artifacts such as slide decks may be committed under `shared/assets/` or `domains/<domain>/assets/`. Each committed artifact must have a companion governed Markdown record that states its stable path, audience, purpose, owner, status, classification, review dates, and source lineage.
+
+Normal revisions replace the file at its stable path; Git history stores prior revisions. Do not create `v2`, `final`, dated, or similarly versioned copies unless an explicitly requested frozen edition is a distinct governed artifact. Real audience, language, legal-scope, or domain variants use descriptive stable filenames and separate records.
+
+Binary artifacts do not become canonical merely by being committed. Their companion record must be current and `approved`, and every substantive claim inside the artifact remains subject to the repository's evidence, conflict, and classification rules.

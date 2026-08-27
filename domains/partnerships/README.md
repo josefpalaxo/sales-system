@@ -6,3 +6,4 @@ Partnerships may introduce domain-specific entities such as partner types, ideal
 
 The capsule is intentionally empty of business claims until a partnerships owner supplies approved sources.
 
+Reusable partnership artifacts belong under [`assets/`](assets/README.md), organized by artifact type and topic.

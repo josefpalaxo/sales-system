@@ -10,6 +10,8 @@ The repository has three content zones:
 - [`domains/`](domains/README.md) contains modular sales domains such as direct sales and partnerships.
 - [`work/`](work/README.md) is the single non-canonical working directory for drafts and situational output.
 
+Governed binary artifacts live in topic folders under `shared/assets/` or `domains/<domain>/assets/`. Their normal revisions replace one stable file; Git history carries earlier versions.
+
 Agents and humans must treat only current, approved records as canonical. Draft, reviewed, expired, or conflicted material must remain visibly qualified.
 
 ## Start here
@@ -40,4 +42,3 @@ The commercial model has not yet been fully decomposed into plans, editions, add
 - [Agent instructions](AGENTS.md)
 - [Domain model](domains/README.md)
 - [Schema conventions](schemas/README.md)
-
