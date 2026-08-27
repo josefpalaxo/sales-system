@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "commercial-rule:automated-transactions": [
+      "source:commercial-model-2026",
+      "conflict:automated-transactions-inclusion"
+    ],
+    "commercial-rule:transactional-document-storage": [
+      "source:commercial-model-2026",
+      "conflict:transactional-document-storage-limits"
+    ],
+    "company:circularo": [
+      "source:commercial-model-2026"
+    ],
+    "conflict:automated-transactions-inclusion": [
+      "source:commercial-model-2026"
+    ],
+    "conflict:transactional-document-storage-limits": [
+      "source:commercial-model-2026"
+    ],
+    "source:commercial-model-2026": [],
+    "source:repository-architecture-brief": [],
+    "subscription-model:transaction-based": [
+      "source:commercial-model-2026",
+      "conflict:automated-transactions-inclusion"
+    ]
+  },
+  "schema_version": 1,
+  "used_by": {
+    "conflict:automated-transactions-inclusion": [
+      "commercial-rule:automated-transactions",
+      "subscription-model:transaction-based"
+    ],
+    "conflict:transactional-document-storage-limits": [
+      "commercial-rule:transactional-document-storage"
+    ],
+    "source:commercial-model-2026": [
+      "commercial-rule:automated-transactions",
+      "commercial-rule:transactional-document-storage",
+      "company:circularo",
+      "conflict:automated-transactions-inclusion",
+      "conflict:transactional-document-storage-limits",
+      "subscription-model:transaction-based"
+    ]
+  }
+}

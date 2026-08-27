@@ -1,0 +1,40 @@
+schema_version: 1
+record_statuses:
+  - draft
+  - reviewed
+  - approved
+  - deprecated
+conflict_statuses:
+  - open
+  - resolved
+  - accepted-risk
+evidence_states:
+  - verified
+  - reported
+  - inferred
+  - hypothesis
+  - unknown
+  - contradicted
+classifications:
+  - public
+  - internal
+  - confidential
+  - restricted
+domains:
+  - shared
+  - direct-sales
+  - partnerships
+relation_types:
+  - based_on
+  - derives_from
+  - uses
+  - supports
+  - supported_by
+  - constrains
+  - constrained_by
+  - applies_to
+  - targets
+  - allows
+  - requires
+  - supersedes
+

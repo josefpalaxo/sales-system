@@ -1,0 +1,40 @@
+schema_version: 1
+owners:
+  - id: role:repository-steward
+    title: Repository Steward
+    status: proposed
+    responsibilities:
+      - Repository structure and validation
+      - Review routing and maintenance
+  - id: role:cso
+    title: Chief Sales Officer
+    status: known
+    responsibilities:
+      - Commercial model ownership
+      - Sales narrative approval
+  - id: team:commercial
+    title: Commercial Team
+    status: proposed
+    responsibilities:
+      - Plans, subscription models, add-ons, and commercial rules
+  - id: team:product
+    title: Product Team
+    status: proposed
+    responsibilities:
+      - Product capability and edition approval
+  - id: team:product-marketing
+    title: Product Marketing
+    status: proposed
+    responsibilities:
+      - ICP, positioning, narratives, messages, and competitive guidance
+  - id: team:sales-enablement
+    title: Sales Enablement
+    status: proposed
+    responsibilities:
+      - Methodology, plays, templates, and skill behavior
+  - id: team:partnerships
+    title: Partnerships
+    status: proposed
+    responsibilities:
+      - Partner strategy, programs, enablement, and partner plays
+

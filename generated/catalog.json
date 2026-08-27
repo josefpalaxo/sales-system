@@ -1,0 +1,152 @@
+{
+  "records": [
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "conflict:automated-transactions-inclusion"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:automated-transactions",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/automated-transactions.md",
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "reviewed",
+      "title": "Automated Transaction Entitlement"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "conflict:transactional-document-storage-limits"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:transactional-document-storage",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/transactional-document-storage.md",
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "reviewed",
+      "title": "Transactional Document Storage and Retention"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "company:circularo",
+      "kind": "company",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "shared/knowledge/company/circularo.md",
+      "review_by": "2027-02-27",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "reviewed",
+      "title": "Circularo"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "conflict:automated-transactions-inclusion",
+      "kind": "conflict",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "governance/conflicts/automated-transactions-inclusion.md",
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "open",
+      "title": "Automated Transactions Inclusion"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "conflict:transactional-document-storage-limits",
+      "kind": "conflict",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "governance/conflicts/transactional-document-storage-limits.md",
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "open",
+      "title": "Transactional Document Storage Limits"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "source:commercial-model-2026",
+      "kind": "source",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "governance/source-register/commercial-model-2026.md",
+      "review_by": "2026-11-27",
+      "revision": 1,
+      "source_refs": [],
+      "status": "approved",
+      "title": "Circularo Commercial Model"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "source:repository-architecture-brief",
+      "kind": "source",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:repository-steward",
+      "path": "governance/source-register/repository-architecture-brief.md",
+      "review_by": "2027-08-27",
+      "revision": 1,
+      "source_refs": [],
+      "status": "approved",
+      "title": "Sales Repository Architecture Brief"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "conflict:automated-transactions-inclusion"
+      ],
+      "domain": "shared",
+      "id": "subscription-model:transaction-based",
+      "kind": "subscription-model",
+      "last_reviewed": "2026-08-27",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/subscription-models/transaction-based.md",
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "reviewed",
+      "title": "Transaction-Based Subscription Model"
+    }
+  ],
+  "schema_version": 1
+}

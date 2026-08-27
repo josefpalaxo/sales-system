@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://circularo.com/schemas/sales-system/common.schema.json",
+  "title": "Circularo sales record envelope",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema_version",
+    "id",
+    "kind",
+    "domain",
+    "title",
+    "status",
+    "classification",
+    "owner",
+    "last_reviewed",
+    "review_by",
+    "sources",
+    "relations"
+  ],
+  "properties": {
+    "schema_version": {"const": 1},
+    "id": {"type": "string", "pattern": "^[a-z][a-z0-9-]*:[a-z0-9][a-z0-9-]*$"},
+    "kind": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "domain": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "title": {"type": "string", "minLength": 1},
+    "status": {
+      "enum": ["draft", "reviewed", "approved", "deprecated", "open", "resolved", "accepted-risk"]
+    },
+    "revision": {"type": "integer", "minimum": 1},
+    "classification": {"enum": ["public", "internal", "confidential", "restricted"]},
+    "owner": {"type": "string", "minLength": 1},
+    "last_reviewed": {"type": "string", "format": "date"},
+    "review_by": {"type": "string", "format": "date"},
+    "sources": {"type": "array"},
+    "relations": {"type": "array"},
+    "spec": {"type": "object"}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"status": {"const": "approved"}}},
+      "then": {"required": ["revision"]}
+    }
+  ]
+}
+

@@ -1,0 +1,10 @@
+# Initial owner. Replace or add visible GitHub teams as business ownership is confirmed.
+* @josefpalaxo
+
+# Protect governance and repository control files.
+/.github/ @josefpalaxo
+/AGENTS.md @josefpalaxo
+/GOVERNANCE.md @josefpalaxo
+/schemas/ @josefpalaxo
+/scripts/ @josefpalaxo
+
