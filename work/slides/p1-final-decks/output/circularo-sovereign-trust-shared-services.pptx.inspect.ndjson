@@ -1,0 +1,287 @@
+{"kind":"deck","id":"pr/gv9roi","name":"Deck"}
+{"kind":"layout","layoutId":"33917c7b-b904-4082-be75-4c1d29f76de6","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"4aad214f-757f-4cc0-8f8f-485fd5f02060","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/bfa13e","slide":1,"title":"01","textShapes":6}
+{"kind":"textbox","id":"sh/nm9grulo","slide":1,"name":"page-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/2l0fipk3","slide":1,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/xsbyx43q","slide":1,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/cr2xoj25","slide":1,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"shape","id":"sh/bqtgvel0","slide":1,"name":"cover-purple-band","bbox":[926,0,210,720]}
+{"kind":"shape","id":"sh/apkfm9kf","slide":1,"name":"cover-dark-band","bbox":[1136,0,144,720]}
+{"kind":"textbox","id":"sh/lgvy1o32","slide":1,"name":"cover-title","text":"Sovereign Trust Shared Services","textPreview":"Sovereign Trust Shared Services","textChars":31,"textLines":1,"bbox":[48,160,790,176]}
+{"kind":"textbox","id":"sh/kf2xsj2h","slide":1,"name":"cover-tagline","text":"Build trusted execution once. Make it reusable across government.","textPreview":"Build trusted execution once. Make it reusable across government.","textChars":65,"textLines":1,"bbox":[48,360,760,110]}
+{"kind":"textbox","id":"sh/axcfqlg7","slide":1,"name":"cover-route","text":"MINISTRIES · AGENCIES · PUBLIC SERVICES · APPLICATIONS · AI AGENTS","textPreview":"MINISTRIES · AGENCIES · PUBLIC SERVICES · APPLICATIONS · AI AGENTS","textChars":66,"textLines":1,"bbox":[48,544,760,32]}
+{"kind":"image","id":"im/5grex43q","slide":1,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/bfa13e","slide":1,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/nbhy24","slide":2,"title":"02","textShapes":7}
+{"kind":"textbox","id":"sh/ehkjutkn","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/fitk3els","slide":2,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/on21032p","slide":2,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/pov298ja","slide":2,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/2lkjytkj","slide":2,"name":"slide-title","text":"Digital trust is becoming shared national infrastructure","textPreview":"Digital trust is becoming shared national infrastructure","textChars":56,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/3mtk7y14","slide":2,"name":"statement-primary","text":"Identity. Networks. Payments. Cloud. Cybersecurity. Trusted execution.","textPreview":"Identity. Networks. Payments. Cloud. Cybersecurity. Trusted execution.","textChars":70,"textLines":1,"bbox":[48,266,1050,150]}
+{"kind":"textbox","id":"sh/4ri1oz25","slide":2,"name":"statement-support","text":"As public services become more automated and agentic, trusted execution becomes another reusable infrastructure layer.","textPreview":"As public services become more automated and agentic, trusted execution becomes another reusable infrastructure layer.","textChars":118,"textLines":1,"bbox":[48,448,980,100]}
+{"kind":"shape","id":"sh/5sr2x43q","slide":2,"name":"divider","bbox":[48,588,740,1]}
+{"kind":"textbox","id":"sh/x8but87m","slide":2,"name":"bottom-message","text":"The opportunity is to establish the trust layer once—then make it consumable across government.","textPreview":"The opportunity is to establish the trust layer once—then make it consumable across government.","textChars":95,"textLines":1,"bbox":[48,604,1050,54]}
+{"kind":"image","id":"im/ob6hkryd","slide":2,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/nbhy24","slide":2,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/j77jbw","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/udw7e5cj","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/ve587at4","slide":3,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/4jy9kfu1","slide":3,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/5k7qdkb6","slide":3,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/ihwri5cv","slide":3,"name":"slide-title","text":"Government transactions are becoming machine-executable","textPreview":"Government transactions are becoming machine-executable","textChars":55,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/ji58batg","slide":3,"name":"evolution-baseline","bbox":[60,342,1160,3]}
+{"kind":"shape","id":"sh/sny9ozux","slide":3,"name":"evolution-node-1","bbox":[147,330,26,26]}
+{"kind":"textbox","id":"sh/t87qh4bi","slide":3,"name":"evolution-stage-1","text":"Paper","textPreview":"Paper","textChars":5,"textLines":1,"bbox":[48,378,224,58]}
+{"kind":"shape","id":"sh/lk7mtc76","slide":3,"name":"evolution-node-2","bbox":[387,330,26,26]}
+{"kind":"textbox","id":"sh/0jelk7ql","slide":3,"name":"evolution-stage-2","text":"Digital","textPreview":"Digital","textChars":7,"textLines":1,"bbox":[288,378,224,58]}
+{"kind":"shape","id":"sh/zi5kr2pg","slide":3,"name":"evolution-node-3","bbox":[627,330,26,26]}
+{"kind":"textbox","id":"sh/yhw3ix8v","slide":3,"name":"evolution-stage-3","text":"Automated","textPreview":"Automated","textChars":9,"textLines":1,"bbox":[528,378,224,58]}
+{"kind":"shape","id":"sh/987mxc7i","slide":3,"name":"evolution-node-4","bbox":[867,330,26,26]}
+{"kind":"textbox","id":"sh/87ylo7qx","slide":3,"name":"evolution-stage-4","text":"AI-Assisted","textPreview":"AI-Assisted","textChars":11,"textLines":1,"bbox":[768,378,224,58]}
+{"kind":"shape","id":"sh/n6p4v2pc","slide":3,"name":"evolution-node-5","bbox":[1107,330,26,26]}
+{"kind":"textbox","id":"sh/mlg3mx8r","slide":3,"name":"evolution-stage-5","text":"Agentic","textPreview":"Agentic","textChars":7,"textLines":1,"bbox":[1008,378,224,58]}
+{"kind":"textbox","id":"sh/pcn2ls7y","slide":3,"name":"evolution-support","text":"Applications and AI agents will increasingly prepare, initiate, and execute public-sector processes.","textPreview":"Applications and AI agents will increasingly prepare, initiate, and execute public-sector processes.","textChars":100,"textLines":1,"bbox":[48,474,1100,66]}
+{"kind":"shape","id":"sh/4bulcnqt","slide":3,"name":"divider","bbox":[48,588,740,1]}
+{"kind":"textbox","id":"sh/g7ido72l","slide":3,"name":"bottom-message","text":"As autonomy increases, government must strengthen authority, policy, approval, evidence, and audit.","textPreview":"As autonomy increases, government must strengthen authority, policy, approval, evidence, and audit.","textChars":99,"textLines":1,"bbox":[48,604,1050,54]}
+{"kind":"image","id":"im/g7a943a9","slide":3,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/j77jbw","slide":3,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/p3vyd3","slide":4,"title":"04","textShapes":13}
+{"kind":"textbox","id":"sh/u5ofuhk3","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/v6xgnmlo","slide":4,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/836xsr2x","slide":4,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/94fylc3i","slide":4,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/mh4fqhk7","slide":4,"name":"slide-title","text":"National identity answers who. Trusted execution answers what may happen.","textPreview":"National identity answers who. Trusted execution answers what may happen.","textChars":73,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/72dwjmlc","slide":4,"name":"tile-1","bbox":[48,286,281,300]}
+{"kind":"textbox","id":"sh/szqx4b2h","slide":4,"name":"tile-title-1","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[70,310,237,58]}
+{"kind":"textbox","id":"sh/t0zyxg3m","slide":4,"name":"tile-body-1","text":"Who are you?","textPreview":"Who are you?","textChars":12,"textLines":1,"bbox":[70,388,237,174]}
+{"kind":"shape","id":"sh/d87udwzi","slide":4,"name":"tile-2","bbox":[349,286,281,300]}
+{"kind":"textbox","id":"sh/cnyt4ryx","slide":4,"name":"tile-title-2","text":"Representation","textPreview":"Representation","textChars":14,"textLines":1,"bbox":[371,310,237,58]}
+{"kind":"textbox","id":"sh/bm5cbmhc","slide":4,"name":"tile-body-2","text":"Whom do you represent?","textPreview":"Whom do you represent?","textChars":22,"textLines":1,"bbox":[371,388,237,174]}
+{"kind":"shape","id":"sh/qlwb2hgr","slide":4,"name":"tile-3","bbox":[650,286,281,300]}
+{"kind":"textbox","id":"sh/pknu9cz6","slide":4,"name":"tile-title-3","text":"Authority","textPreview":"Authority","textChars":9,"textLines":1,"bbox":[672,310,237,58]}
+{"kind":"textbox","id":"sh/ojet07y1","slide":4,"name":"tile-body-3","text":"What may you do?","textPreview":"What may you do?","textChars":16,"textLines":1,"bbox":[672,388,237,174]}
+{"kind":"shape","id":"sh/3i5c72hg","slide":4,"name":"tile-4","bbox":[951,286,281,300]}
+{"kind":"textbox","id":"sh/2hwbyhgv","slide":4,"name":"tile-title-4","text":"Execution","textPreview":"Execution","textChars":9,"textLines":1,"bbox":[973,310,237,58]}
+{"kind":"textbox","id":"sh/9grulgfq","slide":4,"name":"tile-body-4","text":"What was approved and executed?","textPreview":"What was approved and executed?","textChars":31,"textLines":1,"bbox":[973,388,237,174]}
+{"kind":"shape","id":"sh/8fidcby5","slide":4,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/8jqx8f6h","slide":4,"name":"bottom-message","text":"Identity is foundational. It is not the complete execution model.","textPreview":"Identity is foundational. It is not the complete execution model.","textChars":65,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/cj2t4n21","slide":4,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/p3vyd3","slide":4,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/q2gy7m","slide":5,"title":"05","textShapes":18}
+{"kind":"textbox","id":"sh/0vi54zm5","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/1wr6x43q","slide":5,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/mxkn6p4b","slide":5,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/nitozulw","slide":5,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/oj258zmh","slide":5,"name":"slide-title","text":"Separate trust stacks fragment government","textPreview":"Separate trust stacks fragment government","textChars":41,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/9kb61432","slide":5,"name":"process-subtitle","text":"Each entity separately procures and integrates part of the trust lifecycle.","textPreview":"Each entity separately procures and integrates part of the trust lifecycle.","textChars":75,"textLines":1,"bbox":[48,202,1080,60]}
+{"kind":"shape","id":"sh/21gnu547","slide":5,"name":"process-baseline","bbox":[66,350,1148,3]}
+{"kind":"shape","id":"sh/32p4nals","slide":5,"name":"process-node-1","bbox":[111.17,322,56,56]}
+{"kind":"textbox","id":"sh/vih0f6x4","slide":5,"name":"process-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[117.17,334,44,28]}
+{"kind":"textbox","id":"sh/ah8zm1wj","slide":5,"name":"process-label-1","text":"Workflow","textPreview":"Workflow","textChars":8,"textLines":1,"bbox":[48,404,182.33,56]}
+{"kind":"shape","id":"sh/xkzihgfu","slide":5,"name":"process-node-2","bbox":[311.5,322,56,56]}
+{"kind":"textbox","id":"sh/wjqhobe9","slide":5,"name":"process-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[317.5,334,44,28]}
+{"kind":"textbox","id":"sh/neh0bmxs","slide":5,"name":"process-label-2","text":"eSignature","textPreview":"eSignature","textChars":10,"textLines":1,"bbox":[248.33,404,182.33,56]}
+{"kind":"shape","id":"sh/md8zihw7","slide":5,"name":"process-node-3","bbox":[511.83,322,56,56]}
+{"kind":"textbox","id":"sh/9gzidwfy","slide":5,"name":"process-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[517.83,334,44,28]}
+{"kind":"textbox","id":"sh/8fqhkred","slide":5,"name":"process-label-3","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[448.67,404,182.33,56]}
+{"kind":"shape","id":"sh/zqx07mxw","slide":5,"name":"process-node-4","bbox":[712.17,322,56,56]}
+{"kind":"textbox","id":"sh/ypozehwb","slide":5,"name":"process-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[718.17,334,44,28]}
+{"kind":"textbox","id":"sh/2l4jqh03","slide":5,"name":"process-label-4","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[649,404,182.33,56]}
+{"kind":"shape","id":"sh/3mx0zmho","slide":5,"name":"process-node-5","bbox":[912.5,322,56,56]}
+{"kind":"textbox","id":"sh/on61sri9","slide":5,"name":"process-number-5","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[918.5,334,44,28]}
+{"kind":"textbox","id":"sh/pofi1czu","slide":5,"name":"process-label-5","text":"Records","textPreview":"Records","textChars":7,"textLines":1,"bbox":[849.33,404,182.33,56]}
+{"kind":"shape","id":"sh/qpojuh0z","slide":5,"name":"process-node-6","bbox":[1112.83,322,56,56]}
+{"kind":"textbox","id":"sh/bax03mhk","slide":5,"name":"process-number-6","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1118.83,334,44,28]}
+{"kind":"textbox","id":"sh/cb61wri5","slide":5,"name":"process-label-6","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[1049.67,404,182.33,56]}
+{"kind":"shape","id":"sh/dcfi5wzq","slide":5,"name":"divider","bbox":[48,554,740,1]}
+{"kind":"textbox","id":"sh/ydojy10b","slide":5,"name":"bottom-message","text":"The result is duplicated integration, inconsistent governance, and incompatible evidence models.","textPreview":"The result is duplicated integration, inconsistent governance, and incompatible evidence models.","textChars":96,"textLines":1,"bbox":[48,570,1050,54]}
+{"kind":"image","id":"im/6xgfql4v","slide":5,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/q2gy7m","slide":5,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/0v86iv","slide":6,"title":"06","textShapes":7}
+{"kind":"textbox","id":"sh/4val0n65","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/pwj29s7q","slide":6,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/qxc32xob","slide":6,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/rylkbipw","slide":6,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/cjul4n6h","slide":6,"name":"slide-title","text":"The alternative is trust as a shared service","textPreview":"The alternative is trust as a shared service","textChars":44,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/dk32ds7m","slide":6,"name":"statement-primary","text":"Build once. Govern centrally. Consume across government.","textPreview":"Build once. Govern centrally. Consume across government.","textChars":56,"textLines":1,"bbox":[48,266,1050,150]}
+{"kind":"textbox","id":"sh/618jqt8r","slide":6,"name":"statement-support","text":"Shared infrastructure establishes common trust capabilities while each entity retains its own services, roles, policies, and adoption path.","textPreview":"Shared infrastructure establishes common trust capabilities while each entity retains its own services, roles, policies, and adoption path.","textChars":139,"textLines":1,"bbox":[48,448,980,100]}
+{"kind":"shape","id":"sh/72hkzypc","slide":6,"name":"divider","bbox":[48,588,740,1]}
+{"kind":"textbox","id":"sh/na9cvy1s","slide":6,"name":"bottom-message","text":"One shared trust model. Many entity-owned services.","textPreview":"One shared trust model. Many entity-owned services.","textChars":51,"textLines":1,"bbox":[48,604,1050,54]}
+{"kind":"image","id":"im/65snqtw3","slide":6,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/0v86iv","slide":6,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/781dbp","slide":7,"title":"07","textShapes":11}
+{"kind":"textbox","id":"sh/d8vat8bm","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/c7mt03u1","slide":7,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/zuxsvits","slide":7,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/ytob2dc7","slide":7,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/lwfaxsbi","slide":7,"name":"slide-title","text":"A national Trusted Execution Layer connects identity to evidence","textPreview":"A national Trusted Execution Layer connects identity to evidence","textChars":64,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/0v6t4nux","slide":7,"name":"layer-1","bbox":[48,236,1184,94]}
+{"kind":"textbox","id":"sh/fytsjet8","slide":7,"name":"layer-label-1","text":"ACTORS","textPreview":"ACTORS","textChars":6,"textLines":1,"bbox":[72,255,260,24]}
+{"kind":"textbox","id":"sh/uxkrq9cn","slide":7,"name":"layer-text-1","text":"Citizens · Employees · Organizations · Applications · AI Agents","textPreview":"Citizens · Employees · Organizations · Applications · AI Agents","textChars":63,"textLines":1,"bbox":[330,255,850,54]}
+{"kind":"shape","id":"sh/87yp8fil","slide":7,"name":"layer-2","bbox":[48,354,1184,94]}
+{"kind":"textbox","id":"sh/t87q1kj6","slide":7,"name":"layer-label-2","text":"SHARED LAYER","textPreview":"SHARED LAYER","textChars":12,"textLines":1,"bbox":[72,373,260,24]}
+{"kind":"textbox","id":"sh/6lg7650f","slide":7,"name":"layer-text-2","text":"Sovereign Trusted Execution Layer","textPreview":"Sovereign Trusted Execution Layer","textChars":33,"textLines":1,"bbox":[330,373,850,54]}
+{"kind":"shape","id":"sh/76p8za10","slide":7,"name":"layer-3","bbox":[48,472,1184,94]}
+{"kind":"textbox","id":"sh/gbypczih","slide":7,"name":"layer-label-3","text":"TRUST CHAIN","textPreview":"TRUST CHAIN","textChars":11,"textLines":1,"bbox":[72,491,260,24]}
+{"kind":"textbox","id":"sh/hcrq5kj2","slide":7,"name":"layer-text-3","text":"Identity · Authority · Policy · Approval · Trust Services · Evidence · Records · Audit","textPreview":"Identity · Authority · Policy · Approval · Trust Services · Evidence · Records · Audit","textChars":86,"textLines":1,"bbox":[330,491,850,54]}
+{"kind":"shape","id":"sh/u9g7ap0b","slide":7,"name":"divider","bbox":[48,596,740,1]}
+{"kind":"textbox","id":"sh/fap83u1w","slide":7,"name":"bottom-message","text":"The shared layer turns national trust infrastructure into reusable execution capabilities.","textPreview":"The shared layer turns national trust infrastructure into reusable execution capabilities.","textChars":90,"textLines":1,"bbox":[48,612,1050,54]}
+{"kind":"image","id":"im/j2dsby98","slide":7,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/781dbp","slide":7,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/0an1h1","slide":8,"title":"08","textShapes":11}
+{"kind":"textbox","id":"sh/u5o7alc7","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/f6x8j6ds","slide":8,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/4b6pgvu9","slide":8,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/pczqp0vu","slide":8,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/29o7elc3","slide":8,"name":"slide-title","text":"This is enabling infrastructure—not another government application","textPreview":"This is enabling infrastructure—not another government application","textChars":66,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/3ax8nqdo","slide":8,"name":"band-1","bbox":[48,246,1184,90]}
+{"kind":"textbox","id":"sh/cfqpkvu5","slide":8,"name":"band-label-1","text":"ENTITIES","textPreview":"ENTITIES","textChars":8,"textLines":1,"bbox":[72,267,230,24]}
+{"kind":"textbox","id":"sh/dgzqt0vq","slide":8,"name":"band-text-1","text":"Ministries · Agencies · Municipalities · Authorities · Government-owned organizations","textPreview":"Ministries · Agencies · Municipalities · Authorities · Government-owned organizations","textChars":85,"textLines":1,"bbox":[300,266,870,52]}
+{"kind":"shape","id":"sh/hgr6por2","slide":8,"name":"band-2","bbox":[48,362,1184,90]}
+{"kind":"textbox","id":"sh/gfipgjah","slide":8,"name":"band-label-2","text":"SHARED PLATFORM","textPreview":"SHARED PLATFORM","textChars":15,"textLines":1,"bbox":[72,383,230,24]}
+{"kind":"textbox","id":"sh/fe9one9c","slide":8,"name":"band-text-2","text":"Common execution, trust, evidence, and API capabilities","textPreview":"Common execution, trust, evidence, and API capabilities","textChars":55,"textLines":1,"bbox":[300,382,870,52]}
+{"kind":"shape","id":"sh/ud07e9sr","slide":8,"name":"band-3","bbox":[48,478,1184,90]}
+{"kind":"textbox","id":"sh/pkbqtore","slide":8,"name":"band-label-3","text":"ENTITY SERVICES","textPreview":"ENTITY SERVICES","textChars":15,"textLines":1,"bbox":[72,499,230,24]}
+{"kind":"textbox","id":"sh/4jipkjat","slide":8,"name":"band-text-3","text":"Each entity builds and operates services within the shared governance model","textPreview":"Each entity builds and operates services within the shared governance model","textChars":75,"textLines":1,"bbox":[300,498,870,52]}
+{"kind":"shape","id":"sh/3i9ore98","slide":8,"name":"divider","bbox":[48,594,740,1]}
+{"kind":"textbox","id":"sh/2h07i9sn","slide":8,"name":"bottom-message","text":"The platform is shared. Service ownership and policy remain explicit.","textPreview":"The platform is shared. Service ownership and policy remain explicit.","textChars":69,"textLines":1,"bbox":[48,610,1050,54]}
+{"kind":"image","id":"im/0ni50ni5","slide":8,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/0an1h1","slide":8,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/klolvm","slide":9,"title":"09","textShapes":11}
+{"kind":"textbox","id":"sh/65wbuton","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/7q5cny58","slide":9,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/k3ets36h","slide":9,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/l4nulon2","slide":9,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/y1cbqtor","slide":9,"name":"slide-title","text":"Reusable services reduce repeated integration","textPreview":"Reusable services reduce repeated integration","textChars":45,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/j25cjy5c","slide":9,"name":"tile-1","bbox":[48,286,381.33,300]}
+{"kind":"textbox","id":"sh/4zyd4n61","slide":9,"name":"tile-title-1","text":"Execute","textPreview":"Execute","textChars":7,"textLines":1,"bbox":[70,310,337.33,58]}
+{"kind":"textbox","id":"sh/507uxsnm","slide":9,"name":"tile-body-1","text":"Workflow · Approval · eSigning · eSealing · Timestamps","textPreview":"Workflow · Approval · eSigning · eSealing · Timestamps","textChars":54,"textLines":1,"bbox":[70,388,337.33,174]}
+{"kind":"shape","id":"sh/tcje1s32","slide":9,"name":"tile-2","bbox":[449.33,286,381.33,300]}
+{"kind":"textbox","id":"sh/sbax8nmh","slide":9,"name":"tile-title-2","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[471.33,310,337.33,58]}
+{"kind":"textbox","id":"sh/7a1wzilw","slide":9,"name":"tile-body-2","text":"Identity integration · Evidence · Trusted records · Verification","textPreview":"Identity integration · Evidence · Trusted records · Verification","textChars":64,"textLines":1,"bbox":[471.33,388,337.33,174]}
+{"kind":"shape","id":"sh/6psf6d4b","slide":9,"name":"tile-3","bbox":[850.67,286,381.33,300]}
+{"kind":"textbox","id":"sh/5ojexs3q","slide":9,"name":"tile-title-3","text":"Extend","textPreview":"Extend","textChars":6,"textLines":1,"bbox":[872.67,310,337.33,58]}
+{"kind":"textbox","id":"sh/knqx4nm5","slide":9,"name":"tile-body-3","text":"Governed APIs · Automation · Approved AI execution","textPreview":"Governed APIs · Automation · Approved AI execution","textChars":50,"textLines":1,"bbox":[872.67,388,337.33,174]}
+{"kind":"shape","id":"sh/jmhwvil0","slide":9,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/il8f2d4f","slide":9,"name":"bottom-message","text":"Each entity consumes the capabilities it needs within the shared trust model.","textPreview":"Each entity consumes the capabilities it needs within the shared trust model.","textChars":77,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/4fu58ved","slide":9,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/klolvm","slide":9,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/fe5fc6","slide":10,"title":"10","textShapes":9}
+{"kind":"textbox","id":"sh/0japsnil","slide":10,"name":"page-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/1kj61sz6","slide":10,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/mls7ux0b","slide":10,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/nm1832hw","slide":10,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/onapw7ih","slide":10,"name":"slide-title","text":"Preserve existing national investments","textPreview":"Preserve existing national investments","textChars":38,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/9ojq5cz2","slide":10,"name":"split-panel-1","bbox":[48,244,576,350]}
+{"kind":"textbox","id":"sh/2po7it07","slide":10,"name":"split-title-1","text":"National infrastructure","textPreview":"National infrastructure","textChars":23,"textLines":1,"bbox":[76,276,520,62]}
+{"kind":"textbox","id":"sh/3qxoryhs","slide":10,"name":"split-body-1","text":"National eID · Government IAM · PKI and CA · HSM · TSA · Trust-Service Providers · Government Cloud","textPreview":"National eID · Government IAM · PKI and CA · HSM · TSA · Trust-Service Providers · Government Cloud","textChars":99,"textLines":1,"bbox":[76,362,520,192]}
+{"kind":"shape","id":"sh/v6lsbq9s","slide":10,"name":"split-panel-2","bbox":[656,244,576,350]}
+{"kind":"textbox","id":"sh/u5cbi587","slide":10,"name":"split-title-2","text":"Circularo's role","textPreview":"Circularo's role","textChars":16,"textLines":1,"bbox":[684,276,520,62]}
+{"kind":"textbox","id":"sh/h83ad0ry","slide":10,"name":"split-body-2","text":"Connect trusted infrastructure to business workflows, institutional authority, execution, evidence, and records.","textPreview":"Connect trusted infrastructure to business workflows, institutional authority, execution, evidence, and records.","textChars":112,"textLines":1,"bbox":[684,362,520,192]}
+{"kind":"shape","id":"sh/g7utkvqd","slide":10,"name":"divider","bbox":[48,606,740,1]}
+{"kind":"textbox","id":"sh/721s7q9w","slide":10,"name":"bottom-message","text":"Integrate national investments—do not replace them unnecessarily.","textPreview":"Integrate national investments—do not replace them unnecessarily.","textChars":65,"textLines":1,"bbox":[48,622,1050,54]}
+{"kind":"image","id":"im/u5kzapsn","slide":10,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/fe5fc6","slide":10,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/wf8t5u","slide":11,"title":"11","textShapes":17}
+{"kind":"textbox","id":"sh/knmtkn6p","slide":11,"name":"page-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/lovadsna","slide":11,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/mp4bmx4v","slide":11,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/7qdsf25g","slide":11,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/8rmto7m1","slide":11,"name":"slide-title","text":"One evidence model strengthens accountability across government","textPreview":"One evidence model strengthens accountability across government","textChars":63,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/9svahcnm","slide":11,"name":"process-baseline","bbox":[66,350,1148,3]}
+{"kind":"shape","id":"sh/2t0rador","slide":11,"name":"process-node-1","bbox":[111.17,322,56,56]}
+{"kind":"textbox","id":"sh/nu9s3y5w","slide":11,"name":"process-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[117.17,334,44,28]}
+{"kind":"textbox","id":"sh/na1sve94","slide":11,"name":"process-label-1","text":"Create","textPreview":"Create","textChars":6,"textLines":1,"bbox":[48,404,182.33,56]}
+{"kind":"shape","id":"sh/29sbm9sj","slide":11,"name":"process-node-2","bbox":[311.5,322,56,56]}
+{"kind":"textbox","id":"sh/pcjax4ru","slide":11,"name":"process-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[317.5,334,44,28]}
+{"kind":"textbox","id":"sh/obatojap","slide":11,"name":"process-label-2","text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[248.33,404,182.33,56]}
+{"kind":"shape","id":"sh/fmhsru9s","slide":11,"name":"process-node-3","bbox":[511.83,322,56,56]}
+{"kind":"textbox","id":"sh/el8bips7","slide":11,"name":"process-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[517.83,334,44,28]}
+{"kind":"textbox","id":"sh/1ojat4ry","slide":11,"name":"process-label-3","text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[448.67,404,182.33,56]}
+{"kind":"shape","id":"sh/gnqtkzad","slide":11,"name":"process-node-4","bbox":[712.17,322,56,56]}
+{"kind":"textbox","id":"sh/rihsnu9w","slide":11,"name":"process-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[718.17,334,44,28]}
+{"kind":"textbox","id":"sh/6h8bepsb","slide":11,"name":"process-label-4","text":"Execute","textPreview":"Execute","textChars":7,"textLines":1,"bbox":[649,404,182.33,56]}
+{"kind":"shape","id":"sh/udobqpc3","slide":11,"name":"process-node-5","bbox":[912.5,322,56,56]}
+{"kind":"textbox","id":"sh/vexczado","slide":11,"name":"process-number-5","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[918.5,334,44,28]}
+{"kind":"textbox","id":"sh/wf6tsfu9","slide":11,"name":"process-label-5","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[849.33,404,182.33,56]}
+{"kind":"shape","id":"sh/hgfu1kbu","slide":11,"name":"process-node-6","bbox":[1112.83,322,56,56]}
+{"kind":"textbox","id":"sh/ih8bupcf","slide":11,"name":"process-number-6","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1118.83,334,44,28]}
+{"kind":"textbox","id":"sh/jihc3ut0","slide":11,"name":"process-label-6","text":"Verify","textPreview":"Verify","textChars":6,"textLines":1,"bbox":[1049.67,404,182.33,56]}
+{"kind":"shape","id":"sh/4jqdwzu5","slide":11,"name":"divider","bbox":[48,554,740,1]}
+{"kind":"textbox","id":"sh/5kzu54bq","slide":11,"name":"bottom-message","text":"Consistent evidence principles can coexist with clear entity ownership, permissions, and record boundaries.","textPreview":"Consistent evidence principles can coexist with clear entity ownership, permissions, and record boundaries.","textChars":107,"textLines":1,"bbox":[48,570,1050,54]}
+{"kind":"image","id":"im/ypc3ahkz","slide":11,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/wf8t5u","slide":11,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/on3m5b","slide":12,"title":"12","textShapes":11}
+{"kind":"textbox","id":"sh/7itw7ipo","slide":12,"name":"page-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/6hkvedo3","slide":12,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/5gbe587i","slide":12,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/kf2dc36x","slide":12,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/jetw3ypc","slide":12,"name":"slide-title","text":"Trusted records create institutional memory at every level","textPreview":"Trusted records create institutional memory at every level","textChars":58,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/id0vator","slide":12,"name":"tile-1","bbox":[48,286,381.33,300]}
+{"kind":"textbox","id":"sh/xcre1876","slide":12,"name":"tile-title-1","text":"Entity records","textPreview":"Entity records","textChars":14,"textLines":1,"bbox":[70,310,337.33,58]}
+{"kind":"textbox","id":"sh/wbid8361","slide":12,"name":"tile-body-1","text":"Preserve the context of local decisions and services.","textPreview":"Preserve the context of local decisions and services.","textChars":53,"textLines":1,"bbox":[70,388,337.33,174]}
+{"kind":"shape","id":"sh/qtcfidw7","slide":12,"name":"tile-2","bbox":[449.33,286,381.33,300]}
+{"kind":"textbox","id":"sh/relwbids","slide":12,"name":"tile-title-2","text":"Shared standards","textPreview":"Shared standards","textChars":16,"textLines":1,"bbox":[471.33,310,337.33,58]}
+{"kind":"textbox","id":"sh/cfuxkned","slide":12,"name":"tile-body-2","text":"Make execution more consistent and verifiable.","textPreview":"Make execution more consistent and verifiable.","textChars":46,"textLines":1,"bbox":[471.33,388,337.33,174]}
+{"kind":"shape","id":"sh/dgnedsvy","slide":12,"name":"tile-3","bbox":[850.67,286,381.33,300]}
+{"kind":"textbox","id":"sh/2pcfetwb","slide":12,"name":"tile-title-3","text":"Governed knowledge","textPreview":"Governed knowledge","textChars":18,"textLines":1,"bbox":[872.67,310,337.33,58]}
+{"kind":"textbox","id":"sh/3qlw7ydw","slide":12,"name":"tile-body-3","text":"Support learning where policy and classification allow it.","textPreview":"Support learning where policy and classification allow it.","textChars":58,"textLines":1,"bbox":[872.67,388,337.33,174]}
+{"kind":"shape","id":"sh/4ruxg3e1","slide":12,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/ps3e98vm","slide":12,"name":"bottom-message","text":"Shared infrastructure does not require unrestricted cross-entity data access.","textPreview":"Shared infrastructure does not require unrestricted cross-entity data access.","textChars":77,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/h4jad8jy","slide":12,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/on3m5b","slide":12,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/9wo6i3","slide":13,"title":"13","textShapes":11}
+{"kind":"textbox","id":"sh/u1on694f","slide":13,"name":"page-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/v2xozel0","slide":13,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/4r65cjmh","slide":13,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/5sz65o32","slide":13,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/iponat4b","slide":13,"name":"slide-title","text":"Agentic government requires governed, programmable execution","textPreview":"Agentic government requires governed, programmable execution","textChars":60,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/jqxo3elw","slide":13,"name":"band-1","bbox":[48,246,1184,90]}
+{"kind":"textbox","id":"sh/kvm50zmd","slide":13,"name":"band-label-1","text":"ACTORS + CHANNELS","textPreview":"ACTORS + CHANNELS","textChars":17,"textLines":1,"bbox":[72,267,230,24]}
+{"kind":"textbox","id":"sh/lwvmt43y","slide":13,"name":"band-text-1","text":"Portals · Mobile services · Ministry systems · Shared platforms · Approved AI agents","textPreview":"Portals · Mobile services · Ministry systems · Shared platforms · Approved AI agents","textChars":84,"textLines":1,"bbox":[300,266,870,52]}
+{"kind":"shape","id":"sh/9gra1kri","slide":13,"name":"band-2","bbox":[48,362,1184,90]}
+{"kind":"textbox","id":"sh/ofytsfqx","slide":13,"name":"band-label-2","text":"AUTHORITY BOUNDARY","textPreview":"AUTHORITY BOUNDARY","textChars":18,"textLines":1,"bbox":[72,383,230,24]}
+{"kind":"textbox","id":"sh/nepszu9c","slide":13,"name":"band-text-2","text":"Identity · Delegated authority · Policy · Approval","textPreview":"Identity · Delegated authority · Policy · Approval","textChars":50,"textLines":1,"bbox":[300,382,870,52]}
+{"kind":"shape","id":"sh/mdgbqp8r","slide":13,"name":"band-3","bbox":[48,478,1184,90]}
+{"kind":"textbox","id":"sh/xkra54re","slide":13,"name":"band-label-3","text":"EXECUTION RECORD","textPreview":"EXECUTION RECORD","textChars":16,"textLines":1,"bbox":[72,499,230,24]}
+{"kind":"textbox","id":"sh/wjitwzqt","slide":13,"name":"band-text-3","text":"Governed APIs · Execution · Evidence · Audit","textPreview":"Governed APIs · Execution · Evidence · Audit","textChars":44,"textLines":1,"bbox":[300,498,870,52]}
+{"kind":"shape","id":"sh/bi9s3u98","slide":13,"name":"divider","bbox":[48,594,740,1]}
+{"kind":"textbox","id":"sh/ah0bup8n","slide":13,"name":"bottom-message","text":"AI may prepare or initiate an action. Public authority still determines what may execute.","textPreview":"AI may prepare or initiate an action. Public authority still determines what may execute.","textChars":89,"textLines":1,"bbox":[48,610,1050,54]}
+{"kind":"image","id":"im/4nex8z6h","slide":13,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/9wo6i3","slide":13,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/qeiq6n","slide":14,"title":"14","textShapes":13}
+{"kind":"textbox","id":"sh/xovi5gvy","slide":14,"name":"page-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/wnm1cved","slide":14,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/nyd0z6dg","slide":14,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/mxkj61wb","slide":14,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/90vi1gvm","slide":14,"name":"slide-title","text":"Sovereignty and shared governance must be designed together","textPreview":"Sovereignty and shared governance must be designed together","textChars":59,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/ozm18be1","slide":14,"name":"tile-1","bbox":[48,286,281,300]}
+{"kind":"textbox","id":"sh/zut0v6dk","slide":14,"name":"tile-title-1","text":"Ownership","textPreview":"Ownership","textChars":9,"textLines":1,"bbox":[70,310,237,58]}
+{"kind":"textbox","id":"sh/etkz21wz","slide":14,"name":"tile-body-1","text":"Platform · Funding · Service management","textPreview":"Platform · Funding · Service management","textChars":39,"textLines":1,"bbox":[70,388,237,174]}
+{"kind":"shape","id":"sh/wby9oz29","slide":14,"name":"tile-2","bbox":[349,286,281,300]}
+{"kind":"textbox","id":"sh/hc7qh43u","slide":14,"name":"tile-title-2","text":"Control","textPreview":"Control","textChars":7,"textLines":1,"bbox":[371,310,237,58]}
+{"kind":"textbox","id":"sh/u9wrm9kj","slide":14,"name":"tile-body-2","text":"Infrastructure · Data · Identity · Keys","textPreview":"Infrastructure · Data · Identity · Keys","textChars":39,"textLines":1,"bbox":[371,388,237,174]}
+{"kind":"shape","id":"sh/vap8ful4","slide":14,"name":"tile-3","bbox":[650,286,281,300]}
+{"kind":"textbox","id":"sh/87e9kz2d","slide":14,"name":"tile-title-3","text":"Entities","textPreview":"Entities","textChars":8,"textLines":1,"bbox":[672,310,237,58]}
+{"kind":"textbox","id":"sh/98nqd43y","slide":14,"name":"tile-body-3","text":"Tenancy · Policy · Evidence · Onboarding","textPreview":"Tenancy · Policy · Evidence · Onboarding","textChars":40,"textLines":1,"bbox":[672,388,237,174]}
+{"kind":"shape","id":"sh/m5wripk7","slide":14,"name":"tile-4","bbox":[951,286,281,300]}
+{"kind":"textbox","id":"sh/7658buls","slide":14,"name":"tile-title-4","text":"Operations","textPreview":"Operations","textChars":10,"textLines":1,"bbox":[973,310,237,58]}
+{"kind":"textbox","id":"sh/s3i9wj2h","slide":14,"name":"tile-body-4","text":"Security · Support · Continuity · Lifecycle","textPreview":"Security · Support · Continuity · Lifecycle","textChars":43,"textLines":1,"bbox":[973,388,237,174]}
+{"kind":"shape","id":"sh/d4rapo32","slide":14,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/1knq9ob6","slide":14,"name":"bottom-message","text":"The architecture can be national from the beginning without requiring every entity to migrate at once.","textPreview":"The architecture can be national from the beginning without requiring every entity to migrate at once.","textChars":102,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/fylwnu1s","slide":14,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/qeiq6n","slide":14,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/5yrqsx","slide":15,"title":"15","textShapes":7}
+{"kind":"textbox","id":"sh/lk729s36","slide":15,"name":"page-number","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/kjy1072l","slide":15,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/7m9kb2lc","slide":15,"name":"slide-eyebrow","text":"SOVEREIGN TRUST SHARED SERVICES","textPreview":"SOVEREIGN TRUST SHARED SERVICES","textChars":31,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/ml0j2xkr","slide":15,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/9or2dc3i","slide":15,"name":"close-kicker","text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[48,132,700,30]}
+{"kind":"textbox","id":"sh/8ni1472x","slide":15,"name":"close-title","text":"Define the shared trust architecture","textPreview":"Define the shared trust architecture","textChars":36,"textLines":1,"bbox":[48,196,1060,170]}
+{"kind":"textbox","id":"sh/nq50zil8","slide":15,"name":"close-body","text":"Begin with common capabilities that remove duplication, strengthen accountability, and can be proven across more than one entity.","textPreview":"Begin with common capabilities that remove duplication, strengthen accountability, and can be proven across more than one entity.","textChars":129,"textLines":1,"bbox":[48,394,980,92]}
+{"kind":"shape","id":"sh/2pwjqd4n","slide":15,"name":"close-action","bbox":[48,536,1120,70]}
+{"kind":"textbox","id":"sh/wr6d83md","slide":15,"name":"close-action-text","text":"Discovery → Stakeholder alignment → Blueprint → Initial services → Multi-entity pilot","textPreview":"Discovery → Stakeholder alignment → Blueprint → Initial services → Multi-entity pilot","textChars":85,"textLines":1,"bbox":[76,555,1060,34]}
+{"kind":"image","id":"im/zex07y1s","slide":15,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/5yrqsx","slide":15,"text":"[Sources]\n- work/p1/decks/03-sovereign-trust-shared-services.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}

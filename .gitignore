@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# One non-canonical working directory for the whole repository.
-work/*
-!work/README.md
-
+# Working artefacts are versioned for traceability. XML exports remain local.
+work/*.xml
+work/**/*.xml

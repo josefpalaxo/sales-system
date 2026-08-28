@@ -1,0 +1,292 @@
+{"kind":"deck","id":"pr/5sw6ew","name":"Deck"}
+{"kind":"layout","layoutId":"c3730d4c-2d0c-48ab-8e68-069e061c4374","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c764d799-feb5-4b35-ba9c-5abbd8303648","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/d8qfdx","slide":1,"title":"01","textShapes":6}
+{"kind":"textbox","id":"sh/4filg3mp","slide":1,"name":"page-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/5gr2983a","slide":1,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/6h03id4v","slide":1,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/ri9kbylg","slide":1,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"shape","id":"sh/sjilk3m1","slide":1,"name":"cover-purple-band","bbox":[926,0,210,720]}
+{"kind":"shape","id":"sh/tkb2d83m","slide":1,"name":"cover-dark-band","bbox":[1136,0,144,720]}
+{"kind":"textbox","id":"sh/e5k3md4r","slide":1,"name":"cover-title","text":"Circularo Sovereign","textPreview":"Circularo Sovereign","textChars":19,"textLines":1,"bbox":[48,160,790,176]}
+{"kind":"textbox","id":"sh/f6t4filc","slide":1,"name":"cover-tagline","text":"Trusted execution under your control","textPreview":"Trusted execution under your control","textChars":36,"textLines":1,"bbox":[48,360,760,110]}
+{"kind":"textbox","id":"sh/jatcjuls","slide":1,"name":"cover-route","text":"INFRASTRUCTURE · DATA · IDENTITY · KEYS · POLICY · EVIDENCE","textPreview":"INFRASTRUCTURE · DATA · IDENTITY · KEYS · POLICY · EVIDENCE","textChars":59,"textLines":1,"bbox":[48,544,760,32]}
+{"kind":"image","id":"im/a1gbaxkz","slide":1,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/d8qfdx","slide":1,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/mh5gr4","slide":2,"title":"02","textShapes":11}
+{"kind":"textbox","id":"sh/0ri9kfa5","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/1sratkbq","slide":2,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/q1gre5s3","slide":2,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/rmp8nato","slide":2,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/sny9gfa9","slide":2,"name":"slide-title","text":"Digital trust is becoming critical infrastructure","textPreview":"Digital trust is becoming critical infrastructure","textChars":49,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/do7ap0bu","slide":2,"name":"evolution-baseline","bbox":[60,342,1160,3]}
+{"kind":"shape","id":"sh/axkrqps7","slide":2,"name":"evolution-node-1","bbox":[147,330,26,26]}
+{"kind":"textbox","id":"sh/bitsju9s","slide":2,"name":"evolution-stage-1","text":"Paper","textPreview":"Paper","textChars":5,"textLines":1,"bbox":[48,378,224,58]}
+{"kind":"shape","id":"sh/b218vy1s","slide":2,"name":"evolution-node-2","bbox":[387,330,26,26]}
+{"kind":"textbox","id":"sh/a1sr2tk7","slide":2,"name":"evolution-stage-2","text":"Digital","textPreview":"Digital","textChars":7,"textLines":1,"bbox":[288,378,224,58]}
+{"kind":"shape","id":"sh/x4jqxojy","slide":2,"name":"evolution-node-3","bbox":[627,330,26,26]}
+{"kind":"textbox","id":"sh/c3a9432d","slide":2,"name":"evolution-stage-3","text":"Automated","textPreview":"Automated","textChars":9,"textLines":1,"bbox":[528,378,224,58]}
+{"kind":"shape","id":"sh/z6lszy1o","slide":2,"name":"evolution-node-4","bbox":[867,330,26,26]}
+{"kind":"textbox","id":"sh/y5cr6tk3","slide":2,"name":"evolution-stage-4","text":"AI-Assisted","textPreview":"AI-Assisted","textChars":11,"textLines":1,"bbox":[768,378,224,58]}
+{"kind":"shape","id":"sh/l83a18ju","slide":2,"name":"evolution-node-5","bbox":[1107,330,26,26]}
+{"kind":"textbox","id":"sh/k7u98329","slide":2,"name":"evolution-stage-5","text":"Agentic","textPreview":"Agentic","textChars":7,"textLines":1,"bbox":[1008,378,224,58]}
+{"kind":"textbox","id":"sh/7uls3i10","slide":2,"name":"evolution-support","text":"Digital processes increasingly determine authority, approval, access, official records, and automated execution.","textPreview":"Digital processes increasingly determine authority, approval, access, official records, and automated execution.","textChars":112,"textLines":1,"bbox":[48,474,1100,66]}
+{"kind":"shape","id":"sh/m9cradkf","slide":2,"name":"divider","bbox":[48,588,740,1]}
+{"kind":"textbox","id":"sh/ipgb2h4n","slide":2,"name":"bottom-message","text":"Greater autonomy increases the need to control how actions are authorized, executed, and evidenced.","textPreview":"Greater autonomy increases the need to control how actions are authorized, executed, and evidenced.","textChars":99,"textLines":1,"bbox":[48,604,1050,54]}
+{"kind":"image","id":"im/yp0v25cj","slide":2,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/mh5gr4","slide":2,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/fw8xpb","slide":3,"title":"03","textShapes":16}
+{"kind":"textbox","id":"sh/q5wvelg7","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/b65wnqxc","slide":3,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/0bydkfy9","slide":3,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/lc7et0fu","slide":3,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/y9gvi5g3","slide":3,"name":"slide-title","text":"Sovereignty is more than data residency","textPreview":"Sovereignty is more than data residency","textChars":39,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/zapwraxo","slide":3,"name":"boundary-subtitle","text":"The sovereignty boundary is the set of controls your organization cannot delegate.","textPreview":"The sovereignty boundary is the set of controls your organization cannot delegate.","textChars":82,"textLines":1,"bbox":[48,204,1060,58]}
+{"kind":"shape","id":"sh/8zixofy5","slide":3,"name":"boundary-item-1","bbox":[48,296,224,102]}
+{"kind":"textbox","id":"sh/90rexkfq","slide":3,"name":"boundary-text-1","text":"Infrastructure","textPreview":"Infrastructure","textChars":14,"textLines":1,"bbox":[60,327,200,38]}
+{"kind":"shape","id":"sh/lw7ipwnq","slide":3,"name":"boundary-item-2","bbox":[288,296,224,102]}
+{"kind":"textbox","id":"sh/kvy1gr65","slide":3,"name":"boundary-text-2","text":"Data","textPreview":"Data","textChars":4,"textLines":1,"bbox":[300,327,200,38]}
+{"kind":"shape","id":"sh/zup0nm5k","slide":3,"name":"boundary-item-3","bbox":[528,296,224,102]}
+{"kind":"textbox","id":"sh/ytgje1oz","slide":3,"name":"boundary-text-3","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[540,327,200,38]}
+{"kind":"shape","id":"sh/9kritgnm","slide":3,"name":"boundary-item-4","bbox":[768,296,224,102]}
+{"kind":"textbox","id":"sh/8ji1kb6h","slide":3,"name":"boundary-text-4","text":"Keys","textPreview":"Keys","textChars":4,"textLines":1,"bbox":[780,327,200,38]}
+{"kind":"shape","id":"sh/7i90r65w","slide":3,"name":"boundary-item-5","bbox":[1008,296,224,102]}
+{"kind":"textbox","id":"sh/mxgji1ob","slide":3,"name":"boundary-text-5","text":"Policy","textPreview":"Policy","textChars":6,"textLines":1,"bbox":[1020,327,200,38]}
+{"kind":"shape","id":"sh/ponihc7i","slide":3,"name":"boundary-item-6","bbox":[48,430,224,102]}
+{"kind":"textbox","id":"sh/oneh876x","slide":3,"name":"boundary-text-6","text":"Integrations","textPreview":"Integrations","textChars":12,"textLines":1,"bbox":[60,461,200,38]}
+{"kind":"shape","id":"sh/g7i1oret","slide":3,"name":"boundary-item-7","bbox":[288,430,224,102]}
+{"kind":"textbox","id":"sh/h8rixcfe","slide":3,"name":"boundary-text-7","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[300,461,200,38]}
+{"kind":"shape","id":"sh/u50jmhwn","slide":3,"name":"boundary-item-8","bbox":[528,430,224,102]}
+{"kind":"textbox","id":"sh/f690vmx8","slide":3,"name":"boundary-text-8","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[540,461,200,38]}
+{"kind":"shape","id":"sh/ob21sre5","slide":3,"name":"boundary-item-9","bbox":[768,430,224,102]}
+{"kind":"textbox","id":"sh/pcbi1wfa","slide":3,"name":"boundary-text-9","text":"Operations","textPreview":"Operations","textChars":10,"textLines":1,"bbox":[780,461,200,38]}
+{"kind":"shape","id":"sh/290jqhwz","slide":3,"name":"boundary-item-10","bbox":[1008,430,224,102]}
+{"kind":"textbox","id":"sh/3a90zmxk","slide":3,"name":"boundary-text-10","text":"Jurisdiction","textPreview":"Jurisdiction","textChars":12,"textLines":1,"bbox":[1020,461,200,38]}
+{"kind":"shape","id":"sh/cz21wbe1","slide":3,"name":"divider","bbox":[48,570,740,1]}
+{"kind":"textbox","id":"sh/d0bi5wfm","slide":3,"name":"bottom-message","text":"True sovereignty begins by deciding who controls each dimension.","textPreview":"True sovereignty begins by deciding who controls each dimension.","textChars":64,"textLines":1,"bbox":[48,586,1050,54]}
+{"kind":"image","id":"im/kr2l4bq9","slide":3,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/fw8xpb","slide":3,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/9rggpf","slide":4,"title":"04","textShapes":9}
+{"kind":"textbox","id":"sh/szm94fmh","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/tkvqx032","slide":4,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/ul4r654n","slide":4,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/fmx8zal8","slide":4,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/gn698fmt","slide":4,"name":"slide-title","text":"The traditional choice is no longer sufficient","textPreview":"The traditional choice is no longer sufficient","textChars":46,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/hofq1k3e","slide":4,"name":"split-panel-1","bbox":[48,244,576,350]}
+{"kind":"textbox","id":"sh/2porap4j","slide":4,"name":"split-title-1","text":"Modern SaaS","textPreview":"Modern SaaS","textChars":11,"textLines":1,"bbox":[76,276,520,62]}
+{"kind":"textbox","id":"sh/3qx83ul4","slide":4,"name":"split-body-1","text":"Fast access to innovation—but the delivery model may sit outside the required control boundary.","textPreview":"Fast access to innovation—but the delivery model may sit outside the required control boundary.","textChars":95,"textLines":1,"bbox":[76,362,520,192]}
+{"kind":"shape","id":"sh/bmhov6ts","slide":4,"name":"split-panel-2","bbox":[656,244,576,350]}
+{"kind":"textbox","id":"sh/al8n21c7","slide":4,"name":"split-title-2","text":"Traditional on-premises","textPreview":"Traditional on-premises","textChars":23,"textLines":1,"bbox":[684,276,520,62]}
+{"kind":"textbox","id":"sh/xoz6xgby","slide":4,"name":"split-body-2","text":"Local control—but often with fragmented capabilities and operational complexity.","textPreview":"Local control—but often with fragmented capabilities and operational complexity.","textChars":80,"textLines":1,"bbox":[684,362,520,192]}
+{"kind":"shape","id":"sh/cnq54bud","slide":4,"name":"divider","bbox":[48,606,740,1]}
+{"kind":"textbox","id":"sh/nixor6tg","slide":4,"name":"bottom-message","text":"The target state is modern platform capability inside a customer-controlled environment.","textPreview":"The target state is modern platform capability inside a customer-controlled environment.","textChars":88,"textLines":1,"bbox":[48,622,1050,54]}
+{"kind":"image","id":"im/e5ora9oz","slide":4,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/9rggpf","slide":4,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/ftfclw","slide":5,"title":"05","textShapes":18}
+{"kind":"textbox","id":"sh/h8b2xszm","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/w72loni1","slide":5,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/729kryh4","slide":5,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/m103it0z","slide":5,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/94r2t8za","slide":5,"name":"slide-title","text":"Local systems can still fragment accountability","textPreview":"Local systems can still fragment accountability","textChars":47,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/83ilk3ip","slide":5,"name":"process-subtitle","text":"Running every component locally does not create a continuous trust chain by itself.","textPreview":"Running every component locally does not create a continuous trust chain by itself.","textChars":83,"textLines":1,"bbox":[48,202,1080,60]}
+{"kind":"shape","id":"sh/ryd432ho","slide":5,"name":"process-baseline","bbox":[66,350,1148,3]}
+{"kind":"shape","id":"sh/6x43ux03","slide":5,"name":"process-node-1","bbox":[111.17,322,56,56]}
+{"kind":"textbox","id":"sh/cryp8za9","slide":5,"name":"process-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[117.17,334,44,28]}
+{"kind":"textbox","id":"sh/ds7qh4bu","slide":5,"name":"process-label-1","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[48,404,182.33,56]}
+{"kind":"shape","id":"sh/qpw76ps3","slide":5,"name":"process-node-2","bbox":[311.5,322,56,56]}
+{"kind":"textbox","id":"sh/bqp8futo","slide":5,"name":"process-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[317.5,334,44,28]}
+{"kind":"textbox","id":"sh/onep4fax","slide":5,"name":"process-label-2","text":"PKI","textPreview":"PKI","textChars":3,"textLines":1,"bbox":[248.33,404,182.33,56]}
+{"kind":"shape","id":"sh/ponqdkbi","slide":5,"name":"process-node-3","bbox":[511.83,322,56,56]}
+{"kind":"textbox","id":"sh/21w725s7","slide":5,"name":"process-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[517.83,334,44,28]}
+{"kind":"textbox","id":"sh/3258batc","slide":5,"name":"process-label-3","text":"Workflow","textPreview":"Workflow","textChars":8,"textLines":1,"bbox":[448.67,404,182.33,56]}
+{"kind":"shape","id":"sh/gzep0fa1","slide":5,"name":"process-node-4","bbox":[712.17,322,56,56]}
+{"kind":"textbox","id":"sh/10nq9kbm","slide":5,"name":"process-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[718.17,334,44,28]}
+{"kind":"textbox","id":"sh/hkvehczy","slide":5,"name":"process-label-4","text":"eSignature","textPreview":"eSignature","textChars":10,"textLines":1,"bbox":[649,404,182.33,56]}
+{"kind":"shape","id":"sh/wjmxo7yd","slide":5,"name":"process-node-5","bbox":[912.5,322,56,56]}
+{"kind":"textbox","id":"sh/vidwf2h8","slide":5,"name":"process-number-5","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[918.5,334,44,28]}
+{"kind":"textbox","id":"sh/uhkfmxgn","slide":5,"name":"process-label-5","text":"Archive","textPreview":"Archive","textChars":7,"textLines":1,"bbox":[849.33,404,182.33,56]}
+{"kind":"shape","id":"sh/9gbedsz2","slide":5,"name":"process-node-6","bbox":[1112.83,322,56,56]}
+{"kind":"textbox","id":"sh/8f2xknyh","slide":5,"name":"process-number-6","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1118.83,334,44,28]}
+{"kind":"textbox","id":"sh/7etwbihw","slide":5,"name":"process-label-6","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[1049.67,404,182.33,56]}
+{"kind":"shape","id":"sh/mdkfixgb","slide":5,"name":"divider","bbox":[48,554,740,1]}
+{"kind":"textbox","id":"sh/tcfypwz6","slide":5,"name":"bottom-message","text":"Versions, decisions, permissions, trust events, and evidence must remain connected.","textPreview":"Versions, decisions, permissions, trust events, and evidence must remain connected.","textChars":83,"textLines":1,"bbox":[48,570,1050,54]}
+{"kind":"image","id":"im/ja5cj210","slide":5,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ftfclw","slide":5,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/z65rr1","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/7y5o76xk","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/6dwny1wz","slide":6,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/lcn65wfe","slide":6,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/kbe5wret","slide":6,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/jalo3mx8","slide":6,"name":"slide-title","text":"Circularo Sovereign puts trusted execution inside the boundary","textPreview":"Circularo Sovereign puts trusted execution inside the boundary","textChars":62,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/y9cnuhwn","slide":6,"name":"layer-1","bbox":[48,236,1184,94]}
+{"kind":"textbox","id":"sh/x8361cf2","slide":6,"name":"layer-label-1","text":"ACTORS","textPreview":"ACTORS","textChars":6,"textLines":1,"bbox":[72,255,260,24]}
+{"kind":"textbox","id":"sh/w7u5srex","slide":6,"name":"layer-text-1","text":"People · Organizations · Applications · AI Agents","textPreview":"People · Organizations · Applications · AI Agents","textChars":49,"textLines":1,"bbox":[330,255,850,54]}
+{"kind":"shape","id":"sh/25kjmtgj","slide":6,"name":"layer-2","bbox":[48,354,1184,94]}
+{"kind":"textbox","id":"sh/n6t0vyx4","slide":6,"name":"layer-label-2","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[72,373,260,24]}
+{"kind":"textbox","id":"sh/or21o3yp","slide":6,"name":"layer-text-2","text":"Customer-controlled Trusted Execution Layer","textPreview":"Customer-controlled Trusted Execution Layer","textChars":43,"textLines":1,"bbox":[330,373,850,54]}
+{"kind":"shape","id":"sh/psbix8fa","slide":6,"name":"layer-3","bbox":[48,472,1184,94]}
+{"kind":"textbox","id":"sh/e1kjitgn","slide":6,"name":"layer-label-3","text":"CONTROLS + EVIDENCE","textPreview":"CONTROLS + EVIDENCE","textChars":19,"textLines":1,"bbox":[72,491,260,24]}
+{"kind":"textbox","id":"sh/f2t0ryx8","slide":6,"name":"layer-text-3","text":"Identity · Authority · Policy · Trust Services · Evidence · Audit · Records","textPreview":"Identity · Authority · Policy · Trust Services · Evidence · Audit · Records","textChars":75,"textLines":1,"bbox":[330,491,850,54]}
+{"kind":"shape","id":"sh/0321k3yt","slide":6,"name":"divider","bbox":[48,596,740,1]}
+{"kind":"textbox","id":"sh/14bit8fy","slide":6,"name":"bottom-message","text":"The execution environment operates inside the agreed sovereignty boundary.","textPreview":"The execution environment operates inside the agreed sovereignty boundary.","textChars":74,"textLines":1,"bbox":[48,612,1050,54]}
+{"kind":"image","id":"im/dsfmh83u","slide":6,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/z65rr1","slide":6,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/kestne","slide":7,"title":"07","textShapes":9}
+{"kind":"textbox","id":"sh/ja9ofypw","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/y907mtob","slide":7,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/tgr6l8ny","slide":7,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/8fips36t","slide":7,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/7e9ojy58","slide":7,"name":"slide-title","text":"Control the boundary without isolating the platform","textPreview":"Control the boundary without isolating the platform","textChars":51,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/6d07qdon","slide":7,"name":"split-panel-1","bbox":[48,244,576,350]}
+{"kind":"textbox","id":"sh/h4bqpsna","slide":7,"name":"split-title-1","text":"Inside the boundary","textPreview":"Inside the boundary","textChars":19,"textLines":1,"bbox":[76,276,520,62]}
+{"kind":"textbox","id":"sh/g32pwn6p","slide":7,"name":"split-body-1","text":"Infrastructure · Data · Identity · Keys · Policy · Evidence · AI · Operations","textPreview":"Infrastructure · Data · Identity · Keys · Policy · Evidence · AI · Operations","textChars":77,"textLines":1,"bbox":[76,362,520,192]}
+{"kind":"shape","id":"sh/a9cjm947","slide":7,"name":"split-panel-2","bbox":[656,244,576,350]}
+{"kind":"textbox","id":"sh/val0ve5s","slide":7,"name":"split-title-2","text":"Connected investments","textPreview":"Connected investments","textChars":21,"textLines":1,"bbox":[684,276,520,62]}
+{"kind":"textbox","id":"sh/wbe1ojmd","slide":7,"name":"split-body-2","text":"National Identity · IAM · PKI · CA · HSM · TSA · Trust-Service Providers · Enterprise Systems","textPreview":"National Identity · IAM · PKI · CA · HSM · TSA · Trust-Service Providers · Enterprise Systems","textChars":93,"textLines":1,"bbox":[684,362,520,192]}
+{"kind":"shape","id":"sh/xcnixoni","slide":7,"name":"divider","bbox":[48,606,740,1]}
+{"kind":"textbox","id":"sh/ixwjqt43","slide":7,"name":"bottom-message","text":"Orchestrate and evidence business execution around trusted infrastructure—not replace it unnecessarily.","textPreview":"Orchestrate and evidence business execution around trusted infrastructure—not replace it unnecessarily.","textChars":103,"textLines":1,"bbox":[48,622,1050,54]}
+{"kind":"image","id":"im/xc72t8ni","slide":7,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/kestne","slide":7,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/lqubbu","slide":8,"title":"08","textShapes":13}
+{"kind":"textbox","id":"sh/ytkn61sr","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/jut4z6tc","slide":8,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/8zm5cvat","slide":8,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/t0vm50be","slide":8,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/6x4nals3","slide":8,"name":"slide-title","text":"Identity establishes who. Sovereign policy determines what.","textPreview":"Identity establishes who. Sovereign policy determines what.","textChars":59,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/7yd43qt8","slide":8,"name":"tile-1","bbox":[48,286,281,300]}
+{"kind":"textbox","id":"sh/o3il0rap","slide":8,"name":"tile-title-1","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[70,310,237,58]}
+{"kind":"textbox","id":"sh/94rmtwba","slide":8,"name":"tile-body-1","text":"Who or what are you?","textPreview":"Who or what are you?","textChars":20,"textLines":1,"bbox":[70,388,237,174]}
+{"kind":"shape","id":"sh/pony1kzm","slide":8,"name":"tile-2","bbox":[349,286,281,300]}
+{"kind":"textbox","id":"sh/onehszi1","slide":8,"name":"tile-title-2","text":"Representation","textPreview":"Representation","textChars":14,"textLines":1,"bbox":[371,310,237,58]}
+{"kind":"textbox","id":"sh/3m5gzuhg","slide":8,"name":"tile-body-2","text":"Whom do you represent?","textPreview":"Whom do you represent?","textChars":22,"textLines":1,"bbox":[371,388,237,174]}
+{"kind":"shape","id":"sh/2lwzqp0b","slide":8,"name":"tile-3","bbox":[650,286,281,300]}
+{"kind":"textbox","id":"sh/xsny54zy","slide":8,"name":"tile-title-3","text":"Authority","textPreview":"Authority","textChars":9,"textLines":1,"bbox":[672,310,237,58]}
+{"kind":"textbox","id":"sh/crehwzid","slide":8,"name":"tile-body-3","text":"What may you do?","textPreview":"What may you do?","textChars":16,"textLines":1,"bbox":[672,388,237,174]}
+{"kind":"shape","id":"sh/bq5g3uhs","slide":8,"name":"tile-4","bbox":[951,286,281,300]}
+{"kind":"textbox","id":"sh/qpwzup07","slide":8,"name":"tile-title-4","text":"Boundary","textPreview":"Boundary","textChars":8,"textLines":1,"bbox":[973,310,237,58]}
+{"kind":"textbox","id":"sh/lg7i9ozu","slide":8,"name":"tile-body-4","text":"What must remain under control?","textPreview":"What must remain under control?","textChars":31,"textLines":1,"bbox":[973,388,237,174]}
+{"kind":"shape","id":"sh/kfyh0ji9","slide":8,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/4bq9s7ux","slide":8,"name":"bottom-message","text":"Policy, approval, execution, evidence, and audit remain inside the defined boundary.","textPreview":"Policy, approval, execution, evidence, and audit remain inside the defined boundary.","textChars":84,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/wvm10fm1","slide":8,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/lqubbu","slide":8,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/40hhjp","slide":9,"title":"09","textShapes":17}
+{"kind":"textbox","id":"sh/fm18z6ts","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/u1sr61c7","slide":9,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/ps3a5gbu","slide":9,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/4ru9cbu9","slide":9,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/3ql836t4","slide":9,"name":"slide-title","text":"The evidence chain remains under organizational control","textPreview":"The evidence chain remains under organizational control","textChars":55,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/2pcra1cj","slide":9,"name":"process-baseline","bbox":[66,350,1148,3]}
+{"kind":"shape","id":"sh/5wjqtcbq","slide":9,"name":"process-node-1","bbox":[111.17,322,56,56]}
+{"kind":"textbox","id":"sh/kvq90ru5","slide":9,"name":"process-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[117.17,334,44,28]}
+{"kind":"textbox","id":"sh/6dcn25c3","slide":9,"name":"process-label-1","text":"Create","textPreview":"Create","textChars":6,"textLines":1,"bbox":[48,404,182.33,56]}
+{"kind":"shape","id":"sh/7elobado","slide":9,"name":"process-node-2","bbox":[311.5,322,56,56]}
+{"kind":"textbox","id":"sh/8zu54fu9","slide":9,"name":"process-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[317.5,334,44,28]}
+{"kind":"textbox","id":"sh/t036dkvu","slide":9,"name":"process-label-2","text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[248.33,404,182.33,56]}
+{"kind":"shape","id":"sh/u1cn65cz","slide":9,"name":"process-node-3","bbox":[511.83,322,56,56]}
+{"kind":"textbox","id":"sh/v2lofadk","slide":9,"name":"process-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[517.83,334,44,28]}
+{"kind":"textbox","id":"sh/g3e58fu5","slide":9,"name":"process-label-3","text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[448.67,404,182.33,56]}
+{"kind":"shape","id":"sh/h4n6hkvq","slide":9,"name":"process-node-4","bbox":[712.17,322,56,56]}
+{"kind":"textbox","id":"sh/i5wnapcb","slide":9,"name":"process-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[718.17,334,44,28]}
+{"kind":"textbox","id":"sh/365ojudw","slide":9,"name":"process-label-4","text":"Execute","textPreview":"Execute","textChars":7,"textLines":1,"bbox":[649,404,182.33,56]}
+{"kind":"shape","id":"sh/fap47ut4","slide":9,"name":"process-node-5","bbox":[912.5,322,56,56]}
+{"kind":"textbox","id":"sh/e9wnypsj","slide":9,"name":"process-number-5","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[918.5,334,44,28]}
+{"kind":"textbox","id":"sh/1w7m94bu","slide":9,"name":"process-label-5","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[849.33,404,182.33,56]}
+{"kind":"shape","id":"sh/0by50za9","slide":9,"name":"process-node-6","bbox":[1112.83,322,56,56]}
+{"kind":"textbox","id":"sh/r6543uts","slide":9,"name":"process-number-6","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1118.83,334,44,28]}
+{"kind":"textbox","id":"sh/q5wnups7","slide":9,"name":"process-label-6","text":"Preserve","textPreview":"Preserve","textChars":8,"textLines":1,"bbox":[1049.67,404,182.33,56]}
+{"kind":"shape","id":"sh/d8nm5kby","slide":9,"name":"divider","bbox":[48,554,740,1]}
+{"kind":"textbox","id":"sh/s7e5wfad","slide":9,"name":"bottom-message","text":"The authoritative version, participants, decisions, trust events, and audit history remain connected.","textPreview":"The authoritative version, participants, decisions, trust events, and audit history remain connected.","textChars":101,"textLines":1,"bbox":[48,570,1050,54]}
+{"kind":"image","id":"im/t8ra58ri","slide":9,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/40hhjp","slide":9,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/rsfkcu","slide":10,"title":"10","textShapes":13}
+{"kind":"textbox","id":"sh/x07etwrq","slide":10,"name":"page-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/czydkrql","slide":10,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/3u5cn29o","slide":10,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/2twvehs3","slide":10,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/pwnupcru","slide":10,"name":"slide-title","text":"Sovereign records become sovereign institutional memory","textPreview":"Sovereign records become sovereign institutional memory","textChars":55,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/ovedg7a9","slide":10,"name":"process-baseline","bbox":[66,350,1148,3]}
+{"kind":"shape","id":"sh/7q9wz698","slide":10,"name":"process-node-1","bbox":[161.25,322,56,56]}
+{"kind":"textbox","id":"sh/mpgvq18n","slide":10,"name":"process-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[167.25,334,44,28]}
+{"kind":"textbox","id":"sh/gbu9ovap","slide":10,"name":"process-label-1","text":"Trusted records","textPreview":"Trusted records","textChars":15,"textLines":1,"bbox":[48,404,282.5,56]}
+{"kind":"shape","id":"sh/1cnqx0ra","slide":10,"name":"process-node-2","bbox":[461.75,322,56,56]}
+{"kind":"textbox","id":"sh/e9crm5sz","slide":10,"name":"process-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[467.75,334,44,28]}
+{"kind":"textbox","id":"sh/fal8va94","slide":10,"name":"process-label-2","text":"Searchable evidence","textPreview":"Searchable evidence","textChars":19,"textLines":1,"bbox":[348.5,404,282.5,56]}
+{"kind":"shape","id":"sh/s7u9kvat","slide":10,"name":"process-node-3","bbox":[762.25,322,56,56]}
+{"kind":"textbox","id":"sh/t83qt0re","slide":10,"name":"process-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[768.25,334,44,28]}
+{"kind":"textbox","id":"sh/65crilsn","slide":10,"name":"process-label-3","text":"Connected decisions","textPreview":"Connected decisions","textChars":19,"textLines":1,"bbox":[649,404,282.5,56]}
+{"kind":"shape","id":"sh/76l8rq98","slide":10,"name":"process-node-4","bbox":[1062.75,322,56,56]}
+{"kind":"textbox","id":"sh/k3apgbah","slide":10,"name":"process-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1068.75,334,44,28]}
+{"kind":"textbox","id":"sh/543qpgr2","slide":10,"name":"process-label-4","text":"Institutional knowledge","textPreview":"Institutional knowledge","textChars":23,"textLines":1,"bbox":[949.5,404,282.5,56]}
+{"kind":"shape","id":"sh/lobyx8fu","slide":10,"name":"divider","bbox":[48,554,740,1]}
+{"kind":"textbox","id":"sh/0n2x4ny9","slide":10,"name":"bottom-message","text":"Provenance, permissions, decisions, and evidence remain meaningful—and remain under control.","textPreview":"Provenance, permissions, decisions, and evidence remain meaningful—and remain under control.","textChars":92,"textLines":1,"bbox":[48,570,1050,54]}
+{"kind":"image","id":"im/r2twjal4","slide":10,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/rsfkcu","slide":10,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/92gloe","slide":11,"title":"11","textShapes":11}
+{"kind":"textbox","id":"sh/xgrmx4fq","slide":11,"name":"page-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/cfyloze5","slide":11,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/z294zexg","slide":11,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/y103q9wv","slide":11,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/l4rm14fm","slide":11,"name":"slide-title","text":"Sovereign AI needs trusted context and bounded action","textPreview":"Sovereign AI needs trusted context and bounded action","textChars":53,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/k3i5sje1","slide":11,"name":"tile-1","bbox":[48,286,381.33,300]}
+{"kind":"textbox","id":"sh/f654naxc","slide":11,"name":"tile-title-1","text":"KNOW","textPreview":"KNOW","textChars":4,"textLines":1,"bbox":[70,310,337.33,58]}
+{"kind":"textbox","id":"sh/e5w3e5wr","slide":11,"name":"tile-body-1","text":"Use permission-controlled institutional records.","textPreview":"Use permission-controlled institutional records.","textChars":48,"textLines":1,"bbox":[70,388,337.33,174]}
+{"kind":"shape","id":"sh/cjuxgf2d","slide":11,"name":"tile-2","bbox":[449.33,286,381.33,300]}
+{"kind":"textbox","id":"sh/dk3y9kjy","slide":11,"name":"tile-title-2","text":"ADVISE","textPreview":"ADVISE","textChars":6,"textLines":1,"bbox":[471.33,310,337.33,58]}
+{"kind":"textbox","id":"sh/qhcfe5k7","slide":11,"name":"tile-body-2","text":"Operate inside the organization's data and policy boundary.","textPreview":"Operate inside the organization's data and policy boundary.","textChars":59,"textLines":1,"bbox":[471.33,388,337.33,174]}
+{"kind":"shape","id":"sh/rilw7a1s","slide":11,"name":"tile-3","bbox":[850.67,286,381.33,300]}
+{"kind":"textbox","id":"sh/0nexkf2p","slide":11,"name":"tile-title-3","text":"ACT","textPreview":"ACT","textChars":3,"textLines":1,"bbox":[872.67,310,337.33,58]}
+{"kind":"textbox","id":"sh/1onydkja","slide":11,"name":"tile-body-3","text":"Execute only through authority, approval, and evidence.","textPreview":"Execute only through authority, approval, and evidence.","textChars":55,"textLines":1,"bbox":[872.67,388,337.33,174]}
+{"kind":"shape","id":"sh/elwfi5kj","slide":11,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/zm5gba14","slide":11,"name":"bottom-message","text":"The model may reason. The institution remains in control of what executes.","textPreview":"The model may reason. The institution remains in control of what executes.","textChars":74,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/nqlsj654","slide":11,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/92gloe","slide":11,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/l0ipv9","slide":12,"title":"12","textShapes":11}
+{"kind":"textbox","id":"sh/d8ze94zq","slide":12,"name":"page-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/c7qdgzi5","slide":12,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/zahwbehw","slide":12,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/y98vi90b","slide":12,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/lwzedozm","slide":12,"name":"slide-title","text":"Programmable trust stays inside the same control model","textPreview":"Programmable trust stays inside the same control model","textChars":54,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/0vqdkjih","slide":12,"name":"band-1","bbox":[48,246,1184,90]}
+{"kind":"textbox","id":"sh/nyhwfehs","slide":12,"name":"band-label-1","text":"CHANNELS","textPreview":"CHANNELS","textChars":8,"textLines":1,"bbox":[72,267,230,24]}
+{"kind":"textbox","id":"sh/mx8vm907","slide":12,"name":"band-text-1","text":"People · Portals · Enterprise Systems · Applications · Approved AI Agents","textPreview":"People · Portals · Enterprise Systems · Applications · Approved AI Agents","textChars":73,"textLines":1,"bbox":[300,266,870,52]}
+{"kind":"shape","id":"sh/cr6xs7ut","slide":12,"name":"band-2","bbox":[48,362,1184,90]}
+{"kind":"textbox","id":"sh/xsfylcvy","slide":12,"name":"band-label-2","text":"GOVERNED APIS","textPreview":"GOVERNED APIS","textChars":13,"textLines":1,"bbox":[72,383,230,24]}
+{"kind":"textbox","id":"sh/ap4fqxcn","slide":12,"name":"band-text-2","text":"Consistent authority · Policy · Approval · Evidence · Audit","textPreview":"Consistent authority · Policy · Approval · Evidence · Audit","textChars":59,"textLines":1,"bbox":[300,382,870,52]}
+{"kind":"shape","id":"sh/bqdgj2d8","slide":12,"name":"band-3","bbox":[48,478,1184,90]}
+{"kind":"textbox","id":"sh/kv6xw7up","slide":12,"name":"band-label-3","text":"BOUNDARY","textPreview":"BOUNDARY","textChars":8,"textLines":1,"bbox":[72,499,230,24]}
+{"kind":"textbox","id":"sh/lwfypcva","slide":12,"name":"band-text-3","text":"The same sovereign controls apply across every channel","textPreview":"The same sovereign controls apply across every channel","textChars":54,"textLines":1,"bbox":[300,498,870,52]}
+{"kind":"shape","id":"sh/ytofuhcj","slide":12,"name":"divider","bbox":[48,594,740,1]}
+{"kind":"textbox","id":"sh/juxgnmd4","slide":12,"name":"bottom-message","text":"API access extends the trust layer without weakening the sovereignty model.","textPreview":"API access extends the trust layer without weakening the sovereignty model.","textChars":75,"textLines":1,"bbox":[48,610,1050,54]}
+{"kind":"image","id":"im/bylgrups","slide":12,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/l0ipv9","slide":12,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/wfn7u7","slide":13,"title":"13","textShapes":11}
+{"kind":"textbox","id":"sh/zulk3up4","slide":13,"name":"page-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/etcjupoj","slide":13,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/ds321k7y","slide":13,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/cru1sf6d","slide":13,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/rql0zaps","slide":13,"name":"slide-title","text":"A credible sovereign model joins architecture, operations, and proof","textPreview":"A credible sovereign model joins architecture, operations, and proof","textChars":68,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/q5cjq5o7","slide":13,"name":"tile-1","bbox":[48,286,381.33,300]}
+{"kind":"textbox","id":"sh/xo72d4n2","slide":13,"name":"tile-title-1","text":"Architecture","textPreview":"Architecture","textChars":12,"textLines":1,"bbox":[70,310,337.33,58]}
+{"kind":"textbox","id":"sh/wny14z6x","slide":13,"name":"tile-body-1","text":"Deployment · Security · Identity · Keys · Integration · Continuity","textPreview":"Deployment · Security · Identity · Keys · Integration · Continuity","textChars":66,"textLines":1,"bbox":[70,388,337.33,174]}
+{"kind":"shape","id":"sh/a90fq9kz","slide":13,"name":"tile-2","bbox":[449.33,286,381.33,300]}
+{"kind":"textbox","id":"sh/ba9gje14","slide":13,"name":"tile-title-2","text":"Operations","textPreview":"Operations","textChars":10,"textLines":1,"bbox":[471.33,310,337.33,58]}
+{"kind":"textbox","id":"sh/wbixsj2p","slide":13,"name":"tile-body-2","text":"Ownership · Upgrades · Support · Lifecycle · Disaster recovery","textPreview":"Ownership · Upgrades · Support · Lifecycle · Disaster recovery","textChars":62,"textLines":1,"bbox":[471.33,388,337.33,174]}
+{"kind":"shape","id":"sh/xcryloja","slide":13,"name":"tile-3","bbox":[850.67,286,381.33,300]}
+{"kind":"textbox","id":"sh/m50fmpkn","slide":13,"name":"tile-title-3","text":"Pilot proof","textPreview":"Pilot proof","textChars":11,"textLines":1,"bbox":[872.67,310,337.33,58]}
+{"kind":"textbox","id":"sh/n69gfu18","slide":13,"name":"tile-body-3","text":"A real workflow · Required controls · Evidence · Measurable success","textPreview":"A real workflow · Required controls · Evidence · Measurable success","textChars":67,"textLines":1,"bbox":[872.67,388,337.33,174]}
+{"kind":"shape","id":"sh/o7ixoz2t","slide":13,"name":"divider","bbox":[48,610,740,1]}
+{"kind":"textbox","id":"sh/98ryh4je","slide":13,"name":"bottom-message","text":"Control is credible only when responsibilities and operating procedures are explicit.","textPreview":"Control is credible only when responsibilities and operating procedures are explicit.","textChars":85,"textLines":1,"bbox":[48,626,1050,54]}
+{"kind":"image","id":"im/tgj6x476","slide":13,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/wfn7u7","slide":13,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/hqyihx","slide":14,"title":"14","textShapes":7}
+{"kind":"textbox","id":"sh/qd4b2pgz","slide":14,"name":"page-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/rexsvuxk","slide":14,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/0j6t8zy1","slide":14,"name":"slide-eyebrow","text":"CIRCULARO SOVEREIGN","textPreview":"CIRCULARO SOVEREIGN","textChars":19,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/14fu14fm","slide":14,"name":"internal-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/ehob6pgb","slide":14,"name":"close-kicker","text":"NEXT STEP","textPreview":"NEXT STEP","textChars":9,"textLines":1,"bbox":[48,132,700,30]}
+{"kind":"textbox","id":"sh/zixczuxg","slide":14,"name":"close-title","text":"Define your sovereignty boundary","textPreview":"Define your sovereignty boundary","textChars":32,"textLines":1,"bbox":[48,196,1060,170]}
+{"kind":"textbox","id":"sh/o7qtwzyd","slide":14,"name":"close-body","text":"Decide what must remain under your control, where the platform must operate, and which trust infrastructure already exists.","textPreview":"Decide what must remain under your control, where the platform must operate, and which trust infrastructure already exists.","textChars":123,"textLines":1,"bbox":[48,394,980,92]}
+{"kind":"shape","id":"sh/98zu54fy","slide":14,"name":"close-action","bbox":[48,536,1120,70]}
+{"kind":"textbox","id":"sh/dg729g76","slide":14,"name":"close-action-text","text":"Sovereignty discovery → Architecture → Operating model → Pilot → Expansion","textPreview":"Sovereignty discovery → Architecture → Operating model → Pilot → Expansion","textChars":74,"textLines":1,"bbox":[76,555,1060,34]}
+{"kind":"image","id":"im/4ral0ruh","slide":14,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/hqyihx","slide":14,"text":"[Sources]\n- work/p1/decks/02-circularo-sovereign.md\n- work/p1/narrative/circularo-core-narrative.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
