@@ -1,0 +1,542 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/y6xb2x",
+    "id": "y6xb2x",
+    "slide": 14,
+    "layoutId": "689ce3e9-f8f0-473d-94b9-3ee55563fbfe",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "de2c21ba-55d9-4c29-9aed-91115cdda7d7",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#1D0090",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "689ce3e9-f8f0-473d-94b9-3ee55563fbfe",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "de2c21ba-55d9-4c29-9aed-91115cdda7d7",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "de2c21ba-55d9-4c29-9aed-91115cdda7d7",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qh8r29oz",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "alt": "Abstract continuous trusted execution flywheel",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "befd9823-e942-4927-bbad-498d24d7e634",
+        "contentType": "image/png",
+        "byteLength": 1580873
+      }
+    },
+    {
+      "order": 2,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dkzad4na",
+      "id": "2",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "c2d44394-9e3c-4c04-9654-90632d4e9555",
+        "contentType": "image/png",
+        "byteLength": 2198
+      }
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18b21gbu",
+      "id": "3",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94jalcf",
+      "id": "4",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nadk36t0",
+      "id": "5",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        720,
+        24
+      ],
+      "geometry": "rect",
+      "text": "TRUSTED EXECUTION FOR THE AGENTIC ERA",
+      "textPreview": "TRUSTED EXECUTION FOR THE AGENTIC ERA",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TRUSTED EXECUTION FOR THE AGENTIC ERA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TRUSTED EXECUTION FOR THE AGENTIC ERA",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TRUSTED EXECUTION FOR THE AGENTIC ERA",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obm1cbu5",
+      "id": "6",
+      "name": "internal-working-mark",
+      "bbox": [
+        930,
+        34,
+        250,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL WORKING PRESENTATION",
+      "textPreview": "INTERNAL WORKING PRESENTATION",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL WORKING PRESENTATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL WORKING PRESENTATION",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL WORKING PRESENTATION",
+              "fontSize": 12,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cv25gbq",
+      "id": "7",
+      "name": "flywheel-kicker",
+      "bbox": [
+        48,
+        128,
+        420,
+        28
+      ],
+      "geometry": "rect",
+      "text": "THE CIRCULARO FLYWHEEL",
+      "textPreview": "THE CIRCULARO FLYWHEEL",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "THE CIRCULARO FLYWHEEL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "THE CIRCULARO FLYWHEEL",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "THE CIRCULARO FLYWHEEL",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2d0jyhcv",
+      "id": "8",
+      "name": "flywheel-title",
+      "bbox": [
+        48,
+        184,
+        510,
+        174
+      ],
+      "geometry": "rect",
+      "text": "Every governed action strengthens the next one",
+      "textPreview": "Every governed action strengthens the next one",
+      "resolvedFontSize": 51,
+      "resolvedTextStyle": {
+        "fontSize": 51,
+        "typeface": "Spartan",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Every governed"
+          },
+          {
+            "index": 2,
+            "text": "action strengthens"
+          },
+          {
+            "index": 3,
+            "text": "the next one"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Every governed action strengthens the next one",
+          "resolvedTextStyle": {
+            "fontSize": 51,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Every governed action strengthens the next one",
+              "fontSize": 51,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e9krmtg",
+      "id": "9",
+      "name": "flywheel-copy",
+      "bbox": [
+        48,
+        392,
+        492,
+        146
+      ],
+      "geometry": "rect",
+      "text": "Trusted collaboration creates execution. Execution creates evidence. Evidence creates records. Records create trusted AI context. Governed action creates the next trusted execution.",
+      "textPreview": "Trusted collaboration creates execution. Execution creates evidence. Evidence creates records. Records create trusted AI context. Governe...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#E6DEFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trusted collaboration creates execution."
+          },
+          {
+            "index": 2,
+            "text": "Execution creates evidence. Evidence creates"
+          },
+          {
+            "index": 3,
+            "text": "records. Records create trusted AI context."
+          },
+          {
+            "index": 4,
+            "text": "Governed action creates the next trusted"
+          },
+          {
+            "index": 5,
+            "text": "execution."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trusted collaboration creates execution. Execution creates evidence. Evidence creates records. Records create trusted AI context. Governed action creates the next trusted execution.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#E6DEFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trusted collaboration creates execution. Execution creates evidence. Evidence creates records. Records create trusted AI context. Governed action creates the next trusted execution.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#E6DEFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

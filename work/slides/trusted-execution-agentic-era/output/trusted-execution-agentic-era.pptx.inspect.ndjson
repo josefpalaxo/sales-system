@@ -1,0 +1,319 @@
+{"kind":"deck","id":"pr/ac5abr","name":"Deck"}
+{"kind":"layout","layoutId":"de2c21ba-55d9-4c29-9aed-91115cdda7d7","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"689ce3e9-f8f0-473d-94b9-3ee55563fbfe","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/i34001","slide":1,"title":"01","textShapes":7}
+{"kind":"textbox","id":"sh/lofml0na","slide":1,"name":"page-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/6ponelov","slide":1,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/7qxonq5g","slide":1,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/8r65gv61","slide":1,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/tsf6p0n6","slide":1,"name":"cover-kicker","text":"CIRCULARO","textPreview":"CIRCULARO","textChars":9,"textLines":1,"bbox":[48,118,420,28]}
+{"kind":"textbox","id":"sh/mtkn21or","slide":1,"name":"cover-title","text":"Trusted Execution\nfor the Agentic Era","textPreview":"Trusted Execution | for the Agentic Era","textChars":37,"textLines":2,"bbox":[48,172,650,190]}
+{"kind":"textbox","id":"sh/nud4b6pw","slide":1,"name":"cover-subtitle","text":"Govern what agents are permitted to do, what actually executes, and what evidence remains.","textPreview":"Govern what agents are permitted to do, what actually executes, and what evidence remains.","textChars":90,"textLines":1,"bbox":[48,398,590,104]}
+{"kind":"textbox","id":"sh/f25obilo","slide":1,"name":"cover-control-chain","text":"ACTOR · AUTHORITY · POLICY · APPROVAL · EVIDENCE","textPreview":"ACTOR · AUTHORITY · POLICY · APPROVAL · EVIDENCE","textChars":48,"textLines":1,"bbox":[48,574,690,26]}
+{"kind":"image","id":"im/69kfypgj","slide":1,"name":"","alt":"Abstract governed execution boundary","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/tcvyt4za","slide":1,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/i34001","slide":1,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/trusted-execution-agentic-era/assets/trust-boundary-cover.png"}
+{"kind":"slide","id":"sl/lig091","slide":2,"title":"02","textShapes":17}
+{"kind":"textbox","id":"sh/3e9wvids","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/2t0vmdc7","slide":2,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/dkbe1svu","slide":2,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/cj2ds7u9","slide":2,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/bitwz2do","slide":2,"name":"slide-title","text":"Autonomy is rising. Control must become explicit.","textPreview":"Autonomy is rising. Control must become explicit.","textChars":49,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/qhkvqxc3","slide":2,"name":"evolution-line","bbox":[112,334,1048,3]}
+{"kind":"shape","id":"sh/lobe5cvq","slide":2,"name":"evolution-node-1","bbox":[160,308,64,64]}
+{"kind":"textbox","id":"sh/0n2dw7u5","slide":2,"name":"evolution-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[170,325,44,26]}
+{"kind":"textbox","id":"sh/2d4v2187","slide":2,"name":"evolution-title-1","text":"Digital","textPreview":"Digital","textChars":7,"textLines":1,"bbox":[74,402,270,42]}
+{"kind":"textbox","id":"sh/3ydwvmps","slide":2,"name":"evolution-detail-1","text":"Content moves online","textPreview":"Content moves online","textChars":20,"textLines":1,"bbox":[84,456,250,62]}
+{"kind":"shape","id":"sh/4zmd4rqd","slide":2,"name":"evolution-node-2","bbox":[456,308,64,64]}
+{"kind":"textbox","id":"sh/p0vexw7y","slide":2,"name":"evolution-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[466,325,44,26]}
+{"kind":"textbox","id":"sh/q14v618j","slide":2,"name":"evolution-title-2","text":"Automated","textPreview":"Automated","textChars":9,"textLines":1,"bbox":[370,402,270,42]}
+{"kind":"textbox","id":"sh/r2xwz6p4","slide":2,"name":"evolution-detail-2","text":"Repeatable work executes","textPreview":"Repeatable work executes","textChars":24,"textLines":1,"bbox":[380,456,250,62]}
+{"kind":"shape","id":"sh/c36d8bq9","slide":2,"name":"evolution-node-3","bbox":[752,308,64,64]}
+{"kind":"textbox","id":"sh/d4fe1g7u","slide":2,"name":"evolution-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[762,325,44,26]}
+{"kind":"textbox","id":"sh/65kvuh8z","slide":2,"name":"evolution-title-3","text":"AI-assisted","textPreview":"AI-assisted","textChars":11,"textLines":1,"bbox":[666,402,270,42]}
+{"kind":"textbox","id":"sh/76tcn29k","slide":2,"name":"evolution-detail-3","text":"Systems understand and advise","textPreview":"Systems understand and advise","textChars":29,"textLines":1,"bbox":[676,456,250,62]}
+{"kind":"shape","id":"sh/bapsvipc","slide":2,"name":"evolution-node-4","bbox":[1048,308,64,64]}
+{"kind":"textbox","id":"sh/a9grmdor","slide":2,"name":"evolution-number-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1058,325,44,26]}
+{"kind":"textbox","id":"sh/xcrax87i","slide":2,"name":"evolution-title-4","text":"Agentic","textPreview":"Agentic","textChars":7,"textLines":1,"bbox":[962,402,270,42]}
+{"kind":"textbox","id":"sh/wbito36x","slide":2,"name":"evolution-detail-4","text":"Software initiates action","textPreview":"Software initiates action","textChars":25,"textLines":1,"bbox":[972,456,250,62]}
+{"kind":"shape","id":"sh/nmpsrypg","slide":2,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/mlgritov","slide":2,"name":"bottom-takeaway","text":"Greater autonomy must be matched by stronger institutional control.","textPreview":"Greater autonomy must be matched by stronger institutional control.","textChars":67,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/h4bql0bq","slide":2,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/lig091","slide":2,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/gq2z0b","slide":3,"title":"03","textShapes":13}
+{"kind":"textbox","id":"sh/nqt4rqls","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/2p03yl47","slide":3,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/xgbmx03u","slide":3,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/cf254v29","slide":3,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/but4vqlo","slide":3,"name":"slide-title","text":"Intelligence does not create institutional authority","textPreview":"Intelligence does not create institutional authority","textChars":52,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/atkn2lk3","slide":3,"name":"capability-label","text":"WHAT AI CAN DO","textPreview":"WHAT AI CAN DO","textChars":14,"textLines":1,"bbox":[48,240,350,26]}
+{"kind":"textbox","id":"sh/lkvm1k3q","slide":3,"name":"capability-list","text":"Understand\nAnalyse\nRecommend\nGenerate\nPlan","textPreview":"Understand | Analyse | Recommend | Generate | Plan","textChars":42,"textLines":5,"bbox":[48,290,380,260]}
+{"kind":"shape","id":"sh/kjm58f25","slide":3,"name":"authority-divider","bbox":[474,238,3,330]}
+{"kind":"textbox","id":"sh/yhkri1wr","slide":3,"name":"authority-label","text":"WHAT THE INSTITUTION MUST ESTABLISH","textPreview":"WHAT THE INSTITUTION MUST ESTABLISH","textChars":35,"textLines":1,"bbox":[536,240,600,26]}
+{"kind":"shape","id":"sh/zit8b6xc","slide":3,"name":"question-dot-1","bbox":[536,306,10,10]}
+{"kind":"textbox","id":"sh/kj29kbex","slide":3,"name":"question-1","text":"Who or what is acting?","textPreview":"Who or what is acting?","textChars":22,"textLines":1,"bbox":[568,296,600,44]}
+{"kind":"shape","id":"sh/lkbqdgfi","slide":3,"name":"question-dot-2","bbox":[536,364,10,10]}
+{"kind":"textbox","id":"sh/mlkrmlw3","slide":3,"name":"question-2","text":"Whom does the actor represent?","textPreview":"Whom does the actor represent?","textChars":30,"textLines":1,"bbox":[568,354,600,44]}
+{"kind":"shape","id":"sh/7mdsfqxo","slide":3,"name":"question-dot-3","bbox":[536,422,10,10]}
+{"kind":"textbox","id":"sh/8nm9obe9","slide":3,"name":"question-3","text":"What is the actor permitted to do?","textPreview":"What is the actor permitted to do?","textChars":34,"textLines":1,"bbox":[568,412,600,44]}
+{"kind":"shape","id":"sh/9ovahgfu","slide":3,"name":"question-dot-4","bbox":[536,480,10,10]}
+{"kind":"textbox","id":"sh/2p0rahwz","slide":3,"name":"question-4","text":"Which policy and approval apply?","textPreview":"Which policy and approval apply?","textChars":32,"textLines":1,"bbox":[568,470,600,44]}
+{"kind":"shape","id":"sh/nq983mx4","slide":3,"name":"question-dot-5","bbox":[536,538,10,10]}
+{"kind":"textbox","id":"sh/ru5obidw","slide":3,"name":"question-5","text":"What evidence will remain?","textPreview":"What evidence will remain?","textChars":26,"textLines":1,"bbox":[568,528,600,44]}
+{"kind":"shape","id":"sh/6twnidcr","slide":3,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/tw76dsv2","slide":3,"name":"bottom-takeaway","text":"Capability can propose an action. Authority determines whether it may execute.","textPreview":"Capability can propose an action. Authority determines whether it may execute.","textChars":78,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/t0v2l4za","slide":3,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/gq2z0b","slide":3,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/f45dbh","slide":4,"title":"04","textShapes":6}
+{"kind":"textbox","id":"sh/2l836hwv","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/3mh4zmxg","slide":4,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/gzql47e5","slide":4,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/h0zmxcfq","slide":4,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/ux832hwz","slide":4,"name":"slide-title","text":"Fragmented tools fragment accountability","textPreview":"Fragmented tools fragment accountability","textChars":40,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/fyh4v2xk","slide":4,"name":"fragmentation-copy","text":"Drafting, review, approval, signing, records, and AI often live in separate environments. Each handoff can detach the final record from the decisions that produced it.","textPreview":"Drafting, review, approval, signing, records, and AI often live in separate environments. Each handoff can detach the final record from t...","textChars":167,"textLines":1,"bbox":[48,234,408,166]}
+{"kind":"textbox","id":"sh/0va5gbe9","slide":4,"name":"fragmentation-questions","text":"Which version was authoritative?\nWho was permitted to decide?\nWhat exactly was approved?\nCan the complete chain be proven?","textPreview":"Which version was authoritative? | Who was permitted to decide? | What exactly was approved? | Can the complete chain be proven?","textChars":122,"textLines":4,"bbox":[48,432,420,154]}
+{"kind":"image","id":"im/87i1ov21","slide":4,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/cfy1gb2t","slide":4,"name":"","alt":"Abstract disconnected islands representing fragmented accountability","bbox":[506,214,726,402]}
+{"kind":"notes","id":"nt/f45dbh","slide":4,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/trusted-execution-agentic-era/assets/fragmented-accountability.png"}
+{"kind":"slide","id":"sl/merwek","slide":5,"title":"05","textShapes":15}
+{"kind":"textbox","id":"sh/i5cnql8r","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/36l4zqpc","slide":5,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/sve5wf6t","slide":5,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/dwnm507e","slide":5,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/q9wnu5on","slide":5,"name":"slide-title","text":"Trust starts before the signature","textPreview":"Trust starts before the signature","textChars":33,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/ra543ap8","slide":5,"name":"lifecycle-subtitle","text":"The evidence chain begins when consequential content is created and continues throughout its lifecycle.","textPreview":"The evidence chain begins when consequential content is created and continues throughout its lifecycle.","textChars":103,"textLines":1,"bbox":[48,204,1040,58]}
+{"kind":"shape","id":"sh/0zy50f6p","slide":5,"name":"lifecycle-line","bbox":[64,368,1152,3]}
+{"kind":"shape","id":"sh/10769k7a","slide":5,"name":"lifecycle-node-1","bbox":[94.44,355,28,28]}
+{"kind":"textbox","id":"sh/94jqls36","slide":5,"name":"lifecycle-label-1","text":"Create","textPreview":"Create","textChars":6,"textLines":1,"bbox":[44,296,128.89,52]}
+{"kind":"shape","id":"sh/8ja9sn21","slide":5,"name":"lifecycle-node-2","bbox":[227.33,355,28,28]}
+{"kind":"textbox","id":"sh/7i18jilg","slide":5,"name":"lifecycle-label-2","text":"Collaborate","textPreview":"Collaborate","textChars":11,"textLines":1,"bbox":[176.89,406,128.89,52]}
+{"kind":"shape","id":"sh/mhsrqxkv","slide":5,"name":"lifecycle-node-3","bbox":[360.22,355,28,28]}
+{"kind":"textbox","id":"sh/h8japc3i","slide":5,"name":"lifecycle-label-3","text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[309.78,296,128.89,52]}
+{"kind":"shape","id":"sh/w7a9w72x","slide":5,"name":"lifecycle-node-4","bbox":[493.11,355,28,28]}
+{"kind":"textbox","id":"sh/v61sn2lc","slide":5,"name":"lifecycle-label-4","text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[442.67,406,128.89,52]}
+{"kind":"shape","id":"sh/u5sruxkr","slide":5,"name":"lifecycle-node-5","bbox":[626,355,28,28]}
+{"kind":"textbox","id":"sh/xczqd83e","slide":5,"name":"lifecycle-label-5","text":"Sign / seal","textPreview":"Sign / seal","textChars":11,"textLines":1,"bbox":[575.56,296,128.89,52]}
+{"kind":"shape","id":"sh/cbq9k32t","slide":5,"name":"lifecycle-node-6","bbox":[758.89,355,28,28]}
+{"kind":"textbox","id":"sh/ovu90nap","slide":5,"name":"lifecycle-label-6","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[708.44,406,128.89,52]}
+{"kind":"shape","id":"sh/pw3a98bu","slide":5,"name":"lifecycle-node-7","bbox":[891.78,355,28,28]}
+{"kind":"textbox","id":"sh/2tsrydsj","slide":5,"name":"lifecycle-label-7","text":"Preserve","textPreview":"Preserve","textChars":8,"textLines":1,"bbox":[841.33,296,128.89,52]}
+{"kind":"shape","id":"sh/3u187it4","slide":5,"name":"lifecycle-node-8","bbox":[1024.67,355,28,28]}
+{"kind":"textbox","id":"sh/czu94nal","slide":5,"name":"lifecycle-label-8","text":"Analyse","textPreview":"Analyse","textChars":7,"textLines":1,"bbox":[974.22,406,128.89,52]}
+{"kind":"shape","id":"sh/dk3adsb6","slide":5,"name":"lifecycle-node-9","bbox":[1157.56,355,28,28]}
+{"kind":"textbox","id":"sh/qxcr2dsf","slide":5,"name":"lifecycle-label-9","text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[1107.11,296,128.89,52]}
+{"kind":"shape","id":"sh/bylsbit0","slide":5,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/0ne987ah","slide":5,"name":"bottom-takeaway","text":"The signature is an important trust event. It is not the entire trust model.","textPreview":"The signature is an important trust event. It is not the entire trust model.","textChars":76,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/k36lormx","slide":5,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/merwek","slide":5,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/aftqwg","slide":6,"title":"06","textShapes":17}
+{"kind":"textbox","id":"sh/ni18b2xw","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/2hsr2xwb","slide":6,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/x83ahwfy","slide":6,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/c7u98red","slide":6,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/bm1sfmxs","slide":6,"name":"slide-title","text":"Six connected capabilities create one execution environment","textPreview":"Six connected capabilities create one execution environment","textChars":59,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/alsr6hw7","slide":6,"name":"capability-rule-1","bbox":[48,240,76,4]}
+{"kind":"textbox","id":"sh/dczq5sfe","slide":6,"name":"capability-title-1","text":"Cloud","textPreview":"Cloud","textChars":5,"textLines":1,"bbox":[48,264,377.33,46]}
+{"kind":"textbox","id":"sh/sbq9wne9","slide":6,"name":"capability-body-1","text":"Control where the trust environment operates","textPreview":"Control where the trust environment operates","textChars":44,"textLines":1,"bbox":[48,318,359.33,66]}
+{"kind":"shape","id":"sh/ep8vqps3","slide":6,"name":"capability-rule-2","bbox":[451.33,240,76,4]}
+{"kind":"textbox","id":"sh/fqhczu9o","slide":6,"name":"capability-title-2","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[451.33,264,377.33,46]}
+{"kind":"textbox","id":"sh/grqdszq9","slide":6,"name":"capability-body-2","text":"Establish who or what is acting","textPreview":"Establish who or what is acting","textChars":31,"textLines":1,"bbox":[451.33,318,359.33,66]}
+{"kind":"shape","id":"sh/1szu14re","slide":6,"name":"capability-rule-3","bbox":[854.67,240,76,4]}
+{"kind":"textbox","id":"sh/2t8vup8z","slide":6,"name":"capability-title-3","text":"Collaboration","textPreview":"Collaboration","textChars":13,"textLines":1,"bbox":[854.67,264,377.33,46]}
+{"kind":"textbox","id":"sh/3uhc3u9k","slide":6,"name":"capability-body-3","text":"Create, review, and approve content","textPreview":"Create, review, and approve content","textChars":35,"textLines":1,"bbox":[854.67,318,359.33,66]}
+{"kind":"shape","id":"sh/ovadwzq5","slide":6,"name":"capability-rule-4","bbox":[48,426,76,4]}
+{"kind":"textbox","id":"sh/pgju54rq","slide":6,"name":"capability-title-4","text":"Sign & Seal","textPreview":"Sign & Seal","textChars":11,"textLines":1,"bbox":[48,450,377.33,46]}
+{"kind":"textbox","id":"sh/qhsvy98b","slide":6,"name":"capability-body-4","text":"Apply personal or organizational authority","textPreview":"Apply personal or organizational authority","textChars":42,"textLines":1,"bbox":[48,504,359.33,66]}
+{"kind":"shape","id":"sh/bi1c7e9w","slide":6,"name":"capability-rule-5","bbox":[451.33,426,76,4]}
+{"kind":"textbox","id":"sh/nmlcvepo","slide":6,"name":"capability-title-5","text":"DMS / Vault","textPreview":"DMS / Vault","textChars":11,"textLines":1,"bbox":[451.33,450,377.33,46]}
+{"kind":"textbox","id":"sh/mlsbm9oj","slide":6,"name":"capability-body-5","text":"Preserve records, evidence, and history","textPreview":"Preserve records, evidence, and history","textChars":39,"textLines":1,"bbox":[451.33,504,359.33,66]}
+{"kind":"shape","id":"sh/9o3uxo7u","slide":6,"name":"capability-rule-6","bbox":[854.67,426,76,4]}
+{"kind":"textbox","id":"sh/8nutoj69","slide":6,"name":"capability-title-6","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[854.67,450,377.33,46]}
+{"kind":"textbox","id":"sh/zi1crups","slide":6,"name":"capability-body-6","text":"Apply intelligence and governed action","textPreview":"Apply intelligence and governed action","textChars":38,"textLines":1,"bbox":[854.67,504,359.33,66]}
+{"kind":"shape","id":"sh/yxsbi9o7","slide":6,"name":"bottom-accent-line","bbox":[48,606,192,3]}
+{"kind":"textbox","id":"sh/lkjut47y","slide":6,"name":"bottom-takeaway","text":"One platform · One governance model · One evidence chain · One API","textPreview":"One platform · One governance model · One evidence chain · One API","textChars":66,"textLines":1,"bbox":[48,622,1080,54]}
+{"kind":"image","id":"im/tgrm5szu","slide":6,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/aftqwg","slide":6,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/wlew9r","slide":7,"title":"07","textShapes":14}
+{"kind":"textbox","id":"sh/lcfq18na","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/0r69s36p","slide":7,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/nex83i5g","slide":7,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/mdorudov","slide":7,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/9gzq5sn6","slide":7,"name":"slide-title","text":"Trusted execution combines three forms of assurance","textPreview":"Trusted execution combines three forms of assurance","textChars":51,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/8fq9wn6l","slide":7,"name":"assurance-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,236,78,42]}
+{"kind":"textbox","id":"sh/vih8725c","slide":7,"name":"assurance-title-1","text":"Workflow assurance","textPreview":"Workflow assurance","textChars":18,"textLines":1,"bbox":[152,236,390,42]}
+{"kind":"textbox","id":"sh/ah8ryxor","slide":7,"name":"assurance-body-1","text":"Was the correct process followed—and was the right approval obtained?","textPreview":"Was the correct process followed—and was the right approval obtained?","textChars":69,"textLines":1,"bbox":[548,236,640,74]}
+{"kind":"shape","id":"sh/07qxgny5","slide":7,"name":"assurance-divider-1","bbox":[152,330,1036,1]}
+{"kind":"textbox","id":"sh/18zy9sfq","slide":7,"name":"assurance-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,362,78,42]}
+{"kind":"textbox","id":"sh/elofexgz","slide":7,"name":"assurance-title-2","text":"Personal assurance","textPreview":"Personal assurance","textChars":18,"textLines":1,"bbox":[152,362,390,42]}
+{"kind":"textbox","id":"sh/zmxg72xk","slide":7,"name":"assurance-body-2","text":"Who personally authorized or signed—and at what identity assurance level?","textPreview":"Who personally authorized or signed—and at what identity assurance level?","textChars":73,"textLines":1,"bbox":[548,362,640,74]}
+{"kind":"shape","id":"sh/obqhk7y1","slide":7,"name":"assurance-divider-2","bbox":[152,456,1036,1]}
+{"kind":"textbox","id":"sh/9czydcfm","slide":7,"name":"assurance-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,488,78,42]}
+{"kind":"textbox","id":"sh/m98fixgb","slide":7,"name":"assurance-title-3","text":"Organizational assurance","textPreview":"Organizational assurance","textChars":24,"textLines":1,"bbox":[152,488,390,42]}
+{"kind":"textbox","id":"sh/nahgb2xw","slide":7,"name":"assurance-body-3","text":"Did this officially originate from the organization—and can integrity be verified?","textPreview":"Did this officially originate from the organization—and can integrity be verified?","textChars":82,"textLines":1,"bbox":[548,488,640,74]}
+{"kind":"shape","id":"sh/wfaho7ed","slide":7,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/xgjyhcfy","slide":7,"name":"bottom-takeaway","text":"The right combination depends on the significance of the action.","textPreview":"The right combination depends on the significance of the action.","textChars":64,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/zi5knqx0","slide":7,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/wlew9r","slide":7,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/1sntxb","slide":8,"title":"08","textShapes":16}
+{"kind":"textbox","id":"sh/hwzyl0jy","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/gvqxcvid","slide":8,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/76hgfq1w","slide":8,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/65of6l0b","slide":8,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/t8zyhgj2","slide":8,"name":"slide-title","text":"Every execution should create verifiable institutional evidence","textPreview":"Every execution should create verifiable institutional evidence","textChars":63,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/87qx8vih","slide":8,"name":"evidence-spine","bbox":[596,236,88,322]}
+{"kind":"textbox","id":"sh/z2xwb610","slide":8,"name":"evidence-spine-label","text":"TRUSTED\nRECORD","textPreview":"TRUSTED | RECORD","textChars":14,"textLines":2,"bbox":[606,342,68,82]}
+{"kind":"shape","id":"sh/y1of210f","slide":8,"name":"evidence-link-1","bbox":[440,262,156,2]}
+{"kind":"textbox","id":"sh/szedgj2p","slide":8,"name":"evidence-item-1","text":"Authoritative version","textPreview":"Authoritative version","textChars":21,"textLines":1,"bbox":[64,244,360,42]}
+{"kind":"shape","id":"sh/t0nep43a","slide":8,"name":"evidence-link-2","bbox":[440,326,156,2]}
+{"kind":"textbox","id":"sh/6xwve9kz","slide":8,"name":"evidence-item-2","text":"Identities","textPreview":"Identities","textChars":10,"textLines":1,"bbox":[64,308,360,42]}
+{"kind":"shape","id":"sh/ry5wnel4","slide":8,"name":"evidence-link-3","bbox":[440,390,156,2]}
+{"kind":"textbox","id":"sh/4vudcz2t","slide":8,"name":"evidence-item-3","text":"Roles","textPreview":"Roles","textChars":5,"textLines":1,"bbox":[64,372,360,42]}
+{"kind":"shape","id":"sh/5w3el43e","slide":8,"name":"evidence-link-4","bbox":[440,454,156,2]}
+{"kind":"textbox","id":"sh/itcvapkn","slide":8,"name":"evidence-item-4","text":"Approvals","textPreview":"Approvals","textChars":9,"textLines":1,"bbox":[64,436,360,42]}
+{"kind":"shape","id":"sh/julwjul8","slide":8,"name":"evidence-link-5","bbox":[440,518,156,2]}
+{"kind":"textbox","id":"sh/oryxo32x","slide":8,"name":"evidence-item-5","text":"Signatures & seals","textPreview":"Signatures & seals","textChars":18,"textLines":1,"bbox":[64,500,360,42]}
+{"kind":"shape","id":"sh/ps7eho3i","slide":8,"name":"evidence-link-6","bbox":[684,262,58,2]}
+{"kind":"textbox","id":"sh/x83e1obm","slide":8,"name":"evidence-item-6","text":"Timestamps","textPreview":"Timestamps","textChars":10,"textLines":1,"bbox":[742,244,360,42]}
+{"kind":"shape","id":"sh/wnud8ju1","slide":8,"name":"evidence-link-7","bbox":[684,326,58,2]}
+{"kind":"textbox","id":"sh/bmlwzedg","slide":8,"name":"evidence-item-7","text":"Audit events","textPreview":"Audit events","textChars":12,"textLines":1,"bbox":[742,308,360,42]}
+{"kind":"shape","id":"sh/alcv6tcb","slide":8,"name":"evidence-link-8","bbox":[684,390,58,2]}
+{"kind":"textbox","id":"sh/9k3exovq","slide":8,"name":"evidence-item-8","text":"Process history","textPreview":"Process history","textChars":15,"textLines":1,"bbox":[742,372,360,42]}
+{"kind":"shape","id":"sh/ojad4ju5","slide":8,"name":"evidence-link-9","bbox":[684,454,58,2]}
+{"kind":"textbox","id":"sh/ni1wvedk","slide":8,"name":"evidence-item-9","text":"Retention metadata","textPreview":"Retention metadata","textChars":18,"textLines":1,"bbox":[742,436,360,42]}
+{"kind":"shape","id":"sh/mhsv29cz","slide":8,"name":"evidence-link-10","bbox":[684,518,58,2]}
+{"kind":"textbox","id":"sh/1gjut4ve","slide":8,"name":"evidence-item-10","text":"Supporting evidence","textPreview":"Supporting evidence","textChars":19,"textLines":1,"bbox":[742,500,360,42]}
+{"kind":"shape","id":"sh/0fad0zut","slide":8,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/69ojelof","slide":8,"name":"bottom-takeaway","text":"The result is not simply a completed transaction. It is durable institutional evidence.","textPreview":"The result is not simply a completed transaction. It is durable institutional evidence.","textChars":87,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/nm14jutw","slide":8,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/1sntxb","slide":8,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/0oabuj","slide":9,"title":"09","textShapes":13}
+{"kind":"textbox","id":"sh/a1cnudor","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/b2l4ni5c","slide":9,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/k7e5076t","slide":9,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/l8nmtcne","slide":9,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/y5cnyxo3","slide":9,"name":"slide-title","text":"Evidence becomes institutional memory","textPreview":"Evidence becomes institutional memory","textChars":37,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/z6l4r25o","slide":9,"name":"memory-layer-1","bbox":[48,234,820,68]}
+{"kind":"textbox","id":"sh/0balo36p","slide":9,"name":"memory-title-1","text":"Trusted records","textPreview":"Trusted records","textChars":15,"textLines":1,"bbox":[72,252,300,30]}
+{"kind":"textbox","id":"sh/1cjmh8na","slide":9,"name":"memory-detail-1","text":"Preserve provenance, permissions, and context","textPreview":"Preserve provenance, permissions, and context","textChars":45,"textLines":1,"bbox":[370,252,470,30]}
+{"kind":"shape","id":"sh/xkv2p8fi","slide":9,"name":"memory-layer-2","bbox":[48,324,908,68]}
+{"kind":"textbox","id":"sh/wjm1w3yd","slide":9,"name":"memory-title-2","text":"Searchable evidence","textPreview":"Searchable evidence","textChars":19,"textLines":1,"bbox":[72,342,300,30]}
+{"kind":"textbox","id":"sh/bydknyxs","slide":9,"name":"memory-detail-2","text":"Retrieve what happened and why","textPreview":"Retrieve what happened and why","textChars":30,"textLines":1,"bbox":[370,342,558,30]}
+{"kind":"shape","id":"sh/axkjutg7","slide":9,"name":"memory-layer-3","bbox":[48,414,996,68]}
+{"kind":"textbox","id":"sh/5ov2tsfu","slide":9,"name":"memory-title-3","text":"Connected decisions","textPreview":"Connected decisions","textChars":19,"textLines":1,"bbox":[72,432,300,30]}
+{"kind":"textbox","id":"sh/knm10ny9","slide":9,"name":"memory-detail-3","text":"Understand obligations and precedent","textPreview":"Understand obligations and precedent","textChars":36,"textLines":1,"bbox":[370,432,646,30]}
+{"kind":"shape","id":"sh/jmdkrixo","slide":9,"name":"memory-layer-4","bbox":[48,504,1084,68]}
+{"kind":"textbox","id":"sh/yl4jydg3","slide":9,"name":"memory-title-4","text":"Institutional knowledge","textPreview":"Institutional knowledge","textChars":23,"textLines":1,"bbox":[72,522,300,30]}
+{"kind":"textbox","id":"sh/tsf2xsfq","slide":9,"name":"memory-detail-4","text":"Retain a trusted history of action","textPreview":"Retain a trusted history of action","textChars":34,"textLines":1,"bbox":[370,522,734,30]}
+{"kind":"shape","id":"sh/sr614ny5","slide":9,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/svel0rmh","slide":9,"name":"bottom-takeaway","text":"The archive becomes a trusted knowledge foundation—not merely a destination after signing.","textPreview":"The archive becomes a trusted knowledge foundation—not merely a destination after signing.","textChars":90,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/sbetkbqp","slide":9,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/0oabuj","slide":9,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/m2ydpo","slide":10,"title":"10","textShapes":11}
+{"kind":"textbox","id":"sh/8bu14nmt","slide":10,"name":"page-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/9c32xsne","slide":10,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/ylsjydor","slide":10,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/zm10ry5c","slide":10,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/0na1036x","slide":10,"name":"slide-title","text":"Trusted context gives AI a governed path from knowing to acting","textPreview":"Trusted context gives AI a governed path from knowing to acting","textChars":63,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/qh8jutov","slide":10,"name":"ai-stage-1","text":"KNOW","textPreview":"KNOW","textChars":4,"textLines":1,"bbox":[48,234,170,42]}
+{"kind":"textbox","id":"sh/bih0ny5g","slide":10,"name":"ai-detail-1","text":"Extract · Classify · Summarize · Retrieve","textPreview":"Extract · Classify · Summarize · Retrieve","textChars":41,"textLines":1,"bbox":[222,234,360,72]}
+{"kind":"textbox","id":"sh/725cnax0","slide":10,"name":"ai-stage-2","text":"ADVISE","textPreview":"ADVISE","textChars":6,"textLines":1,"bbox":[48,352,170,42]}
+{"kind":"textbox","id":"sh/m1wvu5gf","slide":10,"name":"ai-detail-2","text":"Identify obligations · Risks · Anomalies","textPreview":"Identify obligations · Risks · Anomalies","textChars":40,"textLines":1,"bbox":[222,352,360,72]}
+{"kind":"textbox","id":"sh/94nupkfq","slide":10,"name":"ai-stage-3","text":"ACT","textPreview":"ACT","textChars":3,"textLines":1,"bbox":[48,470,170,42]}
+{"kind":"textbox","id":"sh/83edwfyl","slide":10,"name":"ai-detail-3","text":"Initiate workflows · Request approvals · Invoke permitted actions","textPreview":"Initiate workflows · Request approvals · Invoke permitted actions","textChars":65,"textLines":1,"bbox":[222,470,360,72]}
+{"kind":"shape","id":"sh/v6pwraxw","slide":10,"name":"bottom-accent-line","bbox":[48,602,192,3]}
+{"kind":"textbox","id":"sh/u5gvypwb","slide":10,"name":"bottom-takeaway","text":"Trusted records → Trusted context → Trusted intelligence → Governed action","textPreview":"Trusted records → Trusted context → Trusted intelligence → Governed action","textChars":74,"textLines":1,"bbox":[48,618,1080,54]}
+{"kind":"image","id":"im/ilozmtcv","slide":10,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/wj6hkju5","slide":10,"name":"","alt":"Abstract trusted records becoming governed AI action","bbox":[628,212,604,388]}
+{"kind":"notes","id":"nt/m2ydpo","slide":10,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/trusted-execution-agentic-era/assets/trusted-context-action.png"}
+{"kind":"slide","id":"sl/joco4q","slide":11,"title":"11","textShapes":19}
+{"kind":"textbox","id":"sh/vytwn65s","slide":11,"name":"page-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/ux0ve147","slide":11,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/5obetg3u","slide":11,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/432xkbm9","slide":11,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/j2twr6lo","slide":11,"name":"slide-title","text":"Agentic action must cross an explicit authority boundary","textPreview":"Agentic action must cross an explicit authority boundary","textChars":56,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/i1kfi143","slide":11,"name":"agent-boundary-line","bbox":[64,360,1152,3]}
+{"kind":"shape","id":"sh/lsrehcnq","slide":11,"name":"boundary-node-1","bbox":[102.57,336,48,48]}
+{"kind":"textbox","id":"sh/k7id8rm5","slide":11,"name":"boundary-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108.57,348,36,24]}
+{"kind":"textbox","id":"sh/ytw3ul0v","slide":11,"name":"boundary-label-1","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[43,418,167.14,64]}
+{"kind":"shape","id":"sh/zu54n61g","slide":11,"name":"boundary-node-2","bbox":[273.71,336,48,48]}
+{"kind":"textbox","id":"sh/kvelwbi1","slide":11,"name":"boundary-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[279.71,348,36,24]}
+{"kind":"textbox","id":"sh/lwnmpgjm","slide":11,"name":"boundary-label-2","text":"Delegated authority","textPreview":"Delegated authority","textChars":19,"textLines":1,"bbox":[214.14,418,167.14,64]}
+{"kind":"shape","id":"sh/mxg3il07","slide":11,"name":"boundary-node-3","bbox":[444.86,336,48,48]}
+{"kind":"textbox","id":"sh/7yp4rq1s","slide":11,"name":"boundary-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[450.86,348,36,24]}
+{"kind":"textbox","id":"sh/8zylkvid","slide":11,"name":"boundary-label-3","text":"Policy","textPreview":"Policy","textChars":6,"textLines":1,"bbox":[385.29,418,167.14,64]}
+{"kind":"shape","id":"sh/907mt0ji","slide":11,"name":"boundary-node-4","bbox":[616,336,48,48]}
+{"kind":"textbox","id":"sh/u1g3m503","slide":11,"name":"boundary-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[622,348,36,24]}
+{"kind":"textbox","id":"sh/vmp4vq1o","slide":11,"name":"boundary-label-4","text":"Approval","textPreview":"Approval","textChars":8,"textLines":1,"bbox":[556.43,418,167.14,64]}
+{"kind":"shape","id":"sh/rq9kjaxw","slide":11,"name":"boundary-node-5","bbox":[787.14,336,48,48]}
+{"kind":"textbox","id":"sh/6p03a5gb","slide":11,"name":"boundary-number-5","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[793.14,348,36,24]}
+{"kind":"textbox","id":"sh/tsr2l0f2","slide":11,"name":"boundary-label-5","text":"Execution","textPreview":"Execution","textChars":9,"textLines":1,"bbox":[727.57,418,167.14,64]}
+{"kind":"shape","id":"sh/srilcfyh","slide":11,"name":"boundary-node-6","bbox":[958.29,336,48,48]}
+{"kind":"textbox","id":"sh/j2pkfqxk","slide":11,"name":"boundary-number-6","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[964.29,348,36,24]}
+{"kind":"textbox","id":"sh/i1gj6lgf","slide":11,"name":"boundary-label-6","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[898.71,418,167.14,64]}
+{"kind":"shape","id":"sh/5or2h0fq","slide":11,"name":"boundary-node-7","bbox":[1129.43,336,48,48]}
+{"kind":"textbox","id":"sh/4ny18vy5","slide":11,"name":"boundary-number-7","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1135.43,348,36,24]}
+{"kind":"textbox","id":"sh/vypkbqxo","slide":11,"name":"boundary-label-7","text":"Audit","textPreview":"Audit","textChars":5,"textLines":1,"bbox":[1069.86,418,167.14,64]}
+{"kind":"textbox","id":"sh/uxgj2lg3","slide":11,"name":"critical-boundary","text":"Circularo governs what the agent is permitted to do, what actually executes, and what evidence is retained afterwards.","textPreview":"Circularo governs what the agent is permitted to do, what actually executes, and what evidence is retained afterwards.","textChars":118,"textLines":1,"bbox":[128,518,1024,64]}
+{"kind":"image","id":"im/187ah4jy","slide":11,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/joco4q","slide":11,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/gti28y","slide":12,"title":"12","textShapes":11}
+{"kind":"textbox","id":"sh/srixsf61","slide":12,"name":"page-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/tsre1k7m","slide":12,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/et0fupo7","slide":12,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/fu9w3aps","slide":12,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/0fixwf6d","slide":12,"name":"slide-title","text":"Humans, applications, and agents share the same trust framework","textPreview":"Humans, applications, and agents share the same trust framework","textChars":63,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/1gbe5k7i","slide":12,"name":"actor-label-1","text":"People","textPreview":"People","textChars":6,"textLines":1,"bbox":[86,246,196,52]}
+{"kind":"shape","id":"sh/uxgvilo3","slide":12,"name":"actor-path-1","bbox":[183,316,2,74]}
+{"kind":"textbox","id":"sh/vypwrqp8","slide":12,"name":"actor-label-2","text":"External parties","textPreview":"External parties","textChars":16,"textLines":1,"bbox":[314,246,196,52]}
+{"kind":"shape","id":"sh/n2l4vqhk","slide":12,"name":"actor-path-2","bbox":[411,316,2,74]}
+{"kind":"textbox","id":"sh/m1cn2l0z","slide":12,"name":"actor-label-3","text":"Organizations","textPreview":"Organizations","textChars":13,"textLines":1,"bbox":[542,246,196,52]}
+{"kind":"shape","id":"sh/943mxgzq","slide":12,"name":"actor-path-3","bbox":[639,316,2,74]}
+{"kind":"textbox","id":"sh/o3u54vi5","slide":12,"name":"actor-label-4","text":"Applications","textPreview":"Applications","textChars":12,"textLines":1,"bbox":[770,246,196,52]}
+{"kind":"shape","id":"sh/zy14r6ho","slide":12,"name":"actor-path-4","bbox":[867,316,2,74]}
+{"kind":"textbox","id":"sh/exsny103","slide":12,"name":"actor-label-5","text":"AI agents","textPreview":"AI agents","textChars":9,"textLines":1,"bbox":[998,246,196,52]}
+{"kind":"shape","id":"sh/103mtgze","slide":12,"name":"actor-path-5","bbox":[1095,316,2,74]}
+{"kind":"shape","id":"sh/0zu50bi9","slide":12,"name":"shared-boundary","bbox":[112,390,1056,112]}
+{"kind":"textbox","id":"sh/ra1436hc","slide":12,"name":"shared-boundary-title","text":"IDENTITY + AUTHORITY + POLICY + APPROVAL + EXECUTION + EVIDENCE","textPreview":"IDENTITY + AUTHORITY + POLICY + APPROVAL + EXECUTION + EVIDENCE","textChars":63,"textLines":1,"bbox":[152,427,976,40]}
+{"kind":"shape","id":"sh/q9s3u10r","slide":12,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/u58n61kz","slide":12,"name":"bottom-takeaway","text":"AI becomes another governed actor inside the institution’s trusted execution environment.","textPreview":"AI becomes another governed actor inside the institution’s trusted execution environment.","textChars":89,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/a14j6t4b","slide":12,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/gti28y","slide":12,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/e29t5v","slide":13,"title":"13","textShapes":8}
+{"kind":"textbox","id":"sh/25g7q9kv","slide":13,"name":"page-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/n6p8jelg","slide":13,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/03epoz2p","slide":13,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/147qh43a","slide":13,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/ehw7m9kj","slide":13,"name":"slide-title","text":"Circularo sits between actors and consequential business actions","textPreview":"Circularo sits between actors and consequential business actions","textChars":64,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/f258ful4","slide":13,"name":"strategic-line-1","bbox":[640,262,2,66]}
+{"kind":"shape","id":"sh/kzip032t","slide":13,"name":"strategic-line-2","bbox":[640,426,2,66]}
+{"kind":"textbox","id":"sh/l0rqt83e","slide":13,"name":"actors-row","text":"PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS","textPreview":"PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS","textChars":49,"textLines":1,"bbox":[152,226,976,36]}
+{"kind":"shape","id":"sh/98nmtova","slide":13,"name":"trusted-execution-layer","bbox":[176,328,928,98]}
+{"kind":"textbox","id":"sh/87el0jep","slide":13,"name":"trusted-execution-title","text":"CIRCULARO TRUSTED EXECUTION LAYER","textPreview":"CIRCULARO TRUSTED EXECUTION LAYER","textChars":33,"textLines":1,"bbox":[224,359,832,42]}
+{"kind":"textbox","id":"sh/nm54red4","slide":13,"name":"controls-row","text":"Identity · Authority · Policy · Collaboration · Approval · Sign & Seal · Evidence · Audit · Archive","textPreview":"Identity · Authority · Policy · Collaboration · Approval · Sign & Seal · Evidence · Audit · Archive","textChars":99,"textLines":1,"bbox":[112,492,1056,74]}
+{"kind":"shape","id":"sh/mlw3y9wz","slide":13,"name":"bottom-accent-line","bbox":[48,592,192,3]}
+{"kind":"textbox","id":"sh/lknmp4ve","slide":13,"name":"bottom-takeaway","text":"The infrastructure may vary. The trust model remains consistent.","textPreview":"The infrastructure may vary. The trust model remains consistent.","textChars":64,"textLines":1,"bbox":[48,608,1080,54]}
+{"kind":"image","id":"im/kjudovuh","slide":13,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/e29t5v","slide":13,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/y6xb2x","slide":14,"title":"14","textShapes":6}
+{"kind":"textbox","id":"sh/18b21gbu","slide":14,"name":"page-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/m94jalcf","slide":14,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/nadk36t0","slide":14,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/obm1cbu5","slide":14,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/9cv25gbq","slide":14,"name":"flywheel-kicker","text":"THE CIRCULARO FLYWHEEL","textPreview":"THE CIRCULARO FLYWHEEL","textChars":22,"textLines":1,"bbox":[48,128,420,28]}
+{"kind":"textbox","id":"sh/2d0jyhcv","slide":14,"name":"flywheel-title","text":"Every governed action strengthens the next one","textPreview":"Every governed action strengthens the next one","textChars":46,"textLines":1,"bbox":[48,184,510,174]}
+{"kind":"textbox","id":"sh/3e9krmtg","slide":14,"name":"flywheel-copy","text":"Trusted collaboration creates execution. Execution creates evidence. Evidence creates records. Records create trusted AI context. Governed action creates the next trusted execution.","textPreview":"Trusted collaboration creates execution. Execution creates evidence. Evidence creates records. Records create trusted AI context. Governe...","textChars":181,"textLines":1,"bbox":[48,392,492,146]}
+{"kind":"image","id":"im/qh8r29oz","slide":14,"name":"","alt":"Abstract continuous trusted execution flywheel","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/dkzad4na","slide":14,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/y6xb2x","slide":14,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/trusted-execution-agentic-era/assets/trusted-execution-flywheel.png"}
+{"kind":"slide","id":"sl/6lim74","slide":15,"title":"15","textShapes":7}
+{"kind":"textbox","id":"sh/ojap0jmt","slide":15,"name":"page-number","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/9k3q9o3e","slide":15,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/alc72t4z","slide":15,"name":"slide-eyebrow","text":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textPreview":"TRUSTED EXECUTION FOR THE AGENTIC ERA","textChars":37,"textLines":1,"bbox":[104,31,720,24]}
+{"kind":"textbox","id":"sh/bml8belk","slide":15,"name":"internal-working-mark","text":"INTERNAL WORKING PRESENTATION","textPreview":"INTERNAL WORKING PRESENTATION","textChars":29,"textLines":1,"bbox":[930,34,250,20]}
+{"kind":"textbox","id":"sh/wnu94jm5","slide":15,"name":"close-kicker","text":"THE CIRCULARO PROPOSITION","textPreview":"THE CIRCULARO PROPOSITION","textChars":25,"textLines":1,"bbox":[48,126,600,30]}
+{"kind":"textbox","id":"sh/xo3qdo3q","slide":15,"name":"close-title","text":"Govern what executes.","textPreview":"Govern what executes.","textChars":21,"textLines":1,"bbox":[48,194,980,90]}
+{"kind":"textbox","id":"sh/qp87qp4v","slide":15,"name":"close-body","text":"Circularo connects people, organizations, applications, and AI agents with consequential business processes through one platform, one governance model, one continuous evidence chain, and one API.","textPreview":"Circularo connects people, organizations, applications, and AI agents with consequential business processes through one platform, one gov...","textChars":195,"textLines":1,"bbox":[48,322,1050,120]}
+{"kind":"shape","id":"sh/rqh8zulg","slide":15,"name":"close-rule","bbox":[48,488,1120,3]}
+{"kind":"textbox","id":"sh/rm9wjul4","slide":15,"name":"close-movements","text":"Signing documents → Governing trusted execution\nStoring files → Building institutional memory\nAI assistance → Governed agentic action","textPreview":"Signing documents → Governing trusted execution | Storing files → Building institutional memory | AI assistance → Governed agentic action","textChars":133,"textLines":3,"bbox":[48,522,1050,112]}
+{"kind":"image","id":"im/upk361kj","slide":15,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/6lim74","slide":15,"text":"[Sources]\n- work/ideas/Trusted Execution for the Agentic Era.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
