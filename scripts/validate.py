@@ -115,25 +115,27 @@ def validate() -> list[str]:
                 if review_date < date.today():
                     errors.append(f"{relative}: approved record review date has expired")
 
-        for relation_type in record.relation_types:
+        for relation_type, target in record.relations:
             if relation_type not in allowed_relation_types:
                 errors.append(f"{relative}: unregistered relation type '{relation_type}'")
+            if not ID_PATTERN.fullmatch(target):
+                errors.append(f"{relative}: invalid relation target '{target}'")
 
         if kind == "slide-deck":
-            if not record.topics:
-                errors.append(f"{relative}: slide-deck records require a non-empty topics list")
-            for topic in record.topics:
-                if not TOPIC_PATTERN.fullmatch(topic):
-                    errors.append(f"{relative}: invalid topic slug '{topic}'")
+            topic = record.topic
+            if not topic:
+                errors.append(f"{relative}: slide-deck records require a topic")
+            elif not TOPIC_PATTERN.fullmatch(topic):
+                errors.append(f"{relative}: invalid topic slug '{topic}'")
 
             if domain == "shared":
                 slides_root = ROOT / "shared" / "assets" / "slides"
             else:
                 slides_root = ROOT / "domains" / domain / "assets" / "slides"
-            expected_parent = slides_root.joinpath(*record.topics)
+            expected_parent = slides_root / topic
             if record.path.parent != expected_parent:
                 expected = expected_parent.relative_to(ROOT)
-                errors.append(f"{relative}: topics must mirror folder path '{expected}'")
+                errors.append(f"{relative}: topic must mirror folder path '{expected}'")
 
             deck_path = record.path.with_suffix(".pptx")
             if not deck_path.exists():

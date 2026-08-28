@@ -30,7 +30,7 @@ This is the initial repository foundation. It includes:
 - a source register and archived input snapshots;
 - initial records for the known commercial-model conflicts;
 - deterministic structural validation and a generated catalogue; and
-- starter domain capsules for direct sales and partnerships.
+- initial domain definitions for direct sales and partnerships, without replicated content scaffolding.
 
 The commercial model has not yet been fully decomposed into plans, editions, add-ons, and entitlement records.
 

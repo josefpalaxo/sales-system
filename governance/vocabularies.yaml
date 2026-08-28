@@ -37,4 +37,15 @@ relation_types:
   - allows
   - requires
   - supersedes
-
+  - derived_by
+  - used_by
+  - applied_by
+  - targeted_by
+  - allowed_by
+  - required_by
+  - superseded_by
+  - belongs_to
+  - has
+  - related_to
+  - blocked_by
+  - blocks

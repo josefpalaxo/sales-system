@@ -14,11 +14,32 @@ from repo_records import ROOT, load_records
 CATALOG_PATH = ROOT / "generated" / "catalog.json"
 GRAPH_PATH = ROOT / "generated" / "dependency-graph.json"
 
+INVERSE_RELATION_TYPES = {
+    "based_on": "supports",
+    "derives_from": "derived_by",
+    "uses": "used_by",
+    "supports": "supported_by",
+    "supported_by": "supports",
+    "constrains": "constrained_by",
+    "constrained_by": "constrains",
+    "applies_to": "applied_by",
+    "targets": "targeted_by",
+    "allows": "allowed_by",
+    "requires": "required_by",
+    "supersedes": "superseded_by",
+    "belongs_to": "has",
+    "has": "belongs_to",
+    "related_to": "related_to",
+    "blocked_by": "blocks",
+    "blocks": "blocked_by",
+}
+
 
 def render() -> tuple[str, str]:
     records = load_records()
     catalog_records = []
     reverse: dict[str, list[str]] = {}
+    inverse_relations: dict[str, list[dict[str, str]]] = {}
     for record in records:
         metadata = record.metadata
         catalog_records.append(
@@ -26,7 +47,8 @@ def render() -> tuple[str, str]:
                 "id": record.id,
                 "kind": metadata.get("kind", ""),
                 "domain": metadata.get("domain", ""),
-                "topics": list(record.topics),
+                "topic": record.topic or None,
+                "tags": list(record.tags),
                 "title": metadata.get("title", ""),
                 "status": metadata.get("status", ""),
                 "revision": int(metadata["revision"]) if metadata.get("revision", "").isdigit() else None,
@@ -36,17 +58,29 @@ def render() -> tuple[str, str]:
                 "review_by": metadata.get("review_by", ""),
                 "path": record.path.relative_to(ROOT).as_posix(),
                 "depends_on": list(record.targets),
+                "relations": [
+                    {"type": relation_type, "target": target}
+                    for relation_type, target in record.relations
+                ],
                 "source_refs": sorted(set(record.source_refs)),
             }
         )
         for target in record.targets:
             reverse.setdefault(target, []).append(record.id)
+        for relation_type, target in record.relations:
+            inverse_relations.setdefault(target, []).append(
+                {"type": INVERSE_RELATION_TYPES[relation_type], "target": record.id}
+            )
 
     catalog = {"schema_version": 1, "records": sorted(catalog_records, key=lambda item: item["id"])}
     graph = {
         "schema_version": 1,
         "dependencies": {item["id"]: item["depends_on"] for item in catalog["records"]},
         "used_by": {key: sorted(value) for key, value in sorted(reverse.items())},
+        "inverse_relations": {
+            key: sorted(value, key=lambda item: (item["type"], item["target"]))
+            for key, value in sorted(inverse_relations.items())
+        },
     }
     return (
         json.dumps(catalog, indent=2, sort_keys=True) + "\n",

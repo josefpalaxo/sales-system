@@ -31,23 +31,31 @@ REQUIRED_KEYS = {
 }
 ID_PATTERN = re.compile(r"^[a-z][a-z0-9-]*:[a-z0-9][a-z0-9-]*$")
 KEY_VALUE_PATTERN = re.compile(r"^([a-z][a-z0-9_]*)\s*:\s*(.*)$")
-TARGET_PATTERN = re.compile(r"^\s+-?\s*target\s*:\s*['\"]?([^'\"\s#]+)")
 REF_PATTERN = re.compile(r"^\s+-?\s*ref\s*:\s*['\"]?([^'\"\s#]+)")
-RELATION_TYPE_PATTERN = re.compile(r"^\s+-\s*type\s*:\s*['\"]?([^'\"\s#]+)")
+RELATION_FIELD_PATTERN = re.compile(r"^\s{2}([a-z][a-z0-9_]*)\s*:\s*$")
+LIST_ITEM_PATTERN = re.compile(r"^\s{4}-\s+(.+?)\s*$")
 
 
 @dataclass(frozen=True)
 class Record:
     path: Path
     metadata: dict[str, str]
-    topics: tuple[str, ...]
-    targets: tuple[str, ...]
+    topic: str
+    tags: tuple[str, ...]
+    relations: tuple[tuple[str, str], ...]
     source_refs: tuple[str, ...]
-    relation_types: tuple[str, ...]
 
     @property
     def id(self) -> str:
         return self.metadata.get("id", "")
+
+    @property
+    def targets(self) -> tuple[str, ...]:
+        return tuple(target for _, target in self.relations)
+
+    @property
+    def relation_types(self) -> tuple[str, ...]:
+        return tuple(relation_type for relation_type, _ in self.relations)
 
 
 def record_paths() -> list[Path]:
@@ -93,6 +101,29 @@ def read_top_level_list(frontmatter: list[str], key: str) -> tuple[str, ...]:
     return tuple(values)
 
 
+def read_relations(frontmatter: list[str]) -> tuple[tuple[str, str], ...]:
+    """Read relationship-named frontmatter fields without a YAML dependency."""
+    relations: list[tuple[str, str]] = []
+    active = False
+    relation_type = ""
+    for line in frontmatter:
+        if line and not line[0].isspace():
+            match = KEY_VALUE_PATTERN.match(line)
+            active = bool(match and match.group(1) == "relations")
+            relation_type = ""
+            continue
+        if not active:
+            continue
+        field = RELATION_FIELD_PATTERN.match(line)
+        if field:
+            relation_type = field.group(1)
+            continue
+        item = LIST_ITEM_PATTERN.match(line)
+        if item and relation_type:
+            relations.append((relation_type, strip_scalar(item.group(1))))
+    return tuple(relations)
+
+
 def read_record(path: Path) -> Record:
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
@@ -106,31 +137,23 @@ def read_record(path: Path) -> Record:
 
     frontmatter = lines[1:closing]
     metadata: dict[str, str] = {}
-    targets: list[str] = []
     source_refs: list[str] = []
-    relation_types: list[str] = []
     for line in frontmatter:
         if line and not line[0].isspace():
             match = KEY_VALUE_PATTERN.match(line)
             if match:
                 metadata[match.group(1)] = strip_scalar(match.group(2))
-        target = TARGET_PATTERN.match(line)
-        if target:
-            targets.append(target.group(1))
         source_ref = REF_PATTERN.match(line)
         if source_ref:
             source_refs.append(source_ref.group(1))
-        relation_type = RELATION_TYPE_PATTERN.match(line)
-        if relation_type:
-            relation_types.append(relation_type.group(1))
 
     return Record(
         path=path,
         metadata=metadata,
-        topics=read_top_level_list(frontmatter, "topics"),
-        targets=tuple(targets),
+        topic=metadata.get("topic", ""),
+        tags=read_top_level_list(frontmatter, "tags"),
+        relations=read_relations(frontmatter),
         source_refs=tuple(source_refs),
-        relation_types=tuple(relation_types),
     )
 
 

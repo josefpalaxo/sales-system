@@ -5,6 +5,8 @@ classification: internal
 audience: sales
 scope: Internal Team
 owner: CSO
+version: 1.9
+last_updated: 2026-08-28
 ---
 
 # Circularo Commercial Model
@@ -390,9 +392,9 @@ Each Transaction-based Subscription comes with a pre-agreed number of ‘Transac
 
 1. #### **Characteristics**
 
-* Optimized for automation and high-volume execution  
+* Optimized for predictable manual transaction volumes
 * Internal users are typically unlimited  
-* Execution may occur via UI, add-ins, mobile, or API
+* Included execution may occur via UI, add-ins, or mobile; API and automated execution are separately licensed and subject to plan eligibility
 
   2. #### **Transaction Categories** 
 
@@ -416,11 +418,11 @@ Transaction Types describe **how** a transaction runs within a Transaction Categ
 | Category | Example Transaction Types |
 | :---- | :---- |
 | Digital Signing | Single signer, multiple signers, sequential, parallel, bulk |
-| Digital Sealing | Manual, batch, API sealing |
+| Digital Sealing | Manual sealing; batch and API sealing require applicable Add-Ons |
 | Document Delivery | Manual send, bulk delivery |
-| Document Verification | Manual or automated verification |
+| Document Verification | Manual verification; automated verification requires applicable Add-Ons |
 
-Transaction-based subscriptions include both Manual Transactions and Automated Transactions for Digital Signing and Digital Sealing. 
+Transaction-based subscriptions include Manual Transactions for Digital Signing and Digital Sealing. Automated and API-initiated transactions are not included and require applicable separately licensed Add-Ons, subject to plan eligibility.
 
 4. #### **Trust Services Add-Ons**
 
@@ -441,9 +443,9 @@ Advanced trust services (eg. SMS OTP, KYC, National eID, Qualified Timestamps, Q
 
 | License Variant | Included Users | Transaction Allowance |
 | :---- | :---- | :---- |
-| **eSign Transactions (Unlimited Users)** | Unlimited internal users | Licensed annual volume of **Manual  or API Transactions** |
-| **eSign Transactions (50 Users)** | Up to 50 internal users | Licensed annual volume of **Manual  or API Transactions** |
-| ~~**eSign Transactions (25 Users)**~~ | ~~Up to 25 internal users~~ | ~~Licensed annual volume of **Manual  or API Transactions**~~ |
+| **eSign Transactions (Unlimited Users)** | Unlimited internal users | Licensed annual volume of **Manual Transactions** |
+| **eSign Transactions (50 Users)** | Up to 50 internal users | Licensed annual volume of **Manual Transactions** |
+| **eSign Transactions (25 Users)** | Up to 25 internal users | Licensed annual volume of **Manual Transactions** |
 
    6. #### **Summary**
 
@@ -452,11 +454,11 @@ Advanced trust services (eg. SMS OTP, KYC, National eID, Qualified Timestamps, Q
 | Dimension | Transaction-Based Licensing |
 | :---- | :---- |
 | What you buy | Annual Transaction Volume |
-| Best for | Automation, API, high-volume use |
+| Best for | Manual transaction-volume based commercial model |
 | Users included | Usually unlimited internal users |
 | External recipients | Unlimited, free |
-| Execution channels | UI, Add-ins, Mobile, API |
-| API & automation | ✅ Included (REST API Add-On still required) |
+| Included execution channels | UI, Add-ins, Mobile |
+| API & automation | ❌ Not included. Applicable access and consumption Add-Ons are required, subject to plan eligibility. |
 | Trust services (KYC, SMS, QTSA) | ❌ Not included (Consumption-Based Add-On required) |
 | Plans available | Business, Enterprise, Ultimate |
 | Can be combined with User-Based Licensing | ❌ No |
@@ -477,7 +479,7 @@ The following combination of Subscription Models and Plans are sold by Circularo
 | **Transaction-based** |  |  |  |  |  |
 | **eSign Transactions (Unlimited Users)** | ❌ | ❌ | ✅ | ✅ | ✅ |
 | **eSign Transactions (up to 50 Users)** | ❌ | ❌ | ✅ | ✅ | ❌ |
-| ~~**eSign Transactions (up to 25 Users)**~~ | ~~❌~~ | ~~❌~~ | ~~✅~~ | ~~✅~~ | ~~❌~~ |
+| **eSign Transactions (up to 25 Users)** | ❌ | ❌ | ✅ | ✅ | ❌ |
 
 \* **User-based variants** define *who* can use the platform and *how much* they can execute.  
 \*\* **Transaction-based variants** define *how much volume* can be processed, independent of user count.
@@ -533,7 +535,7 @@ Each subscription includes the following components:
   * Standard, Plus or Premium Support are optional upgrades  
 * **Standard Storage:** 
 
-  * All 'Transactional Documents’ (see [5\. Storage & Retention](?tab=t.0#heading=h.l1ivhifnhy5l) \- those documents that are being signed or in-signing) are always retained and part of the standard subscription storage allocation. Standard Storage is **not unlimited** and is governed by plan-specific limited. All executed transactions are always archived and retained. 
+  * All 'Transactional Documents’ (see [5\. Storage & Retention](?tab=t.0#heading=h.l1ivhifnhy5l) \- those documents that are being signed or in-signing) have unlimited storage and are always retained for audit-trail and evidence-preservation purposes, subject to the fair use policy. Standalone Documents remain governed by their separate storage and Add-On rules.
 
   2. ### **Subscription Exclusions** 
 
@@ -554,49 +556,72 @@ Each Subscription excludes the following components (and Add-Ons) by default. Th
 
 Add-Ons extend default Product functionality and are discussed in more detail in the [Circularo Add-Ons Sales Guide (Internal)](https://docs.google.com/document/u/0/d/1rUX3qL5WYVm5yYhGwu-HjmG2_CBE4rvRKAkYSQF58wk/edit). The following combination of Add-Ons and Plans are sold by Circularo: 
 
-| Plan | User-Based Subscription | Transaction-Based Subscription | API eSign / eSeal Transactions | Add-Ons Availability |
+| Plan | User-Based Subscription | Transaction-Based Subscription | API Trust Service Add-Ons | Add-Ons Availability |
 | :---- | :---- | :---- | :---- | :---- |
-| **Start** | ✅ Allowed | ❌ Not Allowed | ❌ Not Allowed | 🚫 None |
-| **Pro** | ✅ Allowed | ❌ Not Allowed | ❌ Not Allowed | ⚠️ Limited (Selected Add-Ons only) |
-| **Business** | ✅ Allowed | ✅ Allowed | ✅ Allowed | ✅ Broad (Most Add-Ons) |
-| **Enterprise** | ✅ Allowed | ✅ Allowed | ✅ Allowed | ⭐ Full (All Add-Ons) |
-| **Ultimate** | ✅ Allowed | ✅ Allowed | ✅ Allowed | ✅ Full (Most Add-Ons, Self-Hosted) |
+| Start | ✅ Allowed | ❌ Not Allowed | ❌ Not Allowed | 🚫 None |
+| Pro | ✅ Allowed | ❌ Not Allowed | ❌ Not Allowed | ⚠️ Limited |
+| Business | ✅ Allowed | ✅ Allowed | ✅ Allowed only with User-Based Subscription | ✅ Broad |
+| Enterprise | ✅ Allowed | ✅ Allowed | ✅ Allowed only with User-Based Subscription | ⭐ Full |
+| Ultimate | ✅ Allowed | ✅ Allowed | ✅ Allowed only with User-Based Subscription | ✅ Full, Self-Hosted |
+
+API Trust Service Add-Ons, including API eSigning and API eSealing Transactions, may only be sold together with a User-Based Subscription. Transaction-Based Subscriptions are not used for API commercial configurations.
 
 7. ## **API usage** 
 
-The REST API Access Add-On is available with both **User-Based** and **Transaction-Based** Subscriptions.
+The REST API is not a separate Product, Plan, or Subscription Model.
 
-Once the REST API Access Add-On is enabled, customers can integrate their applications with the Circularo platform.
+API capabilities are available only with **User-Based Subscriptions**.
+
+Every API customer must license all Internal Users who access or benefit from the Circularo platform through a User-Based Subscription. API automation does not replace Internal User licensing.
+
+The REST API Access Add-On enables platform integration and automation, but it does not include the programmatic consumption of trust services.
 
 Additional trust services, including Identity Verification (KYC), National eID, Qualified Timestamps, SMS OTP and future trust service, are licensed independently through their respective Consumption Add-Ons.
+
+If an application performs trust services, the customer must purchase the corresponding trust service consumption Add-On, such as:
+
+* API eSigning Transactions Add-On
+* API eSealing Transactions Add-On
+* Identity Verification Add-On
+* National eID Add-On
+* Qualified Timestamp Add-On
+* SMS OTP / SMS Notification Add-On
 
 1. ### **User-Based Subscription**
 
 The REST API Access Add-On enables platform integration and automation.
+
+User-Based transaction allowances are intended for manual, human-initiated transactions performed by licensed Internal Users through the Circularo application, mobile app, or official productivity add-ins.
+
+**User-Based transaction allowances do not apply to API-initiated trust services. These must be purchased as separate API Add-Ons.**
 
 If an application performs trust services programmatically (such as electronic signing or electronic sealing), the customer must purchase the corresponding:
 
 * API eSigning Transactions Add-On  
 * API eSealing Transactions Add-On
 
-User-Based transaction allowances are intended for **manual** (**human-initiated) transactions performed by licensed Internal Users through the Circularo application** and do not apply to API-initiated trust services.
-
 2. ### **Transaction-Based Subscription**
 
-The REST API Access Add-On enables platform integration and automation.
+Transaction-Based Subscriptions are not used for API-based commercial configurations.
 
-If an application performs trust services programmatically, customers may either:
+Customers requiring API integration or API-initiated trust services must be sold a User-Based Subscription plus the required API Add-Ons.
 
-* Consume the transaction volume included in their Transaction-Based Subscription; or  
-* Purchase dedicated API eSigning or API eSealing Transaction Add-Ons, providing lower-cost, consumption-based pricing for high-volume or cost-optimised API workloads.
+The only exceptions are existing customers onboarded before 1 August 2026.
 
-Once the REST API Access Add-On has been purchased, a customer with either a User-based or a Transaction-based Subscription, can purchase either API eSigning / eSealing Transactions allowances (see [API eSigning / eSealing Transactions](?tab=t.0#heading=h.pbyamfp20aye) Add-Ons). These Add-Ons consume the Transaction allowance (limit). 
+Customer entitlements are governed by the subscription agreement in effect when the subscription was purchased or renewed. New commercial packaging applies prospectively at the beginning of a new term or on renewal and does not automatically alter existing subscription entitlements unless agreed at renewal.
 
 3. ### **Commercial Principle**
 
 * **REST API Access Add-On** enables platform integration.  
 * **API eSigning / eSealing Transaction Add-Ons** enable programmatic trust service consumption.  
 * **Other Trust Service Add-Ons** license additional programmatic trust services independently.
+
+| Customer Type | REST API | API Add-Ons | Migration Required |
+| :---- | :---- | :---- | :---- |
+| Existing Transaction-Based customer | ✅ Yes | ✅ Yes | No |
+| Existing customer at renewal | ✅ Yes | ✅ Yes | Commercial review if usage has fundamentally changed |
+| New Transaction-Based customer | ❌ No | ❌ No | Must purchase a User-Based subscription for API access |
+| User-Based customer | ✅ Yes | ✅ Yes | No |
 
 8. ## **Manual vs Automated Transactions**
 
@@ -657,7 +682,7 @@ A ‘Transactional Document’ is a document that is uploaded, created or edited
 
 1. ### **Transactional Document Storage** 
 
-Transactional Documents are never subject to storage limits. They are always stored and retained (for audit trail and evidence preservation) and are never subject to storage limits. 
+Transactional Documents have unlimited storage and are always stored and retained for audit-trail and evidence-preservation purposes, subject to the fair use policy. They do not consume a plan-specific storage allocation.
 
 2. ### **Standalone Storage** 
 
@@ -689,4 +714,6 @@ Circularo offers a dedicated sandbox environments that are logically isolated fr
 
 Sandbox usage does not consume production credits. 
 
-Dedicated sandbox environments are only available  in Enterprise plans or sold separately. 
+Sandbox environments are intended for testing and development only. They may be reset, updated, or have their data deleted at any time without prior notice. They should not be used to store production or business-critical data.
+
+Dedicated sandbox environments are available in Business and Enterprise plans or sold separately as part of the REST API Access Add-On.

@@ -4,27 +4,28 @@ id: subscription-model:transaction-based
 kind: subscription-model
 domain: shared
 title: Transaction-Based Subscription Model
-status: reviewed
+status: approved
+revision: 1
 classification: internal
 owner: role:cso
-last_reviewed: 2026-08-27
-review_by: 2026-09-15
+last_reviewed: 2026-08-28
+review_by: 2026-11-26
 sources:
   - ref: source:commercial-model-2026
     locator: "Part B / Transaction-Based Subscriptions"
 relations:
-  - type: based_on
-    target: source:commercial-model-2026
-  - type: constrained_by
-    target: conflict:automated-transactions-inclusion
+  based_on:
+    - source:commercial-model-2026
+  supported_by:
+    - decision:transaction-based-automation-entitlement
 spec:
-  evidence_state: contradicted
-  approval_boundary: Do not make an external API or automation entitlement claim until the conflict is resolved.
+  evidence_state: verified
+  includes_automated_transactions: false
+  entitlement_rule: Automated and API-initiated transactions require separately licensed add-ons, subject to plan eligibility.
 ---
 
 # Transaction-Based Subscription Model
 
-The approved source describes a subscription based on annual transaction volume and available on Business, Enterprise, and Ultimate plans.
+The transaction-based subscription is based on licensed annual manual-transaction volume and is available on Business, Enterprise, and Ultimate plans.
 
-The source is internally inconsistent about whether automated/API transactions are included in the licensed volume. This record is therefore `reviewed`, not `approved`, and must not be used to make an unqualified customer commitment about automated transaction entitlement.
-
+Automated and API-initiated transactions are not included in the licensed transaction volume. They require the applicable separately licensed access and consumption add-ons, subject to plan eligibility.

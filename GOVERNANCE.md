@@ -113,7 +113,23 @@ Durable learning from working material is promoted by extracting the smallest re
 
 Reusable sales artifacts such as slide decks may be committed under `shared/assets/` or `domains/<domain>/assets/`. Each committed artifact must have a companion governed Markdown record that states its stable path, audience, purpose, owner, status, classification, review dates, and source lineage.
 
-For slide decks, `domain` and `topics` are first-class organizational metadata. `topics` is an ordered list of folder slugs below `assets/slides/`, from broadest to narrowest. The Markdown record and PPTX use the same stable basename. A deck therefore has one authoritative physical location; secondary associations use relations rather than copied files.
+For slide decks, `domain` and singular `topic` are first-class organizational metadata. `topic` mirrors the one folder below `assets/slides/`. The Markdown record and PPTX use the same stable basename. A deck therefore has one authoritative physical location; use tags for flexible discovery and typed relations for secondary, governed associations rather than copied files.
+
+## Topics, tags, and relationships
+
+Every slide deck has one primary `topic`; other record kinds may add one when it provides a useful canonical home. `tags` are optional, free-form discovery labels and do not carry governance semantics.
+
+Use relationship-named fields under `relations` for meaningful, traceable connections. Each link is declared once with a stable record ID; the generated dependency graph derives its inverse automatically. For example:
+
+```yaml
+relations:
+  based_on:
+    - source:commercial-model-2026
+  constrained_by:
+    - conflict:pricing-scope
+```
+
+The permitted relationship names are registered in `governance/vocabularies.yaml`. Do not manually duplicate an inverse relationship merely to make navigation easier.
 
 Normal revisions replace the file at its stable path; Git history stores prior revisions. Do not create `v2`, `final`, dated, or similarly versioned copies unless an explicitly requested frozen edition is a distinct governed artifact. Real audience, language, legal-scope, or domain variants use descriptive stable filenames and separate records.
 

@@ -11,7 +11,7 @@ owner: role:repository-steward
 last_reviewed: 2026-08-27
 review_by: 2027-08-27
 sources: []
-relations: []
+relations: {}
 spec:
   snapshot: sources/archived-snapshots/repository-architecture-brief.md
   authority: design intent that led to REPOSITORY_PROPOSAL.md
@@ -21,4 +21,3 @@ spec:
 # Sales repository architecture brief source
 
 This source records the original design objective and requested research. The accepted architecture is documented in `REPOSITORY_PROPOSAL.md` and the operational rules in `GOVERNANCE.md`.
-

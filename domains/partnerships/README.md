@@ -4,6 +4,4 @@ Partner-led and partner-assisted sales motions, including partner strategy, idea
 
 Partnerships may introduce domain-specific entities such as partner types, ideal partner profiles, partner programs, benefits, requirements, tiers, routes to market, and partner plays. Shared company, product, commercial, customer-market, proof, and positioning truth remains under `shared/`.
 
-The capsule is intentionally empty of business claims until a partnerships owner supplies approved sources.
-
-Reusable partnership artifacts belong under [`assets/`](assets/README.md), organized by artifact type and topic.
+This domain intentionally contains no governed records yet. Add concept-oriented content only when a partnerships owner supplies suitable sources; do not pre-create a copy of the `shared/` structure.

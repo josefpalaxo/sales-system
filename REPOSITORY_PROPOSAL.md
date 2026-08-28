@@ -92,17 +92,9 @@ sales-system/
 │
 ├── domains/
 │   ├── direct-sales/
-│   │   ├── knowledge/
-│   │   ├── messaging/
-│   │   ├── methodology/
-│   │   ├── plays/
-│   │   └── templates/
+│   │   └── README.md
 │   └── partnerships/
-│       ├── knowledge/
-│       ├── messaging/
-│       ├── methodology/
-│       ├── plays/
-│       └── templates/
+│       └── README.md
 │
 ├── work/
 │   └── README.md
@@ -156,7 +148,7 @@ sales-system/
         └── validate.yml
 ```
 
-This is a target layout, not a requirement to create every directory on day one. The initial implementation should create only directories needed by the first approved entities and validation rules.
+Domains deliberately begin as README-only scope definitions. They do not mirror the `shared/` layers. Add concept-oriented directories only when governed domain-specific records require them; the initial implementation should create only directories needed by approved entities and validation rules.
 
 ### Layer responsibilities
 
@@ -200,12 +192,10 @@ sources:
     locator: "Part B / Editions vs Plans and permitted combinations"
     observed_at: 2026-08-27
 relations:
-  - type: based_on
-    target: edition:business
-    reviewed_revision: 2
-  - type: allows
-    target: subscription-variant:regular-user-120
-    reviewed_revision: 1
+  based_on:
+    - edition:business
+  allows:
+    - subscription-variant:regular-user-120
 spec:
   deployment_modes:
     - deployment:saas
@@ -765,8 +755,8 @@ sources:
   - ref: source:commercial-model-2026
     locator: "Self-Hosted — typical for governments and regulated entities"
 relations:
-  - type: uses
-    target: deployment:self-hosted
+  uses:
+    - deployment:self-hosted
 spec:
   fit_hypothesis:
     evidence_status: inferred
@@ -784,20 +774,19 @@ This record owns the company-fit hypothesis. It does not contain a pitch.
 id: narrative:sovereign-trust-control
 status: draft
 relations:
-  - type: targets
-    target: icp:regulated-enterprise
-    reviewed_revision: 1
-  - type: based_on
-    target: product:enterprise-trust-platform
-  - type: constrained_by
-    target: plan:ultimate
+  targets:
+    - icp:regulated-enterprise
+  based_on:
+    - product:enterprise-trust-platform
+  constrained_by:
+    - plan:ultimate
 ```
 
 The narrative translates the ICP and product into an approved story. It references eligibility rather than copying every Ultimate-plan rule.
 
 ### 3. Play
 
-`domains/direct-sales/plays/sovereign-shared-signing/PLAY.md`
+`domains/direct-sales/regulated-selling/sovereign-shared-signing.md`
 
 The play references the ICP, narrative, buying roles, deployment facts, qualification method, and relevant proof. It defines triggers, discovery goals, stage gates, disqualifiers, and handoffs. If the ICP or plan changes, the impact report lists the play.
 

@@ -3,8 +3,7 @@ schema_version: 1
 id: deck:unified-sovereign-trust-platform
 kind: slide-deck
 domain: shared
-topics:
-  - unified-trust-platform
+topic: unified-trust-platform
 title: Circularo Unified Sovereign Trust Platform
 status: draft
 classification: internal
@@ -12,7 +11,7 @@ owner: team:product-marketing
 last_reviewed: 2026-08-27
 review_by: 2027-02-23
 sources: []
-relations: []
+relations: {}
 spec:
   file: circularo-unified-sovereign-trust-platform.pptx
   audience: Cross-domain Circularo sales and product stakeholders

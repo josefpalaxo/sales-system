@@ -3,8 +3,7 @@ schema_version: 1
 id: deck:trusted-execution-commercial-model
 kind: slide-deck
 domain: shared
-topics:
-  - commercial-model
+topic: commercial-model
 title: Circularo Trusted Execution Commercial Model
 status: draft
 classification: internal
@@ -15,8 +14,8 @@ sources:
   - ref: source:commercial-model-2026
     locator: "Commercial-model source and the latest WIP deck selected during repository migration"
 relations:
-  - type: based_on
-    target: source:commercial-model-2026
+  based_on:
+    - source:commercial-model-2026
 spec:
   file: circularo-trusted-execution-commercial-model.pptx
   audience: Circularo internal commercial stakeholders

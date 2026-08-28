@@ -1,50 +1,555 @@
 {
   "dependencies": {
+    "add-on-model:commercial-rails": [
+      "source:add-on-model-2026",
+      "add-on-model:types"
+    ],
+    "add-on-model:types": [
+      "source:add-on-model-2026",
+      "add-on-model:commercial-rails"
+    ],
+    "commercial-model:sales-layers": [
+      "source:commercial-model-2026"
+    ],
+    "commercial-rule:add-on-plan-eligibility": [
+      "source:commercial-model-2026",
+      "commercial-rule:api-access"
+    ],
+    "commercial-rule:add-on-policy-flags": [
+      "source:add-on-model-2026"
+    ],
+    "commercial-rule:add-on-principles": [
+      "source:add-on-model-2026",
+      "add-on-model:commercial-rails",
+      "commercial-rule:api-access"
+    ],
+    "commercial-rule:add-on-scopes": [
+      "source:add-on-model-2026",
+      "conflict:add-on-workspace-scope"
+    ],
+    "commercial-rule:api-access": [
+      "source:commercial-model-2026",
+      "commercial-rule:automated-transactions",
+      "commercial-rule:add-on-plan-eligibility"
+    ],
     "commercial-rule:automated-transactions": [
       "source:commercial-model-2026",
-      "conflict:automated-transactions-inclusion"
+      "decision:transaction-based-automation-entitlement"
+    ],
+    "commercial-rule:bulk-signing": [
+      "source:commercial-model-2026",
+      "subscription-model:user-based",
+      "subscription-model:transaction-based"
+    ],
+    "commercial-rule:manual-transactions": [
+      "source:commercial-model-2026",
+      "commercial-rule:automated-transactions"
+    ],
+    "commercial-rule:sandbox-environments": [
+      "source:commercial-model-2026",
+      "commercial-rule:api-access"
+    ],
+    "commercial-rule:subscription-inclusions-exclusions": [
+      "source:commercial-model-2026",
+      "commercial-rule:transactional-document-storage",
+      "commercial-rule:automated-transactions"
+    ],
+    "commercial-rule:subscription-plan-eligibility": [
+      "source:commercial-model-2026",
+      "subscription-model:user-based",
+      "subscription-model:transaction-based"
+    ],
+    "commercial-rule:transaction-fair-use": [
+      "source:commercial-model-2026",
+      "commercial-rule:user-transaction-allowances"
     ],
     "commercial-rule:transactional-document-storage": [
       "source:commercial-model-2026",
-      "conflict:transactional-document-storage-limits"
+      "decision:transactional-document-storage-fair-use"
+    ],
+    "commercial-rule:user-transaction-allowances": [
+      "source:commercial-model-2026",
+      "subscription-model:user-based",
+      "commercial-rule:transaction-fair-use",
+      "commercial-rule:automated-transactions"
+    ],
+    "commercial-rule:user-types": [
+      "source:commercial-model-2026",
+      "subscription-model:user-based"
     ],
     "company:circularo": [
       "source:commercial-model-2026"
     ],
+    "conflict:add-on-workspace-scope": [
+      "source:add-on-model-2026"
+    ],
     "conflict:automated-transactions-inclusion": [
-      "source:commercial-model-2026"
+      "source:commercial-model-2026",
+      "decision:transaction-based-automation-entitlement"
     ],
     "conflict:transactional-document-storage-limits": [
-      "source:commercial-model-2026"
+      "source:commercial-model-2026",
+      "decision:transactional-document-storage-fair-use"
+    ],
+    "decision:transaction-based-automation-entitlement": [
+      "subscription-model:transaction-based",
+      "commercial-rule:automated-transactions",
+      "conflict:automated-transactions-inclusion"
+    ],
+    "decision:transactional-document-storage-fair-use": [
+      "commercial-rule:transactional-document-storage",
+      "conflict:transactional-document-storage-limits"
     ],
     "deck:trusted-execution-commercial-model": [
       "source:commercial-model-2026"
     ],
     "deck:unified-sovereign-trust-platform": [],
+    "edition-model:plan-edition-deployment": [
+      "source:commercial-model-2026"
+    ],
+    "message:add-on-type-explanations": [
+      "source:add-on-model-2026",
+      "add-on-model:types",
+      "add-on-model:commercial-rails"
+    ],
+    "source:add-on-model-2026": [],
     "source:commercial-model-2026": [],
     "source:repository-architecture-brief": [],
+    "subscription-model:dms-only": [
+      "source:commercial-model-2026"
+    ],
+    "subscription-model:structure": [
+      "source:commercial-model-2026",
+      "commercial-model:sales-layers"
+    ],
     "subscription-model:transaction-based": [
       "source:commercial-model-2026",
-      "conflict:automated-transactions-inclusion"
+      "decision:transaction-based-automation-entitlement"
+    ],
+    "subscription-model:user-based": [
+      "source:commercial-model-2026",
+      "commercial-rule:user-transaction-allowances",
+      "commercial-rule:automated-transactions",
+      "commercial-rule:subscription-plan-eligibility"
+    ],
+    "support-model:plans-and-services": [
+      "source:commercial-model-2026"
+    ]
+  },
+  "inverse_relations": {
+    "add-on-model:commercial-rails": [
+      {
+        "target": "add-on-model:types",
+        "type": "constrains"
+      },
+      {
+        "target": "commercial-rule:add-on-principles",
+        "type": "constrains"
+      },
+      {
+        "target": "message:add-on-type-explanations",
+        "type": "constrains"
+      }
+    ],
+    "add-on-model:types": [
+      {
+        "target": "add-on-model:commercial-rails",
+        "type": "applied_by"
+      },
+      {
+        "target": "message:add-on-type-explanations",
+        "type": "constrains"
+      }
+    ],
+    "commercial-model:sales-layers": [
+      {
+        "target": "subscription-model:structure",
+        "type": "related_to"
+      }
+    ],
+    "commercial-rule:add-on-plan-eligibility": [
+      {
+        "target": "commercial-rule:api-access",
+        "type": "constrains"
+      }
+    ],
+    "commercial-rule:api-access": [
+      {
+        "target": "commercial-rule:add-on-principles",
+        "type": "constrains"
+      },
+      {
+        "target": "commercial-rule:add-on-plan-eligibility",
+        "type": "related_to"
+      },
+      {
+        "target": "commercial-rule:sandbox-environments",
+        "type": "related_to"
+      }
+    ],
+    "commercial-rule:automated-transactions": [
+      {
+        "target": "decision:transaction-based-automation-entitlement",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-rule:api-access",
+        "type": "constrains"
+      },
+      {
+        "target": "commercial-rule:subscription-inclusions-exclusions",
+        "type": "constrains"
+      },
+      {
+        "target": "commercial-rule:user-transaction-allowances",
+        "type": "constrains"
+      },
+      {
+        "target": "subscription-model:user-based",
+        "type": "constrains"
+      },
+      {
+        "target": "commercial-rule:manual-transactions",
+        "type": "related_to"
+      }
+    ],
+    "commercial-rule:subscription-plan-eligibility": [
+      {
+        "target": "subscription-model:user-based",
+        "type": "constrains"
+      }
+    ],
+    "commercial-rule:transaction-fair-use": [
+      {
+        "target": "commercial-rule:user-transaction-allowances",
+        "type": "constrains"
+      }
+    ],
+    "commercial-rule:transactional-document-storage": [
+      {
+        "target": "decision:transactional-document-storage-fair-use",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-rule:subscription-inclusions-exclusions",
+        "type": "constrains"
+      }
+    ],
+    "commercial-rule:user-transaction-allowances": [
+      {
+        "target": "commercial-rule:transaction-fair-use",
+        "type": "applied_by"
+      },
+      {
+        "target": "subscription-model:user-based",
+        "type": "constrains"
+      }
+    ],
+    "conflict:add-on-workspace-scope": [
+      {
+        "target": "commercial-rule:add-on-scopes",
+        "type": "constrains"
+      }
+    ],
+    "conflict:automated-transactions-inclusion": [
+      {
+        "target": "decision:transaction-based-automation-entitlement",
+        "type": "applied_by"
+      }
+    ],
+    "conflict:transactional-document-storage-limits": [
+      {
+        "target": "decision:transactional-document-storage-fair-use",
+        "type": "applied_by"
+      }
+    ],
+    "decision:transaction-based-automation-entitlement": [
+      {
+        "target": "conflict:automated-transactions-inclusion",
+        "type": "related_to"
+      },
+      {
+        "target": "commercial-rule:automated-transactions",
+        "type": "supports"
+      },
+      {
+        "target": "subscription-model:transaction-based",
+        "type": "supports"
+      }
+    ],
+    "decision:transactional-document-storage-fair-use": [
+      {
+        "target": "conflict:transactional-document-storage-limits",
+        "type": "related_to"
+      },
+      {
+        "target": "commercial-rule:transactional-document-storage",
+        "type": "supports"
+      }
+    ],
+    "source:add-on-model-2026": [
+      {
+        "target": "add-on-model:commercial-rails",
+        "type": "supports"
+      },
+      {
+        "target": "add-on-model:types",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:add-on-policy-flags",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:add-on-principles",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:add-on-scopes",
+        "type": "supports"
+      },
+      {
+        "target": "conflict:add-on-workspace-scope",
+        "type": "supports"
+      },
+      {
+        "target": "message:add-on-type-explanations",
+        "type": "supports"
+      }
+    ],
+    "source:commercial-model-2026": [
+      {
+        "target": "commercial-model:sales-layers",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:add-on-plan-eligibility",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:api-access",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:automated-transactions",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:bulk-signing",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:manual-transactions",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:sandbox-environments",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:subscription-inclusions-exclusions",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:subscription-plan-eligibility",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:transaction-fair-use",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:transactional-document-storage",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:user-transaction-allowances",
+        "type": "supports"
+      },
+      {
+        "target": "commercial-rule:user-types",
+        "type": "supports"
+      },
+      {
+        "target": "company:circularo",
+        "type": "supports"
+      },
+      {
+        "target": "conflict:automated-transactions-inclusion",
+        "type": "supports"
+      },
+      {
+        "target": "conflict:transactional-document-storage-limits",
+        "type": "supports"
+      },
+      {
+        "target": "deck:trusted-execution-commercial-model",
+        "type": "supports"
+      },
+      {
+        "target": "edition-model:plan-edition-deployment",
+        "type": "supports"
+      },
+      {
+        "target": "subscription-model:dms-only",
+        "type": "supports"
+      },
+      {
+        "target": "subscription-model:structure",
+        "type": "supports"
+      },
+      {
+        "target": "subscription-model:transaction-based",
+        "type": "supports"
+      },
+      {
+        "target": "subscription-model:user-based",
+        "type": "supports"
+      },
+      {
+        "target": "support-model:plans-and-services",
+        "type": "supports"
+      }
+    ],
+    "subscription-model:transaction-based": [
+      {
+        "target": "commercial-rule:bulk-signing",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-rule:subscription-plan-eligibility",
+        "type": "applied_by"
+      },
+      {
+        "target": "decision:transaction-based-automation-entitlement",
+        "type": "applied_by"
+      }
+    ],
+    "subscription-model:user-based": [
+      {
+        "target": "commercial-rule:bulk-signing",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-rule:subscription-plan-eligibility",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-rule:user-transaction-allowances",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-rule:user-types",
+        "type": "applied_by"
+      }
     ]
   },
   "schema_version": 1,
   "used_by": {
+    "add-on-model:commercial-rails": [
+      "add-on-model:types",
+      "commercial-rule:add-on-principles",
+      "message:add-on-type-explanations"
+    ],
+    "add-on-model:types": [
+      "add-on-model:commercial-rails",
+      "message:add-on-type-explanations"
+    ],
+    "commercial-model:sales-layers": [
+      "subscription-model:structure"
+    ],
+    "commercial-rule:add-on-plan-eligibility": [
+      "commercial-rule:api-access"
+    ],
+    "commercial-rule:api-access": [
+      "commercial-rule:add-on-plan-eligibility",
+      "commercial-rule:add-on-principles",
+      "commercial-rule:sandbox-environments"
+    ],
+    "commercial-rule:automated-transactions": [
+      "commercial-rule:api-access",
+      "commercial-rule:manual-transactions",
+      "commercial-rule:subscription-inclusions-exclusions",
+      "commercial-rule:user-transaction-allowances",
+      "decision:transaction-based-automation-entitlement",
+      "subscription-model:user-based"
+    ],
+    "commercial-rule:subscription-plan-eligibility": [
+      "subscription-model:user-based"
+    ],
+    "commercial-rule:transaction-fair-use": [
+      "commercial-rule:user-transaction-allowances"
+    ],
+    "commercial-rule:transactional-document-storage": [
+      "commercial-rule:subscription-inclusions-exclusions",
+      "decision:transactional-document-storage-fair-use"
+    ],
+    "commercial-rule:user-transaction-allowances": [
+      "commercial-rule:transaction-fair-use",
+      "subscription-model:user-based"
+    ],
+    "conflict:add-on-workspace-scope": [
+      "commercial-rule:add-on-scopes"
+    ],
     "conflict:automated-transactions-inclusion": [
-      "commercial-rule:automated-transactions",
-      "subscription-model:transaction-based"
+      "decision:transaction-based-automation-entitlement"
     ],
     "conflict:transactional-document-storage-limits": [
-      "commercial-rule:transactional-document-storage"
+      "decision:transactional-document-storage-fair-use"
+    ],
+    "decision:transaction-based-automation-entitlement": [
+      "commercial-rule:automated-transactions",
+      "conflict:automated-transactions-inclusion",
+      "subscription-model:transaction-based"
+    ],
+    "decision:transactional-document-storage-fair-use": [
+      "commercial-rule:transactional-document-storage",
+      "conflict:transactional-document-storage-limits"
+    ],
+    "source:add-on-model-2026": [
+      "add-on-model:commercial-rails",
+      "add-on-model:types",
+      "commercial-rule:add-on-policy-flags",
+      "commercial-rule:add-on-principles",
+      "commercial-rule:add-on-scopes",
+      "conflict:add-on-workspace-scope",
+      "message:add-on-type-explanations"
     ],
     "source:commercial-model-2026": [
+      "commercial-model:sales-layers",
+      "commercial-rule:add-on-plan-eligibility",
+      "commercial-rule:api-access",
       "commercial-rule:automated-transactions",
+      "commercial-rule:bulk-signing",
+      "commercial-rule:manual-transactions",
+      "commercial-rule:sandbox-environments",
+      "commercial-rule:subscription-inclusions-exclusions",
+      "commercial-rule:subscription-plan-eligibility",
+      "commercial-rule:transaction-fair-use",
       "commercial-rule:transactional-document-storage",
+      "commercial-rule:user-transaction-allowances",
+      "commercial-rule:user-types",
       "company:circularo",
       "conflict:automated-transactions-inclusion",
       "conflict:transactional-document-storage-limits",
       "deck:trusted-execution-commercial-model",
-      "subscription-model:transaction-based"
+      "edition-model:plan-edition-deployment",
+      "subscription-model:dms-only",
+      "subscription-model:structure",
+      "subscription-model:transaction-based",
+      "subscription-model:user-based",
+      "support-model:plans-and-services"
+    ],
+    "subscription-model:transaction-based": [
+      "commercial-rule:bulk-signing",
+      "commercial-rule:subscription-plan-eligibility",
+      "decision:transaction-based-automation-entitlement"
+    ],
+    "subscription-model:user-based": [
+      "commercial-rule:bulk-signing",
+      "commercial-rule:subscription-plan-eligibility",
+      "commercial-rule:user-transaction-allowances",
+      "commercial-rule:user-types"
     ]
   }
 }

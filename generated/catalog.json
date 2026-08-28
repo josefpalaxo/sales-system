@@ -3,44 +3,603 @@
     {
       "classification": "internal",
       "depends_on": [
-        "source:commercial-model-2026",
-        "conflict:automated-transactions-inclusion"
+        "source:add-on-model-2026",
+        "add-on-model:types"
       ],
       "domain": "shared",
-      "id": "commercial-rule:automated-transactions",
-      "kind": "commercial-rule",
-      "last_reviewed": "2026-08-27",
+      "id": "add-on-model:commercial-rails",
+      "kind": "add-on-model",
+      "last_reviewed": "2026-08-28",
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/automated-transactions.md",
-      "review_by": "2026-09-15",
-      "revision": null,
+      "path": "shared/knowledge/commercial/add-ons/commercial-rails.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "add-on-model:types",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Add-On Commercial Rails",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:add-on-model-2026",
+        "add-on-model:commercial-rails"
+      ],
+      "domain": "shared",
+      "id": "add-on-model:types",
+      "kind": "add-on-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/add-ons/add-on-types.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "add-on-model:commercial-rails",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Add-On Types",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "commercial-model:sales-layers",
+      "kind": "commercial-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-model/sales-layers.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
       "source_refs": [
         "source:commercial-model-2026"
       ],
-      "status": "reviewed",
-      "title": "Automated Transaction Entitlement",
-      "topics": []
+      "status": "approved",
+      "tags": [],
+      "title": "Circularo Sales Layers",
+      "topic": null
     },
     {
       "classification": "internal",
       "depends_on": [
         "source:commercial-model-2026",
-        "conflict:transactional-document-storage-limits"
+        "commercial-rule:api-access"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:add-on-plan-eligibility",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/add-on-plan-eligibility.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:api-access",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Add-On and Plan Eligibility",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:add-on-model-2026"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:add-on-policy-flags",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/add-ons/add-on-policy-flags.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Add-On Policy Flags",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:add-on-model-2026",
+        "add-on-model:commercial-rails",
+        "commercial-rule:api-access"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:add-on-principles",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/add-ons/add-on-principles.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "add-on-model:commercial-rails",
+          "type": "constrained_by"
+        },
+        {
+          "target": "commercial-rule:api-access",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Add-On Commercial Principles",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:add-on-model-2026",
+        "conflict:add-on-workspace-scope"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:add-on-scopes",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/add-ons/add-on-scopes.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "conflict:add-on-workspace-scope",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "reviewed",
+      "tags": [],
+      "title": "Add-On Enforcement Scopes",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "commercial-rule:automated-transactions",
+        "commercial-rule:add-on-plan-eligibility"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:api-access",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/api-access.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:automated-transactions",
+          "type": "constrained_by"
+        },
+        {
+          "target": "commercial-rule:add-on-plan-eligibility",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "REST API Access and Consumption",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "decision:transaction-based-automation-entitlement"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:automated-transactions",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/automated-transactions.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "decision:transaction-based-automation-entitlement",
+          "type": "supported_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Automated Transaction Entitlement",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "subscription-model:user-based",
+        "subscription-model:transaction-based"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:bulk-signing",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/bulk-signing.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "subscription-model:user-based",
+          "type": "applies_to"
+        },
+        {
+          "target": "subscription-model:transaction-based",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Bulk Signing Entitlement",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "commercial-rule:automated-transactions"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:manual-transactions",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/manual-transactions.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:automated-transactions",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Manual Transaction Entitlement",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "commercial-rule:api-access"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:sandbox-environments",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/sandbox-environments.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:api-access",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Developer and Non-Production Sandbox Environments",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "commercial-rule:transactional-document-storage",
+        "commercial-rule:automated-transactions"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:subscription-inclusions-exclusions",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/subscription-inclusions-exclusions.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:transactional-document-storage",
+          "type": "constrained_by"
+        },
+        {
+          "target": "commercial-rule:automated-transactions",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Default Subscription Inclusions and Exclusions",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "subscription-model:user-based",
+        "subscription-model:transaction-based"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:subscription-plan-eligibility",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/subscription-plan-eligibility.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "subscription-model:user-based",
+          "type": "applies_to"
+        },
+        {
+          "target": "subscription-model:transaction-based",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Subscription Variant and Plan Eligibility",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "commercial-rule:user-transaction-allowances"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:transaction-fair-use",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/transaction-fair-use.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:user-transaction-allowances",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Unlimited Transaction Fair Use",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "decision:transactional-document-storage-fair-use"
       ],
       "domain": "shared",
       "id": "commercial-rule:transactional-document-storage",
       "kind": "commercial-rule",
-      "last_reviewed": "2026-08-27",
+      "last_reviewed": "2026-08-28",
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/transactional-document-storage.md",
-      "review_by": "2026-09-15",
-      "revision": null,
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "decision:transactional-document-storage-fair-use",
+          "type": "supported_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
       "source_refs": [
         "source:commercial-model-2026"
       ],
-      "status": "reviewed",
+      "status": "approved",
+      "tags": [],
       "title": "Transactional Document Storage and Retention",
-      "topics": []
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "subscription-model:user-based",
+        "commercial-rule:transaction-fair-use",
+        "commercial-rule:automated-transactions"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:user-transaction-allowances",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/user-transaction-allowances.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "subscription-model:user-based",
+          "type": "applies_to"
+        },
+        {
+          "target": "commercial-rule:transaction-fair-use",
+          "type": "constrained_by"
+        },
+        {
+          "target": "commercial-rule:automated-transactions",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "User-Based Transaction Allowances",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "subscription-model:user-based"
+      ],
+      "domain": "shared",
+      "id": "commercial-rule:user-types",
+      "kind": "commercial-rule",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/commercial-rules/user-types.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "subscription-model:user-based",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Commercial User Types",
+      "topic": null
     },
     {
       "classification": "internal",
@@ -53,54 +612,181 @@
       "last_reviewed": "2026-08-27",
       "owner": "role:cso",
       "path": "shared/knowledge/company/circularo.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        }
+      ],
       "review_by": "2027-02-27",
       "revision": null,
       "source_refs": [
         "source:commercial-model-2026"
       ],
       "status": "reviewed",
+      "tags": [],
       "title": "Circularo",
-      "topics": []
+      "topic": null
     },
     {
       "classification": "internal",
       "depends_on": [
-        "source:commercial-model-2026"
+        "source:add-on-model-2026"
+      ],
+      "domain": "shared",
+      "id": "conflict:add-on-workspace-scope",
+      "kind": "conflict",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "governance/conflicts/add-on-workspace-scope.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "2026-09-15",
+      "revision": null,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "open",
+      "tags": [],
+      "title": "Add-On Workspace Scope",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "decision:transaction-based-automation-entitlement"
       ],
       "domain": "shared",
       "id": "conflict:automated-transactions-inclusion",
       "kind": "conflict",
-      "last_reviewed": "2026-08-27",
+      "last_reviewed": "2026-08-28",
       "owner": "role:cso",
       "path": "governance/conflicts/automated-transactions-inclusion.md",
-      "review_by": "2026-09-15",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "decision:transaction-based-automation-entitlement",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
       "revision": null,
       "source_refs": [
         "source:commercial-model-2026"
       ],
-      "status": "open",
+      "status": "resolved",
+      "tags": [],
       "title": "Automated Transactions Inclusion",
-      "topics": []
+      "topic": null
     },
     {
       "classification": "internal",
       "depends_on": [
-        "source:commercial-model-2026"
+        "source:commercial-model-2026",
+        "decision:transactional-document-storage-fair-use"
       ],
       "domain": "shared",
       "id": "conflict:transactional-document-storage-limits",
       "kind": "conflict",
-      "last_reviewed": "2026-08-27",
+      "last_reviewed": "2026-08-28",
       "owner": "role:cso",
       "path": "governance/conflicts/transactional-document-storage-limits.md",
-      "review_by": "2026-09-15",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "decision:transactional-document-storage-fair-use",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
       "revision": null,
       "source_refs": [
         "source:commercial-model-2026"
       ],
-      "status": "open",
+      "status": "resolved",
+      "tags": [],
       "title": "Transactional Document Storage Limits",
-      "topics": []
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "subscription-model:transaction-based",
+        "commercial-rule:automated-transactions",
+        "conflict:automated-transactions-inclusion"
+      ],
+      "domain": "shared",
+      "id": "decision:transaction-based-automation-entitlement",
+      "kind": "decision",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "governance/decisions/transaction-based-automation-entitlement.md",
+      "relations": [
+        {
+          "target": "subscription-model:transaction-based",
+          "type": "applies_to"
+        },
+        {
+          "target": "commercial-rule:automated-transactions",
+          "type": "applies_to"
+        },
+        {
+          "target": "conflict:automated-transactions-inclusion",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Transaction-Based Automation Entitlement",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "commercial-rule:transactional-document-storage",
+        "conflict:transactional-document-storage-limits"
+      ],
+      "domain": "shared",
+      "id": "decision:transactional-document-storage-fair-use",
+      "kind": "decision",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "governance/decisions/transactional-document-storage-fair-use.md",
+      "relations": [
+        {
+          "target": "commercial-rule:transactional-document-storage",
+          "type": "applies_to"
+        },
+        {
+          "target": "conflict:transactional-document-storage-limits",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Transactional Document Storage Under Fair Use",
+      "topic": null
     },
     {
       "classification": "internal",
@@ -113,16 +799,21 @@
       "last_reviewed": "2026-08-27",
       "owner": "role:cso",
       "path": "shared/assets/slides/commercial-model/circularo-trusted-execution-commercial-model.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        }
+      ],
       "review_by": "2026-11-25",
       "revision": null,
       "source_refs": [
         "source:commercial-model-2026"
       ],
       "status": "draft",
+      "tags": [],
       "title": "Circularo Trusted Execution Commercial Model",
-      "topics": [
-        "commercial-model"
-      ]
+      "topic": "commercial-model"
     },
     {
       "classification": "internal",
@@ -133,14 +824,96 @@
       "last_reviewed": "2026-08-27",
       "owner": "team:product-marketing",
       "path": "shared/assets/slides/unified-trust-platform/circularo-unified-sovereign-trust-platform.md",
+      "relations": [],
       "review_by": "2027-02-23",
       "revision": null,
       "source_refs": [],
       "status": "draft",
+      "tags": [],
       "title": "Circularo Unified Sovereign Trust Platform",
-      "topics": [
-        "unified-trust-platform"
-      ]
+      "topic": "unified-trust-platform"
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "edition-model:plan-edition-deployment",
+      "kind": "edition-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/editions/plan-edition-deployment.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Plan, Edition, and Deployment Mapping",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:add-on-model-2026",
+        "add-on-model:types",
+        "add-on-model:commercial-rails"
+      ],
+      "domain": "shared",
+      "id": "message:add-on-type-explanations",
+      "kind": "message",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/messaging/add-on-sales-explanations.md",
+      "relations": [
+        {
+          "target": "source:add-on-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "add-on-model:types",
+          "type": "constrained_by"
+        },
+        {
+          "target": "add-on-model:commercial-rails",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2027-02-24",
+      "revision": 1,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Sales Explanations for Add-On Types",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "source:add-on-model-2026",
+      "kind": "source",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "governance/source-register/add-on-model-2026.md",
+      "relations": [],
+      "review_by": "2026-11-26",
+      "revision": 2,
+      "source_refs": [],
+      "status": "approved",
+      "tags": [],
+      "title": "Circularo Add-On Model and How It Works",
+      "topic": null
     },
     {
       "classification": "internal",
@@ -148,15 +921,17 @@
       "domain": "shared",
       "id": "source:commercial-model-2026",
       "kind": "source",
-      "last_reviewed": "2026-08-27",
+      "last_reviewed": "2026-08-28",
       "owner": "role:cso",
       "path": "governance/source-register/commercial-model-2026.md",
-      "review_by": "2026-11-27",
-      "revision": 1,
+      "relations": [],
+      "review_by": "2026-11-26",
+      "revision": 3,
       "source_refs": [],
       "status": "approved",
+      "tags": [],
       "title": "Circularo Commercial Model",
-      "topics": []
+      "topic": null
     },
     {
       "classification": "internal",
@@ -167,33 +942,174 @@
       "last_reviewed": "2026-08-27",
       "owner": "role:repository-steward",
       "path": "governance/source-register/repository-architecture-brief.md",
+      "relations": [],
       "review_by": "2027-08-27",
       "revision": 1,
       "source_refs": [],
       "status": "approved",
+      "tags": [],
       "title": "Sales Repository Architecture Brief",
-      "topics": []
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "subscription-model:dms-only",
+      "kind": "subscription-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/subscription-models/dms-only.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "DMS-Only Subscription Model",
+      "topic": null
     },
     {
       "classification": "internal",
       "depends_on": [
         "source:commercial-model-2026",
-        "conflict:automated-transactions-inclusion"
+        "commercial-model:sales-layers"
+      ],
+      "domain": "shared",
+      "id": "subscription-model:structure",
+      "kind": "subscription-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/subscriptions/subscription-structure.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-model:sales-layers",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Subscription Structure",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "decision:transaction-based-automation-entitlement"
       ],
       "domain": "shared",
       "id": "subscription-model:transaction-based",
       "kind": "subscription-model",
-      "last_reviewed": "2026-08-27",
+      "last_reviewed": "2026-08-28",
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/subscription-models/transaction-based.md",
-      "review_by": "2026-09-15",
-      "revision": null,
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "decision:transaction-based-automation-entitlement",
+          "type": "supported_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
       "source_refs": [
         "source:commercial-model-2026"
       ],
-      "status": "reviewed",
+      "status": "approved",
+      "tags": [],
       "title": "Transaction-Based Subscription Model",
-      "topics": []
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026",
+        "commercial-rule:user-transaction-allowances",
+        "commercial-rule:automated-transactions",
+        "commercial-rule:subscription-plan-eligibility"
+      ],
+      "domain": "shared",
+      "id": "subscription-model:user-based",
+      "kind": "subscription-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/subscription-models/user-based.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        },
+        {
+          "target": "commercial-rule:user-transaction-allowances",
+          "type": "constrained_by"
+        },
+        {
+          "target": "commercial-rule:automated-transactions",
+          "type": "constrained_by"
+        },
+        {
+          "target": "commercial-rule:subscription-plan-eligibility",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "User-Based Subscription Model",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:commercial-model-2026"
+      ],
+      "domain": "shared",
+      "id": "support-model:plans-and-services",
+      "kind": "support-model",
+      "last_reviewed": "2026-08-28",
+      "owner": "role:cso",
+      "path": "shared/knowledge/commercial/support/support-and-services.md",
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Support Plans and Services",
+      "topic": null
     }
   ],
   "schema_version": 1

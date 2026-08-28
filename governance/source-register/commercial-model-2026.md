@@ -5,23 +5,22 @@ kind: source
 domain: shared
 title: Circularo Commercial Model
 status: approved
-revision: 1
+revision: 3
 classification: internal
 owner: role:cso
-last_reviewed: 2026-08-27
-review_by: 2026-11-27
+last_reviewed: 2026-08-28
+review_by: 2026-11-26
 sources: []
-relations: []
+relations: {}
 spec:
   snapshot: sources/archived-snapshots/Circularo Commercial Model.md
   source_status: approved
-  authority: commercial structure subject to recorded conflicts and later canonical decomposition
-  migration_status: active-source-during-decomposition
+  authority: approved historical evidence; typed governed records are canonical for their stated scopes
+  migration_status: decomposed-canonical-records-primary
 ---
 
 # Circularo Commercial Model source
 
-This is the approved input for the initial commercial decomposition. It remains an active source during migration, but contradictions recorded under `governance/conflicts/` prevent affected passages from being treated as resolved commercial truth.
+This is the approved source snapshot for the commercial-model decomposition. Typed governed records under `shared/knowledge/commercial/` are now canonical for their stated scopes.
 
-After the commercial model has been decomposed and approved, update this record to show that typed repository records are canonical and the snapshot is historical evidence.
-
+The snapshot remains approved historical evidence and provenance. Where a typed record and the snapshot differ, use the current approved typed record. Any remaining conflict record continues to constrain only its stated scope.

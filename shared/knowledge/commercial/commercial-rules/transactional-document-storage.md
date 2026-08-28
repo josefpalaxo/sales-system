@@ -4,25 +4,26 @@ id: commercial-rule:transactional-document-storage
 kind: commercial-rule
 domain: shared
 title: Transactional Document Storage and Retention
-status: reviewed
+status: approved
+revision: 1
 classification: internal
 owner: role:cso
-last_reviewed: 2026-08-27
-review_by: 2026-09-15
+last_reviewed: 2026-08-28
+review_by: 2026-11-26
 sources:
   - ref: source:commercial-model-2026
     locator: "Subscription Inclusions; Storage & Retention"
 relations:
-  - type: based_on
-    target: source:commercial-model-2026
-  - type: constrained_by
-    target: conflict:transactional-document-storage-limits
+  based_on:
+    - source:commercial-model-2026
+  supported_by:
+    - decision:transactional-document-storage-fair-use
 spec:
-  evidence_state: contradicted
-  decision_required: Define whether transactional documents consume a plan storage limit while remaining retained for evidence.
+  evidence_state: verified
+  storage_entitlement: unlimited
+  policy_boundary: Unlimited transactional-document storage is subject to the fair use policy.
 ---
 
 # Transactional Document Storage and Retention
 
-The commercial model consistently requires retention of transactional documents but is inconsistent about whether those documents are subject to storage limits. Do not promise unlimited transactional storage until the conflict is resolved.
-
+Transactional documents have unlimited storage and are retained for audit-trail and evidence-preservation purposes, subject to the fair use policy. This entitlement does not apply to standalone documents, which remain governed by their separate storage and add-on rules.

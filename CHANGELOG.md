@@ -8,8 +8,7 @@ All material repository and behavior changes are recorded here.
 
 - Initial entity-backed repository foundation.
 - Shared knowledge and messaging layers.
-- Extensible direct-sales and partnerships domain capsules.
+- README-only direct-sales and partnerships domain definitions that can grow around real domain concepts.
 - One root working directory policy.
 - Governance, ownership, conflict, evidence, and contribution rules.
 - Deterministic structural validation and generated catalogue support.
-
