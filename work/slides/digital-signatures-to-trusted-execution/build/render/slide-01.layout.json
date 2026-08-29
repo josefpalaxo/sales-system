@@ -1,0 +1,706 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fi8lf3",
+    "id": "fi8lf3",
+    "slide": 1,
+    "layoutId": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#1D0090",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/pw7udcvq",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "b94b1191-a8d2-444b-9ab5-593d2a9e68da",
+        "contentType": "image/png",
+        "byteLength": 2197
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3yd8fq54",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4rml4j",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dofql0n6",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        700,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "textPreview": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cn69cvm1",
+      "id": "5",
+      "name": "partner-enablement-mark",
+      "bbox": [
+        890,
+        34,
+        290,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL & PARTNER ENABLEMENT",
+      "textPreview": "INTERNAL & PARTNER ENABLEMENT",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL & PARTNER ENABLEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL & PARTNER ENABLEMENT",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL & PARTNER ENABLEMENT",
+              "fontSize": 11.51,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2d8jq5g",
+      "id": "6",
+      "name": "cover-path",
+      "bbox": [
+        846,
+        0,
+        434,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#14006A",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q14rql4v",
+      "id": "7",
+      "name": "cover-path-accent",
+      "bbox": [
+        846,
+        0,
+        18,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsbq9gn2",
+      "id": "8",
+      "name": "cover-title",
+      "bbox": [
+        48,
+        172,
+        720,
+        190
+      ],
+      "geometry": "rect",
+      "text": "From Digital Signatures\nto Trusted Execution",
+      "textPreview": "From Digital Signatures | to Trusted Execution",
+      "resolvedFontSize": 62,
+      "resolvedTextStyle": {
+        "fontSize": 62,
+        "typeface": "Spartan",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "From Digital Signatures"
+          },
+          {
+            "index": 2,
+            "text": "to Trusted Execution"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "From Digital Signatures",
+          "resolvedTextStyle": {
+            "fontSize": 62,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "From Digital Signatures",
+              "fontSize": 62,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "to Trusted Execution",
+          "resolvedTextStyle": {
+            "fontSize": 62,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "to Trusted Execution",
+              "fontSize": 62,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sr2pgbmh",
+      "id": "9",
+      "name": "cover-subtitle",
+      "bbox": [
+        48,
+        402,
+        650,
+        58
+      ],
+      "geometry": "rect",
+      "text": "A shared narrative for Circularo teams and partners",
+      "textPreview": "A shared narrative for Circularo teams and partners",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "Mulish",
+        "color": "#E6DEFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A shared narrative for Circularo teams and partners"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A shared narrative for Circularo teams and partners",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Mulish",
+            "color": "#E6DEFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A shared narrative for Circularo teams and partners",
+              "fontSize": 25,
+              "typeface": "Mulish",
+              "color": "#E6DEFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1cveh4j",
+      "id": "10",
+      "name": "cover-icon-path-1",
+      "bbox": [
+        958,
+        244,
+        98,
+        78
+      ],
+      "geometry": "rect",
+      "fillColor": "#6E51DA",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2lcnm54",
+      "id": "11",
+      "name": "cover-icon-path-2",
+      "bbox": [
+        958,
+        404,
+        98,
+        80
+      ],
+      "geometry": "rect",
+      "fillColor": "#6E51DA",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/43udgrmp",
+      "id": "12",
+      "name": "cover-icon-frame-sovereign-sign",
+      "bbox": [
+        886,
+        148,
+        132,
+        132
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6dcbm9cn",
+      "id": "13",
+      "bbox": [
+        911,
+        173,
+        82,
+        82
+      ],
+      "alt": "Digital signature",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "470170e2-2bbf-4f5f-b92e-fda3d0109198",
+        "contentType": "image/png",
+        "byteLength": 6775
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65cvi14v",
+      "id": "14",
+      "name": "cover-icon-frame-gear",
+      "bbox": [
+        1048,
+        312,
+        132,
+        132
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gjutsjup",
+      "id": "15",
+      "bbox": [
+        1073,
+        337,
+        82,
+        82
+      ],
+      "alt": "Execution",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "4ccaa08a-afdb-42b1-8bdf-393cc1854948",
+        "contentType": "image/png",
+        "byteLength": 601
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7edkbml",
+      "id": "16",
+      "name": "cover-icon-frame-shield",
+      "bbox": [
+        886,
+        476,
+        132,
+        132
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/uhcbq9cz",
+      "id": "17",
+      "bbox": [
+        911,
+        501,
+        82,
+        82
+      ],
+      "alt": "Trust",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "d36cac7c-7ebb-43b1-97ff-0caee38f22f4",
+        "contentType": "image/png",
+        "byteLength": 894
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/etwvm14r",
+      "id": "18",
+      "name": "cover-footer",
+      "bbox": [
+        48,
+        566,
+        680,
+        28
+      ],
+      "geometry": "rect",
+      "text": "IDENTITY · AUTHORITY · EXECUTION · EVIDENCE",
+      "textPreview": "IDENTITY · AUTHORITY · EXECUTION · EVIDENCE",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IDENTITY · AUTHORITY · EXECUTION · EVIDENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IDENTITY · AUTHORITY · EXECUTION · EVIDENCE",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IDENTITY · AUTHORITY · EXECUTION · EVIDENCE",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

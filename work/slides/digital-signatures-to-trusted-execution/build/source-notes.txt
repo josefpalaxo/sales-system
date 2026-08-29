@@ -1,0 +1,14 @@
+Primary content source
+- work/ideas/From Digital Signatures to Trusted Execution.md
+
+Brand and production sources
+- .agents/skills/circularo-slides/references/brand-system.md
+- .agents/skills/circularo-slides/references/production-workflow.md
+- .agents/skills/circularo-slides/scripts/circularo-slide-system.mjs
+- Approved Circularo and Sovereign SVG icons under .agents/skills/circularo-slides/assets/icons/, rasterized locally for deterministic PPTX embedding.
+
+Evidence and qualification
+- The source references circularo-trusted-execution-commercial-model-v2.pptx, but that file is not present in the repository.
+- The deck therefore does not present its assurance matrix or country-specific execution recipes as approved commercial facts.
+- Assurance levels and Execution Profiles are presented as a conceptual model; market, provider, jurisdiction, and use-case requirements must be validated during solution design.
+- No prices, volumes, certification claims, performance claims, customer claims, or regulatory conclusions are introduced.

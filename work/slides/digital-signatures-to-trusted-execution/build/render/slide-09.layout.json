@@ -1,0 +1,1051 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/p10p4j",
+    "id": "p10p4j",
+    "slide": 9,
+    "layoutId": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/g3a5krup",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "8bf745d6-8f13-4b75-a133-6849ec9250ff",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd8by1or",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byhcr65w",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3at4bmt",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        700,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "textPreview": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4juxgne",
+      "id": "5",
+      "name": "partner-enablement-mark",
+      "bbox": [
+        890,
+        34,
+        290,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL & PARTNER ENABLEMENT",
+      "textPreview": "INTERNAL & PARTNER ENABLEMENT",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Mulish",
+        "color": "#667085",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL & PARTNER ENABLEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL & PARTNER ENABLEMENT",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Mulish",
+            "color": "#667085",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL & PARTNER ENABLEMENT",
+              "fontSize": 11.51,
+              "typeface": "Mulish",
+              "color": "#667085",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1sb214n",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1140,
+        132
+      ],
+      "geometry": "rect",
+      "text": "Agentic work raises the burden of proof",
+      "textPreview": "Agentic work raises the burden of proof",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agentic work raises the burden of proof"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agentic work raises the burden of proof",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agentic work raises the burden of proof",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z21cv658",
+      "id": "7",
+      "name": "agent-icon-frame",
+      "bbox": [
+        48,
+        236,
+        260,
+        340
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dc36lgbi",
+      "id": "8",
+      "bbox": [
+        115,
+        268,
+        150,
+        150
+      ],
+      "alt": "Governed AI agent",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "dedc2ef6-9178-4375-bb56-4df2028d49b9",
+        "contentType": "image/png",
+        "byteLength": 8895
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18fulcnu",
+      "id": "9",
+      "name": "agent-caption",
+      "bbox": [
+        80,
+        444,
+        220,
+        124
+      ],
+      "geometry": "rect",
+      "text": "AI increases the importance of identity, authority, policy, and evidence.",
+      "textPreview": "AI increases the importance of identity, authority, policy, and evidence.",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "fontSize": 21.51,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI increases the"
+          },
+          {
+            "index": 2,
+            "text": "importance of"
+          },
+          {
+            "index": 3,
+            "text": "identity, authority,"
+          },
+          {
+            "index": 4,
+            "text": "policy, and"
+          },
+          {
+            "index": 5,
+            "text": "evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI increases the importance of identity, authority, policy, and evidence.",
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI increases the importance of identity, authority, policy, and evidence.",
+              "fontSize": 21.51,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcfmhsb2",
+      "id": "10",
+      "name": "agent-question-dot-1",
+      "bbox": [
+        364,
+        246,
+        10,
+        10
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cb6l8nuh",
+      "id": "11",
+      "name": "agent-question-1",
+      "bbox": [
+        396,
+        236,
+        800,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Which agent acted—and on whose behalf?",
+      "textPreview": "Which agent acted—and on whose behalf?",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Which agent acted—and on whose behalf?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Which agent acted—and on whose behalf?",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Which agent acted—and on whose behalf?",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rax4f2tw",
+      "id": "12",
+      "name": "agent-question-dot-2",
+      "bbox": [
+        364,
+        304,
+        10,
+        10
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q9o36xcr",
+      "id": "13",
+      "name": "agent-question-2",
+      "bbox": [
+        396,
+        294,
+        800,
+        44
+      ],
+      "geometry": "rect",
+      "text": "What authority and policies governed it?",
+      "textPreview": "What authority and policies governed it?",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What authority and policies governed it?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What authority and policies governed it?",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What authority and policies governed it?",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10zmlcbe",
+      "id": "14",
+      "name": "agent-question-dot-3",
+      "bbox": [
+        364,
+        362,
+        10,
+        10
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0zq5c7ut",
+      "id": "15",
+      "name": "agent-question-3",
+      "bbox": [
+        396,
+        352,
+        800,
+        44
+      ],
+      "geometry": "rect",
+      "text": "What information did it rely on?",
+      "textPreview": "What information did it rely on?",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What information did it rely on?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What information did it rely on?",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What information did it rely on?",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyx4j2t8",
+      "id": "16",
+      "name": "agent-question-dot-4",
+      "bbox": [
+        364,
+        420,
+        10,
+        10
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/exo3axcn",
+      "id": "17",
+      "name": "agent-question-4",
+      "bbox": [
+        396,
+        410,
+        800,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Which trust services were applied?",
+      "textPreview": "Which trust services were applied?",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Which trust services were applied?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Which trust services were applied?",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Which trust services were applied?",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94zmpcba",
+      "id": "18",
+      "name": "agent-question-dot-5",
+      "bbox": [
+        364,
+        478,
+        10,
+        10
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3q5g7up",
+      "id": "19",
+      "name": "agent-question-5",
+      "bbox": [
+        396,
+        468,
+        800,
+        44
+      ],
+      "geometry": "rect",
+      "text": "What exactly happened?",
+      "textPreview": "What exactly happened?",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What exactly happened?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What exactly happened?",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What exactly happened?",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ypsv21",
+      "id": "20",
+      "name": "agent-question-dot-6",
+      "bbox": [
+        364,
+        536,
+        10,
+        10
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9876l0jm",
+      "id": "21",
+      "name": "agent-question-6",
+      "bbox": [
+        396,
+        526,
+        800,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Can the execution be proven afterwards?",
+      "textPreview": "Can the execution be proven afterwards?",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Can the execution be proven afterwards?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Can the execution be proven afterwards?",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Can the execution be proven afterwards?",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5g7qlkv",
+      "id": "22",
+      "name": "takeaway-accent",
+      "bbox": [
+        48,
+        594,
+        194,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76pojq1g",
+      "id": "23",
+      "name": "takeaway",
+      "bbox": [
+        48,
+        610,
+        1090,
+        52
+      ],
+      "geometry": "rect",
+      "text": "More autonomous work makes trusted execution infrastructure more important—not less.",
+      "textPreview": "More autonomous work makes trusted execution infrastructure more important—not less.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More autonomous work makes trusted execution infrastructure more important—not less."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More autonomous work makes trusted execution infrastructure more important—not less.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "More autonomous work makes trusted execution infrastructure more important—not less.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

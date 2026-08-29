@@ -1,0 +1,324 @@
+{"kind":"slide","id":"sl/fi8lf3","slide":1,"title":"01","textShapes":6}
+{"kind":"textbox","id":"sh/3yd8fq54","slide":1,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/2x4rml4j","slide":1,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/dofql0n6","slide":1,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/cn69cvm1","slide":1,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/b2d8jq5g","slide":1,"name":"cover-path","bbox":[846,0,434,720]}
+{"kind":"shape","id":"sh/q14rql4v","slide":1,"name":"cover-path-accent","bbox":[846,0,18,720]}
+{"kind":"textbox","id":"sh/tsbq9gn2","slide":1,"textChars":44,"textLines":2}
+{"kind":"textbox","id":"sh/sr2pgbmh","slide":1,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/i1cveh4j","slide":1,"name":"cover-icon-path-1","bbox":[958,244,98,78]}
+{"kind":"shape","id":"sh/j2lcnm54","slide":1,"name":"cover-icon-path-2","bbox":[958,404,98,80]}
+{"kind":"shape","id":"sh/43udgrmp","slide":1,"name":"cover-icon-frame-sovereign-sign","bbox":[886,148,132,132]}
+{"kind":"shape","id":"sh/65cvi14v","slide":1,"name":"cover-icon-frame-gear","bbox":[1048,312,132,132]}
+{"kind":"shape","id":"sh/s7edkbml","slide":1,"name":"cover-icon-frame-shield","bbox":[886,476,132,132]}
+{"kind":"textbox","id":"sh/etwvm14r","slide":1,"textChars":43,"textLines":1}
+{"kind":"image","id":"im/pw7udcvq","slide":1,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/6dcbm9cn","slide":1,"name":"","alt":"Digital signature","bbox":[911,173,82,82]}
+{"kind":"image","id":"im/gjutsjup","slide":1,"name":"","alt":"Execution","bbox":[1073,337,82,82]}
+{"kind":"image","id":"im/uhcbq9cz","slide":1,"name":"","alt":"Trust","bbox":[911,501,82,82]}
+{"kind":"notes","id":"nt/fi8lf3","slide":1,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/6znic0","slide":2,"title":"02","textShapes":13}
+{"kind":"textbox","id":"sh/vm5kruds","slide":2,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/ulc3ypw7","slide":2,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/9032pkvm","slide":2,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/8zulwfe1","slide":2,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/7ylknadg","slide":2,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/mxc3u5wv","slide":2,"name":"operating-line","bbox":[112,354,1056,3]}
+{"kind":"shape","id":"sh/lw32l0vq","slide":2,"name":"stage-frame-1","bbox":[156,272,112,112]}
+{"kind":"textbox","id":"sh/mh0bml4r","slide":2,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/7i9sfqlc","slide":2,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/8jitobmx","slide":2,"name":"stage-frame-2","bbox":[452,272,112,112]}
+{"kind":"textbox","id":"sh/ytgbi14f","slide":2,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/zupsb650","slide":2,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/kvytkbml","slide":2,"name":"stage-frame-3","bbox":[748,272,112,112]}
+{"kind":"textbox","id":"sh/qpgre14j","slide":2,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/bqps7654","slide":2,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/ful8f2lw","slide":2,"name":"stage-frame-4","bbox":[1044,272,112,112]}
+{"kind":"textbox","id":"sh/1w3qhs32","slide":2,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/gvupon2h","slide":2,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/3y58j21s","slide":2,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/2xw7qxk7","slide":2,"textChars":82,"textLines":1}
+{"kind":"image","id":"im/h8v2xwva","slide":2,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/lgbipcv2","slide":2,"name":"","alt":"Documents","bbox":[178,294,68,68]}
+{"kind":"image","id":"im/il83y9o3","slide":2,"name":"","alt":"Approvals","bbox":[474,294,68,68]}
+{"kind":"image","id":"im/uho3u9o7","slide":2,"name":"","alt":"Signatures","bbox":[770,294,68,68]}
+{"kind":"image","id":"im/l0jmh4fi","slide":2,"name":"","alt":"Work","bbox":[1066,294,68,68]}
+{"kind":"notes","id":"nt/6znic0","slide":2,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/yhgzkf","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/250zyh4z","slide":3,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/3690rmlk","slide":3,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/cbi14r2h","slide":3,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/dcbixw3m","slide":3,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/q90z2hkb","slide":3,"textChars":48,"textLines":1}
+{"kind":"textbox","id":"sh/ra90vmlw","slide":3,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/0z218b2d","slide":3,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/10bi1w3y","slide":3,"textChars":35,"textLines":1}
+{"kind":"shape","id":"sh/t43qhszi","slide":3,"name":"value-divider","bbox":[494,238,3,314]}
+{"kind":"textbox","id":"sh/s3ap8nyx","slide":3,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/7218fihc","slide":3,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/61s76xgr","slide":3,"textChars":67,"textLines":1}
+{"kind":"shape","id":"sh/hs3qlcze","slide":3,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/gru9c7yt","slide":3,"textChars":79,"textLines":1}
+{"kind":"image","id":"im/s3etkzml","slide":3,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/yhgzkf","slide":3,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/ml8waw","slide":4,"title":"04","textShapes":11}
+{"kind":"textbox","id":"sh/dcz6xw3i","slide":4,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/cbqpor2x","slide":4,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/zehoz6l8","slide":4,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/ed87q1kn","slide":4,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/1gzq1g3e","slide":4,"textChars":54,"textLines":1}
+{"kind":"shape","id":"sh/0fqpsb2t","slide":4,"name":"outcome-icon-frame-1","bbox":[70,238,88,88]}
+{"kind":"textbox","id":"sh/mh87ulkz","slide":4,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/cfm5cbep","slide":4,"name":"outcome-icon-frame-2","bbox":[462,238,88,88]}
+{"kind":"textbox","id":"sh/qd4nalwj","slide":4,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/redo36d4","slide":4,"name":"outcome-icon-frame-3","bbox":[854,238,88,88]}
+{"kind":"textbox","id":"sh/1kf690v6","slide":4,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/eh47elwv","slide":4,"name":"outcome-icon-frame-4","bbox":[70,396,88,88]}
+{"kind":"textbox","id":"sh/on6pkvex","slide":4,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/98f6d0vi","slide":4,"name":"outcome-icon-frame-5","bbox":[462,396,88,88]}
+{"kind":"textbox","id":"sh/w325ovm1","slide":4,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/v2tovq5g","slide":4,"name":"outcome-icon-frame-6","bbox":[854,396,88,88]}
+{"kind":"textbox","id":"sh/58v61kni","slide":4,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/k7mpsfmx","slide":4,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/j6doza5s","slide":4,"textChars":81,"textLines":1}
+{"kind":"image","id":"im/z6lgv6d4","slide":4,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/uxwfa5cr","slide":4,"name":"","alt":"Approve a decision","bbox":[87,255,54,54]}
+{"kind":"image","id":"im/uhkzyxsv","slide":4,"name":"","alt":"Execute an agreement","bbox":[479,255,54,54]}
+{"kind":"image","id":"im/7et0nit4","slide":4,"name":"","alt":"Issue an official record","bbox":[871,255,54,54]}
+{"kind":"image","id":"im/8f2hwnap","slide":4,"name":"","alt":"Validate an identity","bbox":[87,413,54,54]}
+{"kind":"image","id":"im/2583ylcb","slide":4,"name":"","alt":"Apply an organizational seal","bbox":[479,413,54,54]}
+{"kind":"image","id":"im/9sz2t0vm","slide":4,"name":"","alt":"Authorize an agent action","bbox":[871,413,54,54]}
+{"kind":"notes","id":"nt/ml8waw","slide":4,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/nk30z6","slide":5,"title":"05","textShapes":16}
+{"kind":"textbox","id":"sh/po7ilovu","slide":5,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/4nyhsjep","slide":5,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/rqp0ned0","slide":5,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/qpgzu9wf","slide":5,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/dsripov6","slide":5,"textChars":55,"textLines":1}
+{"kind":"textbox","id":"sh/cryhwjel","slide":5,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/zu90rydc","slide":5,"name":"events-spine","bbox":[94,378,1092,3]}
+{"kind":"shape","id":"sh/yt0jytwr","slide":5,"name":"event-node-1","bbox":[97.75,360,38,38]}
+{"kind":"textbox","id":"sh/wnulsbql","slide":5,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/xo3m1gr6","slide":5,"name":"event-node-2","bbox":[247.25,360,38,38]}
+{"kind":"textbox","id":"sh/a1c3q18f","slide":5,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/bml4z690","slide":5,"name":"event-node-3","bbox":[396.75,360,38,38]}
+{"kind":"textbox","id":"sh/krelwbqh","slide":5,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/lsnm5gr2","slide":5,"name":"event-node-4","bbox":[546.25,360,38,38]}
+{"kind":"textbox","id":"sh/ypw3u18r","slide":5,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/jq54369c","slide":5,"name":"event-node-5","bbox":[695.75,360,38,38]}
+{"kind":"textbox","id":"sh/8vel0vqt","slide":5,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/twnm90re","slide":5,"name":"event-node-6","bbox":[845.25,360,38,38]}
+{"kind":"textbox","id":"sh/hc3mtgji","slide":5,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/gbalkbix","slide":5,"name":"event-node-7","bbox":[994.75,360,38,38]}
+{"kind":"textbox","id":"sh/fa14rq1c","slide":5,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/u9s3il0r","slide":5,"name":"event-node-8","bbox":[1144.25,360,38,38]}
+{"kind":"textbox","id":"sh/pg3mx0ze","slide":5,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/4fulovit","slide":5,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/3el4vq1o","slide":5,"textChars":36,"textLines":1}
+{"kind":"shape","id":"sh/2dc3ml03","slide":5,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/5kj2lwja","slide":5,"textChars":85,"textLines":1}
+{"kind":"image","id":"im/3u503yxw","slide":5,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/nk30z6","slide":5,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/fndpbo","slide":6,"title":"06","textShapes":18}
+{"kind":"textbox","id":"sh/wbaxof2x","slide":6,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/xcjehkji","slide":6,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/mlsfi5kv","slide":6,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/nm1wba1g","slide":6,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/onaxkf21","slide":6,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/9ojedkjm","slide":6,"textChars":70,"textLines":1}
+{"kind":"shape","id":"sh/6hcfup0z","slide":6,"name":"assurance-baseline","bbox":[104,380,1072,4]}
+{"kind":"shape","id":"sh/7ilgnu1k","slide":6,"name":"assurance-node-1","bbox":[154,348,68,68]}
+{"kind":"textbox","id":"sh/jyt4jypo","slide":6,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ix03ato3","slide":6,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/50bml87u","slide":6,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/4z2lc369","slide":6,"name":"assurance-node-2","bbox":[456,348,68,68]}
+{"kind":"textbox","id":"sh/r2t4nip0","slide":6,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/61k3edof","slide":6,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/t4bmp87q","slide":6,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/s32lgn65","slide":6,"name":"assurance-node-3","bbox":[758,348,68,68]}
+{"kind":"textbox","id":"sh/f6d4ripw","slide":6,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/e5k3idob","slide":6,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/a1onqh8j","slide":6,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/bmxojm94","slide":6,"name":"assurance-node-4","bbox":[1060,348,68,68]}
+{"kind":"textbox","id":"sh/cn6psrqp","slide":6,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/xof6lwra","slide":6,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/2x4nmh8n","slide":6,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/nyxofm98","slide":6,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/oz65o7qd","slide":6,"textChars":80,"textLines":1}
+{"kind":"image","id":"im/yx0nm9o7","slide":6,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/fndpbo","slide":6,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/ybsq74","slide":7,"title":"07","textShapes":13}
+{"kind":"textbox","id":"sh/xk7qpgby","slide":7,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/wjy9gbad","slide":7,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/jmp8r6t4","slide":7,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/ylgrilsj","slide":7,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/lorqtgbu","slide":7,"textChars":74,"textLines":1}
+{"kind":"shape","id":"sh/kny9kbap","slide":7,"name":"profile-layer-1","bbox":[48,224,1070,70]}
+{"kind":"textbox","id":"sh/fq58fmtk","slide":7,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/epw76hcf","slide":7,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/8nulo3ut","slide":7,"name":"profile-layer-2","bbox":[48,316,976,70]}
+{"kind":"textbox","id":"sh/to3mx8ve","slide":7,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/6ls3mtc3","slide":7,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/7ml4vydo","slide":7,"name":"profile-layer-3","bbox":[48,408,882,70]}
+{"kind":"textbox","id":"sh/grulsnu5","slide":7,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/hs3m1svq","slide":7,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/upc3qdcz","slide":7,"name":"profile-layer-4","bbox":[48,500,788,70]}
+{"kind":"textbox","id":"sh/vql4zidk","slide":7,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/wvalgju1","slide":7,"textChars":55,"textLines":1}
+{"kind":"shape","id":"sh/xwj2pov6","slide":7,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/dsbitkna","slide":7,"textChars":75,"textLines":1}
+{"kind":"image","id":"im/vu5wnyx0","slide":7,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ybsq74","slide":7,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/ugmvxn","slide":8,"title":"08","textShapes":8}
+{"kind":"textbox","id":"sh/uh8z2x8v","slide":8,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/vihgv29g","slide":8,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/47qh87qx","slide":8,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/58jy1cri","slide":8,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/i58z6h87","slide":8,"textChars":43,"textLines":1}
+{"kind":"shape","id":"sh/36hgz29s","slide":8,"name":"layer-line-1","bbox":[640,262,2,60]}
+{"kind":"shape","id":"sh/kb6hwnat","slide":8,"name":"layer-line-2","bbox":[640,426,2,60]}
+{"kind":"textbox","id":"sh/lcfypsre","slide":8,"textChars":49,"textLines":1}
+{"kind":"shape","id":"sh/hszyx0r2","slide":8,"name":"trusted-layer","bbox":[164,322,952,104]}
+{"kind":"textbox","id":"sh/grqxovqh","slide":8,"textChars":33,"textLines":1}
+{"kind":"textbox","id":"sh/vqhgvq9w","slide":8,"textChars":110,"textLines":1}
+{"kind":"shape","id":"sh/up8f2l8b","slide":8,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/5wjy10ry","slide":8,"textChars":75,"textLines":1}
+{"kind":"image","id":"im/gn2p0fq1","slide":8,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ugmvxn","slide":8,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/p10p4j","slide":9,"title":"09","textShapes":12}
+{"kind":"textbox","id":"sh/qd8by1or","slide":9,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/byhcr65w","slide":9,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/k3at4bmt","slide":9,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/l4juxgne","slide":9,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/y1sb214n","slide":9,"textChars":39,"textLines":1}
+{"kind":"shape","id":"sh/z21cv658","slide":9,"name":"agent-icon-frame","bbox":[48,236,260,340]}
+{"kind":"textbox","id":"sh/18fulcnu","slide":9,"textChars":73,"textLines":1}
+{"kind":"shape","id":"sh/dcfmhsb2","slide":9,"name":"agent-question-dot-1","bbox":[364,246,10,10]}
+{"kind":"textbox","id":"sh/cb6l8nuh","slide":9,"textChars":38,"textLines":1}
+{"kind":"shape","id":"sh/rax4f2tw","slide":9,"name":"agent-question-dot-2","bbox":[364,304,10,10]}
+{"kind":"textbox","id":"sh/q9o36xcr","slide":9,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/10zmlcbe","slide":9,"name":"agent-question-dot-3","bbox":[364,362,10,10]}
+{"kind":"textbox","id":"sh/0zq5c7ut","slide":9,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/zyx4j2t8","slide":9,"name":"agent-question-dot-4","bbox":[364,420,10,10]}
+{"kind":"textbox","id":"sh/exo3axcn","slide":9,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/94zmpcba","slide":9,"name":"agent-question-dot-5","bbox":[364,478,10,10]}
+{"kind":"textbox","id":"sh/o3q5g7up","slide":9,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/87ypsv21","slide":9,"name":"agent-question-dot-6","bbox":[364,536,10,10]}
+{"kind":"textbox","id":"sh/9876l0jm","slide":9,"textChars":39,"textLines":1}
+{"kind":"shape","id":"sh/m5g7qlkv","slide":9,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/76pojq1g","slide":9,"textChars":84,"textLines":1}
+{"kind":"image","id":"im/g3a5krup","slide":9,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/dc36lgbi","slide":9,"name":"","alt":"Governed AI agent","bbox":[115,268,150,150]}
+{"kind":"notes","id":"nt/p10p4j","slide":9,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/adqan2","slide":10,"title":"10","textShapes":17}
+{"kind":"textbox","id":"sh/gbqp0j61","slide":10,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/hczqtonm","slide":10,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/65o7upoz","slide":10,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/76x8nupk","slide":10,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/s76pwz65","slide":10,"textChars":56,"textLines":1}
+{"kind":"shape","id":"sh/t8fqp47q","slide":10,"name":"generation-block-1","bbox":[48,404,262,190]}
+{"kind":"textbox","id":"sh/q1s76to3","slide":10,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/b218zy5o","slide":10,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/bqdgnapk","slide":10,"textChars":22,"textLines":1}
+{"kind":"shape","id":"sh/qp4fu58z","slide":10,"name":"generation-block-2","bbox":[344,348,262,246]}
+{"kind":"textbox","id":"sh/dsvypk7q","slide":10,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/crmxwfq5","slide":10,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/zudgrupg","slide":10,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/yt4fyp8b","slide":10,"name":"generation-block-3","bbox":[640,292,262,302]}
+{"kind":"textbox","id":"sh/lwfytk7m","slide":10,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0v6x0fq1","slide":10,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/nixgvups","slide":10,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/mxof2p87","slide":10,"name":"generation-block-4","bbox":[936,236,262,358]}
+{"kind":"textbox","id":"sh/ipsraxwr","slide":10,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/jq1sj2dc","slide":10,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/4ru9cnex","slide":10,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/5s3alsv2","slide":10,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/u1sr6dwf","slide":10,"textChars":93,"textLines":1}
+{"kind":"image","id":"im/6p47q5cv","slide":10,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/adqan2","slide":10,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/dp0etz","slide":11,"title":"11","textShapes":14}
+{"kind":"textbox","id":"sh/qpkjator","slide":11,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/bqtk3ypc","slide":11,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/0vm1g36t","slide":11,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/lwv2987e","slide":11,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/yt4jeton","slide":11,"textChars":59,"textLines":1}
+{"kind":"shape","id":"sh/zudk7yp8","slide":11,"name":"proposition-band-1","bbox":[48,230,1184,98]}
+{"kind":"textbox","id":"sh/gzi14z6p","slide":11,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/10b2x47u","slide":11,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/54je90vy","slide":11,"textChars":61,"textLines":1}
+{"kind":"shape","id":"sh/43axgvud","slide":11,"name":"proposition-band-2","bbox":[48,356,1184,98]}
+{"kind":"textbox","id":"sh/ji1w7qds","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ihsfelc7","slide":11,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/t83edkbu","slide":11,"textChars":46,"textLines":1}
+{"kind":"shape","id":"sh/s7uxkfu9","slide":11,"name":"proposition-band-3","bbox":[48,482,1184,98]}
+{"kind":"textbox","id":"sh/r6lwbado","slide":11,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/65sfi5cj","slide":11,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/1c3yhkb6","slide":11,"textChars":62,"textLines":1}
+{"kind":"shape","id":"sh/0buxoful","slide":11,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/0f2hkj2h","slide":11,"textChars":68,"textLines":1}
+{"kind":"image","id":"im/orexkrmd","slide":11,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/dp0etz","slide":11,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/ckf6hu","slide":12,"title":"12","textShapes":14}
+{"kind":"textbox","id":"sh/6tov6147","slide":12,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/ruxwz6lc","slide":12,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/4rmd4bm1","slide":12,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/5svexg3m","slide":12,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/ip4v214v","slide":12,"textChars":58,"textLines":1}
+{"kind":"textbox","id":"sh/jqdwv6lg","slide":12,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/wnmd0rmp","slide":12,"name":"route-rule-1","bbox":[48,292,330,4]}
+{"kind":"textbox","id":"sh/hovetw3a","slide":12,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/xwnupc72","slide":12,"textChars":49,"textLines":1}
+{"kind":"textbox","id":"sh/wvedw7qh","slide":12,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/vu5cn2pc","slide":12,"name":"route-rule-2","bbox":[454,292,330,4]}
+{"kind":"textbox","id":"sh/atwvuh8r","slide":12,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/9snulc76","slide":12,"textChars":55,"textLines":1}
+{"kind":"textbox","id":"sh/8reds7ql","slide":12,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/nq5cj290","slide":12,"name":"route-rule-3","bbox":[860,292,330,4]}
+{"kind":"textbox","id":"sh/m5wbqx8f","slide":12,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/l43uhsru","slide":12,"textChars":49,"textLines":1}
+{"kind":"shape","id":"sh/03utonqp","slide":12,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/s7yd47y5","slide":12,"textChars":81,"textLines":1}
+{"kind":"image","id":"im/sjel4rqh","slide":12,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ckf6hu","slide":12,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/y1gchu","slide":13,"title":"13","textShapes":17}
+{"kind":"textbox","id":"sh/kzmxs3yp","slide":13,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/50vyl8fa","slide":13,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/614zudgv","slide":13,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/72dgnyxg","slide":13,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/s36hw3y1","slide":13,"textChars":56,"textLines":1}
+{"kind":"shape","id":"sh/t4fyp8fm","slide":13,"name":"partner-path","bbox":[112,370,1056,4]}
+{"kind":"shape","id":"sh/u5ozydgr","slide":13,"name":"partner-node-1","bbox":[148,334,72,72]}
+{"kind":"textbox","id":"sh/fqxgrixc","slide":13,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/7m9k7mpk","slide":13,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/m103ehoz","slide":13,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/9or29c7q","slide":13,"name":"partner-node-2","bbox":[450,334,72,72]}
+{"kind":"textbox","id":"sh/8nilgr65","slide":13,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/zy9kj2po","slide":13,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/yx03axo3","slide":13,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/l0r25c7e","slide":13,"name":"partner-node-3","bbox":[752,334,72,72]}
+{"kind":"textbox","id":"sh/kzilc76t","slide":13,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/jut4f6ps","slide":13,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/itk3m1o7","slide":13,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/e18fupcr","slide":13,"name":"partner-node-4","bbox":[1054,334,72,72]}
+{"kind":"textbox","id":"sh/f2hw3udc","slide":13,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0nqxwzux","slide":13,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/1oze54v2","slide":13,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/2p8fy9cn","slide":13,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/nqhg7ed8","slide":13,"textChars":77,"textLines":1}
+{"kind":"image","id":"im/m1g7q5gn","slide":13,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/y1gchu","slide":13,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"slide","id":"sl/0qpu9g","slide":14,"title":"14","textShapes":8}
+{"kind":"textbox","id":"sh/5oju543y","slide":14,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/4natczmd","slide":14,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/rqlc7elo","slide":14,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/6psbe943","slide":14,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/ts3u943u","slide":14,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/srutgjm9","slide":14,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/7uhcvalk","slide":14,"textChars":50,"textLines":1}
+{"kind":"textbox","id":"sh/mt8b254z","slide":14,"textChars":145,"textLines":1}
+{"kind":"shape","id":"sh/0nyx476l","slide":14,"name":"close-path","bbox":[48,582,1118,4]}
+{"kind":"textbox","id":"sh/1o7excnq","slide":14,"textChars":52,"textLines":1}
+{"kind":"image","id":"im/vmho3et0","slide":14,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/0qpu9g","slide":14,"text":"[Sources] | - work/ideas/From Digital Signatures to Trusted Execution.md | - ..."}
+{"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

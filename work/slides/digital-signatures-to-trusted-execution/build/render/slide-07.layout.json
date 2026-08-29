@@ -1,0 +1,1041 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ybsq74",
+    "id": "ybsq74",
+    "slide": 7,
+    "layoutId": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vu5wnyx0",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "7647a7cd-4e8d-4415-901f-f6e09b8b7e87",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xk7qpgby",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "07",
+      "textPreview": "07",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjy9gbad",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmp8r6t4",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        700,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "textPreview": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylgrilsj",
+      "id": "5",
+      "name": "partner-enablement-mark",
+      "bbox": [
+        890,
+        34,
+        290,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL & PARTNER ENABLEMENT",
+      "textPreview": "INTERNAL & PARTNER ENABLEMENT",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Mulish",
+        "color": "#667085",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL & PARTNER ENABLEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL & PARTNER ENABLEMENT",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Mulish",
+            "color": "#667085",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL & PARTNER ENABLEMENT",
+              "fontSize": 11.51,
+              "typeface": "Mulish",
+              "color": "#667085",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lorqtgbu",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1140,
+        132
+      ],
+      "geometry": "rect",
+      "text": "Execution Profiles adapt the trust recipe without changing the proposition",
+      "textPreview": "Execution Profiles adapt the trust recipe without changing the proposition",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Execution Profiles adapt the trust recipe without"
+          },
+          {
+            "index": 2,
+            "text": "changing the proposition"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Execution Profiles adapt the trust recipe without changing the proposition",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Execution Profiles adapt the trust recipe without changing the proposition",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kny9kbap",
+      "id": "7",
+      "name": "profile-layer-1",
+      "bbox": [
+        48,
+        224,
+        1070,
+        70
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineColor": "#D6C1FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fq58fmtk",
+      "id": "8",
+      "name": "profile-label-1",
+      "bbox": [
+        72,
+        244,
+        250,
+        28
+      ],
+      "geometry": "rect",
+      "text": "BUSINESS ACTION",
+      "textPreview": "BUSINESS ACTION",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BUSINESS ACTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BUSINESS ACTION",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BUSINESS ACTION",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epw76hcf",
+      "id": "9",
+      "name": "profile-detail-1",
+      "bbox": [
+        324,
+        242,
+        770,
+        34
+      ],
+      "geometry": "rect",
+      "text": "What the customer needs to accomplish",
+      "textPreview": "What the customer needs to accomplish",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "fontSize": 21.51,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "What the customer needs to accomplish"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "What the customer needs to accomplish",
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "What the customer needs to accomplish",
+              "fontSize": 21.51,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nulo3ut",
+      "id": "10",
+      "name": "profile-layer-2",
+      "bbox": [
+        48,
+        316,
+        976,
+        70
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineColor": "#D6C1FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/to3mx8ve",
+      "id": "11",
+      "name": "profile-label-2",
+      "bbox": [
+        72,
+        336,
+        250,
+        28
+      ],
+      "geometry": "rect",
+      "text": "ASSURANCE LEVEL",
+      "textPreview": "ASSURANCE LEVEL",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ASSURANCE LEVEL"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ASSURANCE LEVEL",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ASSURANCE LEVEL",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6ls3mtc3",
+      "id": "12",
+      "name": "profile-detail-2",
+      "bbox": [
+        324,
+        334,
+        676,
+        34
+      ],
+      "geometry": "rect",
+      "text": "How much trust the action requires",
+      "textPreview": "How much trust the action requires",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "fontSize": 21.51,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "How much trust the action requires"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "How much trust the action requires",
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "How much trust the action requires",
+              "fontSize": 21.51,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ml4vydo",
+      "id": "13",
+      "name": "profile-layer-3",
+      "bbox": [
+        48,
+        408,
+        882,
+        70
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/grulsnu5",
+      "id": "14",
+      "name": "profile-label-3",
+      "bbox": [
+        72,
+        428,
+        250,
+        28
+      ],
+      "geometry": "rect",
+      "text": "EXECUTION PROFILE",
+      "textPreview": "EXECUTION PROFILE",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EXECUTION PROFILE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EXECUTION PROFILE",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EXECUTION PROFILE",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hs3m1svq",
+      "id": "15",
+      "name": "profile-detail-3",
+      "bbox": [
+        324,
+        426,
+        582,
+        34
+      ],
+      "geometry": "rect",
+      "text": "The jurisdictional and provider-specific recipe",
+      "textPreview": "The jurisdictional and provider-specific recipe",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "fontSize": 21.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The jurisdictional and provider-specific recipe"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The jurisdictional and provider-specific recipe",
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The jurisdictional and provider-specific recipe",
+              "fontSize": 21.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upc3qdcz",
+      "id": "16",
+      "name": "profile-layer-4",
+      "bbox": [
+        48,
+        500,
+        788,
+        70
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1D0090",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vql4zidk",
+      "id": "17",
+      "name": "profile-label-4",
+      "bbox": [
+        72,
+        520,
+        150,
+        28
+      ],
+      "geometry": "rect",
+      "text": "TRUST EVENTS",
+      "textPreview": "TRUST EVENTS",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TRUST EVENTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TRUST EVENTS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TRUST EVENTS",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvalgju1",
+      "id": "18",
+      "name": "profile-detail-4",
+      "bbox": [
+        230,
+        518,
+        598,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Identity · Signature · Seal · Time · Evidence · Archive",
+      "textPreview": "Identity · Signature · Seal · Time · Evidence · Archive",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "fontSize": 21.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Identity · Signature · Seal · Time · Evidence · Archive"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Identity · Signature · Seal · Time · Evidence · Archive",
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Identity · Signature · Seal · Time · Evidence · Archive",
+              "fontSize": 21.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwj2pov6",
+      "id": "19",
+      "name": "takeaway-accent",
+      "bbox": [
+        48,
+        594,
+        194,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsbitkna",
+      "id": "20",
+      "name": "takeaway",
+      "bbox": [
+        48,
+        610,
+        1090,
+        52
+      ],
+      "geometry": "rect",
+      "text": "The customer-facing outcome stays simple while the execution recipe adapts.",
+      "textPreview": "The customer-facing outcome stays simple while the execution recipe adapts.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The customer-facing outcome stays simple while the execution recipe adapts."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The customer-facing outcome stays simple while the execution recipe adapts.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The customer-facing outcome stays simple while the execution recipe adapts.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

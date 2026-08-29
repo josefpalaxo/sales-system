@@ -1,0 +1,704 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ugmvxn",
+    "id": "ugmvxn",
+    "slide": 8,
+    "layoutId": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#1D0090",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/gn2p0fq1",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "bab27a10-2236-4e08-ab9d-bb4f8f6cb91b",
+        "contentType": "image/png",
+        "byteLength": 2197
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uh8z2x8v",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vihgv29g",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47qh87qx",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        700,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "textPreview": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58jy1cri",
+      "id": "5",
+      "name": "partner-enablement-mark",
+      "bbox": [
+        890,
+        34,
+        290,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL & PARTNER ENABLEMENT",
+      "textPreview": "INTERNAL & PARTNER ENABLEMENT",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL & PARTNER ENABLEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL & PARTNER ENABLEMENT",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL & PARTNER ENABLEMENT",
+              "fontSize": 11.51,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i58z6h87",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1140,
+        132
+      ],
+      "geometry": "rect",
+      "text": "Circularo connects the complete trust chain",
+      "textPreview": "Circularo connects the complete trust chain",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Circularo connects the complete trust chain"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Circularo connects the complete trust chain",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Circularo connects the complete trust chain",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hgz29s",
+      "id": "7",
+      "name": "layer-line-1",
+      "bbox": [
+        640,
+        262,
+        2,
+        60
+      ],
+      "geometry": "rect",
+      "fillColor": "#6E51DA",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6hwnat",
+      "id": "8",
+      "name": "layer-line-2",
+      "bbox": [
+        640,
+        426,
+        2,
+        60
+      ],
+      "geometry": "rect",
+      "fillColor": "#6E51DA",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcfypsre",
+      "id": "9",
+      "name": "layer-actors",
+      "bbox": [
+        160,
+        226,
+        960,
+        34
+      ],
+      "geometry": "rect",
+      "text": "PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS",
+      "textPreview": "PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hszyx0r2",
+      "id": "10",
+      "name": "trusted-layer",
+      "bbox": [
+        164,
+        322,
+        952,
+        104
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/grqxovqh",
+      "id": "11",
+      "name": "trusted-layer-label",
+      "bbox": [
+        220,
+        356,
+        840,
+        38
+      ],
+      "geometry": "rect",
+      "text": "CIRCULARO TRUSTED EXECUTION LAYER",
+      "textPreview": "CIRCULARO TRUSTED EXECUTION LAYER",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Spartan",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CIRCULARO TRUSTED EXECUTION LAYER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CIRCULARO TRUSTED EXECUTION LAYER",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CIRCULARO TRUSTED EXECUTION LAYER",
+              "fontSize": 29,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vqhgvq9w",
+      "id": "12",
+      "name": "trust-chain",
+      "bbox": [
+        112,
+        488,
+        1056,
+        76
+      ],
+      "geometry": "rect",
+      "text": "Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted Records",
+      "textPreview": "Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted Records",
+      "resolvedFontSize": 21.51,
+      "resolvedTextStyle": {
+        "fontSize": 21.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted"
+          },
+          {
+            "index": 2,
+            "text": "Records"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted Records",
+          "resolvedTextStyle": {
+            "fontSize": 21.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted Records",
+              "fontSize": 21.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/up8f2l8b",
+      "id": "13",
+      "name": "takeaway-accent",
+      "bbox": [
+        48,
+        594,
+        194,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjy10ry",
+      "id": "14",
+      "name": "takeaway",
+      "bbox": [
+        48,
+        610,
+        1090,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Circularo establishes trust in the entire execution—not only the signature.",
+      "textPreview": "Circularo establishes trust in the entire execution—not only the signature.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Circularo establishes trust in the entire execution—not only the signature."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Circularo establishes trust in the entire execution—not only the signature.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Circularo establishes trust in the entire execution—not only the signature.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

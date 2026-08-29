@@ -1,0 +1,326 @@
+{"kind":"deck","id":"pr/a7klhl","name":"Deck"}
+{"kind":"layout","layoutId":"a26555e7-98e0-4ef6-8912-70a097afa006","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3cd333ff-48b4-4ed3-8401-198baf35b7bb","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/fi8lf3","slide":1,"title":"01","textShapes":6}
+{"kind":"textbox","id":"sh/3yd8fq54","slide":1,"name":"page-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/2x4rml4j","slide":1,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/dofql0n6","slide":1,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/cn69cvm1","slide":1,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"shape","id":"sh/b2d8jq5g","slide":1,"name":"cover-path","bbox":[846,0,434,720]}
+{"kind":"shape","id":"sh/q14rql4v","slide":1,"name":"cover-path-accent","bbox":[846,0,18,720]}
+{"kind":"textbox","id":"sh/tsbq9gn2","slide":1,"name":"cover-title","text":"From Digital Signatures\nto Trusted Execution","textPreview":"From Digital Signatures | to Trusted Execution","textChars":44,"textLines":2,"bbox":[48,172,720,190]}
+{"kind":"textbox","id":"sh/sr2pgbmh","slide":1,"name":"cover-subtitle","text":"A shared narrative for Circularo teams and partners","textPreview":"A shared narrative for Circularo teams and partners","textChars":51,"textLines":1,"bbox":[48,402,650,58]}
+{"kind":"shape","id":"sh/i1cveh4j","slide":1,"name":"cover-icon-path-1","bbox":[958,244,98,78]}
+{"kind":"shape","id":"sh/j2lcnm54","slide":1,"name":"cover-icon-path-2","bbox":[958,404,98,80]}
+{"kind":"shape","id":"sh/43udgrmp","slide":1,"name":"cover-icon-frame-sovereign-sign","bbox":[886,148,132,132]}
+{"kind":"shape","id":"sh/65cvi14v","slide":1,"name":"cover-icon-frame-gear","bbox":[1048,312,132,132]}
+{"kind":"shape","id":"sh/s7edkbml","slide":1,"name":"cover-icon-frame-shield","bbox":[886,476,132,132]}
+{"kind":"textbox","id":"sh/etwvm14r","slide":1,"name":"cover-footer","text":"IDENTITY · AUTHORITY · EXECUTION · EVIDENCE","textPreview":"IDENTITY · AUTHORITY · EXECUTION · EVIDENCE","textChars":43,"textLines":1,"bbox":[48,566,680,28]}
+{"kind":"image","id":"im/pw7udcvq","slide":1,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/6dcbm9cn","slide":1,"name":"","alt":"Digital signature","bbox":[911,173,82,82]}
+{"kind":"image","id":"im/gjutsjup","slide":1,"name":"","alt":"Execution","bbox":[1073,337,82,82]}
+{"kind":"image","id":"im/uhcbq9cz","slide":1,"name":"","alt":"Trust","bbox":[911,501,82,82]}
+{"kind":"notes","id":"nt/fi8lf3","slide":1,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/digital-signatures-to-trusted-execution/assets/icons/"}
+{"kind":"slide","id":"sl/6znic0","slide":2,"title":"02","textShapes":13}
+{"kind":"textbox","id":"sh/vm5kruds","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/ulc3ypw7","slide":2,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/9032pkvm","slide":2,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/8zulwfe1","slide":2,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/7ylknadg","slide":2,"name":"slide-title","text":"The operating model is changing again","textPreview":"The operating model is changing again","textChars":37,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/mxc3u5wv","slide":2,"name":"operating-line","bbox":[112,354,1056,3]}
+{"kind":"shape","id":"sh/lw32l0vq","slide":2,"name":"stage-frame-1","bbox":[156,272,112,112]}
+{"kind":"textbox","id":"sh/mh0bml4r","slide":2,"name":"stage-title-1","text":"Documents","textPreview":"Documents","textChars":9,"textLines":1,"bbox":[84,418,256,42]}
+{"kind":"textbox","id":"sh/7i9sfqlc","slide":2,"name":"stage-detail-1","text":"Electronic","textPreview":"Electronic","textChars":10,"textLines":1,"bbox":[84,468,256,46]}
+{"kind":"shape","id":"sh/8jitobmx","slide":2,"name":"stage-frame-2","bbox":[452,272,112,112]}
+{"kind":"textbox","id":"sh/ytgbi14f","slide":2,"name":"stage-title-2","text":"Approvals","textPreview":"Approvals","textChars":9,"textLines":1,"bbox":[380,418,256,42]}
+{"kind":"textbox","id":"sh/zupsb650","slide":2,"name":"stage-detail-2","text":"Workflow-driven","textPreview":"Workflow-driven","textChars":15,"textLines":1,"bbox":[380,468,256,46]}
+{"kind":"shape","id":"sh/kvytkbml","slide":2,"name":"stage-frame-3","bbox":[748,272,112,112]}
+{"kind":"textbox","id":"sh/qpgre14j","slide":2,"name":"stage-title-3","text":"Signatures","textPreview":"Signatures","textChars":10,"textLines":1,"bbox":[676,418,256,42]}
+{"kind":"textbox","id":"sh/bqps7654","slide":2,"name":"stage-detail-3","text":"Digital","textPreview":"Digital","textChars":7,"textLines":1,"bbox":[676,468,256,46]}
+{"kind":"shape","id":"sh/ful8f2lw","slide":2,"name":"stage-frame-4","bbox":[1044,272,112,112]}
+{"kind":"textbox","id":"sh/1w3qhs32","slide":2,"name":"stage-title-4","text":"Work","textPreview":"Work","textChars":4,"textLines":1,"bbox":[972,418,256,42]}
+{"kind":"textbox","id":"sh/gvupon2h","slide":2,"name":"stage-detail-4","text":"Agent-assisted","textPreview":"Agent-assisted","textChars":14,"textLines":1,"bbox":[972,468,256,46]}
+{"kind":"shape","id":"sh/3y58j21s","slide":2,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/2xw7qxk7","slide":2,"name":"takeaway","text":"The question is no longer only who signed—it is who or what was authorized to act.","textPreview":"The question is no longer only who signed—it is who or what was authorized to act.","textChars":82,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/h8v2xwva","slide":2,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/lgbipcv2","slide":2,"name":"","alt":"Documents","bbox":[178,294,68,68]}
+{"kind":"image","id":"im/il83y9o3","slide":2,"name":"","alt":"Approvals","bbox":[474,294,68,68]}
+{"kind":"image","id":"im/uho3u9o7","slide":2,"name":"","alt":"Signatures","bbox":[770,294,68,68]}
+{"kind":"image","id":"im/l0jmh4fi","slide":2,"name":"","alt":"Work","bbox":[1066,294,68,68]}
+{"kind":"notes","id":"nt/6znic0","slide":2,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/digital-signatures-to-trusted-execution/assets/icons/"}
+{"kind":"slide","id":"sl/yhgzkf","slide":3,"title":"03","textShapes":11}
+{"kind":"textbox","id":"sh/250zyh4z","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/3690rmlk","slide":3,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/cbi14r2h","slide":3,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/dcbixw3m","slide":3,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/q90z2hkb","slide":3,"name":"slide-title","text":"Value is moving from access to trusted execution","textPreview":"Value is moving from access to trusted execution","textChars":48,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/ra90vmlw","slide":3,"name":"access-label","text":"TRADITIONAL VALUE SIGNAL","textPreview":"TRADITIONAL VALUE SIGNAL","textChars":24,"textLines":1,"bbox":[48,248,380,28]}
+{"kind":"textbox","id":"sh/0z218b2d","slide":3,"name":"access-title","text":"Access","textPreview":"Access","textChars":6,"textLines":1,"bbox":[48,300,380,64]}
+{"kind":"textbox","id":"sh/10bi1w3y","slide":3,"name":"access-body","text":"Users · Accounts · Seats · Licenses","textPreview":"Users · Accounts · Seats · Licenses","textChars":35,"textLines":1,"bbox":[48,382,430,90]}
+{"kind":"shape","id":"sh/t43qhszi","slide":3,"name":"value-divider","bbox":[494,238,3,314]}
+{"kind":"textbox","id":"sh/s3ap8nyx","slide":3,"name":"execution-label","text":"EMERGING VALUE SIGNAL","textPreview":"EMERGING VALUE SIGNAL","textChars":21,"textLines":1,"bbox":[558,248,500,28]}
+{"kind":"textbox","id":"sh/7218fihc","slide":3,"name":"execution-title","text":"Trusted execution","textPreview":"Trusted execution","textChars":17,"textLines":1,"bbox":[558,300,610,64]}
+{"kind":"textbox","id":"sh/61s76xgr","slide":3,"name":"execution-body","text":"Identity · Authority · Approval · Integrity · Evidence · Compliance","textPreview":"Identity · Authority · Approval · Integrity · Evidence · Compliance","textChars":67,"textLines":1,"bbox":[558,382,600,106]}
+{"kind":"shape","id":"sh/hs3qlcze","slide":3,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/gru9c7yt","slide":3,"name":"takeaway","text":"Human participation may decrease while meaningful platform execution increases.","textPreview":"Human participation may decrease while meaningful platform execution increases.","textChars":79,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/s3etkzml","slide":3,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/yhgzkf","slide":3,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/ml8waw","slide":4,"title":"04","textShapes":11}
+{"kind":"textbox","id":"sh/dcz6xw3i","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/cbqpor2x","slide":4,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/zehoz6l8","slide":4,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/ed87q1kn","slide":4,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/1gzq1g3e","slide":4,"name":"slide-title","text":"A Trusted Execution is the customer’s business outcome","textPreview":"A Trusted Execution is the customer’s business outcome","textChars":54,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/0fqpsb2t","slide":4,"name":"outcome-icon-frame-1","bbox":[70,238,88,88]}
+{"kind":"textbox","id":"sh/mh87ulkz","slide":4,"name":"outcome-label-1","text":"Approve a decision","textPreview":"Approve a decision","textChars":18,"textLines":1,"bbox":[182,259,250,62]}
+{"kind":"shape","id":"sh/cfm5cbep","slide":4,"name":"outcome-icon-frame-2","bbox":[462,238,88,88]}
+{"kind":"textbox","id":"sh/qd4nalwj","slide":4,"name":"outcome-label-2","text":"Execute an agreement","textPreview":"Execute an agreement","textChars":20,"textLines":1,"bbox":[574,259,250,62]}
+{"kind":"shape","id":"sh/redo36d4","slide":4,"name":"outcome-icon-frame-3","bbox":[854,238,88,88]}
+{"kind":"textbox","id":"sh/1kf690v6","slide":4,"name":"outcome-label-3","text":"Issue an official record","textPreview":"Issue an official record","textChars":24,"textLines":1,"bbox":[966,259,250,62]}
+{"kind":"shape","id":"sh/eh47elwv","slide":4,"name":"outcome-icon-frame-4","bbox":[70,396,88,88]}
+{"kind":"textbox","id":"sh/on6pkvex","slide":4,"name":"outcome-label-4","text":"Validate an identity","textPreview":"Validate an identity","textChars":20,"textLines":1,"bbox":[182,417,250,62]}
+{"kind":"shape","id":"sh/98f6d0vi","slide":4,"name":"outcome-icon-frame-5","bbox":[462,396,88,88]}
+{"kind":"textbox","id":"sh/w325ovm1","slide":4,"name":"outcome-label-5","text":"Apply an organizational seal","textPreview":"Apply an organizational seal","textChars":28,"textLines":1,"bbox":[574,417,250,62]}
+{"kind":"shape","id":"sh/v2tovq5g","slide":4,"name":"outcome-icon-frame-6","bbox":[854,396,88,88]}
+{"kind":"textbox","id":"sh/58v61kni","slide":4,"name":"outcome-label-6","text":"Authorize an agent action","textPreview":"Authorize an agent action","textChars":25,"textLines":1,"bbox":[966,417,250,62]}
+{"kind":"shape","id":"sh/k7mpsfmx","slide":4,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/j6doza5s","slide":4,"name":"takeaway","text":"Customers buy the business action—not the cryptographic operations underneath it.","textPreview":"Customers buy the business action—not the cryptographic operations underneath it.","textChars":81,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/z6lgv6d4","slide":4,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/uxwfa5cr","slide":4,"name":"","alt":"Approve a decision","bbox":[87,255,54,54]}
+{"kind":"image","id":"im/uhkzyxsv","slide":4,"name":"","alt":"Execute an agreement","bbox":[479,255,54,54]}
+{"kind":"image","id":"im/7et0nit4","slide":4,"name":"","alt":"Issue an official record","bbox":[871,255,54,54]}
+{"kind":"image","id":"im/8f2hwnap","slide":4,"name":"","alt":"Validate an identity","bbox":[87,413,54,54]}
+{"kind":"image","id":"im/2583ylcb","slide":4,"name":"","alt":"Apply an organizational seal","bbox":[479,413,54,54]}
+{"kind":"image","id":"im/9sz2t0vm","slide":4,"name":"","alt":"Authorize an agent action","bbox":[871,413,54,54]}
+{"kind":"notes","id":"nt/ml8waw","slide":4,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/digital-signatures-to-trusted-execution/assets/icons/"}
+{"kind":"slide","id":"sl/nk30z6","slide":5,"title":"05","textShapes":16}
+{"kind":"textbox","id":"sh/po7ilovu","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/4nyhsjep","slide":5,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/rqp0ned0","slide":5,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/qpgzu9wf","slide":5,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/dsripov6","slide":5,"name":"slide-title","text":"One Trusted Execution can orchestrate many Trust Events","textPreview":"One Trusted Execution can orchestrate many Trust Events","textChars":55,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/cryhwjel","slide":5,"name":"employment-outcome","text":"EMPLOYMENT AGREEMENT EXECUTED","textPreview":"EMPLOYMENT AGREEMENT EXECUTED","textChars":29,"textLines":1,"bbox":[332,224,616,56]}
+{"kind":"shape","id":"sh/zu90rydc","slide":5,"name":"events-spine","bbox":[94,378,1092,3]}
+{"kind":"shape","id":"sh/yt0jytwr","slide":5,"name":"event-node-1","bbox":[97.75,360,38,38]}
+{"kind":"textbox","id":"sh/wnulsbql","slide":5,"name":"event-label-1","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[45,306,143.5,44]}
+{"kind":"shape","id":"sh/xo3m1gr6","slide":5,"name":"event-node-2","bbox":[247.25,360,38,38]}
+{"kind":"textbox","id":"sh/a1c3q18f","slide":5,"name":"event-label-2","text":"Auth","textPreview":"Auth","textChars":4,"textLines":1,"bbox":[194.5,426,143.5,44]}
+{"kind":"shape","id":"sh/bml4z690","slide":5,"name":"event-node-3","bbox":[396.75,360,38,38]}
+{"kind":"textbox","id":"sh/krelwbqh","slide":5,"name":"event-label-3","text":"OTP","textPreview":"OTP","textChars":3,"textLines":1,"bbox":[344,306,143.5,44]}
+{"kind":"shape","id":"sh/lsnm5gr2","slide":5,"name":"event-node-4","bbox":[546.25,360,38,38]}
+{"kind":"textbox","id":"sh/ypw3u18r","slide":5,"name":"event-label-4","text":"Signature","textPreview":"Signature","textChars":9,"textLines":1,"bbox":[493.5,426,143.5,44]}
+{"kind":"shape","id":"sh/jq54369c","slide":5,"name":"event-node-5","bbox":[695.75,360,38,38]}
+{"kind":"textbox","id":"sh/8vel0vqt","slide":5,"name":"event-label-5","text":"Seal","textPreview":"Seal","textChars":4,"textLines":1,"bbox":[643,306,143.5,44]}
+{"kind":"shape","id":"sh/twnm90re","slide":5,"name":"event-node-6","bbox":[845.25,360,38,38]}
+{"kind":"textbox","id":"sh/hc3mtgji","slide":5,"name":"event-label-6","text":"Timestamp","textPreview":"Timestamp","textChars":9,"textLines":1,"bbox":[792.5,426,143.5,44]}
+{"kind":"shape","id":"sh/gbalkbix","slide":5,"name":"event-node-7","bbox":[994.75,360,38,38]}
+{"kind":"textbox","id":"sh/fa14rq1c","slide":5,"name":"event-label-7","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[942,306,143.5,44]}
+{"kind":"shape","id":"sh/u9s3il0r","slide":5,"name":"event-node-8","bbox":[1144.25,360,38,38]}
+{"kind":"textbox","id":"sh/pg3mx0ze","slide":5,"name":"event-label-8","text":"Archive","textPreview":"Archive","textChars":7,"textLines":1,"bbox":[1091.5,426,143.5,44]}
+{"kind":"textbox","id":"sh/4fulovit","slide":5,"name":"execution-value-label","text":"Trusted Execution = customer value","textPreview":"Trusted Execution = customer value","textChars":34,"textLines":1,"bbox":[110,520,490,42]}
+{"kind":"textbox","id":"sh/3el4vq1o","slide":5,"name":"event-operations-label","text":"Trust Events = underlying operations","textPreview":"Trust Events = underlying operations","textChars":36,"textLines":1,"bbox":[680,520,490,42]}
+{"kind":"shape","id":"sh/2dc3ml03","slide":5,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/5kj2lwja","slide":5,"name":"takeaway","text":"The exact event recipe depends on the required assurance, jurisdiction, and scenario.","textPreview":"The exact event recipe depends on the required assurance, jurisdiction, and scenario.","textChars":85,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/3u503yxw","slide":5,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/nk30z6","slide":5,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/fndpbo","slide":6,"title":"06","textShapes":18}
+{"kind":"textbox","id":"sh/wbaxof2x","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/xcjehkji","slide":6,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/mlsfi5kv","slide":6,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/nm1wba1g","slide":6,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/onaxkf21","slide":6,"name":"slide-title","text":"Assurance is a business decision","textPreview":"Assurance is a business decision","textChars":32,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/9ojedkjm","slide":6,"name":"assurance-question","text":"What are you trying to execute—and how much assurance does it require?","textPreview":"What are you trying to execute—and how much assurance does it require?","textChars":70,"textLines":1,"bbox":[48,214,1100,58]}
+{"kind":"shape","id":"sh/6hcfup0z","slide":6,"name":"assurance-baseline","bbox":[104,380,1072,4]}
+{"kind":"shape","id":"sh/7ilgnu1k","slide":6,"name":"assurance-node-1","bbox":[154,348,68,68]}
+{"kind":"textbox","id":"sh/jyt4jypo","slide":6,"name":"assurance-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[167,368,42,25]}
+{"kind":"textbox","id":"sh/ix03ato3","slide":6,"name":"assurance-title-1","text":"Standard","textPreview":"Standard","textChars":8,"textLines":1,"bbox":[64,448,248,44]}
+{"kind":"textbox","id":"sh/50bml87u","slide":6,"name":"assurance-detail-1","text":"Authenticated access + audit","textPreview":"Authenticated access + audit","textChars":28,"textLines":1,"bbox":[64,502,248,80]}
+{"kind":"shape","id":"sh/4z2lc369","slide":6,"name":"assurance-node-2","bbox":[456,348,68,68]}
+{"kind":"textbox","id":"sh/r2t4nip0","slide":6,"name":"assurance-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[469,368,42,25]}
+{"kind":"textbox","id":"sh/61k3edof","slide":6,"name":"assurance-title-2","text":"Verified","textPreview":"Verified","textChars":8,"textLines":1,"bbox":[366,448,248,44]}
+{"kind":"textbox","id":"sh/t4bmp87q","slide":6,"name":"assurance-detail-2","text":"Stronger signer assurance","textPreview":"Stronger signer assurance","textChars":25,"textLines":1,"bbox":[366,502,248,80]}
+{"kind":"shape","id":"sh/s32lgn65","slide":6,"name":"assurance-node-3","bbox":[758,348,68,68]}
+{"kind":"textbox","id":"sh/f6d4ripw","slide":6,"name":"assurance-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[771,368,42,25]}
+{"kind":"textbox","id":"sh/e5k3idob","slide":6,"name":"assurance-title-3","text":"Identity verified","textPreview":"Identity verified","textChars":17,"textLines":1,"bbox":[668,448,248,44]}
+{"kind":"textbox","id":"sh/a1onqh8j","slide":6,"name":"assurance-detail-3","text":"Verified identity evidence","textPreview":"Verified identity evidence","textChars":26,"textLines":1,"bbox":[668,502,248,80]}
+{"kind":"shape","id":"sh/bmxojm94","slide":6,"name":"assurance-node-4","bbox":[1060,348,68,68]}
+{"kind":"textbox","id":"sh/cn6psrqp","slide":6,"name":"assurance-number-4","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1073,368,42,25]}
+{"kind":"textbox","id":"sh/xof6lwra","slide":6,"name":"assurance-title-4","text":"Qualified","textPreview":"Qualified","textChars":9,"textLines":1,"bbox":[970,448,248,44]}
+{"kind":"textbox","id":"sh/2x4nmh8n","slide":6,"name":"assurance-detail-4","text":"Jurisdiction-specific qualified services","textPreview":"Jurisdiction-specific qualified services","textChars":40,"textLines":1,"bbox":[970,502,248,80]}
+{"kind":"shape","id":"sh/nyxofm98","slide":6,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/oz65o7qd","slide":6,"name":"takeaway","text":"Illustrative model—validate the required assurance for each market and use case.","textPreview":"Illustrative model—validate the required assurance for each market and use case.","textChars":80,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/yx0nm9o7","slide":6,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/fndpbo","slide":6,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/ybsq74","slide":7,"title":"07","textShapes":13}
+{"kind":"textbox","id":"sh/xk7qpgby","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/wjy9gbad","slide":7,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/jmp8r6t4","slide":7,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/ylgrilsj","slide":7,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/lorqtgbu","slide":7,"name":"slide-title","text":"Execution Profiles adapt the trust recipe without changing the proposition","textPreview":"Execution Profiles adapt the trust recipe without changing the proposition","textChars":74,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/kny9kbap","slide":7,"name":"profile-layer-1","bbox":[48,224,1070,70]}
+{"kind":"textbox","id":"sh/fq58fmtk","slide":7,"name":"profile-label-1","text":"BUSINESS ACTION","textPreview":"BUSINESS ACTION","textChars":15,"textLines":1,"bbox":[72,244,250,28]}
+{"kind":"textbox","id":"sh/epw76hcf","slide":7,"name":"profile-detail-1","text":"What the customer needs to accomplish","textPreview":"What the customer needs to accomplish","textChars":37,"textLines":1,"bbox":[324,242,770,34]}
+{"kind":"shape","id":"sh/8nulo3ut","slide":7,"name":"profile-layer-2","bbox":[48,316,976,70]}
+{"kind":"textbox","id":"sh/to3mx8ve","slide":7,"name":"profile-label-2","text":"ASSURANCE LEVEL","textPreview":"ASSURANCE LEVEL","textChars":15,"textLines":1,"bbox":[72,336,250,28]}
+{"kind":"textbox","id":"sh/6ls3mtc3","slide":7,"name":"profile-detail-2","text":"How much trust the action requires","textPreview":"How much trust the action requires","textChars":34,"textLines":1,"bbox":[324,334,676,34]}
+{"kind":"shape","id":"sh/7ml4vydo","slide":7,"name":"profile-layer-3","bbox":[48,408,882,70]}
+{"kind":"textbox","id":"sh/grulsnu5","slide":7,"name":"profile-label-3","text":"EXECUTION PROFILE","textPreview":"EXECUTION PROFILE","textChars":17,"textLines":1,"bbox":[72,428,250,28]}
+{"kind":"textbox","id":"sh/hs3m1svq","slide":7,"name":"profile-detail-3","text":"The jurisdictional and provider-specific recipe","textPreview":"The jurisdictional and provider-specific recipe","textChars":47,"textLines":1,"bbox":[324,426,582,34]}
+{"kind":"shape","id":"sh/upc3qdcz","slide":7,"name":"profile-layer-4","bbox":[48,500,788,70]}
+{"kind":"textbox","id":"sh/vql4zidk","slide":7,"name":"profile-label-4","text":"TRUST EVENTS","textPreview":"TRUST EVENTS","textChars":12,"textLines":1,"bbox":[72,520,150,28]}
+{"kind":"textbox","id":"sh/wvalgju1","slide":7,"name":"profile-detail-4","text":"Identity · Signature · Seal · Time · Evidence · Archive","textPreview":"Identity · Signature · Seal · Time · Evidence · Archive","textChars":55,"textLines":1,"bbox":[230,518,598,34]}
+{"kind":"shape","id":"sh/xwj2pov6","slide":7,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/dsbitkna","slide":7,"name":"takeaway","text":"The customer-facing outcome stays simple while the execution recipe adapts.","textPreview":"The customer-facing outcome stays simple while the execution recipe adapts.","textChars":75,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/vu5wnyx0","slide":7,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ybsq74","slide":7,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/ugmvxn","slide":8,"title":"08","textShapes":8}
+{"kind":"textbox","id":"sh/uh8z2x8v","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/vihgv29g","slide":8,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/47qh87qx","slide":8,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/58jy1cri","slide":8,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/i58z6h87","slide":8,"name":"slide-title","text":"Circularo connects the complete trust chain","textPreview":"Circularo connects the complete trust chain","textChars":43,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/36hgz29s","slide":8,"name":"layer-line-1","bbox":[640,262,2,60]}
+{"kind":"shape","id":"sh/kb6hwnat","slide":8,"name":"layer-line-2","bbox":[640,426,2,60]}
+{"kind":"textbox","id":"sh/lcfypsre","slide":8,"name":"layer-actors","text":"PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS","textPreview":"PEOPLE · ORGANIZATIONS · APPLICATIONS · AI AGENTS","textChars":49,"textLines":1,"bbox":[160,226,960,34]}
+{"kind":"shape","id":"sh/hszyx0r2","slide":8,"name":"trusted-layer","bbox":[164,322,952,104]}
+{"kind":"textbox","id":"sh/grqxovqh","slide":8,"name":"trusted-layer-label","text":"CIRCULARO TRUSTED EXECUTION LAYER","textPreview":"CIRCULARO TRUSTED EXECUTION LAYER","textChars":33,"textLines":1,"bbox":[220,356,840,38]}
+{"kind":"textbox","id":"sh/vqhgvq9w","slide":8,"name":"trust-chain","text":"Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted Records","textPreview":"Identity · Authority · Workflow · Approval · Sign / Seal · Trust Services · Evidence · Audit · Trusted Records","textChars":110,"textLines":1,"bbox":[112,488,1056,76]}
+{"kind":"shape","id":"sh/up8f2l8b","slide":8,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/5wjy10ry","slide":8,"name":"takeaway","text":"Circularo establishes trust in the entire execution—not only the signature.","textPreview":"Circularo establishes trust in the entire execution—not only the signature.","textChars":75,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/gn2p0fq1","slide":8,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ugmvxn","slide":8,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/p10p4j","slide":9,"title":"09","textShapes":12}
+{"kind":"textbox","id":"sh/qd8by1or","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/byhcr65w","slide":9,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/k3at4bmt","slide":9,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/l4juxgne","slide":9,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/y1sb214n","slide":9,"name":"slide-title","text":"Agentic work raises the burden of proof","textPreview":"Agentic work raises the burden of proof","textChars":39,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/z21cv658","slide":9,"name":"agent-icon-frame","bbox":[48,236,260,340]}
+{"kind":"textbox","id":"sh/18fulcnu","slide":9,"name":"agent-caption","text":"AI increases the importance of identity, authority, policy, and evidence.","textPreview":"AI increases the importance of identity, authority, policy, and evidence.","textChars":73,"textLines":1,"bbox":[80,444,220,124]}
+{"kind":"shape","id":"sh/dcfmhsb2","slide":9,"name":"agent-question-dot-1","bbox":[364,246,10,10]}
+{"kind":"textbox","id":"sh/cb6l8nuh","slide":9,"name":"agent-question-1","text":"Which agent acted—and on whose behalf?","textPreview":"Which agent acted—and on whose behalf?","textChars":38,"textLines":1,"bbox":[396,236,800,44]}
+{"kind":"shape","id":"sh/rax4f2tw","slide":9,"name":"agent-question-dot-2","bbox":[364,304,10,10]}
+{"kind":"textbox","id":"sh/q9o36xcr","slide":9,"name":"agent-question-2","text":"What authority and policies governed it?","textPreview":"What authority and policies governed it?","textChars":40,"textLines":1,"bbox":[396,294,800,44]}
+{"kind":"shape","id":"sh/10zmlcbe","slide":9,"name":"agent-question-dot-3","bbox":[364,362,10,10]}
+{"kind":"textbox","id":"sh/0zq5c7ut","slide":9,"name":"agent-question-3","text":"What information did it rely on?","textPreview":"What information did it rely on?","textChars":32,"textLines":1,"bbox":[396,352,800,44]}
+{"kind":"shape","id":"sh/zyx4j2t8","slide":9,"name":"agent-question-dot-4","bbox":[364,420,10,10]}
+{"kind":"textbox","id":"sh/exo3axcn","slide":9,"name":"agent-question-4","text":"Which trust services were applied?","textPreview":"Which trust services were applied?","textChars":34,"textLines":1,"bbox":[396,410,800,44]}
+{"kind":"shape","id":"sh/94zmpcba","slide":9,"name":"agent-question-dot-5","bbox":[364,478,10,10]}
+{"kind":"textbox","id":"sh/o3q5g7up","slide":9,"name":"agent-question-5","text":"What exactly happened?","textPreview":"What exactly happened?","textChars":22,"textLines":1,"bbox":[396,468,800,44]}
+{"kind":"shape","id":"sh/87ypsv21","slide":9,"name":"agent-question-dot-6","bbox":[364,536,10,10]}
+{"kind":"textbox","id":"sh/9876l0jm","slide":9,"name":"agent-question-6","text":"Can the execution be proven afterwards?","textPreview":"Can the execution be proven afterwards?","textChars":39,"textLines":1,"bbox":[396,526,800,44]}
+{"kind":"shape","id":"sh/m5g7qlkv","slide":9,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/76pojq1g","slide":9,"name":"takeaway","text":"More autonomous work makes trusted execution infrastructure more important—not less.","textPreview":"More autonomous work makes trusted execution infrastructure more important—not less.","textChars":84,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/g3a5krup","slide":9,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"image","id":"im/dc36lgbi","slide":9,"name":"","alt":"Governed AI agent","bbox":[115,268,150,150]}
+{"kind":"notes","id":"nt/p10p4j","slide":9,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md\n- work/slides/digital-signatures-to-trusted-execution/assets/icons/sovereign-ai.png"}
+{"kind":"slide","id":"sl/adqan2","slide":10,"title":"10","textShapes":17}
+{"kind":"textbox","id":"sh/gbqp0j61","slide":10,"name":"page-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/hczqtonm","slide":10,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/65o7upoz","slide":10,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/76x8nupk","slide":10,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/s76pwz65","slide":10,"name":"slide-title","text":"Digital trust platforms are entering a fourth generation","textPreview":"Digital trust platforms are entering a fourth generation","textChars":56,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/t8fqp47q","slide":10,"name":"generation-block-1","bbox":[48,404,262,190]}
+{"kind":"textbox","id":"sh/q1s76to3","slide":10,"name":"generation-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[68,420,54,30]}
+{"kind":"textbox","id":"sh/b218zy5o","slide":10,"name":"generation-title-1","text":"Electronic signature","textPreview":"Electronic signature","textChars":20,"textLines":1,"bbox":[68,458,222,66]}
+{"kind":"textbox","id":"sh/bqdgnapk","slide":10,"name":"generation-body-1","text":"Digitize the signature","textPreview":"Digitize the signature","textChars":22,"textLines":1,"bbox":[68,520,222,60]}
+{"kind":"shape","id":"sh/qp4fu58z","slide":10,"name":"generation-block-2","bbox":[344,348,262,246]}
+{"kind":"textbox","id":"sh/dsvypk7q","slide":10,"name":"generation-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[364,364,54,30]}
+{"kind":"textbox","id":"sh/crmxwfq5","slide":10,"name":"generation-title-2","text":"Digital workflow","textPreview":"Digital workflow","textChars":16,"textLines":1,"bbox":[364,402,222,66]}
+{"kind":"textbox","id":"sh/zudgrupg","slide":10,"name":"generation-body-2","text":"Digitize the process","textPreview":"Digitize the process","textChars":20,"textLines":1,"bbox":[364,464,222,116]}
+{"kind":"shape","id":"sh/yt4fyp8b","slide":10,"name":"generation-block-3","bbox":[640,292,262,302]}
+{"kind":"textbox","id":"sh/lwfytk7m","slide":10,"name":"generation-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[660,308,54,30]}
+{"kind":"textbox","id":"sh/0v6x0fq1","slide":10,"name":"generation-title-3","text":"Unified digital trust","textPreview":"Unified digital trust","textChars":21,"textLines":1,"bbox":[660,346,222,66]}
+{"kind":"textbox","id":"sh/nixgvups","slide":10,"name":"generation-body-3","text":"Connect identity, workflow, trust, and evidence","textPreview":"Connect identity, workflow, trust, and evidence","textChars":47,"textLines":1,"bbox":[660,408,222,172]}
+{"kind":"shape","id":"sh/mxof2p87","slide":10,"name":"generation-block-4","bbox":[936,236,262,358]}
+{"kind":"textbox","id":"sh/ipsraxwr","slide":10,"name":"generation-number-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[956,252,54,30]}
+{"kind":"textbox","id":"sh/jq1sj2dc","slide":10,"name":"generation-title-4","text":"Trusted autonomous execution","textPreview":"Trusted autonomous execution","textChars":28,"textLines":1,"bbox":[956,290,222,96]}
+{"kind":"textbox","id":"sh/4ru9cnex","slide":10,"name":"generation-body-4","text":"Govern people, systems, and AI agents","textPreview":"Govern people, systems, and AI agents","textChars":37,"textLines":1,"bbox":[956,386,222,194]}
+{"kind":"shape","id":"sh/5s3alsv2","slide":10,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/u1sr6dwf","slide":10,"name":"takeaway","text":"Circularo’s strategic direction spans unified digital trust and trusted autonomous execution.","textPreview":"Circularo’s strategic direction spans unified digital trust and trusted autonomous execution.","textChars":93,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/6p47q5cv","slide":10,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/adqan2","slide":10,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/dp0etz","slide":11,"title":"11","textShapes":14}
+{"kind":"textbox","id":"sh/qpkjator","slide":11,"name":"page-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/bqtk3ypc","slide":11,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/0vm1g36t","slide":11,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/lwv2987e","slide":11,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/yt4jeton","slide":11,"name":"slide-title","text":"Access, execution, and trust form one strategic proposition","textPreview":"Access, execution, and trust form one strategic proposition","textChars":59,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/zudk7yp8","slide":11,"name":"proposition-band-1","bbox":[48,230,1184,98]}
+{"kind":"textbox","id":"sh/gzi14z6p","slide":11,"name":"proposition-label-1","text":"ACCESS","textPreview":"ACCESS","textChars":6,"textLines":1,"bbox":[76,250,174,28]}
+{"kind":"textbox","id":"sh/10b2x47u","slide":11,"name":"proposition-title-1","text":"Make participation easy","textPreview":"Make participation easy","textChars":23,"textLines":1,"bbox":[252,248,392,34]}
+{"kind":"textbox","id":"sh/54je90vy","slide":11,"name":"proposition-detail-1","text":"People · Organizations · Applications · External participants","textPreview":"People · Organizations · Applications · External participants","textChars":61,"textLines":1,"bbox":[660,250,526,54]}
+{"kind":"shape","id":"sh/43axgvud","slide":11,"name":"proposition-band-2","bbox":[48,356,1184,98]}
+{"kind":"textbox","id":"sh/ji1w7qds","slide":11,"name":"proposition-label-2","text":"EXECUTION","textPreview":"EXECUTION","textChars":9,"textLines":1,"bbox":[76,376,174,28]}
+{"kind":"textbox","id":"sh/ihsfelc7","slide":11,"name":"proposition-title-2","text":"Make digital work intelligent","textPreview":"Make digital work intelligent","textChars":29,"textLines":1,"bbox":[252,374,392,34]}
+{"kind":"textbox","id":"sh/t83edkbu","slide":11,"name":"proposition-detail-2","text":"Workflows · Documents · APIs · Automation · AI","textPreview":"Workflows · Documents · APIs · Automation · AI","textChars":46,"textLines":1,"bbox":[660,376,526,54]}
+{"kind":"shape","id":"sh/s7uxkfu9","slide":11,"name":"proposition-band-3","bbox":[48,482,1184,98]}
+{"kind":"textbox","id":"sh/r6lwbado","slide":11,"name":"proposition-label-3","text":"TRUST","textPreview":"TRUST","textChars":5,"textLines":1,"bbox":[76,502,174,28]}
+{"kind":"textbox","id":"sh/65sfi5cj","slide":11,"name":"proposition-title-3","text":"Make the outcome verifiable","textPreview":"Make the outcome verifiable","textChars":27,"textLines":1,"bbox":[252,500,392,34]}
+{"kind":"textbox","id":"sh/1c3yhkb6","slide":11,"name":"proposition-detail-3","text":"Identity · Authority · Signatures · Seals · Evidence · Records","textPreview":"Identity · Authority · Signatures · Seals · Evidence · Records","textChars":62,"textLines":1,"bbox":[660,502,526,54]}
+{"kind":"shape","id":"sh/0buxoful","slide":11,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/0f2hkj2h","slide":11,"name":"takeaway","text":"Make access easy. Make execution intelligent. Make trust verifiable.","textPreview":"Make access easy. Make execution intelligent. Make trust verifiable.","textChars":68,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/orexkrmd","slide":11,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/dp0etz","slide":11,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/ckf6hu","slide":12,"title":"12","textShapes":14}
+{"kind":"textbox","id":"sh/6tov6147","slide":12,"name":"page-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/ruxwz6lc","slide":12,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/4rmd4bm1","slide":12,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/5svexg3m","slide":12,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/ip4v214v","slide":12,"name":"slide-title","text":"One trusted execution model supports three delivery routes","textPreview":"One trusted execution model supports three delivery routes","textChars":58,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"textbox","id":"sh/jqdwv6lg","slide":12,"name":"route-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,232,90,46]}
+{"kind":"shape","id":"sh/wnmd0rmp","slide":12,"name":"route-rule-1","bbox":[48,292,330,4]}
+{"kind":"textbox","id":"sh/hovetw3a","slide":12,"name":"route-title-1","text":"Circularo SaaS","textPreview":"Circularo SaaS","textChars":14,"textLines":1,"bbox":[48,328,350,76]}
+{"kind":"textbox","id":"sh/xwnupc72","slide":12,"name":"route-body-1","text":"Managed trusted execution for enterprise adoption","textPreview":"Managed trusted execution for enterprise adoption","textChars":49,"textLines":1,"bbox":[48,424,350,112]}
+{"kind":"textbox","id":"sh/wvedw7qh","slide":12,"name":"route-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[454,232,90,46]}
+{"kind":"shape","id":"sh/vu5cn2pc","slide":12,"name":"route-rule-2","bbox":[454,292,330,4]}
+{"kind":"textbox","id":"sh/atwvuh8r","slide":12,"name":"route-title-2","text":"Sovereign deployments","textPreview":"Sovereign deployments","textChars":21,"textLines":1,"bbox":[454,328,350,76]}
+{"kind":"textbox","id":"sh/9snulc76","slide":12,"name":"route-body-2","text":"Customer-controlled execution within a defined boundary","textPreview":"Customer-controlled execution within a defined boundary","textChars":55,"textLines":1,"bbox":[454,424,350,112]}
+{"kind":"textbox","id":"sh/8reds7ql","slide":12,"name":"route-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[860,232,90,46]}
+{"kind":"shape","id":"sh/nq5cj290","slide":12,"name":"route-rule-3","bbox":[860,292,330,4]}
+{"kind":"textbox","id":"sh/m5wbqx8f","slide":12,"name":"route-title-3","text":"Government shared services","textPreview":"Government shared services","textChars":26,"textLines":1,"bbox":[860,328,350,76]}
+{"kind":"textbox","id":"sh/l43uhsru","slide":12,"name":"route-body-3","text":"Reusable trusted execution across public entities","textPreview":"Reusable trusted execution across public entities","textChars":49,"textLines":1,"bbox":[860,424,350,112]}
+{"kind":"shape","id":"sh/03utonqp","slide":12,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/s7yd47y5","slide":12,"name":"takeaway","text":"Delivery varies; authority, assurance, execution, and evidence remain consistent.","textPreview":"Delivery varies; authority, assurance, execution, and evidence remain consistent.","textChars":81,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/sjel4rqh","slide":12,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ckf6hu","slide":12,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/y1gchu","slide":13,"title":"13","textShapes":17}
+{"kind":"textbox","id":"sh/kzmxs3yp","slide":13,"name":"page-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/50vyl8fa","slide":13,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/614zudgv","slide":13,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/72dgnyxg","slide":13,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/s36hw3y1","slide":13,"name":"slide-title","text":"Partners can turn the model into a repeatable engagement","textPreview":"Partners can turn the model into a repeatable engagement","textChars":56,"textLines":1,"bbox":[48,96,1140,132]}
+{"kind":"shape","id":"sh/t4fyp8fm","slide":13,"name":"partner-path","bbox":[112,370,1056,4]}
+{"kind":"shape","id":"sh/u5ozydgr","slide":13,"name":"partner-node-1","bbox":[148,334,72,72]}
+{"kind":"textbox","id":"sh/fqxgrixc","slide":13,"name":"partner-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[162,356,44,28]}
+{"kind":"textbox","id":"sh/7m9k7mpk","slide":13,"name":"partner-title-1","text":"Identify the business action","textPreview":"Identify the business action","textChars":28,"textLines":1,"bbox":[60,438,248,74]}
+{"kind":"textbox","id":"sh/m103ehoz","slide":13,"name":"partner-body-1","text":"What outcome must execute?","textPreview":"What outcome must execute?","textChars":26,"textLines":1,"bbox":[60,512,248,62]}
+{"kind":"shape","id":"sh/9or29c7q","slide":13,"name":"partner-node-2","bbox":[450,334,72,72]}
+{"kind":"textbox","id":"sh/8nilgr65","slide":13,"name":"partner-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[464,356,44,28]}
+{"kind":"textbox","id":"sh/zy9kj2po","slide":13,"name":"partner-title-2","text":"Define assurance","textPreview":"Define assurance","textChars":16,"textLines":1,"bbox":[362,438,248,74]}
+{"kind":"textbox","id":"sh/yx03axo3","slide":13,"name":"partner-body-2","text":"How much trust does it require?","textPreview":"How much trust does it require?","textChars":31,"textLines":1,"bbox":[362,512,248,62]}
+{"kind":"shape","id":"sh/l0r25c7e","slide":13,"name":"partner-node-3","bbox":[752,334,72,72]}
+{"kind":"textbox","id":"sh/kzilc76t","slide":13,"name":"partner-number-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[766,356,44,28]}
+{"kind":"textbox","id":"sh/jut4f6ps","slide":13,"name":"partner-title-3","text":"Map the profile","textPreview":"Map the profile","textChars":15,"textLines":1,"bbox":[664,438,248,74]}
+{"kind":"textbox","id":"sh/itk3m1o7","slide":13,"name":"partner-body-3","text":"Which jurisdiction, providers, and events apply?","textPreview":"Which jurisdiction, providers, and events apply?","textChars":48,"textLines":1,"bbox":[664,512,248,62]}
+{"kind":"shape","id":"sh/e18fupcr","slide":13,"name":"partner-node-4","bbox":[1054,334,72,72]}
+{"kind":"textbox","id":"sh/f2hw3udc","slide":13,"name":"partner-number-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1068,356,44,28]}
+{"kind":"textbox","id":"sh/0nqxwzux","slide":13,"name":"partner-title-4","text":"Prove the execution","textPreview":"Prove the execution","textChars":19,"textLines":1,"bbox":[966,438,248,74]}
+{"kind":"textbox","id":"sh/1oze54v2","slide":13,"name":"partner-body-4","text":"What evidence and measurable outcome remain?","textPreview":"What evidence and measurable outcome remain?","textChars":44,"textLines":1,"bbox":[966,512,248,62]}
+{"kind":"shape","id":"sh/2p8fy9cn","slide":13,"name":"takeaway-accent","bbox":[48,594,194,3]}
+{"kind":"textbox","id":"sh/nqhg7ed8","slide":13,"name":"takeaway","text":"Lead with the outcome. Use assurance and Trust Events to design the solution.","textPreview":"Lead with the outcome. Use assurance and Trust Events to design the solution.","textChars":77,"textLines":1,"bbox":[48,610,1090,52]}
+{"kind":"image","id":"im/m1g7q5gn","slide":13,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/y1gchu","slide":13,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/0qpu9g","slide":14,"title":"14","textShapes":8}
+{"kind":"textbox","id":"sh/5oju543y","slide":14,"name":"page-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/4natczmd","slide":14,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/rqlc7elo","slide":14,"name":"slide-eyebrow","text":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textPreview":"FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION","textChars":44,"textLines":1,"bbox":[104,31,700,24]}
+{"kind":"textbox","id":"sh/6psbe943","slide":14,"name":"partner-enablement-mark","text":"INTERNAL & PARTNER ENABLEMENT","textPreview":"INTERNAL & PARTNER ENABLEMENT","textChars":29,"textLines":1,"bbox":[890,34,290,20]}
+{"kind":"textbox","id":"sh/ts3u943u","slide":14,"name":"close-kicker","text":"CORE MESSAGE","textPreview":"CORE MESSAGE","textChars":12,"textLines":1,"bbox":[48,130,380,28]}
+{"kind":"textbox","id":"sh/srutgjm9","slide":14,"name":"close-title","text":"Trust the entire execution.","textPreview":"Trust the entire execution.","textChars":27,"textLines":1,"bbox":[48,208,1060,92]}
+{"kind":"textbox","id":"sh/7uhcvalk","slide":14,"name":"close-signature","text":"Digital signatures establish trust in a signature.","textPreview":"Digital signatures establish trust in a signature.","textChars":50,"textLines":1,"bbox":[48,356,1040,50]}
+{"kind":"textbox","id":"sh/mt8b254z","slide":14,"name":"close-execution","text":"Circularo establishes trust in the complete execution—who or what acted, under which authority, what happened, and what can be proven afterwards.","textPreview":"Circularo establishes trust in the complete execution—who or what acted, under which authority, what happened, and what can be proven aft...","textChars":145,"textLines":1,"bbox":[48,430,1090,108]}
+{"kind":"shape","id":"sh/0nyx476l","slide":14,"name":"close-path","bbox":[48,582,1118,4]}
+{"kind":"textbox","id":"sh/1o7excnq","slide":14,"name":"close-footer","text":"AUTHORIZED · EXECUTED CORRECTLY · TRUSTED · PROVABLE","textPreview":"AUTHORIZED · EXECUTED CORRECTLY · TRUSTED · PROVABLE","textChars":52,"textLines":1,"bbox":[48,612,1080,30]}
+{"kind":"image","id":"im/vmho3et0","slide":14,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/0qpu9g","slide":14,"text":"[Sources]\n- work/ideas/From Digital Signatures to Trusted Execution.md\n- .agents/skills/circularo-slides/references/brand-system.md"}

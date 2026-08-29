@@ -1,0 +1,1095 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ml8waw",
+    "id": "ml8waw",
+    "slide": 4,
+    "layoutId": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "3cd333ff-48b4-4ed3-8401-198baf35b7bb",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "a26555e7-98e0-4ef6-8912-70a097afa006",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/z6lgv6d4",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "fc4ff266-dbd9-444b-b119-062c85cd06ae",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcz6xw3i",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cbqpor2x",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zehoz6l8",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        700,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "textPreview": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FROM DIGITAL SIGNATURES TO TRUSTED EXECUTION",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed87q1kn",
+      "id": "5",
+      "name": "partner-enablement-mark",
+      "bbox": [
+        890,
+        34,
+        290,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL & PARTNER ENABLEMENT",
+      "textPreview": "INTERNAL & PARTNER ENABLEMENT",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Mulish",
+        "color": "#667085",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL & PARTNER ENABLEMENT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL & PARTNER ENABLEMENT",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Mulish",
+            "color": "#667085",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL & PARTNER ENABLEMENT",
+              "fontSize": 11.51,
+              "typeface": "Mulish",
+              "color": "#667085",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gzq1g3e",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1140,
+        132
+      ],
+      "geometry": "rect",
+      "text": "A Trusted Execution is the customer’s business outcome",
+      "textPreview": "A Trusted Execution is the customer’s business outcome",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A Trusted Execution is the customer’s business"
+          },
+          {
+            "index": 2,
+            "text": "outcome"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A Trusted Execution is the customer’s business outcome",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A Trusted Execution is the customer’s business outcome",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fqpsb2t",
+      "id": "7",
+      "name": "outcome-icon-frame-1",
+      "bbox": [
+        70,
+        238,
+        88,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/uxwfa5cr",
+      "id": "8",
+      "bbox": [
+        87,
+        255,
+        54,
+        54
+      ],
+      "alt": "Approve a decision",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "8c58788e-8e53-4b8b-bb33-b1cdaf6d5b39",
+        "contentType": "image/png",
+        "byteLength": 717
+      }
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mh87ulkz",
+      "id": "9",
+      "name": "outcome-label-1",
+      "bbox": [
+        182,
+        259,
+        250,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Approve a decision",
+      "textPreview": "Approve a decision",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Approve a decision"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Approve a decision",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Approve a decision",
+              "fontSize": 23,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfm5cbep",
+      "id": "10",
+      "name": "outcome-icon-frame-2",
+      "bbox": [
+        462,
+        238,
+        88,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/uhkzyxsv",
+      "id": "11",
+      "bbox": [
+        479,
+        255,
+        54,
+        54
+      ],
+      "alt": "Execute an agreement",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "eeb2ee4b-5e95-41a2-b96a-4f4a5dfccc2f",
+        "contentType": "image/png",
+        "byteLength": 6775
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4nalwj",
+      "id": "12",
+      "name": "outcome-label-2",
+      "bbox": [
+        574,
+        259,
+        250,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Execute an agreement",
+      "textPreview": "Execute an agreement",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Execute an"
+          },
+          {
+            "index": 2,
+            "text": "agreement"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Execute an agreement",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Execute an agreement",
+              "fontSize": 23,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/redo36d4",
+      "id": "13",
+      "name": "outcome-icon-frame-3",
+      "bbox": [
+        854,
+        238,
+        88,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/7et0nit4",
+      "id": "14",
+      "bbox": [
+        871,
+        255,
+        54,
+        54
+      ],
+      "alt": "Issue an official record",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "c2fc20bc-4dd9-444e-a8f4-f44b8b3bc145",
+        "contentType": "image/png",
+        "byteLength": 345
+      }
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kf690v6",
+      "id": "15",
+      "name": "outcome-label-3",
+      "bbox": [
+        966,
+        259,
+        250,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Issue an official record",
+      "textPreview": "Issue an official record",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Issue an official"
+          },
+          {
+            "index": 2,
+            "text": "record"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Issue an official record",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Issue an official record",
+              "fontSize": 23,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eh47elwv",
+      "id": "16",
+      "name": "outcome-icon-frame-4",
+      "bbox": [
+        70,
+        396,
+        88,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/8f2hwnap",
+      "id": "17",
+      "bbox": [
+        87,
+        413,
+        54,
+        54
+      ],
+      "alt": "Validate an identity",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "8c767f73-c7a2-4409-9b39-60495ace5cff",
+        "contentType": "image/png",
+        "byteLength": 512
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/on6pkvex",
+      "id": "18",
+      "name": "outcome-label-4",
+      "bbox": [
+        182,
+        417,
+        250,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Validate an identity",
+      "textPreview": "Validate an identity",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Validate an identity"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Validate an identity",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Validate an identity",
+              "fontSize": 23,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98f6d0vi",
+      "id": "19",
+      "name": "outcome-icon-frame-5",
+      "bbox": [
+        462,
+        396,
+        88,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2583ylcb",
+      "id": "20",
+      "bbox": [
+        479,
+        413,
+        54,
+        54
+      ],
+      "alt": "Apply an organizational seal",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "584d23a7-1369-4cd1-9a64-b75ce6b99420",
+        "contentType": "image/png",
+        "byteLength": 894
+      }
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w325ovm1",
+      "id": "21",
+      "name": "outcome-label-5",
+      "bbox": [
+        574,
+        417,
+        250,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Apply an organizational seal",
+      "textPreview": "Apply an organizational seal",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Apply an"
+          },
+          {
+            "index": 2,
+            "text": "organizational seal"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Apply an organizational seal",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Apply an organizational seal",
+              "fontSize": 23,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v2tovq5g",
+      "id": "22",
+      "name": "outcome-icon-frame-6",
+      "bbox": [
+        854,
+        396,
+        88,
+        88
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/9sz2t0vm",
+      "id": "23",
+      "bbox": [
+        871,
+        413,
+        54,
+        54
+      ],
+      "alt": "Authorize an agent action",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6ff03f45-a55f-41b0-b3b4-f33208dad961",
+        "contentType": "image/png",
+        "byteLength": 8895
+      }
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58v61kni",
+      "id": "24",
+      "name": "outcome-label-6",
+      "bbox": [
+        966,
+        417,
+        250,
+        62
+      ],
+      "geometry": "rect",
+      "text": "Authorize an agent action",
+      "textPreview": "Authorize an agent action",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Authorize an agent"
+          },
+          {
+            "index": 2,
+            "text": "action"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Authorize an agent action",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Authorize an agent action",
+              "fontSize": 23,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k7mpsfmx",
+      "id": "25",
+      "name": "takeaway-accent",
+      "bbox": [
+        48,
+        594,
+        194,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6doza5s",
+      "id": "26",
+      "name": "takeaway",
+      "bbox": [
+        48,
+        610,
+        1090,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Customers buy the business action—not the cryptographic operations underneath it.",
+      "textPreview": "Customers buy the business action—not the cryptographic operations underneath it.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Customers buy the business action—not the cryptographic operations underneath it."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Customers buy the business action—not the cryptographic operations underneath it.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Customers buy the business action—not the cryptographic operations underneath it.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
