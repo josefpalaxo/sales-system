@@ -1,0 +1,25 @@
+Primary working source
+- work/ideas/About Circularo.md
+
+Supporting narrative
+- work/p1/decks/00-circularo-company.md
+
+Governed company record
+- shared/knowledge/company/circularo.md
+  Status: reviewed; classification: internal.
+  It confirms the Circularo public name but explicitly states that the general company
+  description, legal name, headquarters, category definition, and corporate proof are
+  not yet approved.
+
+Design system and assets
+- .agents/skills/circularo-slides/references/brand-system.md
+- .agents/skills/circularo-slides/assets/icons/circularo/*.svg
+- .agents/skills/circularo-slides/assets/icons/sovereign/*.svg
+
+Production decision
+The deck focuses on the working company narrative, platform role, delivery models,
+audiences, and engagement path. It omits unverified customer, deployment, compliance,
+certification, location, tenure, and traction claims.
+
+Source preservation
+The user-provided Markdown is read-only for this task and is not modified.

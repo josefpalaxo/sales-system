@@ -1,0 +1,1554 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/zw3cfc",
+    "id": "zw3cfc",
+    "slide": 9,
+    "layoutId": "2ca1b95a-2339-4467-923b-47ea058673da",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "eea8a28f-6aea-48a2-b75c-0c9e1f7463fd",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "2ca1b95a-2339-4467-923b-47ea058673da",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "eea8a28f-6aea-48a2-b75c-0c9e1f7463fd",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "eea8a28f-6aea-48a2-b75c-0c9e1f7463fd",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/h47y9on2",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6b4fd9e3-c1fa-4513-81db-aeb8bc17ca24",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyts3edc",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/exkru9c7",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwba14vm",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        700,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CIRCULARO SAAS",
+      "textPreview": "CIRCULARO SAAS",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CIRCULARO SAAS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CIRCULARO SAAS",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CIRCULARO SAAS",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sv29szu1",
+      "id": "5",
+      "name": "deck-mark",
+      "bbox": [
+        936,
+        31,
+        244,
+        22
+      ],
+      "geometry": "rect",
+      "text": "ENTERPRISE SALES NARRATIVE",
+      "textPreview": "ENTERPRISE SALES NARRATIVE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Mulish",
+        "color": "#667085",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENTERPRISE SALES NARRATIVE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENTERPRISE SALES NARRATIVE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Mulish",
+            "color": "#667085",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENTERPRISE SALES NARRATIVE",
+              "fontSize": 12,
+              "typeface": "Mulish",
+              "color": "#667085",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rutszudg",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1160,
+        132
+      ],
+      "geometry": "rect",
+      "text": "Circularo brings the platform capabilities together",
+      "textPreview": "Circularo brings the platform capabilities together",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Circularo brings the platform capabilities"
+          },
+          {
+            "index": 2,
+            "text": "together"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Circularo brings the platform capabilities together",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Circularo brings the platform capabilities together",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6t0rqpcv",
+      "id": "7",
+      "name": "s9-subtitle",
+      "bbox": [
+        48,
+        205,
+        1080,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Connected capability groups support the full lifecycle without forcing a fragmented trust model.",
+      "textPreview": "Connected capability groups support the full lifecycle without forcing a fragmented trust model.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Connected capability groups support the full lifecycle without forcing a fragmented trust model."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Connected capability groups support the full lifecycle without forcing a fragmented trust model.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Connected capability groups support the full lifecycle without forcing a fragmented trust model.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5srqx4va",
+      "id": "8",
+      "name": "s9-card-0",
+      "bbox": [
+        48,
+        278,
+        382.67,
+        146
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F8F9FC",
+      "lineColor": "#E4E7EC",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dcrih8na",
+      "id": "9",
+      "bbox": [
+        66,
+        302,
+        58,
+        58
+      ],
+      "alt": "Workflow + collaboration",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "717be8c3-2970-448f-9e91-3755fcdea725",
+        "contentType": "image/png",
+        "byteLength": 14082
+      }
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed4fe5wz",
+      "id": "10",
+      "name": "s9-title-0",
+      "bbox": [
+        138,
+        298,
+        274.67,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Workflow + collaboration",
+      "textPreview": "Workflow + collaboration",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Workflow + collaboration"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Workflow + collaboration",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Workflow + collaboration",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zedw7axk",
+      "id": "11",
+      "name": "s9-body-0",
+      "bbox": [
+        138,
+        356,
+        274.67,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Create, route, review, and coordinate work.",
+      "textPreview": "Create, route, review, and coordinate work.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Create, route, review, and"
+          },
+          {
+            "index": 2,
+            "text": "coordinate work."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Create, route, review, and coordinate work.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Create, route, review, and coordinate work.",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fmxgfe5",
+      "id": "12",
+      "name": "s9-card-1",
+      "bbox": [
+        448.67,
+        278,
+        382.67,
+        146
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F8F9FC",
+      "lineColor": "#E4E7EC",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/edw3mtwj",
+      "id": "13",
+      "bbox": [
+        466.67,
+        302,
+        58,
+        58
+      ],
+      "alt": "Approvals",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "46b95c3e-e812-4084-9a7f-075d13953660",
+        "contentType": "image/png",
+        "byteLength": 9862
+      }
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q94va5w3",
+      "id": "14",
+      "name": "s9-title-1",
+      "bbox": [
+        538.67,
+        298,
+        274.67,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Approvals",
+      "textPreview": "Approvals",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Approvals"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Approvals",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Approvals",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/radw3axo",
+      "id": "15",
+      "name": "s9-body-1",
+      "bbox": [
+        538.67,
+        356,
+        274.67,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Connect decisions to authority and policy.",
+      "textPreview": "Connect decisions to authority and policy.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Connect decisions to authority and"
+          },
+          {
+            "index": 2,
+            "text": "policy."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Connect decisions to authority and policy.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Connect decisions to authority and policy.",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sbmdcfe9",
+      "id": "16",
+      "name": "s9-card-2",
+      "bbox": [
+        849.33,
+        278,
+        382.67,
+        146
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F8F9FC",
+      "lineColor": "#E4E7EC",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6pw3itwn",
+      "id": "17",
+      "bbox": [
+        867.33,
+        302,
+        58,
+        58
+      ],
+      "alt": "eSignatures + trust services",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "fad272d1-3505-4a6f-8608-61790ea1ab62",
+        "contentType": "image/png",
+        "byteLength": 6775
+      }
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5kv6lwr",
+      "id": "18",
+      "name": "s9-title-2",
+      "bbox": [
+        939.33,
+        298,
+        274.67,
+        52
+      ],
+      "geometry": "rect",
+      "text": "eSignatures + trust services",
+      "textPreview": "eSignatures + trust services",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "eSignatures + trust"
+          },
+          {
+            "index": 2,
+            "text": "services"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "eSignatures + trust services",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "eSignatures + trust services",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36twzqxc",
+      "id": "19",
+      "name": "s9-body-2",
+      "bbox": [
+        939.33,
+        356,
+        274.67,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Execute personal and organizational trust events.",
+      "textPreview": "Execute personal and organizational trust events.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Execute personal and"
+          },
+          {
+            "index": 2,
+            "text": "organizational trust events."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Execute personal and organizational trust events.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Execute personal and organizational trust events.",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7q9c7md4",
+      "id": "20",
+      "name": "s9-card-3",
+      "bbox": [
+        48,
+        444,
+        382.67,
+        146
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F8F9FC",
+      "lineColor": "#E4E7EC",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/xsz61w3e",
+      "id": "21",
+      "bbox": [
+        66,
+        468,
+        58,
+        58
+      ],
+      "alt": "Identity",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "3d568120-89fe-4933-b241-6119412dd1b5",
+        "contentType": "image/png",
+        "byteLength": 9862
+      }
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcru9wva",
+      "id": "22",
+      "name": "s9-title-3",
+      "bbox": [
+        138,
+        464,
+        274.67,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Identity",
+      "textPreview": "Identity",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Identity"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Identity",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Identity",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bitgrup",
+      "id": "23",
+      "name": "s9-body-3",
+      "bbox": [
+        138,
+        522,
+        274.67,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Establish actors and the required assurance context.",
+      "textPreview": "Establish actors and the required assurance context.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Establish actors and the required"
+          },
+          {
+            "index": 2,
+            "text": "assurance context."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Establish actors and the required assurance context.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Establish actors and the required assurance context.",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ve9cb6dg",
+      "id": "24",
+      "name": "s9-card-4",
+      "bbox": [
+        448.67,
+        444,
+        382.67,
+        146
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F8F9FC",
+      "lineColor": "#E4E7EC",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/9of6xc3i",
+      "id": "25",
+      "bbox": [
+        466.67,
+        468,
+        58,
+        58
+      ],
+      "alt": "Evidence + archive",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "e245f9f1-ed0d-414c-b2f5-f951215e99a7",
+        "contentType": "image/png",
+        "byteLength": 10382
+      }
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgrudgv6",
+      "id": "26",
+      "name": "s9-title-4",
+      "bbox": [
+        538.67,
+        464,
+        274.67,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Evidence + archive",
+      "textPreview": "Evidence + archive",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Evidence + archive"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Evidence + archive",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Evidence + archive",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfitkbu1",
+      "id": "27",
+      "name": "s9-body-4",
+      "bbox": [
+        538.67,
+        522,
+        274.67,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Preserve a verifiable record of the execution.",
+      "textPreview": "Preserve a verifiable record of the execution.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Preserve a verifiable record of the"
+          },
+          {
+            "index": 2,
+            "text": "execution."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Preserve a verifiable record of the execution.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Preserve a verifiable record of the execution.",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi5sz2dw",
+      "id": "28",
+      "name": "s9-card-5",
+      "bbox": [
+        849.33,
+        444,
+        382.67,
+        146
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineColor": "#E8D7FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/lkf6tcn6",
+      "id": "29",
+      "bbox": [
+        867.33,
+        468,
+        58,
+        58
+      ],
+      "alt": "Integrations, APIs + AI",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "023f7553-2375-4c5d-b07d-9823f7573ca9",
+        "contentType": "image/png",
+        "byteLength": 9796
+      }
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nu9g3a9",
+      "id": "30",
+      "name": "s9-title-5",
+      "bbox": [
+        939.33,
+        464,
+        274.67,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Integrations, APIs + AI",
+      "textPreview": "Integrations, APIs + AI",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Integrations, APIs + AI"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Integrations, APIs + AI",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Integrations, APIs + AI",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1o3q98bu",
+      "id": "31",
+      "name": "s9-body-5",
+      "bbox": [
+        939.33,
+        522,
+        274.67,
+        54
+      ],
+      "geometry": "rect",
+      "text": "Extend governed execution across digital channels.",
+      "textPreview": "Extend governed execution across digital channels.",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Extend governed execution across"
+          },
+          {
+            "index": 2,
+            "text": "digital channels."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Extend governed execution across digital channels.",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Extend governed execution across digital channels.",
+              "fontSize": 16,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/elc7edcj",
+      "id": "32",
+      "name": "divider",
+      "bbox": [
+        48,
+        605,
+        760,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#E8D7FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zml87yto",
+      "id": "33",
+      "name": "bottom-message",
+      "bbox": [
+        48,
+        620,
+        1080,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Confirm the exact capability and assurance fit during solution design.",
+      "textPreview": "Confirm the exact capability and assurance fit during solution design.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Confirm the exact capability and assurance fit during solution design."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Confirm the exact capability and assurance fit during solution design.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Confirm the exact capability and assurance fit during solution design.",
+              "fontSize": 20,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

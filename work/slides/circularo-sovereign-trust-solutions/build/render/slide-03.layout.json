@@ -1,0 +1,985 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/iyxyg3",
+    "id": "iyxyg3",
+    "slide": 3,
+    "layoutId": "8157c120-fc1d-4914-b386-e7459820feca",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "5f5939f5-cc2f-438d-9132-4896b36163f2",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#1D0090",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "8157c120-fc1d-4914-b386-e7459820feca",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "5f5939f5-cc2f-438d-9132-4896b36163f2",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "5f5939f5-cc2f-438d-9132-4896b36163f2",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6pkfyxw7",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "9699fe99-12d7-476c-a352-c9c37277547b",
+        "contentType": "image/png",
+        "byteLength": 2197
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4jadgz2x",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5k3up4ji",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/utsbapkv",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        610,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CIRCULARO SOVEREIGN",
+      "textPreview": "CIRCULARO SOVEREIGN",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CIRCULARO SOVEREIGN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CIRCULARO SOVEREIGN",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CIRCULARO SOVEREIGN",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ve1cjulg",
+      "id": "5",
+      "name": "deck-mark",
+      "bbox": [
+        902,
+        31,
+        278,
+        20
+      ],
+      "geometry": "rect",
+      "text": "SOVEREIGN TRUST SOLUTIONS",
+      "textPreview": "SOVEREIGN TRUST SOLUTIONS",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SOVEREIGN TRUST SOLUTIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SOVEREIGN TRUST SOLUTIONS",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SOVEREIGN TRUST SOLUTIONS",
+              "fontSize": 12,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfatcf21",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1160,
+        132
+      ],
+      "geometry": "rect",
+      "text": "AI expands the sovereignty requirement",
+      "textPreview": "AI expands the sovereignty requirement",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI expands the sovereignty requirement"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI expands the sovereignty requirement",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI expands the sovereignty requirement",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgjulk36",
+      "id": "7",
+      "name": "s3-sub",
+      "bbox": [
+        48,
+        204,
+        1040,
+        48
+      ],
+      "geometry": "rect",
+      "text": "More actors can now interpret, decide, and initiate work inside institutional systems.",
+      "textPreview": "More actors can now interpret, decide, and initiate work inside institutional systems.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Mulish",
+        "color": "#F4F0FF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "More actors can now interpret, decide, and initiate work inside institutional systems."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "More actors can now interpret, decide, and initiate work inside institutional systems.",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Mulish",
+            "color": "#F4F0FF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "More actors can now interpret, decide, and initiate work inside institutional systems.",
+              "fontSize": 24,
+              "typeface": "Mulish",
+              "color": "#F4F0FF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6p8b65kj",
+      "id": "8",
+      "name": "s3-panel-0",
+      "bbox": [
+        72,
+        286,
+        354,
+        196
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#2A129B",
+      "lineColor": "#6E51DA",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qhcfal4",
+      "id": "9",
+      "name": "s3-title-0",
+      "bbox": [
+        94,
+        340,
+        310,
+        28
+      ],
+      "geometry": "rect",
+      "text": "PEOPLE",
+      "textPreview": "PEOPLE",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PEOPLE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PEOPLE",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PEOPLE",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqh4nutk",
+      "id": "10",
+      "name": "s3-body-0",
+      "bbox": [
+        94,
+        390,
+        310,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Human intent",
+      "textPreview": "Human intent",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Human intent"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Human intent",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Human intent",
+              "fontSize": 24,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/aponupsz",
+      "id": "11",
+      "name": "s3-panel-1",
+      "bbox": [
+        474,
+        286,
+        354,
+        196
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#2A129B",
+      "lineColor": "#6E51DA",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xsz6p4ba",
+      "id": "12",
+      "name": "s3-title-1",
+      "bbox": [
+        496,
+        340,
+        310,
+        28
+      ],
+      "geometry": "rect",
+      "text": "APPLICATIONS",
+      "textPreview": "APPLICATIONS",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "APPLICATIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "APPLICATIONS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "APPLICATIONS",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crq5wzap",
+      "id": "13",
+      "name": "s3-body-1",
+      "bbox": [
+        496,
+        390,
+        310,
+        36
+      ],
+      "geometry": "rect",
+      "text": "System action",
+      "textPreview": "System action",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "System action"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "System action",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "System action",
+              "fontSize": 24,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zuhore9g",
+      "id": "14",
+      "name": "s3-panel-2",
+      "bbox": [
+        876,
+        286,
+        354,
+        196
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineColor": "#C9AEFF",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/tgzaxor6",
+      "id": "15",
+      "bbox": [
+        1008,
+        306,
+        90,
+        90
+      ],
+      "alt": "AI agent",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "9732890f-bc48-4768-8a2c-54e502d11c75",
+        "contentType": "image/png",
+        "byteLength": 8895
+      }
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgz6t4rm",
+      "id": "16",
+      "name": "s3-title-2",
+      "bbox": [
+        898,
+        408,
+        310,
+        28
+      ],
+      "geometry": "rect",
+      "text": "AI AGENTS",
+      "textPreview": "AI AGENTS",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI AGENTS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI AGENTS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI AGENTS",
+              "fontSize": 15,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvq50ja1",
+      "id": "17",
+      "name": "s3-body-2",
+      "bbox": [
+        898,
+        444,
+        310,
+        36
+      ],
+      "geometry": "rect",
+      "text": "Delegated action",
+      "textPreview": "Delegated action",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Delegated action"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Delegated action",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Delegated action",
+              "fontSize": 24,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyd4fatc",
+      "id": "18",
+      "name": "divider",
+      "bbox": [
+        48,
+        576,
+        760,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#6E51DA",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ex4nm5sr",
+      "id": "19",
+      "name": "bottom-line",
+      "bbox": [
+        48,
+        592,
+        1120,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Sovereignty must govern every actor that can create a consequential outcome.",
+      "textPreview": "Sovereignty must govern every actor that can create a consequential outcome.",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Sovereignty must govern every actor that can create a consequential outcome."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Sovereignty must govern every actor that can create a consequential outcome.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Sovereignty must govern every actor that can create a consequential outcome.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

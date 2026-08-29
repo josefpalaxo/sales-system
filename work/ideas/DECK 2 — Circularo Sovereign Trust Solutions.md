@@ -200,17 +200,3 @@ Address:
 Self-hosted does not mean disconnected.
 
 Circularo can integrate with national, enterprise and external trust ecosystems while maintaining the required control boundary.
-
----
-
-## 8. Next Step
-
-### Slide 19 — Define Your Sovereignty Boundary
-
-Discovery should establish:
-
-1. What must remain sovereign?
-2. Where must it operate?
-3. Which trust infrastructure already exists?
-4. Which workflows should be onboarded first?
-5. Which systems and identities must integrate?

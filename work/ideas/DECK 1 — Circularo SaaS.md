@@ -238,12 +238,6 @@ Organizations do not need to replace everything at once.
 
 Circularo can begin with a specific use case and progressively become the organization's trusted execution layer.
 
----
-
-## 8. Next Step
-
-### Slide 18 — Identify Your First Trusted Workflow
-
 Recommended next steps:
 
 Discovery → Use Case → Solution Design → Pilot → Rollout
