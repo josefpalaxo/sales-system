@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/38fm6y",
-    "id": "38fm6y",
+    "aid": "sl/d7nbh8",
+    "id": "d7nbh8",
     "slide": 5,
-    "layoutId": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+    "layoutId": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+    "masterLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
     "masterLayoutName": "Master",
     "backgroundColor": "#FFFFFF",
     "frame": {
@@ -46,15 +46,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+      "id": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "parentLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "id": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -65,7 +65,7 @@
       "order": 1,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/yl0vyd0v",
+      "aid": "im/g7ehobi9",
       "id": "1",
       "bbox": [
         48,
@@ -77,7 +77,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "6df38cf6-a299-4b73-8d83-0b3101024aee",
+        "assetId": "b9246eda-5897-443b-9f90-d6b77781888e",
         "contentType": "image/png",
         "byteLength": 2211
       }
@@ -86,7 +86,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sn6dk3u9",
+      "aid": "sh/2xori1sv",
       "id": "2",
       "name": "page-number",
       "bbox": [
@@ -152,7 +152,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tozed8vu",
+      "aid": "sh/nyxsb6tg",
       "id": "3",
       "name": "signature-line",
       "bbox": [
@@ -169,7 +169,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/yhovetw7",
+      "aid": "sh/c3q9obax",
       "id": "4",
       "name": "slide-eyebrow",
       "bbox": [
@@ -235,7 +235,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/jixwneds",
+      "aid": "sh/x4zahgbi",
       "id": "5",
       "name": "partner-enablement-mark",
       "bbox": [
@@ -301,7 +301,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kj6dgjud",
+      "aid": "sh/a1orm1s7",
       "id": "6",
       "name": "slide-title",
       "bbox": [
@@ -311,8 +311,8 @@
         132
       ],
       "geometry": "rect",
-      "text": "Every consequential action must answer five questions",
-      "textPreview": "Every consequential action must answer five questions",
+      "text": "Every trusted action must answer five questions",
+      "textPreview": "Every trusted action must answer five questions",
       "resolvedFontSize": 48,
       "resolvedTextStyle": {
         "fontSize": 48,
@@ -328,22 +328,18 @@
         }
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "Every consequential action must answer five"
-          },
-          {
-            "index": 2,
-            "text": "questions"
+            "text": "Every trusted action must answer five questions"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Every consequential action must answer five questions",
+          "text": "Every trusted action must answer five questions",
           "resolvedTextStyle": {
             "fontSize": 48,
             "typeface": "Spartan",
@@ -354,7 +350,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "Every consequential action must answer five questions",
+              "text": "Every trusted action must answer five questions",
               "fontSize": 48,
               "typeface": "Spartan",
               "color": "#1D0090",
@@ -371,7 +367,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lkfepovy",
+      "aid": "sh/b2hsf6ts",
       "id": "7",
       "name": "questions-rail",
       "bbox": [
@@ -388,7 +384,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/at4va9wb",
+      "aid": "sh/s7m9c7at",
       "id": "8",
       "name": "question-node-1",
       "bbox": [
@@ -406,7 +402,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/budwjedw",
+      "aid": "sh/t8vq5cbe",
       "id": "9",
       "name": "question-number-1",
       "bbox": [
@@ -472,7 +468,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fqxkrq14",
+      "aid": "sh/hgzax07i",
       "id": "10",
       "name": "question-label-1",
       "bbox": [
@@ -538,7 +534,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/up43ylkj",
+      "aid": "sh/wfqt4vqd",
       "id": "11",
       "name": "question-copy-1",
       "bbox": [
@@ -604,7 +600,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hsf2tgja",
+      "aid": "sh/vehsvaps",
       "id": "12",
       "name": "question-node-2",
       "bbox": [
@@ -622,7 +618,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/gr6l0v2p",
+      "aid": "sh/ud8b2587",
       "id": "13",
       "name": "question-number-2",
       "bbox": [
@@ -688,7 +684,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3uxkvq1g",
+      "aid": "sh/54ju1k7u",
       "id": "14",
       "name": "question-label-2",
       "bbox": [
@@ -754,7 +750,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2to32lkv",
+      "aid": "sh/43qt8f69",
       "id": "15",
       "name": "question-copy-2",
       "bbox": [
@@ -820,7 +816,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/pgfmx0j6",
+      "aid": "sh/j2hczapo",
       "id": "16",
       "name": "question-node-3",
       "bbox": [
@@ -838,7 +834,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4v6l4v21",
+      "aid": "sh/ih8b65o3",
       "id": "17",
       "name": "question-number-3",
       "bbox": [
@@ -904,7 +900,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/jytkj61w",
+      "aid": "sh/t8ju5k7q",
       "id": "18",
       "name": "question-label-3",
       "bbox": [
@@ -970,7 +966,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ixk3q1kb",
+      "aid": "sh/s7atcf65",
       "id": "19",
       "name": "question-copy-3",
       "bbox": [
@@ -1036,7 +1032,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/mdsny94z",
+      "aid": "sh/cn25onit",
       "id": "20",
       "name": "question-node-4",
       "bbox": [
@@ -1054,7 +1050,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ne1orelk",
+      "aid": "sh/xobmxsje",
       "id": "21",
       "name": "question-number-4",
       "bbox": [
@@ -1120,7 +1116,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ofa50zm5",
+      "aid": "sh/alknmx0n",
       "id": "22",
       "name": "question-label-4",
       "bbox": [
@@ -1186,7 +1182,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9gj6t43q",
+      "aid": "sh/bmt4vi18",
       "id": "23",
       "name": "question-copy-4",
       "bbox": [
@@ -1252,7 +1248,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/epsnup43",
+      "aid": "sh/kr25s7ip",
       "id": "24",
       "name": "question-node-5",
       "bbox": [
@@ -1270,7 +1266,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/za1onulo",
+      "aid": "sh/lsbm1cja",
       "id": "25",
       "name": "question-number-5",
       "bbox": [
@@ -1336,7 +1332,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0ba5wzm9",
+      "aid": "sh/ypknqx0z",
       "id": "26",
       "name": "question-label-5",
       "bbox": [
@@ -1402,7 +1398,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1cj6p43e",
+      "aid": "sh/zqt4z214",
       "id": "27",
       "name": "question-copy-5",
       "bbox": [
@@ -1468,7 +1464,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ql8nqp4r",
+      "aid": "sh/0vilg3il",
       "id": "28",
       "name": "takeaway-accent",
       "bbox": [
@@ -1485,7 +1481,7 @@
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/rmhojulc",
+      "aid": "sh/1wrmp8j6",
       "id": "29",
       "name": "takeaway",
       "bbox": [

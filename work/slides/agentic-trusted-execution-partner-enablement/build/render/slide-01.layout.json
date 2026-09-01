@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/3za3xf",
-    "id": "3za3xf",
+    "aid": "sl/jocixm",
+    "id": "jocixm",
     "slide": 1,
-    "layoutId": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+    "layoutId": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+    "masterLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
     "masterLayoutName": "Master",
     "backgroundColor": "#1D0090",
     "frame": {
@@ -46,15 +46,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+      "id": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "parentLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "id": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -65,7 +65,7 @@
       "order": 1,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/mp8b294z",
+      "aid": "im/zah4fqxc",
       "id": "1",
       "bbox": [
         48,
@@ -77,7 +77,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "c95dd83b-681f-4f59-a731-354cd53027c1",
+        "assetId": "663447f9-d505-4ad4-8569-d058b509eb36",
         "contentType": "image/png",
         "byteLength": 2197
       }
@@ -86,7 +86,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wz690rm9",
+      "aid": "sh/hoj29kbu",
       "id": "2",
       "name": "page-number",
       "bbox": [
@@ -152,7 +152,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/x0fatw3u",
+      "aid": "sh/gnalgfa9",
       "id": "3",
       "name": "signature-line",
       "bbox": [
@@ -169,7 +169,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/i1or214f",
+      "aid": "sh/7yhk3qts",
       "id": "4",
       "name": "slide-eyebrow",
       "bbox": [
@@ -235,7 +235,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/j2xsv6l0",
+      "aid": "sh/6x8ja5c7",
       "id": "5",
       "name": "partner-enablement-mark",
       "bbox": [
@@ -301,7 +301,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/k3694b25",
+      "aid": "sh/t0z250bi",
       "id": "6",
       "name": "cover-kicker",
       "bbox": [
@@ -367,21 +367,21 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/54faxg3q",
+      "aid": "sh/8zqlcvax",
       "id": "7",
       "name": "cover-title",
       "bbox": [
         48,
         176,
-        670,
-        176
+        680,
+        220
       ],
       "geometry": "rect",
-      "text": "Govern consequential action\nin the agentic era",
-      "textPreview": "Govern consequential action | in the agentic era",
-      "resolvedFontSize": 58,
+      "text": "Connecting identity, authority,\nexecution, and evidence across\npeople, applications, and AI agents.",
+      "textPreview": "Connecting identity, authority, | execution, and evidence across | people, applications, and AI agents.",
+      "resolvedFontSize": 43,
       "resolvedTextStyle": {
-        "fontSize": 58,
+        "fontSize": 43,
         "typeface": "Spartan",
         "color": "#FFFFFF",
         "bold": true,
@@ -394,28 +394,32 @@
         }
       },
       "textLayout": {
-        "lineCount": 3,
+        "lineCount": 4,
         "lines": [
           {
             "index": 1,
-            "text": "Govern consequential"
+            "text": "Connecting identity, authority,"
           },
           {
             "index": 2,
-            "text": "action"
+            "text": "execution, and evidence across"
           },
           {
             "index": 3,
-            "text": "in the agentic era"
+            "text": "people, applications, and AI"
+          },
+          {
+            "index": 4,
+            "text": "agents."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Govern consequential action",
+          "text": "Connecting identity, authority,",
           "resolvedTextStyle": {
-            "fontSize": 58,
+            "fontSize": 43,
             "typeface": "Spartan",
             "color": "#FFFFFF",
             "bold": true,
@@ -424,8 +428,8 @@
           "runs": [
             {
               "index": 1,
-              "text": "Govern consequential action",
-              "fontSize": 58,
+              "text": "Connecting identity, authority,",
+              "fontSize": 43,
               "typeface": "Spartan",
               "color": "#FFFFFF",
               "bold": true,
@@ -436,9 +440,9 @@
         },
         {
           "index": 2,
-          "text": "in the agentic era",
+          "text": "execution, and evidence across",
           "resolvedTextStyle": {
-            "fontSize": 58,
+            "fontSize": 43,
             "typeface": "Spartan",
             "color": "#FFFFFF",
             "bold": true,
@@ -447,8 +451,31 @@
           "runs": [
             {
               "index": 1,
-              "text": "in the agentic era",
-              "fontSize": 58,
+              "text": "execution, and evidence across",
+              "fontSize": 43,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "people, applications, and AI agents.",
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "people, applications, and AI agents.",
+              "fontSize": 43,
               "typeface": "Spartan",
               "color": "#FFFFFF",
               "bold": true,
@@ -464,18 +491,18 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/658r61kb",
+      "aid": "sh/juhkzqtg",
       "id": "8",
       "name": "cover-subtitle",
       "bbox": [
         48,
-        382,
+        424,
         610,
         76
       ],
       "geometry": "rect",
-      "text": "A shared model for connecting capability, authority, execution, and evidence.",
-      "textPreview": "A shared model for connecting capability, authority, execution, and evidence.",
+      "text": "Connecting identity, authority, execution, and evidence across people, applications, and AI agents.",
+      "textPreview": "Connecting identity, authority, execution, and evidence across people, applications, and AI agents.",
       "resolvedFontSize": 23,
       "resolvedTextStyle": {
         "fontSize": 23,
@@ -494,18 +521,18 @@
         "lines": [
           {
             "index": 1,
-            "text": "A shared model for connecting capability, authority,"
+            "text": "Connecting identity, authority, execution, and evidence"
           },
           {
             "index": 2,
-            "text": "execution, and evidence."
+            "text": "across people, applications, and AI agents."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "A shared model for connecting capability, authority, execution, and evidence.",
+          "text": "Connecting identity, authority, execution, and evidence across people, applications, and AI agents.",
           "resolvedTextStyle": {
             "fontSize": 23,
             "typeface": "Mulish",
@@ -515,7 +542,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "A shared model for connecting capability, authority, execution, and evidence.",
+              "text": "Connecting identity, authority, execution, and evidence across people, applications, and AI agents.",
               "fontSize": 23,
               "typeface": "Mulish",
               "color": "#E6DEFF",
@@ -531,7 +558,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/76hsz6lw",
+      "aid": "sh/ytoj6lcv",
       "id": "9",
       "name": "cover-control-chain",
       "bbox": [
@@ -597,7 +624,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/j6lk76d4",
+      "aid": "sh/8zmx8nut",
       "id": "10",
       "name": "cover-actors-label",
       "bbox": [
@@ -663,7 +690,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/i5cjy1cz",
+      "aid": "sh/t0vyhsbe",
       "id": "11",
       "name": "cover-actor-line-778",
       "bbox": [
@@ -680,7 +707,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/58n29gva",
+      "aid": "sh/6x4f6dc3",
       "id": "12",
       "name": "cover-actor-line-920",
       "bbox": [
@@ -697,7 +724,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/k7u10bup",
+      "aid": "sh/7ydgfit8",
       "id": "13",
       "name": "cover-actor-line-1062",
       "bbox": [
@@ -714,7 +741,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vil036d8",
+      "aid": "sh/kv2x4nux",
       "id": "14",
       "name": "cover-boundary-line",
       "bbox": [
@@ -731,7 +758,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ahcju1cn",
+      "aid": "sh/lwvyd8bi",
       "id": "15",
       "name": "cover-actor-frame-1",
       "bbox": [
@@ -748,7 +775,7 @@
       "order": 16,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/a10r29k7",
+      "aid": "im/l83epsre",
       "id": "16",
       "bbox": [
         808,
@@ -760,7 +787,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "dfb6c93c-833d-43d6-babf-38a0962c356c",
+        "assetId": "371550fb-6c46-42a4-bb0d-8e6a39d996d3",
         "contentType": "image/png",
         "byteLength": 9862
       }
@@ -769,7 +796,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/w3u1wrut",
+      "aid": "sh/jutgbitc",
       "id": "17",
       "name": "cover-actor-label-1",
       "bbox": [
@@ -835,7 +862,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fy5kfqdc",
+      "aid": "sh/4r6hg7a1",
       "id": "18",
       "name": "cover-actor-frame-2",
       "bbox": [
@@ -852,7 +879,7 @@
       "order": 19,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/90rq94jm",
+      "aid": "im/ahsfadsr",
       "id": "19",
       "bbox": [
         950,
@@ -864,7 +891,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "25ec5206-895c-4e18-b2c8-9c0015c41238",
+        "assetId": "e2e418bc-0af3-4743-967a-9eab9ea8d2b7",
         "contentType": "image/png",
         "byteLength": 16548
       }
@@ -873,7 +900,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/a5kvut0b",
+      "aid": "sh/dwr6d8ze",
       "id": "20",
       "name": "cover-actor-label-2",
       "bbox": [
@@ -939,7 +966,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/b6twny1w",
+      "aid": "sh/cvipk3yt",
       "id": "21",
       "name": "cover-actor-frame-3",
       "bbox": [
@@ -956,7 +983,7 @@
       "order": 22,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/3ihgfm98",
+      "aid": "im/0fqx4nup",
       "id": "22",
       "bbox": [
         1092,
@@ -968,7 +995,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "6ffb55e9-79cb-47b7-bdb7-64353a38ba2d",
+        "assetId": "10451c47-9ac9-4666-9d27-95324604518e",
         "contentType": "image/png",
         "byteLength": 8895
       }
@@ -977,7 +1004,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/x8bepoj2",
+      "aid": "sh/q907idg3",
       "id": "23",
       "name": "cover-actor-label-3",
       "bbox": [
@@ -1043,7 +1070,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/y9kvyt0n",
+      "aid": "sh/58r698zi",
       "id": "24",
       "name": "cover-execution-boundary",
       "bbox": [
@@ -1060,7 +1087,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zatwry18",
+      "aid": "sh/47ipg3yx",
       "id": "25",
       "name": "cover-boundary-title",
       "bbox": [
@@ -1130,7 +1157,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kb2d03id",
+      "aid": "sh/369o7yhc",
       "id": "26",
       "name": "cover-evidence",
       "bbox": [
@@ -1148,7 +1175,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lcvet8jy",
+      "aid": "sh/i507etgr",
       "id": "27",
       "name": "cover-evidence-title",
       "bbox": [

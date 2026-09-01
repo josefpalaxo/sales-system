@@ -104,20 +104,20 @@ async function addCover(slide) {
   });
   addText(slide, {
     name: "cover-title",
-    text: "Govern consequential action\nin the agentic era",
+    text: "Connecting identity, authority,\nexecution, and evidence across\npeople, applications, and AI agents.",
     left: MARGIN,
     top: 176,
-    width: 670,
-    height: 176,
+    width: 680,
+    height: 220,
     role: "hero",
-    fontSize: 58,
+    fontSize: 43,
     color: COLORS.white,
   });
   addText(slide, {
     name: "cover-subtitle",
-    text: "A shared model for connecting capability, authority, execution, and evidence.",
+    text: "Connecting identity, authority, execution, and evidence across people, applications, and AI agents.",
     left: MARGIN,
-    top: 382,
+    top: 424,
     width: 610,
     height: 76,
     role: "body",
@@ -289,7 +289,7 @@ function addEvolution(slide) {
       alignment: "center",
     });
   });
-  addTakeaway(slide, "Once software can initiate consequential work, the control question changes.");
+  addTakeaway(slide, "Once software can initiate trusted work, the control question changes.");
 }
 
 function addAuthority(slide) {
@@ -421,7 +421,7 @@ function addFragmentation(slide) {
 }
 
 function addFiveQuestions(slide) {
-  addSlideTitle(slide, "Every consequential action must answer five questions", { width: 1140 });
+  addSlideTitle(slide, "Every trusted action must answer five questions", { width: 1140 });
   const rows = [
     ["ACTOR", "Who or what is acting?"],
     ["AUTHORITY", "On whose authority does the action proceed?"],
@@ -598,7 +598,7 @@ function addExecutionBoundary(slide) {
   addDivider(slide, { name: "boundary-result-line-right", left: 904, top: 424, width: 2, height: 66, color: "#6E51DA" });
   addText(slide, {
     name: "boundary-action",
-    text: "CONSEQUENTIAL BUSINESS ACTION",
+    text: "TRUSTED BUSINESS ACTION",
     left: 112,
     top: 500,
     width: 528,
@@ -1108,7 +1108,7 @@ function addPartnerEngagement(slide) {
       alignment: "center",
     });
   });
-  addTakeaway(slide, "Lead with one consequential action, then design authority, controls, and evidence around it.");
+  addTakeaway(slide, "Lead with one trusted action, then design authority, controls, and evidence around it.");
 }
 
 function addClose(slide) {
@@ -1136,7 +1136,7 @@ function addClose(slide) {
   });
   addText(slide, {
     name: "close-subtitle",
-    text: "Connect people, organizations, applications, and AI agents to consequential business processes through one governed execution environment.",
+    text: "Connect people, organizations, applications, and AI agents to trusted business actions through one governed execution environment.",
     left: MARGIN,
     top: 342,
     width: 1110,
@@ -1163,7 +1163,7 @@ function addClose(slide) {
   });
   addText(slide, {
     name: "close-action",
-    text: "Start with one consequential action.",
+    text: "Start with one trusted action.",
     left: MARGIN,
     top: 620,
     width: 900,

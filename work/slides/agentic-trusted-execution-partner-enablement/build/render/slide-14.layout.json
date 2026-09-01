@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/qpxett",
-    "id": "qpxett",
+    "aid": "sl/ya3jvw",
+    "id": "ya3jvw",
     "slide": 14,
-    "layoutId": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+    "layoutId": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+    "masterLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
     "masterLayoutName": "Master",
     "backgroundColor": "#1D0090",
     "frame": {
@@ -46,15 +46,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+      "id": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "parentLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "id": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -65,7 +65,7 @@
       "order": 1,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/p87itwfa",
+      "aid": "im/jqp4ny1c",
       "id": "1",
       "bbox": [
         48,
@@ -77,7 +77,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "91e5a859-6d5f-43e0-88d4-828bdfac64e1",
+        "assetId": "eb6527a7-49b8-4f6e-9155-74cbf4082cad",
         "contentType": "image/png",
         "byteLength": 2198
       }
@@ -86,7 +86,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vql8bqlc",
+      "aid": "sh/xgjalgvq",
       "id": "2",
       "name": "page-number",
       "bbox": [
@@ -152,7 +152,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/upcrilkr",
+      "aid": "sh/wfq9sbu5",
       "id": "3",
       "name": "signature-line",
       "bbox": [
@@ -169,7 +169,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9o3q9g36",
+      "aid": "sh/nah8f6do",
       "id": "4",
       "name": "slide-eyebrow",
       "bbox": [
@@ -235,7 +235,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8nu9gb2l",
+      "aid": "sh/m98rm1c3",
       "id": "5",
       "name": "partner-enablement-mark",
       "bbox": [
@@ -301,7 +301,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7ml876lg",
+      "aid": "sh/9czahgve",
       "id": "6",
       "name": "close-kicker",
       "bbox": [
@@ -367,7 +367,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/m1sre1kv",
+      "aid": "sh/8bq9obut",
       "id": "7",
       "name": "close-title",
       "bbox": [
@@ -433,7 +433,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tknal0jq",
+      "aid": "sh/zmx8b6dc",
       "id": "8",
       "name": "close-subtitle",
       "bbox": [
@@ -443,8 +443,8 @@
         92
       ],
       "geometry": "rect",
-      "text": "Connect people, organizations, applications, and AI agents to consequential business processes through one governed execution environment.",
-      "textPreview": "Connect people, organizations, applications, and AI agents to consequential business processes through one governed execution environment.",
+      "text": "Connect people, organizations, applications, and AI agents to trusted business actions through one governed execution environment.",
+      "textPreview": "Connect people, organizations, applications, and AI agents to trusted business actions through one governed execution environment.",
       "resolvedFontSize": 24,
       "resolvedTextStyle": {
         "fontSize": 24,
@@ -464,18 +464,18 @@
         "lines": [
           {
             "index": 1,
-            "text": "Connect people, organizations, applications, and AI agents to consequential business"
+            "text": "Connect people, organizations, applications, and AI agents to trusted business actions through"
           },
           {
             "index": 2,
-            "text": "processes through one governed execution environment."
+            "text": "one governed execution environment."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Connect people, organizations, applications, and AI agents to consequential business processes through one governed execution environment.",
+          "text": "Connect people, organizations, applications, and AI agents to trusted business actions through one governed execution environment.",
           "resolvedTextStyle": {
             "fontSize": 24,
             "typeface": "Mulish",
@@ -486,7 +486,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "Connect people, organizations, applications, and AI agents to consequential business processes through one governed execution environment.",
+              "text": "Connect people, organizations, applications, and AI agents to trusted business actions through one governed execution environment.",
               "fontSize": 24,
               "typeface": "Mulish",
               "color": "#FFFFFF",
@@ -503,7 +503,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sje9sv25",
+      "aid": "sh/ylori1cr",
       "id": "9",
       "name": "close-rule-1",
       "bbox": [
@@ -520,7 +520,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/65wzeps3",
+      "aid": "sh/0jixsfi5",
       "id": "10",
       "name": "close-commitment-1",
       "bbox": [
@@ -586,7 +586,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/r65g7u9o",
+      "aid": "sh/1kre1kzq",
       "id": "11",
       "name": "close-rule-2",
       "bbox": [
@@ -603,7 +603,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/s7ehgza9",
+      "aid": "sh/eh0fqp0z",
       "id": "12",
       "name": "close-commitment-2",
       "bbox": [
@@ -673,7 +673,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/t8ny9kru",
+      "aid": "sh/fi9wzuhk",
       "id": "13",
       "name": "close-rule-3",
       "bbox": [
@@ -690,7 +690,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/i1cza5s7",
+      "aid": "sh/sfixofit",
       "id": "14",
       "name": "close-commitment-3",
       "bbox": [
@@ -760,7 +760,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/j2lg3a9s",
+      "aid": "sh/dgrexkje",
       "id": "15",
       "name": "close-rule-4",
       "bbox": [
@@ -777,7 +777,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/43uhcfad",
+      "aid": "sh/qdgvm50n",
       "id": "16",
       "name": "close-commitment-4",
       "bbox": [
@@ -843,7 +843,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/543y5kry",
+      "aid": "sh/repwva18",
       "id": "17",
       "name": "close-action",
       "bbox": [
@@ -853,8 +853,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "Start with one consequential action.",
-      "textPreview": "Start with one consequential action.",
+      "text": "Start with one trusted action.",
+      "textPreview": "Start with one trusted action.",
       "resolvedFontSize": 24,
       "resolvedTextStyle": {
         "fontSize": 24,
@@ -874,14 +874,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "Start with one consequential action."
+            "text": "Start with one trusted action."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Start with one consequential action.",
+          "text": "Start with one trusted action.",
           "resolvedTextStyle": {
             "fontSize": 24,
             "typeface": "Mulish",
@@ -892,7 +892,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "Start with one consequential action.",
+              "text": "Start with one trusted action.",
               "fontSize": 24,
               "typeface": "Mulish",
               "color": "#C9AEFF",

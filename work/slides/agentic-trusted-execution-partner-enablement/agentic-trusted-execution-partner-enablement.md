@@ -18,7 +18,7 @@ Give Circularo teams and partners a practical way to explain why agentic systems
 - AI is moving from insight and recommendation toward initiating or executing business actions.
 - Capability is not authority: an agent's ability to act does not mean the institution has authorized the action.
 - Disconnected identity, workflow, approval, signature, archive, and AI handoffs create accountability gaps.
-- Every consequential action should make the actor, represented authority, permitted action, applicable policy, and retained evidence explicit.
+- Every trusted action should make the actor, represented authority, permitted action, applicable policy, and retained evidence explicit.
 - Trust begins before the signature and continues through preparation, approval, execution, evidence, preservation, and later verification.
 - Circularo is positioned as the institutional execution boundary where six capability groups operate as one governed environment.
 - Assurance should match the significance and risk of the action.
@@ -32,13 +32,13 @@ AI moves to action → authority gap → fragmented accountability → full trus
 ## Recommended use
 
 - Prepare partners to present the agentic trusted-execution narrative consistently.
-- Structure discovery workshops around consequential actions and authority boundaries.
+- Structure discovery workshops around trusted actions and authority boundaries.
 - Explain the difference between AI capability and institutionally permitted execution.
 - Introduce a pilot or solution-design engagement without making unsupported product or regulatory claims.
 
 ## Primary next step
 
-Select one consequential action and define its actors, authority, assurance requirements, approvals, evidence, and operating boundary.
+Select one trusted action and define its actors, authority, assurance requirements, approvals, evidence, and operating boundary.
 
 ## Qualification
 

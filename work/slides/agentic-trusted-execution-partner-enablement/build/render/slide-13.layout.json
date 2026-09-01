@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/zbq9rg",
-    "id": "zbq9rg",
+    "aid": "sl/8e9p8i",
+    "id": "8e9p8i",
     "slide": 13,
-    "layoutId": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+    "layoutId": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+    "masterLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
     "masterLayoutName": "Master",
     "backgroundColor": "#FFFFFF",
     "frame": {
@@ -46,15 +46,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+      "id": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "parentLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "id": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -65,7 +65,7 @@
       "order": 1,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/4b6x036x",
+      "aid": "im/0nedkfu5",
       "id": "1",
       "bbox": [
         48,
@@ -77,7 +77,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "63490774-75d5-43fe-a38e-86e7b5b548f5",
+        "assetId": "f1f874d6-4a60-4194-a9bc-04acb759268f",
         "contentType": "image/png",
         "byteLength": 2212
       }
@@ -86,7 +86,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/mdovalon",
+      "aid": "sh/6lkrmxcn",
       "id": "2",
       "name": "page-number",
       "bbox": [
@@ -152,7 +152,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nexw3q58",
+      "aid": "sh/7mtsv2t8",
       "id": "3",
       "name": "signature-line",
       "bbox": [
@@ -169,7 +169,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/w3qxgv6p",
+      "aid": "sh/kj29k7uh",
       "id": "4",
       "name": "slide-eyebrow",
       "bbox": [
@@ -235,7 +235,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/x4ze90na",
+      "aid": "sh/5kbqtsb2",
       "id": "5",
       "name": "partner-enablement-mark",
       "bbox": [
@@ -301,7 +301,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ahofeloj",
+      "aid": "sh/ih0rixcb",
       "id": "6",
       "name": "slide-title",
       "bbox": [
@@ -367,7 +367,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vihw7q54",
+      "aid": "sh/ji98r2tw",
       "id": "7",
       "name": "partner-spine",
       "bbox": [
@@ -384,7 +384,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/cnmd4r6l",
+      "aid": "sh/wfi9gnul",
       "id": "8",
       "name": "partner-node-1",
       "bbox": [
@@ -402,7 +402,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d8vexwnq",
+      "aid": "sh/xgrqpsbq",
       "id": "9",
       "name": "partner-number-1",
       "bbox": [
@@ -468,7 +468,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/t4nmh4bm",
+      "aid": "sh/hcbahwza",
       "id": "10",
       "name": "partner-title-1",
       "bbox": [
@@ -534,7 +534,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/s3elozah",
+      "aid": "sh/gb29orip",
       "id": "11",
       "name": "partner-question-1",
       "bbox": [
@@ -601,7 +601,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7254futw",
+      "aid": "sh/fat8fmh4",
       "id": "12",
       "name": "partner-output-1",
       "bbox": [
@@ -667,7 +667,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/61w3m9sb",
+      "aid": "sh/u9krm10j",
       "id": "13",
       "name": "partner-node-2",
       "bbox": [
@@ -685,7 +685,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hs7mloby",
+      "aid": "sh/t8bqdwzy",
       "id": "14",
       "name": "partner-number-2",
       "bbox": [
@@ -751,7 +751,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/grelsjad",
+      "aid": "sh/s7i9krid",
       "id": "15",
       "name": "partner-title-2",
       "bbox": [
@@ -817,7 +817,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fq54jets",
+      "aid": "sh/7698bmh8",
       "id": "16",
       "name": "partner-question-2",
       "bbox": [
@@ -880,7 +880,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/u5w3q9s7",
+      "aid": "sh/650rih0n",
       "id": "17",
       "name": "partner-output-2",
       "bbox": [
@@ -946,7 +946,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/pw7mporu",
+      "aid": "sh/54rq9cz2",
       "id": "18",
       "name": "partner-node-3",
       "bbox": [
@@ -964,7 +964,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4vy5wja9",
+      "aid": "sh/kji9g7ih",
       "id": "19",
       "name": "partner-number-3",
       "bbox": [
@@ -1030,7 +1030,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8bqx8rmx",
+      "aid": "sh/wnm9w7qd",
       "id": "20",
       "name": "partner-title-3",
       "bbox": [
@@ -1100,7 +1100,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9czehw3i",
+      "aid": "sh/xova5c7y",
       "id": "21",
       "name": "partner-question-3",
       "bbox": [
@@ -1163,7 +1163,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/m98f6h4r",
+      "aid": "sh/alkruh87",
       "id": "22",
       "name": "partner-output-3",
       "bbox": [
@@ -1229,7 +1229,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nahwfmlc",
+      "aid": "sh/bmds3mps",
       "id": "23",
       "name": "partner-node-4",
       "bbox": [
@@ -1247,7 +1247,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wfqxcbmt",
+      "aid": "sh/oj29s7q1",
       "id": "24",
       "name": "partner-number-4",
       "bbox": [
@@ -1313,7 +1313,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xgzylw3e",
+      "aid": "sh/9kbq1c7m",
       "id": "25",
       "name": "partner-title-4",
       "bbox": [
@@ -1379,7 +1379,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ad8fa143",
+      "aid": "sh/mxkrqx8b",
       "id": "26",
       "name": "partner-question-4",
       "bbox": [
@@ -1442,7 +1442,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vehgj6l8",
+      "aid": "sh/nyt8z29w",
       "id": "27",
       "name": "partner-output-4",
       "bbox": [
@@ -1508,7 +1508,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/cj6x07mp",
+      "aid": "sh/8f694bql",
       "id": "28",
       "name": "takeaway-accent",
       "bbox": [
@@ -1525,7 +1525,7 @@
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dkfe9c3a",
+      "aid": "sh/tgfadw76",
       "id": "29",
       "name": "takeaway",
       "bbox": [
@@ -1535,8 +1535,8 @@
         48
       ],
       "geometry": "rect",
-      "text": "Lead with one consequential action, then design authority, controls, and evidence around it.",
-      "textPreview": "Lead with one consequential action, then design authority, controls, and evidence around it.",
+      "text": "Lead with one trusted action, then design authority, controls, and evidence around it.",
+      "textPreview": "Lead with one trusted action, then design authority, controls, and evidence around it.",
       "resolvedFontSize": 22,
       "resolvedTextStyle": {
         "fontSize": 22,
@@ -1556,14 +1556,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "Lead with one consequential action, then design authority, controls, and evidence around it."
+            "text": "Lead with one trusted action, then design authority, controls, and evidence around it."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Lead with one consequential action, then design authority, controls, and evidence around it.",
+          "text": "Lead with one trusted action, then design authority, controls, and evidence around it.",
           "resolvedTextStyle": {
             "fontSize": 22,
             "typeface": "Mulish",
@@ -1574,7 +1574,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "Lead with one consequential action, then design authority, controls, and evidence around it.",
+              "text": "Lead with one trusted action, then design authority, controls, and evidence around it.",
               "fontSize": 22,
               "typeface": "Mulish",
               "color": "#1D0090",

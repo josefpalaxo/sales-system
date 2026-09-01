@@ -35,10 +35,6 @@ Company role → rising autonomy → authority gap → Trusted Execution Layer �
 - Establish the strategic platform narrative before moving into a product-specific deck.
 - Route the next conversation toward managed SaaS, customer-controlled sovereign deployment, or shared sovereign infrastructure.
 
-## Primary next step
-
-Identify the consequential workflow, required trust boundary, and most appropriate delivery model.
-
 ## Qualification
 
 The deck intentionally avoids unapproved claims about company location, tenure, customers, deployments, scale, market share, revenue, certifications, compliance, or quantified outcomes. The company and category narrative remains working external positioning until approved through the normal governance process.

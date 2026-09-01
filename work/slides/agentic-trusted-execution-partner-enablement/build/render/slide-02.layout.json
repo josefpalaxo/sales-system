@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/o4qvek",
-    "id": "o4qvek",
+    "aid": "sl/w8nbuv",
+    "id": "w8nbuv",
     "slide": 2,
-    "layoutId": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+    "layoutId": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+    "masterLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
     "masterLayoutName": "Master",
     "backgroundColor": "#FFFFFF",
     "frame": {
@@ -46,15 +46,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "da2d4163-a13f-46ed-89fa-e60fffdb2947",
+      "id": "dddb30d2-0ca6-4aa7-bf59-87d0f7c91bcc",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "parentLayoutId": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "edeaceb7-e02e-4429-9dba-c1375f144a8b",
+      "id": "87662be7-cff5-4dda-a9c6-1d995368a7c3",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -65,7 +65,7 @@
       "order": 1,
       "kind": "image",
       "scope": "slide",
-      "aid": "im/bexcridk",
+      "aid": "im/fuhw3ups",
       "id": "1",
       "bbox": [
         48,
@@ -77,7 +77,7 @@
       "contentType": "image/png",
       "imageFit": "contain",
       "asset": {
-        "assetId": "e959a6f3-d007-4a16-b632-10a3ca3cd36a",
+        "assetId": "d79e5dbf-26a7-4db2-ac20-677ea910f223",
         "contentType": "image/png",
         "byteLength": 2211
       }
@@ -86,7 +86,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5ov2xcre",
+      "aid": "sh/5kvmh4fm",
       "id": "2",
       "name": "page-number",
       "bbox": [
@@ -152,7 +152,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4nmlo7qt",
+      "aid": "sh/4jmlozy1",
       "id": "3",
       "name": "signature-line",
       "bbox": [
@@ -169,7 +169,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vitkr29w",
+      "aid": "sh/vudkbahk",
       "id": "4",
       "name": "slide-eyebrow",
       "bbox": [
@@ -235,7 +235,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ahk3ix8r",
+      "aid": "sh/atk3i5gz",
       "id": "5",
       "name": "partner-enablement-mark",
       "bbox": [
@@ -301,7 +301,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xkb2tsr2",
+      "aid": "sh/xgv2dkza",
       "id": "6",
       "name": "slide-title",
       "bbox": [
@@ -367,7 +367,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wj2lknqh",
+      "aid": "sh/wfmlkfyp",
       "id": "7",
       "name": "evolution-spine",
       "bbox": [
@@ -384,7 +384,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fex43m9g",
+      "aid": "sh/fqx4nexo",
       "id": "8",
       "name": "evolution-node-1",
       "bbox": [
@@ -402,7 +402,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/edo3uh8v",
+      "aid": "sh/epo3u9g3",
       "id": "9",
       "name": "evolution-number-1",
       "bbox": [
@@ -468,7 +468,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wni14bmp",
+      "aid": "sh/cj6hc3m5",
       "id": "10",
       "name": "evolution-title-1",
       "bbox": [
@@ -534,7 +534,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xor2xgna",
+      "aid": "sh/xkfyl8nq",
       "id": "11",
       "name": "evolution-detail-1",
       "bbox": [
@@ -597,7 +597,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/algj214j",
+      "aid": "sh/axozad4f",
       "id": "12",
       "name": "evolution-node-2",
       "bbox": [
@@ -615,7 +615,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/bmpkv654",
+      "aid": "sh/byxgjy5k",
       "id": "13",
       "name": "evolution-number-2",
       "bbox": [
@@ -681,7 +681,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ojy10rmd",
+      "aid": "sh/ovmh83m9",
       "id": "14",
       "name": "evolution-title-2",
       "bbox": [
@@ -747,7 +747,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9k72twny",
+      "aid": "sh/pwvyh8nu",
       "id": "15",
       "name": "evolution-detail-2",
       "bbox": [
@@ -814,7 +814,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2hgjy14n",
+      "aid": "sh/2t4z6t43",
       "id": "16",
       "name": "evolution-node-3",
       "bbox": [
@@ -832,7 +832,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nip0rm5s",
+      "aid": "sh/nudgfy5o",
       "id": "17",
       "name": "evolution-number-3",
       "bbox": [
@@ -898,7 +898,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0vy1wrmh",
+      "aid": "sh/0rmh4jmx",
       "id": "18",
       "name": "evolution-title-3",
       "bbox": [
@@ -964,7 +964,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1w7ipwn2",
+      "aid": "sh/1svydoni",
       "id": "19",
       "name": "evolution-detail-3",
       "bbox": [
@@ -1031,7 +1031,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h0fqdobe",
+      "aid": "sh/honehkfm",
       "id": "20",
       "name": "evolution-node-4",
       "bbox": [
@@ -1049,7 +1049,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/gz6p4jut",
+      "aid": "sh/gnex8fe1",
       "id": "21",
       "name": "evolution-number-4",
       "bbox": [
@@ -1115,7 +1115,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vex8beto",
+      "aid": "sh/vm5wfaxg",
       "id": "22",
       "name": "evolution-title-4",
       "bbox": [
@@ -1181,7 +1181,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ud4729c3",
+      "aid": "sh/ulwf65wv",
       "id": "23",
       "name": "evolution-detail-4",
       "bbox": [
@@ -1248,7 +1248,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tcvq94bi",
+      "aid": "sh/tk3ed0fa",
       "id": "24",
       "name": "takeaway-accent",
       "bbox": [
@@ -1265,7 +1265,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8bmp0jux",
+      "aid": "sh/8jux4fep",
       "id": "25",
       "name": "takeaway",
       "bbox": [
@@ -1275,8 +1275,8 @@
         48
       ],
       "geometry": "rect",
-      "text": "Once software can initiate consequential work, the control question changes.",
-      "textPreview": "Once software can initiate consequential work, the control question changes.",
+      "text": "Once software can initiate trusted work, the control question changes.",
+      "textPreview": "Once software can initiate trusted work, the control question changes.",
       "resolvedFontSize": 22,
       "resolvedTextStyle": {
         "fontSize": 22,
@@ -1296,14 +1296,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "Once software can initiate consequential work, the control question changes."
+            "text": "Once software can initiate trusted work, the control question changes."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Once software can initiate consequential work, the control question changes.",
+          "text": "Once software can initiate trusted work, the control question changes.",
           "resolvedTextStyle": {
             "fontSize": 22,
             "typeface": "Mulish",
@@ -1314,7 +1314,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "Once software can initiate consequential work, the control question changes.",
+              "text": "Once software can initiate trusted work, the control question changes.",
               "fontSize": 22,
               "typeface": "Mulish",
               "color": "#1D0090",
