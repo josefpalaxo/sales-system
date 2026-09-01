@@ -4,37 +4,44 @@
 
 ### 1. The core narrative is coherent
 
-The strongest material now forms one consistent logic:
+The narrative-evolution sources sharpen the strongest material into one consistent logic:
 
-> Autonomy → Authority gap → Trusted execution → Evidence → Trusted records → Institutional memory → Trusted AI context → Governed action
+> Digital Signatures → Trust Orchestration → Trusted Execution → Agentic Trusted Execution
 
-This is a stronger common spine than the earlier practice of developing each deck as an independent narrative.
+The broader value chain remains:
+
+> Autonomy → Authority gap → Trust Orchestration → Trusted Execution → Trusted records → Institutional memory → Trusted AI context → Governed action
+
+This is a stronger common spine than the earlier practice of developing each deck as an independent narrative. Trust Orchestration now explains the platform mechanism; Trusted Execution names the governed outcome.
 
 ### 2. The latest language decision improves clarity
 
 Replacing **consequential action** with **trusted action** makes the copy more natural, positive, and reusable across audiences. It also creates a useful distinction:
 
 - trusted action — the act;
-- trusted execution — the governed lifecycle;
-- trusted outcome — the resulting business or institutional state;
-- verifiable outcome — the result supported by connected evidence and a trusted record;
+- Trust Orchestration — the platform capability and mechanism;
+- Trusted Execution — the completed governed business or institutional outcome;
+- trusted, compliant, and verifiable outcome — the value created by a Trusted Execution;
 - trust event — the underlying operation.
 
-This adds the missing customer-value layer between execution and the durable record.
+This resolves the earlier ambiguity in which “trusted execution” described both mechanism and outcome.
 
 The source files still contain many historical uses of “consequential.” They should remain intact for provenance and be updated only when those working artifacts are deliberately revised.
 
-### 3. Circularo has a useful five-level positioning hierarchy
+### 3. Circularo has a clearer six-level positioning hierarchy
 
 The current body of work supports a disciplined hierarchy from market context to strategic outcome. The risk is not a shortage of strong terms; it is allowing every term to become a headline or product name.
 
 The most important terminology approval remains:
 
 1. Digital trust infrastructure.
-2. Trusted execution infrastructure.
-3. Circularo Unified Trust Platform.
-4. Trusted Execution Layer.
-5. System of Authority.
+2. Circularo Trust Orchestration Platform.
+3. Trust Orchestration Layer.
+4. Trusted Execution.
+5. Agentic Trusted Execution.
+6. System of Authority.
+
+Circularo Unified Trust Platform can remain a portfolio label, while Trust Orchestration Platform provides the more explanatory strategic proposition.
 
 ### 4. “System of Authority” is powerful but still gated
 
@@ -52,21 +59,27 @@ Evidence connects every major narrative:
 - Sovereign: execution evidence remains inside the control boundary.
 - Shared Services: common evidence principles strengthen multi-entity accountability.
 - Agentic: actions remain attributable and provable.
-- Commercial model: the customer values the trusted and verifiable outcome; trusted execution is the governed mechanism, and trust events are the underlying operations.
+- Commercial model: the customer values the Trusted Execution; Trust Orchestration is the governed mechanism, and trust events are the underlying operations.
 
-### 7. The three delivery narratives are genuinely different
+### 7. Compliance and legal effect are part of the outcome definition
 
-They should not be reduced to hosting options:
+A Trusted Execution is not simply a workflow that completed. It is intended to satisfy and evidence the authority, policy, assurance, regulatory, legal, and verification requirements applicable to the action.
+
+For legally significant actions, legal effect is part of the required outcome. The execution profile must therefore encode and evidence the conditions required for a legally binding result in the applicable jurisdiction. “Fully compliant” and “legally binding” remain execution-specific determinations rather than universal platform guarantees.
+
+### 8. The three delivery narratives are genuinely different
+
+They are three delivery and operating models of one platform foundation, but they should not be reduced to superficial hosting options:
 
 - SaaS answers how to simplify trusted work through managed delivery.
 - Sovereign answers how to retain a required control boundary.
 - Shared Services answers how to establish reusable capability and governance across entities.
 
-### 8. Commercial and narrative vocabularies touch but must not merge
+### 9. Commercial and narrative vocabularies touch but must not merge
 
 “Trusted execution,” “trust event,” and “programmable trust” can help explain value, but they must not silently redefine governed Plans, subscription models, Add-Ons, API entitlements, or consumption rules.
 
-### 9. The governed repository still lacks approved external narrative truth
+### 10. The governed repository still lacks approved external narrative truth
 
 The company record is reviewed and explicitly incomplete. The major narrative and slide assets are working or draft material. The catalog is therefore a coordination tool, not an external publication authority.
 
@@ -77,10 +90,13 @@ The company record is reviewed and explicitly incomplete. The major narrative an
 Promote only the smallest stable terminology set after owner review. The initial governed record should define:
 
 - trusted action;
-- trusted execution;
+- Trust Orchestration;
+- Trust Orchestration Layer;
+- Trusted Execution;
+- Agentic Trusted Execution;
 - trust event;
-- trusted outcome;
-- verifiable outcome;
+- trusted, compliant, and verifiable outcome;
+- legally binding outcome;
 - Trusted Execution Layer;
 - continuous trust and evidence chain;
 - trusted record;
@@ -134,8 +150,9 @@ The current catalog is strong on concepts and weak on governed proof. A separate
 
 Validate at least these distinctions with sellers, partners, customers, and prospects:
 
-- trusted action versus trusted execution;
-- Trusted Execution Layer versus Unified Trust Platform;
+- trusted action versus Trust Orchestration versus Trusted Execution;
+- Trust Orchestration Layer versus Trusted Execution Layer versus Unified Trust Platform;
+- Trusted Execution as a trusted, compliant, legally effective where applicable, and verifiable outcome;
 - System of Authority as an outcome;
 - managed trusted execution;
 - customer-controlled trusted execution;

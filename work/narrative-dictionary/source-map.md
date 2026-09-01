@@ -6,9 +6,10 @@ The catalog uses sources in this order:
 
 1. Current approved governed records for internal commercial terminology.
 2. Reviewed governed records for known limitations and unknowns.
-3. P1 narrative files as the most consolidated working narrative.
-4. Current deck-reference Markdown files for the latest audience-specific wording.
-5. Earlier ideas as provenance and alternative formulations.
+3. The latest narrative-evolution files for the Trust Orchestration and Trusted Execution relationship.
+4. P1 narrative files as the consolidated narrative foundation.
+5. Current deck-reference Markdown files for audience-specific wording.
+6. Earlier ideas as provenance and alternative formulations.
 
 No working source is promoted to canonical status through inclusion in the dictionary.
 
@@ -59,6 +60,13 @@ Both are draft, internal assets. Their presence in the governed tree does not ap
 - `work/p1/review/observations.md`
 - `work/p1/review/recommendations.md`
 - `work/p1/review/evidence-requirements.md`
+
+## Latest narrative-evolution sources
+
+- `work/narrative-evolution/Circularo narrative evolution.md`
+- `work/narrative-evolution/Circularo Trust Orchestration.md`
+
+These files introduce the current mechanism/outcome distinction: Trust Orchestration is the platform capability; Trusted Execution is the governed business outcome. They were read directly from the repository and were not present in the supplied Repomix bundle.
 
 ## Current deck-reference language
 

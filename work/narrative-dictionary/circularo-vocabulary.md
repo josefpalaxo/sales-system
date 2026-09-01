@@ -15,7 +15,11 @@ The terms are grouped by narrative topic rather than by repository folder. They 
 | **Digital trust infrastructure** | The broad market context for technology that supports identity, authority, trust services, execution, evidence, and records. | Use to frame the space Circularo participates in, not as a claim of market category ownership. | Working narrative. |
 | **Trusted execution infrastructure** | The emerging institutional capability required to authorize, govern, execute, and prove digital actions across people, applications, and AI agents. | Preferred strategic-category language. | House recommendation; owner validation required externally. |
 | **Circularo Unified Trust Platform** | Working name for the connected platform proposition spanning business process, trust services, evidence, records, APIs, and AI. | Use as the platform level in the hierarchy, not as a substitute for every other term. | Working narrative; product-owner validation required. |
-| **Trusted Execution Layer** | Circularo's proposed architectural role between actors, institutional controls, trusted actions, and the evidence they produce. | Capitalize when naming Circularo's role. Use lowercase for a generic architectural layer. | Working narrative; messaging-owner validation required externally. |
+| **Circularo Trust Orchestration Platform** | Working primary platform proposition: Circularo coordinates business processes, actors, authority, policy, approvals, assurance, trust services, execution, evidence, records, and integrations to produce Trusted Executions. | Preferred when explaining what the platform does. It can coexist with **Circularo Unified Trust Platform** as a portfolio label. | House recommendation derived from narrative-evolution sources; owner validation required externally. |
+| **Trust Orchestration** | The platform capability that selects, coordinates, and evidences the trust events required by a business action according to its actors, context, policy, assurance, jurisdiction, and desired outcome. | Preferred mechanism term. Use title case when naming the model and sentence case generically. | House recommendation; product, legal, and messaging validation required. |
+| **Trust Orchestration Layer** | The architectural layer between business and agentic applications and the underlying identity, signature, seal, timestamp, PKI, cloud, and external trust-service infrastructure. | Preferred architectural role when explaining how Circularo connects applications to native and external trust services. | House recommendation; architecture validation required. |
+| **Trusted orchestration** | Descriptive phrase meaning orchestration performed under governance and evidence controls. | Use generically. Do not introduce **Trusted Orchestration** as a separate formal category unless the messaging owner chooses it. | House recommendation. |
+| **Trusted Execution Layer** | Earlier architectural phrase for Circularo's governed boundary between actors, institutional controls, actions, and evidence. | Retain when the boundary itself is the subject, especially agentic enablement. Prefer **Trust Orchestration Layer** when explaining the platform mechanism. | Working narrative; messaging-owner validation required externally. |
 | **System of Authority** | The strategic outcome in which an institution can answer who or what acted, under whose authority, what was approved and executed, what evidence remains, and what may happen next. | Present as an outcome, not an established market category or current product name. | Working narrative; owner validation required. |
 | **Trust model** | The consistent set of identity, authority, policy, approval, execution, evidence, and audit controls applied to an action. | Use when explaining consistency across delivery models or channels. | Working narrative. |
 | **Trust environment** | The technical and operational environment in which trusted execution takes place. | Useful in architecture and sovereignty conversations. | Working narrative. |
@@ -33,13 +37,18 @@ The terms are grouped by narrative topic rather than by repository folder. They 
 | **Trusted action** | A specific business act that must be attributable, authorized, governed, executed, and evidenced. | Preferred audience-facing term. Examples can include an approval, agreement execution, organizational seal, regulated submission, or agent-initiated workflow. | House recommendation. |
 | **Trusted business action** | A more explicit form of “trusted action” used when the business outcome must be distinguished from technical operations. | Use in commercial, discovery, and partner contexts. | House recommendation. |
 | **Business action** | The institutional act the customer needs to complete. | Use when trust is discussed separately; otherwise prefer “trusted business action.” | Working narrative. |
-| **Trusted execution** | The governed lifecycle that connects authority and policy to actual execution, evidence, and later verification. | Use for the end-to-end execution mechanism, not for a single signature API call or the resulting business state. | Working narrative. |
-| **Trusted Execution** | The same concept used as a named narrative model. | Capitalize only when deliberately naming the model; use sentence case generically. | House recommendation. |
-| **Trust event** | An underlying trust operation within a trusted execution, such as identity verification, approval, signing, sealing, timestamping, evidence generation, or preservation. | Distinguish the technical operation from the customer-valued outcome. | Working narrative; commercial-model validation required before pricing use. |
+| **Trusted execution** | The governed completion of a trusted action and the resulting business or institutional outcome. Applicable identity, authority, policy, approval, assurance, trust-service, evidence, audit, regulatory, and legal requirements are applied and retained through Trust Orchestration. | Use for the completed governed outcome, not the orchestration mechanism or a single trust event. | House recommendation derived from narrative-evolution sources; validation required. |
+| **Trusted Execution** | The named outcome model: a trusted action completed under the required controls with evidence sufficient to establish and verify the intended result. | Capitalize when naming the model. | House recommendation; messaging, product, legal, and compliance validation required. |
+| **Trust event** | An underlying trust operation orchestrated within a Trusted Execution, such as identity verification, approval, signing, sealing, timestamping, evidence generation, or preservation. | Distinguish the technical operation from the customer-valued Trusted Execution. | Working narrative; commercial-model validation required before pricing use. |
 | **Outcome** | The business or institutional state produced when an action completes, such as an agreement executed, approval granted, official record issued, or service completed. | Name the business result without implying that its trust or evidence has been established. | House recommendation. |
-| **Trusted outcome** | An outcome produced through an execution governed by the required identity, authority, policy, approval, assurance, and evidence controls. | Use when emphasizing confidence in how the result was reached. | House recommendation. |
-| **Verifiable outcome** | An outcome that can be substantiated later through connected execution evidence and a trusted record. | Use when later proof, audit, or independent checking is central. Avoid implying legal validity or third-party verification unless supported. | House recommendation. |
-| **Trusted and verifiable outcome** | The combined customer-value expression: a business result reached under the required controls and supported by evidence that can be checked later. | Preferred when summarizing the value created by trusted execution. | House recommendation; capability and evidence claims require validation. |
+| **Trusted outcome** | Plain-language description of the resulting business state created by a Trusted Execution. | Use as explanatory language rather than a competing formal model. | House recommendation. |
+| **Compliant outcome** | An outcome reached in accordance with the applicable organizational policy, regulation, legal requirements, and approved execution profile. | Compliance is contextual. Name the scope and applicable requirements; do not make an unqualified universal claim. | House recommendation; legal and compliance validation required. |
+| **Fully compliant execution** | A specific Trusted Execution for which all applicable policy, regulatory, legal, assurance, and evidentiary requirements identified by the validated execution profile have been satisfied and retained. | Use only with a defined use case, jurisdiction, requirement set, and evidence package. It is not a platform-wide guarantee. | Strategic requirement; legal and compliance validation required. |
+| **Legal effect** | The legal result created by an action when the applicable substantive and formal requirements have been satisfied. | Use when “legally binding” would be too narrow or when the action creates a different legal result. | House recommendation; legal validation required. |
+| **Legally binding outcome** | An outcome intended to create enforceable legal obligations and executed with the identities, authority, form, consent, assurance, trust services, and evidence required by the applicable law. | Use only for legally significant actions after jurisdiction- and use-case-specific validation. | Strategic requirement; legal validation required. |
+| **Verifiable outcome** | An outcome that can be substantiated later through connected execution evidence and a trusted record. | Use when later proof, audit, or independent checking is central. “Independently verifiable” requires a defined verification method. | House recommendation. |
+| **Independent verification** | Verification that an authorized party can perform using the retained record, evidence, signatures, seals, timestamps, certificates, audit history, or external trust infrastructure without relying only on an unsupported assertion. | Define who can verify, what they inspect, and which method or trust anchor is used. | House recommendation; architecture and legal validation required. |
+| **Trusted, compliant, and verifiable outcome** | General customer-value expression for a Trusted Execution: the action reached the intended result under applicable controls and retained evidence that can be checked later. | Preferred general expression. Add “fully compliant,” “legally binding,” or “independently verifiable” only for applicable validated executions. | House recommendation; capability, evidence, legal, and compliance validation required. |
 | **Execution lifecycle** | The complete path from preparation and authority through review, approval, execution, evidence, preservation, retrieval, and later use. | Use when the exact visible steps vary by audience. | Working narrative. |
 | **Trust chain** | The connected sequence of controls and events that makes an action attributable and provable. | Prefer a concrete chain immediately after the term. | Working narrative. |
 | **Continuous trust and evidence chain** | The uninterrupted connection between process context, decisions, identities, permissions, trust events, records, and evidence. | Preferred full form when explaining the mechanism. | House recommendation. |
@@ -79,7 +88,7 @@ The terms are grouped by narrative topic rather than by repository folder. They 
 | **Evidence** | The information retained to show what happened, who or what acted, under which controls, and with what result. | Present as an outcome of execution, not a technical afterthought. | Working narrative. |
 | **Execution evidence** | Evidence tied directly to the action, its actors, authority, process, version, and outcome. | Useful when distinguishing evidence from a generic audit log. | House recommendation. |
 | **Audit** | The ability to inspect the execution history, controls, events, and retained evidence. | Use with evidence; do not promise regulatory sufficiency without validation. | Working narrative. |
-| **Auditability** | The quality of being traceable and reviewable after execution. | Prefer to unsupported claims such as “fully compliant.” | Working narrative. |
+| **Auditability** | The quality of being traceable and reviewable after execution. | Treat as one property of Trusted Execution. Auditability supports but does not by itself establish compliance or legal effect. | Working narrative. |
 | **Trusted record** | A durable record that preserves the authoritative connection among actor, role, authority, version, decision, approval, trust events, timestamps, evidence, and audit history. | Central outcome term. Contrast with a stored file without dismissing document storage. | Working narrative. |
 | **Verifiable record** | A record whose execution context and evidence can be checked later. | Useful audience-facing synonym when “trusted record” needs explanation. | Working narrative. |
 | **Institutional evidence** | Durable evidence retained as part of the institution's accountable history. | Use when moving from transaction output to long-term value. | Working narrative. |
@@ -118,23 +127,24 @@ The terms are grouped by narrative topic rather than by repository folder. They 
 | **AI agent** | A software actor capable of preparing, initiating, or executing actions within a defined mandate. | Treat as another governed actor, not as an authority source. | Working narrative. |
 | **Agentic action** | An action prepared, initiated, or executed by an AI agent. | Prefer “governed agentic action” when the control model is central. | Working narrative. |
 | **Governed agentic action** | Agentic action bounded by identity, delegated authority, policy, approval, execution, evidence, and audit. | Preferred positive end state. | Working narrative. |
-| **Agentic trusted execution** | Trusted execution that includes applications or AI agents as actors within the same institutional trust model. | Useful for strategic and partner narratives; explain rather than stack slogans. | House recommendation. |
+| **Agentic Trusted Execution** | A Trusted Execution in which an AI agent prepares, initiates, or performs part of the trusted action under verifiable identity, delegated authority, policy, approval, assurance, trust-service, evidence, audit, legal, and compliance controls. | Use as the agentic extension of the outcome model, not as a claim that Circularo controls model reasoning. | House recommendation; capability, legal, and compliance validation required. |
 | **Authority gap** | The gap between what software can do and what the institution has authorized it to do. | Strong problem statement for AI conversations. | House recommendation. |
 | **KNOW** | AI uses trusted context to extract, summarize, classify, translate, retrieve, or search. | First stage of the Circularo AI progression; capability claims must be validated. | Working narrative. |
 | **ADVISE** | AI uses governed context to identify obligations, surface risk, detect anomalies, or recommend next steps. | Second stage; recommendations do not create authority. | Working narrative. |
 | **ACT** | AI prepares or initiates permitted actions, requests approvals, or invokes allowed services. | Third stage; always pair with the authority and evidence boundary. | Working narrative. |
 | **Programmable trust** | The ability to expose the same trust rules, capabilities, and evidence model through governed APIs to multiple actors and channels. | Treat APIs as a strategic delivery channel, not merely a feature. | Working narrative. |
 | **Governed API** | An API channel subject to the same authority, policy, approval, evidence, and audit requirements as human interaction. | Narrative term; commercial API entitlements are governed separately. | House recommendation. |
+| **Unified Trust API** | Working narrative name for the API surface through which applications, portals, digital services, and AI agents can invoke governed Trust Orchestration capabilities. | Use as a platform narrative label only after product-owner validation. It does not imply included API access or consumption. | Working narrative; product and commercial validation required. |
 | **Agentic readiness** | Preparedness to let applications and agents participate without separating autonomy from accountability. | Use as a design objective, not a current-capability claim. | Working narrative; validation required. |
 
 ## 7. Circularo SaaS
 
 | Term | Working definition | Use | Status |
 | --- | --- | --- | --- |
-| **Circularo SaaS** | The managed-delivery narrative for organizations seeking trusted digital work without operating the underlying platform infrastructure. | Lead with the buyer problem and managed outcome, not hosting alone. | Working narrative. |
-| **Managed trusted execution** | Trusted execution delivered as a managed service. | Preferred short descriptor for Circularo SaaS. | House recommendation; capability validation required. |
+| **Circularo SaaS** | The managed delivery and operating model for organizations seeking Trust Orchestration and Trusted Execution outcomes without operating the underlying platform infrastructure. | Lead with the buyer problem and managed outcome, not hosting alone. | Working narrative. |
+| **Managed trusted execution** | Trust Orchestration delivered through a managed environment to produce Trusted Execution outcomes. | Preferred short descriptor for Circularo SaaS when the mechanism does not need to be explained separately. | House recommendation; capability validation required. |
 | **Trusted digital work** | Digital work in which collaboration, approval, signing, evidence, records, and automation remain connected. | Plain-language SaaS value phrase. | Working narrative. |
-| **Trusted digital workspace** | A coherent user environment spanning the trusted execution lifecycle. | Use as an experience proposition, not an approved product name. | Working narrative. |
+| **Trusted digital workspace** | A coherent user environment in which content, collaboration, authority, approval, trust events, evidence, and records are orchestrated across the action lifecycle. | Use as an experience proposition, not an approved product name. | Working narrative. |
 | **Managed environment** | A service environment whose platform infrastructure and lifecycle are operated under the agreed service model. | Do not imply specific hosting, location, security, or service commitments without approval. | Working narrative boundary. |
 | **First trusted workflow** | The initial workflow selected to prove business value, integrations, assurance, evidence, and adoption. | Preferred SaaS next step. | House recommendation. |
 | **Progressive adoption** | Starting with one workflow and extending the established trust model to additional processes over time. | Use instead of implying enterprise-wide transformation at once. | Working narrative. |
@@ -143,8 +153,8 @@ The terms are grouped by narrative topic rather than by repository folder. They 
 
 | Term | Working definition | Use | Status |
 | --- | --- | --- | --- |
-| **Circularo Sovereign** | The customer-controlled narrative for trusted execution within a defined infrastructure, jurisdictional, security, data, identity, key, policy, evidence, AI, and operating boundary. | Lead with control requirements, not a generic “on-premises” label. | Working narrative. |
-| **Customer-controlled trusted execution** | Trusted execution operated within the control boundary agreed with the customer. | Preferred short descriptor for Circularo Sovereign. | House recommendation; deployment validation required. |
+| **Circularo Sovereign** | The customer-controlled delivery and operating model for Trust Orchestration and Trusted Execution within a defined infrastructure, jurisdictional, security, data, identity, key, policy, evidence, AI, and operating boundary. | Lead with control requirements, not a generic “on-premises” label. | Working narrative. |
+| **Customer-controlled trusted execution** | Trust Orchestration operated within the control boundary agreed with the customer to produce Trusted Execution outcomes under customer-defined sovereignty requirements. | Preferred short descriptor for Circularo Sovereign when the mechanism does not need to be explained separately. | House recommendation; deployment validation required. |
 | **Sovereignty boundary** | The explicit set of controls that cannot be delegated outside the customer's required environment or jurisdiction. | Define it across infrastructure, data, identity, keys, policy, integrations, evidence, AI, operations, and jurisdiction. | Working narrative. |
 | **Control boundary** | General form of the boundary describing where control and operating responsibility sit. | Use in both SaaS and sovereign discovery. | Working narrative. |
 | **Data residency** | The location in which data is stored or processed. | State explicitly that it is one sovereignty dimension, not the complete definition. | Working narrative boundary. |
@@ -157,10 +167,11 @@ The terms are grouped by narrative topic rather than by repository folder. They 
 
 | Term | Working definition | Use | Status |
 | --- | --- | --- | --- |
-| **Sovereign Trust Shared Services** | The narrative for establishing reusable sovereign trust and execution capabilities once and making them available across multiple government or ecosystem entities. | Treat as a distinct buying problem, not merely a multi-tenant deployment variant. | Working narrative. |
+| **Sovereign Trust Shared Services** | The centrally operated delivery and governance model for establishing reusable sovereign Trust Orchestration capabilities once and making them available across multiple government or ecosystem entities to produce Trusted Execution outcomes. | It shares the platform foundation with SaaS and Sovereign but answers a distinct multi-entity buying and governance problem. | Working narrative. |
 | **Trust as a shared service** | A model in which reusable trust capabilities are centrally enabled and governed while participating entities retain their own services, roles, policies, and records boundaries. | Preferred plain-language description. | Working narrative. |
 | **Shared trust infrastructure** | Common infrastructure connecting identity, authority, workflow, trust services, evidence, records, and audit across an ecosystem. | Use when “national” would be too specific. | Working narrative. |
 | **National Trusted Execution Layer** | A shared sovereign execution layer connecting national or government actors and systems to reusable trust capabilities and evidence. | Use only in national-government contexts and as a working architectural concept. | Working narrative; owner validation required. |
+| **National Trust Orchestration Layer** | A shared sovereign orchestration layer connecting government and agentic applications to national identity, PKI, signatures, seals, timestamps, cloud, and other trust infrastructure to produce Trusted Executions. | Preferred shared-services architecture term when the platform mechanism is the focus. | House recommendation; architecture and owner validation required. |
 | **Build once, govern centrally, consume across government** | The operating logic of the shared-services proposition. | Use as a memorable model, while clarifying entity ownership and boundaries. | Working narrative. |
 | **Entity-owned service** | A ministry-, agency-, authority-, or organization-owned service built on shared trust capabilities. | Useful for preventing the misconception of one centralized government application. | House recommendation. |
 | **Entity boundary** | The policy, permission, data, evidence, and record boundary retained by each participating entity. | Always address when describing shared infrastructure. | Working narrative. |
@@ -211,7 +222,7 @@ These terms are **canonical internal** where their cited records are approved. T
 
 | Term | Working definition | Preferred application |
 | --- | --- | --- |
-| **First trusted action** | The initial business act selected to test the authority, assurance, execution, and evidence model. | Agentic, partner, and commercial-model discovery. |
+| **First trusted action** | The initial business act selected to test the authority, assurance, Trust Orchestration, Trusted Execution, and evidence model. | Agentic, partner, and commercial-model discovery. |
 | **First trusted workflow** | The initial end-to-end workflow selected to prove the managed trust model and business value. | Circularo SaaS. |
 | **Sovereignty-boundary workshop** | Discovery that identifies which infrastructure, data, identity, key, policy, integration, evidence, AI, operational, and jurisdictional controls must remain inside the boundary. | Circularo Sovereign. |
 | **Shared trust architecture blueprint** | The initial architecture and governance definition for reusable trust services across multiple entities. | Sovereign Trust Shared Services. |
@@ -254,9 +265,34 @@ Use to connect records, institutional memory, AI, and execution.
 
 ### Action-to-outcome progression
 
-> Trusted action → Trusted execution → Trusted and verifiable outcome → Trusted record
+> Trusted action → Trust Orchestration → Trusted Execution → Trusted record
 
-Use to distinguish the customer's intended action, the governed execution mechanism, the resulting business state, and the durable proof of that result.
+Use to distinguish the customer's intended action, the platform mechanism, the resulting trusted and verifiable business outcome, and the durable proof of that result.
+
+### Narrative evolution
+
+> Digital Signatures → Trust Orchestration → Trusted Execution → Agentic Trusted Execution
+
+- **Digital Signatures** establish trust around a specific signature event.
+- **Trust Orchestration** coordinates the identities, authority, approvals, policies, assurance, trust services, and evidence required by the business process.
+- **Trusted Execution** is the completed, governed, compliant, and verifiable outcome produced by that orchestration.
+- **Agentic Trusted Execution** extends the same outcome model to trusted actions prepared, initiated, or performed by AI agents.
+
+For legally significant actions, the intended Trusted Execution must also meet and evidence the conditions required for a legally binding outcome.
+
+### Trust Orchestration architecture
+
+> Business & Agentic Applications
+>
+> ↓
+>
+> Circularo Trust Orchestration Layer
+>
+> ↓
+>
+> Trust & Infrastructure Services
+
+The upper layer includes government services, enterprise applications, portals, and AI agents. The orchestration layer coordinates workflow, authority, approval, policy, assurance, evidence, and integration. The infrastructure layer can include digital identity, signatures, seals, timestamps, sovereign cloud, PKI, and external trust providers.
 
 ### Circularo AI progression
 
@@ -292,6 +328,6 @@ Use as a strategic explanatory lens, not as a commercial layer model.
 
 ### Trusted-execution flywheel
 
-> Trusted collaboration → Trusted execution → Institutional evidence → Trusted records → Trusted AI context → Governed agentic action → New trusted execution and evidence
+> Trusted collaboration → Trust Orchestration → Trusted Execution → Institutional evidence → Trusted records → Trusted AI context → Governed agentic action → New trusted actions
 
 Use only when a cycle materially improves understanding. For shorter content, prefer the linear evidence-to-action progression.

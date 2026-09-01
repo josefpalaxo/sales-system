@@ -37,10 +37,15 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **Circularo connects the controls around an action with the evidence that remains afterwards.** | Plain-language product-role explanation. | House recommendation. |
 | **Circularo connects business process, trust services, and trusted records in one governed lifecycle.** | Platform overview. | Working narrative. |
 | **Circularo connects identity and authority to execution and evidence.** | Short platform explanation. | House recommendation. |
-| **Trusted and verifiable outcomes.** | Compact value promise or section label after the trust model has been explained. | House recommendation; supporting capability and evidence must be validated. |
-| **Circularo helps turn trusted actions into trusted and verifiable outcomes.** | Customer-value summary. | House recommendation; product and evidence claims require validation. |
-| **Trusted execution produces trusted and verifiable outcomes.** | Explain the relationship between mechanism and value. | Preferred house phrase. |
-| **The action is what must happen. Trusted execution governs how it happens. Evidence makes the outcome verifiable.** | Plain-language explanation of the complete model. | House recommendation. |
+| **Circularo is a Trust Orchestration Platform connecting content, collaboration, identity, authority, approvals, signatures, trust services, evidence, archiving, and APIs into end-to-end trusted business processes.** | Full strategic platform proposition. | House recommendation; capability and owner validation required. |
+| **Rather than treating trust services as isolated transactions, Circularo orchestrates the trust events required throughout the process to deliver a Trusted Execution.** | Explain the platform's differentiation. | House recommendation; capability validation required. |
+| **Circularo orchestrates trust. Trusted Execution is the outcome.** | Primary synthesis of platform mechanism and customer value. | Preferred house phrase; owner validation required externally. |
+| **Trusted, compliant, and verifiable outcomes.** | Compact general value promise after the trust model has been explained. | House recommendation; scope, capability, and evidence must be validated. |
+| **Circularo orchestrates trusted actions into Trusted Executions.** | Concise platform and outcome proposition. | House recommendation; product and evidence claims require validation. |
+| **Trust Orchestration produces Trusted Execution.** | Explain the relationship between mechanism and outcome. | Preferred house phrase. |
+| **The action is what must happen. Trust Orchestration governs how it happens. Trusted Execution is the outcome. Evidence makes it verifiable.** | Plain-language explanation of the complete model. | House recommendation. |
+| **The objective is not merely to produce a signature. It is to produce a trusted, compliant, and verifiable business outcome.** | Signature-to-outcome transition. | House recommendation; state the applicable compliance scope. |
+| **For legally significant actions, Trusted Execution must produce and evidence the conditions required for a legally binding outcome.** | Legal-effect definition. | House requirement; jurisdiction- and use-case-specific legal validation required. |
 | **One platform. One governance model. One continuous evidence chain. One API.** | Summary after the platform has been explained. | Strong working narrative; platform claims require validation. |
 | **Make access easy. Make execution intelligent. Make trust verifiable.** | Access–execution–trust synthesis. | Working teaser; capability and proof validation required. |
 | **From trusted documents to trusted execution.** | Company or portfolio transition. | Working narrative. |
@@ -51,7 +56,22 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **The strategic outcome is a System of Authority.** | Introduce the outcome after explaining the mechanism. | Working narrative; owner validation required. |
 | **A system of record tells you what you have. A System of Authority tells you who or what acted, under whose authority, and what evidence remains.** | Explain the strategic-outcome contrast. | House recommendation; owner validation required. |
 
-## 3. Trusted-action and execution phrases
+## 3. Trust Orchestration phrases
+
+| Phrase | Best use | Status |
+| --- | --- | --- |
+| **Digital Signatures → Trust Orchestration → Trusted Execution → Agentic Trusted Execution.** | Master evolution framework. | Preferred house framework; owner validation required externally. |
+| **From individual trust services to trusted outcomes.** | Transition from infrastructure components to customer value. | House recommendation. |
+| **Circularo is the orchestration layer above and across trust infrastructure.** | Architecture explanation. | House recommendation; architecture validation required. |
+| **Orchestrate the right trust events at the right point in the process.** | Plain mechanism explanation. | House recommendation. |
+| **The process determines the trust events—not the other way around.** | Business-led orchestration principle. | House recommendation. |
+| **Circularo can orchestrate native capabilities and external trust infrastructure through one governed platform.** | Ecosystem proposition. | Working narrative; integration support must be validated. |
+| **Circularo does not need to replace every trust service. It connects the services the action requires.** | Boundary and ecosystem explanation. | House recommendation; integration support must be validated. |
+| **One platform, end to end: content, authority, trust services, execution, evidence, and records.** | Platform summary. | House recommendation; capability validation required. |
+| **Trusted Execution is a fully governed, compliant, legally binding, and verifiable business outcome.** | Definition for a validated legally significant action. | Strategic definition; never use without jurisdiction-, use-case-, and execution-profile validation. |
+| **Authorized. Compliant. Legally effective where required. Evidenced. Verifiable.** | Compact outcome standard. | House recommendation; qualify legal and compliance scope. |
+
+## 4. Trusted-action and execution phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
@@ -64,14 +84,14 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **What must remain provable afterwards?** | Evidence discovery. | Current house phrase. |
 | **What are you trying to execute?** | Customer-outcome discovery. | Strong working narrative. |
 | **How much assurance does the execution require?** | Assurance discovery. | Strong working narrative. |
-| **The customer values the outcome; trusted execution is how that outcome is governed and proven.** | Updated commercial and solution-design distinction. | Preferred house phrase; commercial validation required. |
+| **The customer values the outcome; Trust Orchestration is how it is governed, and Trusted Execution is the completed result.** | Commercial and solution-design distinction. | Preferred house phrase; commercial validation required. |
 | **Assurance should match the significance of the action.** | Risk-based assurance discussion. | Current house phrase. |
 | **Design the trust path around the action—not around an isolated tool.** | Partner or architecture workshop. | House recommendation. |
 | **The controls should travel with the action.** | Explain a continuous trust model. | House recommendation. |
 | **The evidence chain starts before signing.** | Collaboration, versioning, and approval section. | Strong working narrative. |
 | **Accountability depends on the whole execution, not only the final signature.** | SaaS and signature-led discovery. | Strong working narrative. |
 
-## 4. Evidence and records phrases
+## 5. Evidence and records phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
@@ -85,9 +105,9 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **Institutional memory is more than document storage.** | Category contrast. | Working narrative. |
 | **Make every trusted action attributable and provable.** | Short benefit or closing line. | House recommendation. |
 | **Do not stop at completed. Make the outcome verifiable.** | Evidence or closing teaser. | House recommendation. |
-| **From trusted action to verifiable outcome.** | Short transition or section title. | House recommendation. |
+| **From trusted action through Trust Orchestration to verifiable outcome.** | Short transition or section title. | House recommendation. |
 
-## 5. Agentic-era phrases
+## 6. Agentic-era phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
@@ -103,7 +123,7 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **ACT remains bounded by authority, policy, approval, evidence, and audit.** | Required qualification after KNOW–ADVISE–ACT. | House requirement. |
 | **Agentic systems need an institutional execution boundary.** | Executive or partner thesis. | Working narrative. |
 
-## 6. Circularo SaaS phrases
+## 7. Circularo SaaS phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
@@ -116,7 +136,7 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **Managed delivery reduces the infrastructure burden.** | Operational value. | Working narrative; exact responsibility model must be validated. |
 | **One governed lifecycle from creation to trusted record.** | SaaS mechanism summary. | Working narrative. |
 
-## 7. Circularo Sovereign phrases
+## 8. Circularo Sovereign phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
@@ -131,23 +151,23 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **Define the sovereignty boundary before selecting the deployment pattern.** | Discovery guidance. | House recommendation. |
 | **Keep trusted context and governed action inside the selected boundary.** | Sovereign AI message. | House recommendation. |
 
-## 8. Sovereign Trust Shared Services phrases
+## 9. Sovereign Trust Shared Services phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
-| **Build trusted execution once. Govern it centrally. Make it reusable across government.** | Shared-services cover or lead proposition. | Strong working narrative. |
+| **Build Trust Orchestration once. Govern it centrally. Produce Trusted Execution across government.** | Shared-services cover or lead proposition aligned to the mechanism/outcome distinction. | Preferred house phrase. |
 | **Build once → Govern centrally → Consume across government.** | Short operating model. | Strong working narrative. |
 | **Trust as a shared service.** | Category shorthand. | Working narrative. |
 | **One shared trust model. Many entity-owned services.** | Explain central capability with local service ownership. | Strong working narrative. |
 | **Enabling infrastructure, not another government application.** | Platform distinction. | House recommendation. |
-| **National identity answers who; trusted execution governs what may happen.** | Identity-to-execution distinction. | Strong working narrative. |
+| **National identity answers who; Trust Orchestration governs how authorized action becomes Trusted Execution.** | Identity-to-execution distinction. | Preferred house phrase. |
 | **When every entity builds its own trust stack, government inherits fragmentation.** | Problem statement. | Strong working narrative. |
 | **Shared capabilities, clear entity boundaries.** | Governance reassurance. | House recommendation. |
 | **A shared evidence model can strengthen accountability without creating unrestricted data sharing.** | Evidence and tenancy boundary. | House recommendation. |
 | **The architecture can be national from the beginning without requiring every entity to migrate at once.** | Progressive-adoption message. | Strong working narrative. |
 | **Start with shared architecture and a small number of high-value services.** | Call to action. | Working narrative. |
 
-## 9. Partner-enablement phrases
+## 10. Partner-enablement phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
@@ -158,7 +178,7 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **Turn the narrative into a repeatable discovery and solution-design engagement.** | Partner-enablement objective. | Working narrative. |
 | **Do not promise the trust recipe before the action, market, providers, and assurance requirement are validated.** | Partner qualification rule. | House requirement. |
 
-## 10. Commercial explanation phrases
+## 11. Commercial explanation phrases
 
 These are internal phrases. Exact commercial rules remain in the cited governed records.
 
@@ -173,7 +193,7 @@ These are internal phrases. Exact commercial rules remain in the cited governed 
 | **A User Add-On licenses covered users.** | Approved internal explanation. | `message:add-on-type-explanations` |
 | **A Service Add-On purchases finite professional work.** | Approved internal explanation. | `message:add-on-type-explanations` |
 
-## 11. Closing prompts by narrative
+## 12. Closing prompts by narrative
 
 | Narrative | Preferred close |
 | --- | --- |
