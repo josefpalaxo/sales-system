@@ -1,0 +1,655 @@
+{"kind":"layout","layoutId":"29a205b2-93f2-4d0b-ad0a-5a18fddc1f2e","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"4aa41266-2086-46bf-b1cc-b719466aaea8","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/hmh9v2","slide":1,"title":"01","textShapes":13}
+{"kind":"textbox","id":"sh/1oja9gn2","slide":1,"name":"page-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/gna90bmh","slide":1,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/ryhs3650","slide":1,"name":"slide-eyebrow","text":"ABOUT CIRCULARO","textPreview":"ABOUT CIRCULARO","textChars":15,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/6x8ru14f","slide":1,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/t0ja5wn6","slide":1,"name":"cover-kicker","text":"CIRCULARO COMPANY AND PLATFORM NARRATIVE","textPreview":"CIRCULARO COMPANY AND PLATFORM NARRATIVE","textChars":40,"textLines":1,"bbox":[48,124,600,24]}
+{"kind":"textbox","id":"sh/sza9wbml","slide":1,"name":"cover-title","text":"About Circularo","textPreview":"About Circularo","textChars":15,"textLines":1,"bbox":[48,184,720,92]}
+{"kind":"textbox","id":"sh/juhszm5o","slide":1,"name":"cover-subtitle","text":"Trust orchestration and trusted execution for organizations, governments, and the agentic era","textPreview":"Trust orchestration and trusted execution for organizations, governments, and the agentic era","textChars":93,"textLines":1,"bbox":[48,316,690,112]}
+{"kind":"textbox","id":"sh/it8rqh4j","slide":1,"name":"cover-thesis","text":"Circularo orchestrates trust. Trusted Execution is the outcome.","textPreview":"Circularo orchestrates trust. Trusted Execution is the outcome.","textChars":63,"textLines":1,"bbox":[48,502,710,54]}
+{"kind":"shape","id":"sh/ovmhsryd","slide":1,"name":"cover-layer-1","bbox":[820,186,360,92]}
+{"kind":"textbox","id":"sh/pwvy1wfy","slide":1,"name":"cover-layer-label-1","text":"PEOPLE AND SYSTEMS","textPreview":"PEOPLE AND SYSTEMS","textChars":18,"textLines":1,"bbox":[850,204,300,24]}
+{"kind":"textbox","id":"sh/2tkzqhg7","slide":1,"name":"cover-layer-body-1","text":"People / Organizations / Applications / AI agents","textPreview":"People / Organizations / Applications / AI agents","textChars":49,"textLines":1,"bbox":[850,236,300,32]}
+{"kind":"shape","id":"sh/nudgzmxs","slide":1,"name":"cover-layer-2","bbox":[820,310,360,92]}
+{"kind":"textbox","id":"sh/0r2xo7y1","slide":1,"name":"cover-layer-label-2","text":"CIRCULARO","textPreview":"CIRCULARO","textChars":9,"textLines":1,"bbox":[850,328,300,24]}
+{"kind":"textbox","id":"sh/1sbyxcfm","slide":1,"name":"cover-layer-body-2","text":"Trust Orchestration Platform","textPreview":"Trust Orchestration Platform","textChars":28,"textLines":1,"bbox":[850,360,300,32]}
+{"kind":"shape","id":"sh/e5kf2hgb","slide":1,"name":"cover-layer-3","bbox":[820,434,360,92]}
+{"kind":"textbox","id":"sh/f6tgv2xw","slide":1,"name":"cover-layer-label-3","text":"OUTCOME","textPreview":"OUTCOME","textChars":7,"textLines":1,"bbox":[850,452,300,24]}
+{"kind":"textbox","id":"sh/kn6h0byl","slide":1,"name":"cover-layer-body-3","text":"Trusted actions / Evidence / Trusted records","textPreview":"Trusted actions / Evidence / Trusted records","textChars":44,"textLines":1,"bbox":[850,484,300,32]}
+{"kind":"shape","id":"sh/lofy9gf6","slide":1,"name":"cover-link-1","bbox":[998,278,2,32]}
+{"kind":"shape","id":"sh/98rqxc3y","slide":1,"name":"cover-link-2","bbox":[998,402,2,32]}
+{"kind":"image","id":"im/vmh836xo","slide":1,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/hmh9v2","slide":1,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/h4ftbt","slide":2,"title":"02","textShapes":15}
+{"kind":"textbox","id":"sh/tkvu1sfa","slide":2,"name":"page-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/8jmd8nep","slide":2,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/vmdc32xg","slide":2,"name":"slide-eyebrow","text":"ABOUT CIRCULARO","textPreview":"ABOUT CIRCULARO","textChars":15,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/ul4vaxwv","slide":2,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/h8fu5cfm","slide":2,"name":"slide-title","text":"Circularo in one view","textPreview":"Circularo in one view","textChars":21,"textLines":1,"bbox":[48,96,1060,132]}
+{"kind":"textbox","id":"sh/g76dc7e1","slide":2,"name":"company-definition","text":"Circularo is a digital trust technology company headquartered in Dubai, providing enterprise and government platforms for trusted digital processes.","textPreview":"Circularo is a digital trust technology company headquartered in Dubai, providing enterprise and government platforms for trusted digital...","textChars":148,"textLines":1,"bbox":[48,228,700,138]}
+{"kind":"textbox","id":"sh/3axc7mxc","slide":2,"name":"company-1-label","text":"PROBLEM","textPreview":"PROBLEM","textChars":7,"textLines":1,"bbox":[48,418,118,24]}
+{"kind":"textbox","id":"sh/i9ovehw7","slide":2,"name":"company-1-body","text":"Establish trust as business processes become more digital and autonomous","textPreview":"Establish trust as business processes become more digital and autonomous","textChars":72,"textLines":1,"bbox":[176,415,574,44]}
+{"kind":"textbox","id":"sh/kve1gbat","slide":2,"name":"company-2-label","text":"PLATFORM","textPreview":"PLATFORM","textChars":8,"textLines":1,"bbox":[48,478,118,24]}
+{"kind":"textbox","id":"sh/5wn29gbe","slide":2,"name":"company-2-body","text":"Connect content, actors, authority, workflow, trust services, and evidence","textPreview":"Connect content, actors, authority, workflow, trust services, and evidence","textChars":74,"textLines":1,"bbox":[176,475,574,44]}
+{"kind":"textbox","id":"sh/itwjelsn","slide":2,"name":"company-3-label","text":"OUTCOME","textPreview":"OUTCOME","textChars":7,"textLines":1,"bbox":[48,538,118,24]}
+{"kind":"textbox","id":"sh/ju5k7qt8","slide":2,"name":"company-3-body","text":"Complete trusted actions and preserve verifiable institutional records","textPreview":"Complete trusted actions and preserve verifiable institutional records","textChars":70,"textLines":1,"bbox":[176,535,574,44]}
+{"kind":"shape","id":"sh/szy1kvap","slide":2,"name":"company-thesis-frame","bbox":[824,228,356,344]}
+{"kind":"textbox","id":"sh/tk72d0ba","slide":2,"name":"company-thesis-label","text":"COMPANY THESIS","textPreview":"COMPANY THESIS","textChars":14,"textLines":1,"bbox":[860,266,284,24]}
+{"kind":"textbox","id":"sh/6xwjilsz","slide":2,"name":"company-thesis-main","text":"Trust must remain connected across the complete digital process.","textPreview":"Trust must remain connected across the complete digital process.","textChars":64,"textLines":1,"bbox":[860,326,284,126]}
+{"kind":"textbox","id":"sh/7y5kbqt4","slide":2,"name":"company-thesis-detail","text":"Before execution\nDuring execution\nAfter execution","textPreview":"Before execution | During execution | After execution","textChars":49,"textLines":3,"bbox":[860,482,284,74]}
+{"kind":"shape","id":"sh/gnylova1","slide":2,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/ho72h0bm","slide":2,"name":"takeaway","text":"Circularo expands the trust model around signatures without moving away from them.","textPreview":"Circularo expands the trust model around signatures without moving away from them.","textChars":82,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/vy54vmtc","slide":2,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/h4ftbt","slide":2,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/18bhzo","slide":3,"title":"03","textShapes":17}
+{"kind":"textbox","id":"sh/lsbmdc7u","slide":3,"name":"page-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/kr254rq9","slide":3,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/bm9472ps","slide":3,"name":"slide-eyebrow","text":"ABOUT CIRCULARO","textPreview":"ABOUT CIRCULARO","textChars":15,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/al03yx87","slide":3,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/xorm9c7y","slide":3,"name":"slide-title","text":"One continuous expansion of the trust problem","textPreview":"One continuous expansion of the trust problem","textChars":45,"textLines":1,"bbox":[48,96,1150,132]}
+{"kind":"shape","id":"sh/wni507qd","slide":3,"name":"evolution-spine","bbox":[90,360,1090,3]}
+{"kind":"shape","id":"sh/vid4j6pw","slide":3,"name":"evolution-1-frame","bbox":[150,338,46,46]}
+{"kind":"textbox","id":"sh/uhkna18b","slide":3,"name":"evolution-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[150,350,46,22]}
+{"kind":"textbox","id":"sh/8ne1sfq5","slide":3,"name":"evolution-title-1","text":"Digital signatures","textPreview":"Digital signatures","textChars":18,"textLines":1,"bbox":[48,414,250,62]}
+{"kind":"textbox","id":"sh/9onilkra","slide":3,"name":"evolution-body-1","text":"Prove the signing action","textPreview":"Prove the signing action","textChars":24,"textLines":1,"bbox":[48,494,250,64]}
+{"kind":"shape","id":"sh/mlwjq58z","slide":3,"name":"evolution-2-frame","bbox":[446,338,46,46]}
+{"kind":"textbox","id":"sh/7m50ja9k","slide":3,"name":"evolution-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[446,350,46,22]}
+{"kind":"textbox","id":"sh/kze1ofat","slide":3,"name":"evolution-title-2","text":"Digital trust","textPreview":"Digital trust","textChars":13,"textLines":1,"bbox":[344,414,250,62]}
+{"kind":"textbox","id":"sh/lknihkre","slide":3,"name":"evolution-body-2","text":"Maintain trust across the process","textPreview":"Maintain trust across the process","textChars":33,"textLines":1,"bbox":[344,494,250,64]}
+{"kind":"shape","id":"sh/yxcjm5sn","slide":3,"name":"evolution-3-frame","bbox":[742,338,46,46]}
+{"kind":"textbox","id":"sh/zyl0fa98","slide":3,"name":"evolution-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[742,350,46,22]}
+{"kind":"textbox","id":"sh/cvu1kvax","slide":3,"name":"evolution-title-3","text":"Trusted execution","textPreview":"Trusted execution","textChars":17,"textLines":1,"bbox":[640,414,250,62]}
+{"kind":"textbox","id":"sh/xw3id0ri","slide":3,"name":"evolution-body-3","text":"Deliver a controlled business outcome","textPreview":"Deliver a controlled business outcome","textChars":37,"textLines":1,"bbox":[640,494,250,64]}
+{"kind":"shape","id":"sh/dsvyhwj6","slide":3,"name":"evolution-4-frame","bbox":[1038,338,46,46]}
+{"kind":"textbox","id":"sh/crmhor2l","slide":3,"name":"evolution-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1038,350,46,22]}
+{"kind":"textbox","id":"sh/rqdgfm10","slide":3,"name":"evolution-title-4","text":"Agentic trusted execution","textPreview":"Agentic trusted execution","textChars":25,"textLines":1,"bbox":[936,414,250,62]}
+{"kind":"textbox","id":"sh/qp4zmhkf","slide":3,"name":"evolution-body-4","text":"Apply the model when AI agents act","textPreview":"Apply the model when AI agents act","textChars":34,"textLines":1,"bbox":[936,494,250,64]}
+{"kind":"shape","id":"sh/povydcju","slide":3,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/4nmhk72p","slide":3,"name":"takeaway","text":"Each stage keeps the prior trust capability and expands the outcome Circularo can support.","textPreview":"Each stage keeps the prior trust capability and expands the outcome Circularo can support.","textChars":90,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/reh0n6h0","slide":3,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/18bhzo","slide":3,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/17nyj9","slide":4,"title":"04","textShapes":17}
+{"kind":"textbox","id":"sh/9gnytkru","slide":4,"name":"page-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/8fexkfq9","slide":4,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/zqlwna9s","slide":4,"name":"slide-eyebrow","text":"ABOUT CIRCULARO","textPreview":"ABOUT CIRCULARO","textChars":15,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/ypcfe587","slide":4,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/lc3ep0ri","slide":4,"name":"slide-title","text":"Four strategic focus areas","textPreview":"Four strategic focus areas","textChars":26,"textLines":1,"bbox":[48,96,1040,132]}
+{"kind":"shape","id":"sh/kruxgvqd","slide":4,"name":"focus-1-frame","bbox":[48,236,46,46]}
+{"kind":"textbox","id":"sh/jmpgzu9w","slide":4,"name":"focus-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,248,46,22]}
+{"kind":"textbox","id":"sh/ilgfqp8b","slide":4,"name":"focus-title-1","text":"Enterprise Digital Trust","textPreview":"Enterprise Digital Trust","textChars":24,"textLines":1,"bbox":[120,234,430,42]}
+{"kind":"textbox","id":"sh/cfalcru1","slide":4,"name":"focus-body-1","text":"Simplify trusted digital work across organizations","textPreview":"Simplify trusted digital work across organizations","textChars":50,"textLines":1,"bbox":[120,290,450,74]}
+{"kind":"shape","id":"sh/dgjm5wbm","slide":4,"name":"focus-divider-1","bbox":[48,378,536,1]}
+{"kind":"shape","id":"sh/qts3ahcb","slide":4,"name":"focus-2-frame","bbox":[640,236,46,46]}
+{"kind":"textbox","id":"sh/be143mdg","slide":4,"name":"focus-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[640,248,46,22]}
+{"kind":"textbox","id":"sh/orql87u5","slide":4,"name":"focus-title-2","text":"Sovereign Digital Trust","textPreview":"Sovereign Digital Trust","textChars":23,"textLines":1,"bbox":[712,234,430,42]}
+{"kind":"textbox","id":"sh/psz21cvq","slide":4,"name":"focus-body-2","text":"Operate modern trust infrastructure in customer-controlled environments","textPreview":"Operate modern trust infrastructure in customer-controlled environments","textChars":71,"textLines":1,"bbox":[712,290,450,74]}
+{"kind":"shape","id":"sh/2p836xcz","slide":4,"name":"focus-divider-2","bbox":[640,378,536,1]}
+{"kind":"shape","id":"sh/3qhkz2dk","slide":4,"name":"focus-3-frame","bbox":[48,406,46,46]}
+{"kind":"textbox","id":"sh/gnql47ut","slide":4,"name":"focus-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,418,46,22]}
+{"kind":"textbox","id":"sh/hoz2xcve","slide":4,"name":"focus-title-3","text":"Government Shared Services","textPreview":"Government Shared Services","textChars":26,"textLines":1,"bbox":[120,404,430,42]}
+{"kind":"textbox","id":"sh/hkri1oni","slide":4,"name":"focus-body-3","text":"Provide reusable trust capabilities across public institutions","textPreview":"Provide reusable trust capabilities across public institutions","textChars":62,"textLines":1,"bbox":[120,460,450,74]}
+{"kind":"shape","id":"sh/wji1sjmx","slide":4,"name":"focus-4-frame","bbox":[640,406,46,46]}
+{"kind":"textbox","id":"sh/vi90ze5c","slide":4,"name":"focus-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[640,418,46,22]}
+{"kind":"textbox","id":"sh/uh0jqt4r","slide":4,"name":"focus-title-4","text":"Agentic AI Trust","textPreview":"Agentic AI Trust","textChars":16,"textLines":1,"bbox":[712,404,430,42]}
+{"kind":"textbox","id":"sh/9g7ixon6","slide":4,"name":"focus-body-4","text":"Govern identity, authority, execution, and evidence when agents act","textPreview":"Govern identity, authority, execution, and evidence when agents act","textChars":67,"textLines":1,"bbox":[712,460,450,74]}
+{"kind":"shape","id":"sh/8fy1ojml","slide":4,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/7ep0ve50","slide":4,"name":"takeaway","text":"Four focus areas. Three delivery models. One Trusted Execution Platform.","textPreview":"Four focus areas. Three delivery models. One Trusted Execution Platform.","textChars":72,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/fe9svmdo","slide":4,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/17nyj9","slide":4,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/ocfsb9","slide":5,"title":"05","textShapes":11}
+{"kind":"textbox","id":"sh/5k3y1c76","slide":5,"name":"page-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/kjuxs7ql","slide":5,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/velgv2p4","slide":5,"name":"slide-eyebrow","text":"ABOUT CIRCULARO","textPreview":"ABOUT CIRCULARO","textChars":15,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/adsfmx8j","slide":5,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/xg3yxs7u","slide":5,"name":"slide-title","text":"Differentiation is moving above trust infrastructure","textPreview":"Differentiation is moving above trust infrastructure","textChars":52,"textLines":1,"bbox":[48,96,1160,132]}
+{"kind":"textbox","id":"sh/wfuxo7q9","slide":5,"name":"market-thesis","text":"Identity, signatures, seals, timestamps, PKI, and sovereign cloud services increasingly form a shared foundation.","textPreview":"Identity, signatures, seals, timestamps, PKI, and sovereign cloud services increasingly form a shared foundation.","textChars":113,"textLines":1,"bbox":[48,234,490,130]}
+{"kind":"textbox","id":"sh/fa5g7mp8","slide":5,"name":"market-implication","text":"Circularo connects that foundation to the authority, workflow, policy, evidence, integrations, and operating controls required by real business processes.","textPreview":"Circularo connects that foundation to the authority, workflow, policy, evidence, integrations, and operating controls required by real bu...","textChars":154,"textLines":1,"bbox":[48,408,500,132]}
+{"kind":"shape","id":"sh/u9wfyh8n","slide":5,"name":"foundation","bbox":[688,422,492,116]}
+{"kind":"textbox","id":"sh/436d4r6p","slide":5,"name":"foundation-label","text":"FOUNDATIONAL TRUST INFRASTRUCTURE","textPreview":"FOUNDATIONAL TRUST INFRASTRUCTURE","textChars":33,"textLines":1,"bbox":[724,448,420,24]}
+{"kind":"textbox","id":"sh/54fudwna","slide":5,"name":"foundation-body","text":"Identity / PKI / signatures / seals / timestamps / sovereign cloud","textPreview":"Identity / PKI / signatures / seals / timestamps / sovereign cloud","textChars":66,"textLines":1,"bbox":[724,486,420,34]}
+{"kind":"shape","id":"sh/i14v2hoj","slide":5,"name":"orchestration","bbox":[638,238,542,144]}
+{"kind":"textbox","id":"sh/j2dcbm54","slide":5,"name":"orchestration-label","text":"CIRCULARO TRUST ORCHESTRATION","textPreview":"CIRCULARO TRUST ORCHESTRATION","textChars":29,"textLines":1,"bbox":[678,264,462,24]}
+{"kind":"textbox","id":"sh/wzmd076d","slide":5,"name":"orchestration-body","text":"Content / authority / workflow / approval\nassurance / evidence / records / deployment control","textPreview":"Content / authority / workflow / approval | assurance / evidence / records / deployment control","textChars":93,"textLines":2,"bbox":[678,308,462,64]}
+{"kind":"shape","id":"sh/h0vu9cny","slide":5,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/ax4vyhon","slide":5,"name":"takeaway","text":"Circularo turns trust infrastructure into governed business outcomes.","textPreview":"Circularo turns trust infrastructure into governed business outcomes.","textChars":69,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/fulgzqxw","slide":5,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/ocfsb9","slide":5,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/nlkzaq","slide":6,"title":"06","textShapes":11}
+{"kind":"textbox","id":"sh/25sved8f","slide":6,"name":"page-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/n61w7ip0","slide":6,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/wbad4nqh","slide":6,"name":"slide-eyebrow","text":"ABOUT CIRCULARO","textPreview":"ABOUT CIRCULARO","textChars":15,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/xcjeds72","slide":6,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/a9svid8r","slide":6,"name":"slide-title","text":"Trust Orchestration and Trusted Execution serve different roles","textPreview":"Trust Orchestration and Trusted Execution serve different roles","textChars":63,"textLines":1,"bbox":[48,96,1160,132]}
+{"kind":"shape","id":"sh/ba1wbipc","slide":6,"name":"capability-frame","bbox":[48,250,524,286]}
+{"kind":"textbox","id":"sh/kzud87qt","slide":6,"name":"capability-label","text":"PLATFORM CAPABILITY","textPreview":"PLATFORM CAPABILITY","textChars":19,"textLines":1,"bbox":[88,286,420,24]}
+{"kind":"textbox","id":"sh/l03ehc7e","slide":6,"name":"capability-title","text":"Trust Orchestration","textPreview":"Trust Orchestration","textChars":19,"textLines":1,"bbox":[88,334,420,52]}
+{"kind":"textbox","id":"sh/90nq9g3e","slide":6,"name":"capability-body","text":"Connects content, actors, identity, authority, workflow, trust services, evidence, and records across the business process.","textPreview":"Connects content, actors, identity, authority, workflow, trust services, evidence, and records across the business process.","textChars":123,"textLines":1,"bbox":[88,414,420,100]}
+{"kind":"shape","id":"sh/8zupgb2t","slide":6,"name":"outcome-frame","bbox":[656,250,524,286]}
+{"kind":"textbox","id":"sh/7ylo76l8","slide":6,"name":"outcome-label","text":"BUSINESS OUTCOME","textPreview":"BUSINESS OUTCOME","textChars":16,"textLines":1,"bbox":[696,286,420,24]}
+{"kind":"textbox","id":"sh/mxc7e1kn","slide":6,"name":"outcome-title","text":"Trusted Execution","textPreview":"Trusted Execution","textChars":17,"textLines":1,"bbox":[696,334,420,52]}
+{"kind":"textbox","id":"sh/honqd0ja","slide":6,"name":"outcome-body","text":"Produces a trusted and verifiable action with the appropriate controls, assurance, and retained evidence.","textPreview":"Produces a trusted and verifiable action with the appropriate controls, assurance, and retained evidence.","textChars":105,"textLines":1,"bbox":[696,414,420,100]}
+{"kind":"shape","id":"sh/w3epkv25","slide":6,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/v258bqlk","slide":6,"name":"takeaway","text":"Circularo orchestrates trust. Trusted Execution is the outcome.","textPreview":"Circularo orchestrates trust. Trusted Execution is the outcome.","textChars":63,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/kn6l4b6t","slide":6,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/nlkzaq","slide":6,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/3cjrqs","slide":7,"title":"07","textShapes":19}
+{"kind":"textbox","id":"sh/zix8je1s","slide":7,"name":"page-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/eho7q90n","slide":7,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/9ozqpoja","slide":7,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/onq9wjip","slide":7,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/nmh8ne14","slide":7,"name":"chapter-kicker","text":"INDEPENDENT PLATFORM CHAPTER","textPreview":"INDEPENDENT PLATFORM CHAPTER","textChars":28,"textLines":1,"bbox":[48,124,540,24]}
+{"kind":"textbox","id":"sh/mloru90j","slide":7,"name":"chapter-title","text":"The Circularo Trust\nOrchestration Platform","textPreview":"The Circularo Trust | Orchestration Platform","textChars":42,"textLines":2,"bbox":[48,180,720,148]}
+{"kind":"textbox","id":"sh/psvqdkjq","slide":7,"name":"chapter-subtitle","text":"Six connected platform areas. One Trusted Execution environment.","textPreview":"Six connected platform areas. One Trusted Execution environment.","textChars":64,"textLines":1,"bbox":[48,370,690,72]}
+{"kind":"shape","id":"sh/4rmpkfi5","slide":7,"name":"chapter-1-frame","bbox":[820,170,46,46]}
+{"kind":"textbox","id":"sh/61gruxgn","slide":7,"name":"chapter-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[820,182,46,22]}
+{"kind":"textbox","id":"sh/r2psn2h8","slide":7,"name":"chapter-name-1","text":"Content","textPreview":"Content","textChars":7,"textLines":1,"bbox":[880,180,144,46]}
+{"kind":"shape","id":"sh/s3y9w7yt","slide":7,"name":"chapter-2-frame","bbox":[1002,170,46,46]}
+{"kind":"textbox","id":"sh/t47apsze","slide":7,"name":"chapter-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1002,182,46,22]}
+{"kind":"textbox","id":"sh/e5gryxgj","slide":7,"name":"chapter-name-2","text":"Identity","textPreview":"Identity","textChars":8,"textLines":1,"bbox":[1062,180,144,46]}
+{"kind":"shape","id":"sh/f6psr2h4","slide":7,"name":"chapter-3-frame","bbox":[820,296,46,46]}
+{"kind":"textbox","id":"sh/g7ytk7yp","slide":7,"name":"chapter-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[820,308,46,22]}
+{"kind":"textbox","id":"sh/18ratcza","slide":7,"name":"chapter-name-3","text":"Workflow","textPreview":"Workflow","textChars":8,"textLines":1,"bbox":[880,306,144,46]}
+{"kind":"shape","id":"sh/290bmhgv","slide":7,"name":"chapter-4-frame","bbox":[1002,296,46,46]}
+{"kind":"textbox","id":"sh/3a9svmhg","slide":7,"name":"chapter-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1002,308,46,22]}
+{"kind":"textbox","id":"sh/zy98jmdo","slide":7,"name":"chapter-name-4","text":"Trust services","textPreview":"Trust services","textChars":14,"textLines":1,"bbox":[1062,306,144,46]}
+{"kind":"shape","id":"sh/yd0rahw3","slide":7,"name":"chapter-5-frame","bbox":[820,422,46,46]}
+{"kind":"textbox","id":"sh/l0balwve","slide":7,"name":"chapter-5-text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[820,434,46,22]}
+{"kind":"textbox","id":"sh/0zi9cret","slide":7,"name":"chapter-name-5","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[880,432,144,46]}
+{"kind":"shape","id":"sh/ba98f2dc","slide":7,"name":"chapter-6-frame","bbox":[1002,422,46,46]}
+{"kind":"textbox","id":"sh/q90r6xwr","slide":7,"name":"chapter-6-text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1002,434,46,22]}
+{"kind":"textbox","id":"sh/dcrqhcvi","slide":7,"name":"chapter-name-6","text":"Programmable trust","textPreview":"Programmable trust","textChars":18,"textLines":1,"bbox":[1062,432,144,46]}
+{"kind":"textbox","id":"sh/cbi987ex","slide":7,"name":"chapter-foot","text":"Content and actors become connected to authority, decisions, trust services, execution, and evidence.","textPreview":"Content and actors become connected to authority, decisions, trust services, execution, and evidence.","textChars":101,"textLines":1,"bbox":[48,522,1090,58]}
+{"kind":"image","id":"im/xwjq5436","slide":7,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/3cjrqs","slide":7,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/pqplv1","slide":8,"title":"08","textShapes":17}
+{"kind":"textbox","id":"sh/7u10b6x4","slide":8,"name":"page-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/mtsjilwj","slide":8,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/h03ih0f6","slide":8,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/wzu1ovel","slide":8,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/vyl0fqx0","slide":8,"name":"capability-series","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 1 OF 6","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 1 OF 6","textChars":51,"textLines":1,"bbox":[48,88,660,24]}
+{"kind":"textbox","id":"sh/uxsjmlwf","slide":8,"name":"capability-title","text":"Content & Collaboration","textPreview":"Content & Collaboration","textChars":23,"textLines":1,"bbox":[48,124,1050,92]}
+{"kind":"textbox","id":"sh/5o32l0f2","slide":8,"name":"content-principle","text":"Trust begins with the content itself.","textPreview":"Trust begins with the content itself.","textChars":37,"textLines":1,"bbox":[48,236,560,78]}
+{"kind":"textbox","id":"sh/43u1svex","slide":8,"name":"content-description","text":"Circularo supports important business content from creation and preparation through collaboration and review, before formal execution begins.","textPreview":"Circularo supports important business content from creation and preparation through collaboration and review, before formal execution beg...","textChars":141,"textLines":1,"bbox":[48,338,550,120]}
+{"kind":"shape","id":"sh/ipkry9cv","slide":8,"name":"content-spine","bbox":[690,360,446,3]}
+{"kind":"shape","id":"sh/jqt87ed0","slide":8,"name":"content-stage-1-frame","bbox":[683,338,46,46]}
+{"kind":"textbox","id":"sh/kr290jul","slide":8,"name":"content-stage-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[683,350,46,22]}
+{"kind":"textbox","id":"sh/5sba9ov6","slide":8,"name":"content-stage-label-1","text":"Create","textPreview":"Create","textChars":6,"textLines":1,"bbox":[638,414,136,34]}
+{"kind":"shape","id":"sh/6tkr2tcr","slide":8,"name":"content-stage-2-frame","bbox":[827,338,46,46]}
+{"kind":"textbox","id":"sh/7utsbydc","slide":8,"name":"content-stage-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[827,350,46,22]}
+{"kind":"textbox","id":"sh/svm94jux","slide":8,"name":"content-stage-label-2","text":"Prepare","textPreview":"Prepare","textChars":7,"textLines":1,"bbox":[782,414,136,34]}
+{"kind":"shape","id":"sh/tgvadovi","slide":8,"name":"content-stage-3-frame","bbox":[971,338,46,46]}
+{"kind":"textbox","id":"sh/mx0rqpcn","slide":8,"name":"content-stage-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[971,350,46,22]}
+{"kind":"textbox","id":"sh/ny98zud8","slide":8,"name":"content-stage-label-3","text":"Collaborate","textPreview":"Collaborate","textChars":11,"textLines":1,"bbox":[926,414,136,34]}
+{"kind":"shape","id":"sh/b25o7qt0","slide":8,"name":"content-stage-4-frame","bbox":[1115,338,46,46]}
+{"kind":"textbox","id":"sh/q1wnylsf","slide":8,"name":"content-stage-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1115,350,46,22]}
+{"kind":"textbox","id":"sh/d47690bq","slide":8,"name":"content-stage-label-4","text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[1070,414,136,34]}
+{"kind":"shape","id":"sh/c3e50va5","slide":8,"name":"content-scope","bbox":[650,482,530,74]}
+{"kind":"textbox","id":"sh/3y5o3qto","slide":8,"name":"content-scope-text","text":"Document and PDF capabilities / Office and Collabora integration / planned eDoc direction","textPreview":"Document and PDF capabilities / Office and Collabora integration / planned eDoc direction","textChars":89,"textLines":1,"bbox":[682,500,466,44]}
+{"kind":"shape","id":"sh/2xwnulc3","slide":8,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/p0n65gbu","slide":8,"name":"takeaway","text":"Trust begins when important content is created, before a signature field is added.","textPreview":"Trust begins when important content is created, before a signature field is added.","textChars":82,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/5cfmlgn2","slide":8,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/pqplv1","slide":8,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/74im00","slide":9,"title":"09","textShapes":12}
+{"kind":"textbox","id":"sh/ix476hc3","slide":9,"name":"page-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/jyd8fmto","slide":9,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/wb2p47ud","slide":9,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/xcbqdcby","slide":9,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/a9k72xc7","slide":9,"name":"capability-series","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 2 OF 6","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 2 OF 6","textChars":51,"textLines":1,"bbox":[48,88,660,24]}
+{"kind":"textbox","id":"sh/vat8b2ts","slide":9,"name":"capability-title","text":"Identity & Authority","textPreview":"Identity & Authority","textChars":20,"textLines":1,"bbox":[48,124,1050,92]}
+{"kind":"shape","id":"sh/872p07u1","slide":9,"name":"identity-frame","bbox":[48,240,514,278]}
+{"kind":"textbox","id":"sh/98b69cbm","slide":9,"name":"identity-label","text":"IDENTITY","textPreview":"IDENTITY","textChars":8,"textLines":1,"bbox":[88,278,410,24]}
+{"kind":"textbox","id":"sh/58vyxc3i","slide":9,"name":"identity-title","text":"Who or what is acting?","textPreview":"Who or what is acting?","textChars":22,"textLines":1,"bbox":[88,332,410,66]}
+{"kind":"textbox","id":"sh/472hormx","slide":9,"name":"identity-body","text":"Establish the actor and the identity assurance appropriate to the process.","textPreview":"Establish the actor and the identity assurance appropriate to the process.","textChars":74,"textLines":1,"bbox":[88,430,410,70]}
+{"kind":"shape","id":"sh/36tgvm5c","slide":9,"name":"authority-frame","bbox":[666,240,514,278]}
+{"kind":"textbox","id":"sh/i5kzmh4r","slide":9,"name":"authority-label","text":"AUTHORITY","textPreview":"AUTHORITY","textChars":9,"textLines":1,"bbox":[706,278,410,24]}
+{"kind":"textbox","id":"sh/h4bytcn6","slide":9,"name":"authority-title","text":"Whom does the actor represent, and what may they do?","textPreview":"Whom does the actor represent, and what may they do?","textChars":52,"textLines":1,"bbox":[706,332,410,94]}
+{"kind":"textbox","id":"sh/g32hk7ml","slide":9,"name":"authority-body","text":"Define mandate, limits, organizational role, and delegated authority.","textPreview":"Define mandate, limits, organizational role, and delegated authority.","textChars":69,"textLines":1,"bbox":[706,448,410,58]}
+{"kind":"shape","id":"sh/v2tgr25g","slide":9,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/u1kzix4v","slide":9,"name":"takeaway","text":"Identity establishes the actor. Authority establishes the right to act.","textPreview":"Identity establishes the actor. Authority establishes the right to act.","textChars":71,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/cb6p0nal","slide":9,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/74im00","slide":9,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/n5imuq","slide":10,"title":"10","textShapes":22}
+{"kind":"textbox","id":"sh/y1gbi1sf","slide":10,"name":"page-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/j2psb6tk","slide":10,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/wzetgru9","slide":10,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/x07a9wbu","slide":10,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/axwre1c3","slide":10,"name":"capability-series","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 3 OF 6","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 3 OF 6","textChars":51,"textLines":1,"bbox":[48,88,660,24]}
+{"kind":"textbox","id":"sh/by5s7mto","slide":10,"name":"capability-title","text":"Workflow & Approval","textPreview":"Workflow & Approval","textChars":19,"textLines":1,"bbox":[48,124,1050,92]}
+{"kind":"textbox","id":"sh/obe9crux","slide":10,"name":"workflow-description","text":"Circularo connects organizational authority to the execution path through participants, decisions, business rules, reviews, approvals, and escalation.","textPreview":"Circularo connects organizational authority to the execution path through participants, decisions, business rules, reviews, approvals, an...","textChars":150,"textLines":1,"bbox":[48,236,520,138]}
+{"kind":"shape","id":"sh/9cna5wbi","slide":10,"name":"workflow-1-frame","bbox":[650,228,40,40]}
+{"kind":"textbox","id":"sh/1gni5kba","slide":10,"name":"workflow-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[650,237,40,22]}
+{"kind":"textbox","id":"sh/0fe1wfap","slide":10,"name":"workflow-title-1","text":"Route","textPreview":"Route","textChars":5,"textLines":1,"bbox":[718,232,150,32]}
+{"kind":"textbox","id":"sh/fe503at4","slide":10,"name":"workflow-body-1","text":"Who participates","textPreview":"Who participates","textChars":16,"textLines":1,"bbox":[880,232,300,34]}
+{"kind":"shape","id":"sh/edczu5sj","slide":10,"name":"workflow-line-1","bbox":[650,282,530,1]}
+{"kind":"shape","id":"sh/dc3i10by","slide":10,"name":"workflow-2-frame","bbox":[650,298,40,40]}
+{"kind":"textbox","id":"sh/sbuhsvud","slide":10,"name":"workflow-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[650,307,40,22]}
+{"kind":"textbox","id":"sh/ral0zats","slide":10,"name":"workflow-title-2","text":"Review","textPreview":"Review","textChars":6,"textLines":1,"bbox":[718,302,150,32]}
+{"kind":"textbox","id":"sh/q9czq5cn","slide":10,"name":"workflow-body-2","text":"What requires review","textPreview":"What requires review","textChars":20,"textLines":1,"bbox":[880,302,300,34]}
+{"kind":"shape","id":"sh/583ix0b2","slide":10,"name":"workflow-line-2","bbox":[650,352,530,1]}
+{"kind":"shape","id":"sh/47uhovuh","slide":10,"name":"workflow-3-frame","bbox":[650,368,40,40]}
+{"kind":"textbox","id":"sh/wry14v2d","slide":10,"name":"workflow-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[650,377,40,22]}
+{"kind":"textbox","id":"sh/hs7id0jy","slide":10,"name":"workflow-title-3","text":"Decide","textPreview":"Decide","textChars":6,"textLines":1,"bbox":[718,372,150,32]}
+{"kind":"textbox","id":"sh/upwj2lk7","slide":10,"name":"workflow-body-3","text":"Who may decide","textPreview":"Who may decide","textChars":14,"textLines":1,"bbox":[880,372,300,34]}
+{"kind":"shape","id":"sh/vq50bq1s","slide":10,"name":"workflow-line-3","bbox":[650,422,530,1]}
+{"kind":"shape","id":"sh/8neh0v21","slide":10,"name":"workflow-4-frame","bbox":[650,438,40,40]}
+{"kind":"textbox","id":"sh/9oni90jm","slide":10,"name":"workflow-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[650,447,40,22]}
+{"kind":"textbox","id":"sh/m1wzylkb","slide":10,"name":"workflow-title-4","text":"Approve","textPreview":"Approve","textChars":7,"textLines":1,"bbox":[718,442,150,32]}
+{"kind":"textbox","id":"sh/7m507q1g","slide":10,"name":"workflow-body-4","text":"Which approval is required","textPreview":"Which approval is required","textChars":26,"textLines":1,"bbox":[880,442,300,34]}
+{"kind":"shape","id":"sh/sji1cfil","slide":10,"name":"workflow-line-4","bbox":[650,492,530,1]}
+{"kind":"shape","id":"sh/tkrilkjq","slide":10,"name":"workflow-5-frame","bbox":[650,508,40,40]}
+{"kind":"textbox","id":"sh/3et4bel8","slide":10,"name":"workflow-5-text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[650,517,40,22]}
+{"kind":"textbox","id":"sh/2dk3i94n","slide":10,"name":"workflow-title-5","text":"Control","textPreview":"Control","textChars":7,"textLines":1,"bbox":[718,512,150,32]}
+{"kind":"textbox","id":"sh/pgbmdo3y","slide":10,"name":"workflow-body-5","text":"When escalation applies","textPreview":"When escalation applies","textChars":23,"textLines":1,"bbox":[880,512,300,34]}
+{"kind":"shape","id":"sh/of2lkjmt","slide":10,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/bid4fyl4","slide":10,"name":"takeaway","text":"Approval records institutional authority and the decision that allowed execution.","textPreview":"Approval records institutional authority and the decision that allowed execution.","textChars":81,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/gb6lw7up","slide":10,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/n5imuq","slide":10,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/72nl8z","slide":11,"title":"11","textShapes":20}
+{"kind":"textbox","id":"sh/etkf6d8b","slide":11,"name":"page-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/zutwzipw","slide":11,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/8zmxc7qd","slide":11,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/90vy5s7y","slide":11,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/mxkfax87","slide":11,"name":"capability-series","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 4 OF 6","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 4 OF 6","textChars":51,"textLines":1,"bbox":[48,88,660,24]}
+{"kind":"textbox","id":"sh/nytg32ps","slide":11,"name":"capability-title","text":"Trust Services","textPreview":"Trust Services","textChars":14,"textLines":1,"bbox":[48,124,1050,92]}
+{"kind":"textbox","id":"sh/43ix03q9","slide":11,"name":"trust-services-principle","text":"The process should invoke the trust mechanism that matches the actor, jurisdiction, and required assurance.","textPreview":"The process should invoke the trust mechanism that matches the actor, jurisdiction, and required assurance.","textChars":107,"textLines":1,"bbox":[48,236,570,130]}
+{"kind":"textbox","id":"sh/p4ret8ru","slide":11,"name":"trust-services-description","text":"Circularo can coordinate native capabilities with external, national, sovereign, and third-party trust infrastructure.","textPreview":"Circularo can coordinate native capabilities with external, national, sovereign, and third-party trust infrastructure.","textChars":118,"textLines":1,"bbox":[48,414,550,88]}
+{"kind":"shape","id":"sh/5wbudc7q","slide":11,"name":"service-1-frame","bbox":[688,238,38,38]}
+{"kind":"textbox","id":"sh/4v2d4rq5","slide":11,"name":"service-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[688,246,38,22]}
+{"kind":"textbox","id":"sh/3utcbmpk","slide":11,"name":"service-label-1","text":"Identity verification","textPreview":"Identity verification","textChars":21,"textLines":1,"bbox":[740,240,190,58]}
+{"kind":"shape","id":"sh/i9kv2h8z","slide":11,"name":"service-2-frame","bbox":[938,238,38,38]}
+{"kind":"textbox","id":"sh/d0vehw7m","slide":11,"name":"service-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[938,246,38,22]}
+{"kind":"textbox","id":"sh/szmd8rq1","slide":11,"name":"service-label-2","text":"Electronic and digital signatures","textPreview":"Electronic and digital signatures","textChars":33,"textLines":1,"bbox":[990,240,190,58]}
+{"kind":"shape","id":"sh/rydwfmpw","slide":11,"name":"service-3-frame","bbox":[688,342,38,38]}
+{"kind":"textbox","id":"sh/qx4v6h8b","slide":11,"name":"service-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[688,350,38,22]}
+{"kind":"textbox","id":"sh/14velw7y","slide":11,"name":"service-label-3","text":"Organizational seals","textPreview":"Organizational seals","textChars":20,"textLines":1,"bbox":[740,344,190,58]}
+{"kind":"shape","id":"sh/03mdcbqd","slide":11,"name":"service-4-frame","bbox":[938,342,38,38]}
+{"kind":"textbox","id":"sh/07uxofe9","slide":11,"name":"service-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[938,350,38,22]}
+{"kind":"textbox","id":"sh/l83yhkfu","slide":11,"name":"service-label-4","text":"Timestamps","textPreview":"Timestamps","textChars":10,"textLines":1,"bbox":[990,344,190,58]}
+{"kind":"shape","id":"sh/y5cfm5wj","slide":11,"name":"service-5-frame","bbox":[688,446,38,38]}
+{"kind":"textbox","id":"sh/z6lgfax4","slide":11,"name":"service-5-text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[688,454,38,22]}
+{"kind":"textbox","id":"sh/8bexsfel","slide":11,"name":"service-label-5","text":"PKI-based services","textPreview":"PKI-based services","textChars":18,"textLines":1,"bbox":[740,448,190,58]}
+{"kind":"shape","id":"sh/9wnylkf6","slide":11,"name":"service-6-frame","bbox":[938,446,38,38]}
+{"kind":"textbox","id":"sh/m9wfqpwf","slide":11,"name":"service-6-text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[938,454,38,22]}
+{"kind":"textbox","id":"sh/na5gjux0","slide":11,"name":"service-label-6","text":"Other applicable trust services","textPreview":"Other applicable trust services","textChars":31,"textLines":1,"bbox":[990,448,190,58]}
+{"kind":"shape","id":"sh/ofaxgvyh","slide":11,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/p0je90fm","slide":11,"name":"takeaway","text":"A trust service is one event in the process. Circularo orchestrates how it supports the outcome.","textPreview":"A trust service is one event in the process. Circularo orchestrates how it supports the outcome.","textChars":96,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/w3ydgryp","slide":11,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/72nl8z","slide":11,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/4fr9fs","slide":12,"title":"12","textShapes":16}
+{"kind":"textbox","id":"sh/5wval4zy","slide":12,"name":"page-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/4vm9szyd","slide":12,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/ryxsneh4","slide":12,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/qxoru9gj","slide":12,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/d0fap4zu","slide":12,"name":"capability-series","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 5 OF 6","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 5 OF 6","textChars":51,"textLines":1,"bbox":[48,88,660,24]}
+{"kind":"textbox","id":"sh/sz69wzyp","slide":12,"name":"capability-title","text":"Evidence & Trusted Records","textPreview":"Evidence & Trusted Records","textChars":26,"textLines":1,"bbox":[48,124,1050,92]}
+{"kind":"textbox","id":"sh/f2xsreh0","slide":12,"name":"evidence-principle","text":"Trusted Execution should produce more than a completed document.","textPreview":"Trusted Execution should produce more than a completed document.","textChars":64,"textLines":1,"bbox":[48,236,520,104]}
+{"kind":"textbox","id":"sh/e1ory9gf","slide":12,"name":"evidence-item-1","text":"Authoritative version","textPreview":"Authoritative version","textChars":21,"textLines":1,"bbox":[48,360,500,30]}
+{"kind":"shape","id":"sh/krudgfm1","slide":12,"name":"evidence-item-line-1","bbox":[550,373,80,2]}
+{"kind":"textbox","id":"sh/5s3u9knm","slide":12,"name":"evidence-item-2","text":"Identities and roles","textPreview":"Identities and roles","textChars":20,"textLines":1,"bbox":[48,396,500,30]}
+{"kind":"shape","id":"sh/ipcvep4v","slide":12,"name":"evidence-item-line-2","bbox":[550,409,108,2]}
+{"kind":"textbox","id":"sh/jqlc7u5g","slide":12,"name":"evidence-item-3","text":"Approvals and decisions","textPreview":"Approvals and decisions","textChars":23,"textLines":1,"bbox":[48,432,500,30]}
+{"kind":"shape","id":"sh/svedkzmx","slide":12,"name":"evidence-item-line-3","bbox":[550,445,136,2]}
+{"kind":"textbox","id":"sh/twned4ni","slide":12,"name":"evidence-item-4","text":"Signatures and seals","textPreview":"Signatures and seals","textChars":20,"textLines":1,"bbox":[48,468,500,30]}
+{"kind":"shape","id":"sh/6tcvip47","slide":12,"name":"evidence-item-line-4","bbox":[550,481,164,2]}
+{"kind":"textbox","id":"sh/7ulcbu5c","slide":12,"name":"evidence-item-5","text":"Timestamps and audit events","textPreview":"Timestamps and audit events","textChars":27,"textLines":1,"bbox":[48,504,500,30]}
+{"kind":"shape","id":"sh/gzedozm9","slide":12,"name":"evidence-item-line-5","bbox":[550,517,192,2]}
+{"kind":"textbox","id":"sh/hkneh43u","slide":12,"name":"evidence-item-6","text":"Process and retention context","textPreview":"Process and retention context","textChars":29,"textLines":1,"bbox":[48,540,500,30]}
+{"kind":"shape","id":"sh/pgju14vy","slide":12,"name":"evidence-item-line-6","bbox":[550,553,220,2]}
+{"kind":"shape","id":"sh/ofadszed","slide":12,"name":"trusted-record-frame","bbox":[760,260,372,292]}
+{"kind":"textbox","id":"sh/3e1czuds","slide":12,"name":"trusted-record-label","text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[810,296,272,24]}
+{"kind":"textbox","id":"sh/2dsvq9w7","slide":12,"name":"trusted-record-title","text":"TRUSTED\nRECORD","textPreview":"TRUSTED | RECORD","textChars":14,"textLines":2,"bbox":[810,344,272,94]}
+{"kind":"textbox","id":"sh/dk3e5ovu","slide":12,"name":"trusted-record-detail","text":"Verifiable institutional evidence and searchable memory","textPreview":"Verifiable institutional evidence and searchable memory","textChars":55,"textLines":1,"bbox":[810,456,272,72]}
+{"kind":"shape","id":"sh/cjudwje9","slide":12,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/bilc3edo","slide":12,"name":"takeaway","text":"Trusted Execution creates evidence. Trusted records preserve institutional memory.","textPreview":"Trusted Execution creates evidence. Trusted records preserve institutional memory.","textChars":82,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/32loredk","slide":12,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/4fr9fs","slide":12,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/4qodz7","slide":13,"title":"13","textShapes":13}
+{"kind":"textbox","id":"sh/sna1gril","slide":13,"name":"page-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/doj29wj6","slide":13,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/eps3ih0b","slide":13,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/fqlkbm1w","slide":13,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/0rulkrih","slide":13,"name":"capability-series","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 6 OF 6","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM / 6 OF 6","textChars":51,"textLines":1,"bbox":[48,88,660,24]}
+{"kind":"textbox","id":"sh/1s32dwj2","slide":13,"name":"capability-title","text":"Programmable Trust & Agentic Execution","textPreview":"Programmable Trust & Agentic Execution","textChars":38,"textLines":1,"bbox":[48,124,1050,92]}
+{"kind":"shape","id":"sh/ut8j6x07","slide":13,"name":"programmable-actor-1","bbox":[48,242,246,70]}
+{"kind":"textbox","id":"sh/vuhkz21s","slide":13,"name":"programmable-actor-label-1","text":"Enterprise applications","textPreview":"Enterprise applications","textChars":23,"textLines":1,"bbox":[62,260,218,42]}
+{"kind":"shape","id":"sh/z218v2xc","slide":13,"name":"programmable-actor-line-1","bbox":[170,312,2,50]}
+{"kind":"shape","id":"sh/y1s7mxwr","slide":13,"name":"programmable-actor-2","bbox":[332,242,246,70]}
+{"kind":"textbox","id":"sh/lojqxsfi","slide":13,"name":"programmable-actor-label-2","text":"Government services","textPreview":"Government services","textChars":19,"textLines":1,"bbox":[346,260,218,42]}
+{"kind":"shape","id":"sh/03aponex","slide":13,"name":"programmable-actor-line-2","bbox":[454,312,2,50]}
+{"kind":"shape","id":"sh/byh8rixg","slide":13,"name":"programmable-actor-3","bbox":[616,242,246,70]}
+{"kind":"textbox","id":"sh/qx87idwv","slide":13,"name":"programmable-actor-label-3","text":"Portals and integrations","textPreview":"Portals and integrations","textChars":24,"textLines":1,"bbox":[630,260,218,42]}
+{"kind":"shape","id":"sh/d0jqtsfm","slide":13,"name":"programmable-actor-line-3","bbox":[738,312,2,50]}
+{"kind":"shape","id":"sh/czapkne1","slide":13,"name":"programmable-actor-4","bbox":[900,242,246,70]}
+{"kind":"textbox","id":"sh/3uhonix4","slide":13,"name":"programmable-actor-label-4","text":"Automation and AI agents","textPreview":"Automation and AI agents","textChars":24,"textLines":1,"bbox":[914,260,218,42]}
+{"kind":"shape","id":"sh/2t87edwz","slide":13,"name":"programmable-actor-line-4","bbox":[1022,312,2,50]}
+{"kind":"shape","id":"sh/65or6t0r","slide":13,"name":"api-boundary","bbox":[48,362,1132,106]}
+{"kind":"textbox","id":"sh/r6x8zyhc","slide":13,"name":"api-title","text":"UNIFIED TRUST API","textPreview":"UNIFIED TRUST API","textChars":17,"textLines":1,"bbox":[88,388,1052,38]}
+{"kind":"textbox","id":"sh/sr6983ih","slide":13,"name":"api-controls","text":"Identity / delegated authority / policy / approval / trust services / execution / evidence","textPreview":"Identity / delegated authority / policy / approval / trust services / execution / evidence","textChars":90,"textLines":1,"bbox":[88,436,1052,24]}
+{"kind":"textbox","id":"sh/tszq18z2","slide":13,"name":"api-boundary-description","text":"Circularo governs what an agent may do, what actually executes, and what evidence remains afterwards.","textPreview":"Circularo governs what an agent may do, what actually executes, and what evidence remains afterwards.","textChars":101,"textLines":1,"bbox":[180,506,868,58]}
+{"kind":"shape","id":"sh/et8rad0n","slide":13,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/fuh83ih8","slide":13,"name":"takeaway","text":"API access enables participation. Institutional authority still determines permitted action.","textPreview":"API access enables participation. Institutional authority still determines permitted action.","textChars":92,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/mtg3ip83","slide":13,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/4qodz7","slide":13,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/uqcn6o","slide":14,"title":"14","textShapes":18}
+{"kind":"textbox","id":"sh/p8r25gzy","slide":14,"name":"page-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/o7ylcbid","slide":14,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/f2pkzmhw","slide":14,"name":"slide-eyebrow","text":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textPreview":"THE CIRCULARO TRUST ORCHESTRATION PLATFORM","textChars":42,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/e1g36h0b","slide":14,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/14721wz2","slide":14,"name":"slide-title","text":"One Connected Trust Orchestration Platform","textPreview":"One Connected Trust Orchestration Platform","textChars":42,"textLines":1,"bbox":[48,96,1120,132]}
+{"kind":"shape","id":"sh/g3yl8rih","slide":14,"name":"platform-spine","bbox":[80,342,1096,3]}
+{"kind":"shape","id":"sh/ry5kvm1k","slide":14,"name":"platform-1-frame","bbox":[112,320,46,46]}
+{"kind":"textbox","id":"sh/6xwj2h0f","slide":14,"name":"platform-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[112,332,46,22]}
+{"kind":"textbox","id":"sh/8zud8zy1","slide":14,"name":"platform-title-1","text":"Content &\nCollaboration","textPreview":"Content & | Collaboration","textChars":23,"textLines":2,"bbox":[48,398,174,72]}
+{"kind":"shape","id":"sh/903u14zm","slide":14,"name":"platform-2-frame","bbox":[308,320,46,46]}
+{"kind":"textbox","id":"sh/mxsv6p0v","slide":14,"name":"platform-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[308,332,46,22]}
+{"kind":"textbox","id":"sh/7y1czuhg","slide":14,"name":"platform-title-2","text":"Identity &\nAuthority","textPreview":"Identity & | Authority","textChars":20,"textLines":2,"bbox":[244,398,174,72]}
+{"kind":"shape","id":"sh/kvad4fip","slide":14,"name":"platform-3-frame","bbox":[504,320,46,46]}
+{"kind":"textbox","id":"sh/lwjuxkza","slide":14,"name":"platform-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[504,332,46,22]}
+{"kind":"textbox","id":"sh/ytsb2p0z","slide":14,"name":"platform-title-3","text":"Workflow &\nApproval","textPreview":"Workflow & | Approval","textChars":19,"textLines":2,"bbox":[440,398,174,72]}
+{"kind":"shape","id":"sh/zu1cvahk","slide":14,"name":"platform-4-frame","bbox":[700,320,46,46]}
+{"kind":"textbox","id":"sh/4redgjy9","slide":14,"name":"platform-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[700,332,46,22]}
+{"kind":"textbox","id":"sh/5snu9ozu","slide":14,"name":"platform-title-4","text":"Trust\nServices","textPreview":"Trust | Services","textChars":14,"textLines":2,"bbox":[636,398,174,72]}
+{"kind":"shape","id":"sh/d8jut4ry","slide":14,"name":"platform-5-frame","bbox":[896,320,46,46]}
+{"kind":"textbox","id":"sh/s7ad0jqd","slide":14,"name":"platform-5-text","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[896,332,46,22]}
+{"kind":"textbox","id":"sh/rm1cre9s","slide":14,"name":"platform-title-5","text":"Evidence &\nTrusted Records","textPreview":"Evidence & | Trusted Records","textChars":26,"textLines":2,"bbox":[832,398,174,72]}
+{"kind":"shape","id":"sh/qlsvy987","slide":14,"name":"platform-6-frame","bbox":[1092,320,46,46]}
+{"kind":"textbox","id":"sh/5kzup4rm","slide":14,"name":"platform-6-text","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1092,332,46,22]}
+{"kind":"textbox","id":"sh/4jqtwzq1","slide":14,"name":"platform-title-6","text":"Programmable Trust &\nAgentic Execution","textPreview":"Programmable Trust & | Agentic Execution","textChars":38,"textLines":2,"bbox":[1028,398,174,72]}
+{"kind":"textbox","id":"sh/3ihcnu9w","slide":14,"name":"platform-summary","text":"The underlying identity or trust infrastructure can vary by organization, deployment model, or jurisdiction. Circularo keeps the process and evidence chain consistent.","textPreview":"The underlying identity or trust infrastructure can vary by organization, deployment model, or jurisdiction. Circularo keeps the process ...","textChars":167,"textLines":1,"bbox":[180,500,870,82]}
+{"kind":"shape","id":"sh/ih8bup8b","slide":14,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/hgzulkrq","slide":14,"name":"takeaway","text":"Circularo orchestrates trust. Trusted Execution is the outcome.","textPreview":"Circularo orchestrates trust. Trusted Execution is the outcome.","textChars":63,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/7qd4fi10","slide":14,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/uqcn6o","slide":14,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/c9bgnr","slide":15,"title":"15","textShapes":16}
+{"kind":"textbox","id":"sh/svedoj29","slide":15,"name":"page-number","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/twnexoje","slide":15,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/uhwvqtkz","slide":15,"name":"slide-eyebrow","text":"CIRCULARO DELIVERY MODELS","textPreview":"CIRCULARO DELIVERY MODELS","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/fi5wze1k","slide":15,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/gjedsj25","slide":15,"name":"delivery-kicker","text":"DELIVERY MODELS","textPreview":"DELIVERY MODELS","textChars":15,"textLines":1,"bbox":[48,124,420,24]}
+{"kind":"textbox","id":"sh/1kne1ojq","slide":15,"name":"delivery-title","text":"One platform.\nThree delivery models.","textPreview":"One platform. | Three delivery models.","textChars":36,"textLines":2,"bbox":[48,184,650,150]}
+{"kind":"textbox","id":"sh/2lwfutkb","slide":15,"name":"delivery-subtitle","text":"Different infrastructure requirements. One trust model.","textPreview":"Different infrastructure requirements. One trust model.","textChars":55,"textLines":1,"bbox":[48,378,650,60]}
+{"kind":"shape","id":"sh/3m5w3y1w","slide":15,"name":"delivery-1-frame","bbox":[814,186,46,46]}
+{"kind":"textbox","id":"sh/3yx83qps","slide":15,"name":"delivery-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[814,198,46,22]}
+{"kind":"textbox","id":"sh/2xoru587","slide":15,"name":"delivery-name-1","text":"Circularo SaaS","textPreview":"Circularo SaaS","textChars":14,"textLines":1,"bbox":[884,184,280,34]}
+{"kind":"textbox","id":"sh/p0zq507i","slide":15,"name":"delivery-descriptor-1","text":"Managed cloud","textPreview":"Managed cloud","textChars":13,"textLines":1,"bbox":[884,228,280,30]}
+{"kind":"shape","id":"sh/4zq9wvqx","slide":15,"name":"delivery-2-frame","bbox":[814,312,46,46]}
+{"kind":"textbox","id":"sh/fax8zqpg","slide":15,"name":"delivery-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[814,324,46,22]}
+{"kind":"textbox","id":"sh/u9o7ql8v","slide":15,"name":"delivery-name-2","text":"Circularo Sovereign","textPreview":"Circularo Sovereign","textChars":19,"textLines":1,"bbox":[884,310,280,34]}
+{"kind":"textbox","id":"sh/hwfq107m","slide":15,"name":"delivery-descriptor-2","text":"Customer-controlled","textPreview":"Customer-controlled","textChars":19,"textLines":1,"bbox":[884,354,280,30]}
+{"kind":"shape","id":"sh/gb69svq1","slide":15,"name":"delivery-3-frame","bbox":[814,438,46,46]}
+{"kind":"textbox","id":"sh/z6h8bupk","slide":15,"name":"delivery-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[814,450,46,22]}
+{"kind":"textbox","id":"sh/e58r2p8f","slide":15,"name":"delivery-name-3","text":"Shared Services","textPreview":"Shared Services","textChars":15,"textLines":1,"bbox":[884,436,280,34]}
+{"kind":"textbox","id":"sh/a1cbutsn","slide":15,"name":"delivery-descriptor-3","text":"Common infrastructure","textPreview":"Common infrastructure","textChars":21,"textLines":1,"bbox":[884,480,280,30]}
+{"kind":"textbox","id":"sh/bmlc3e9s","slide":15,"name":"delivery-foot","text":"The operating model changes. The platform logic and evidence model remain connected.","textPreview":"The operating model changes. The platform logic and evidence model remain connected.","textChars":84,"textLines":1,"bbox":[48,536,1080,54]}
+{"kind":"image","id":"im/u9gfupgn","slide":15,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/c9bgnr","slide":15,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/h2e4lg","slide":16,"title":"16","textShapes":17}
+{"kind":"textbox","id":"sh/bmhkr2tc","slide":16,"name":"page-number","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/alo3yxcr","slide":16,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/9kf2psb6","slide":16,"name":"slide-eyebrow","text":"CIRCULARO DELIVERY MODELS","textPreview":"CIRCULARO DELIVERY MODELS","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/oj6lw7ul","slide":16,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/nixkn2t0","slide":16,"name":"slide-title","text":"Three delivery models share one trust model","textPreview":"Three delivery models share one trust model","textChars":43,"textLines":1,"bbox":[48,96,1120,132]}
+{"kind":"shape","id":"sh/mho3uxcf","slide":16,"name":"model-overview-1-frame","bbox":[48,246,46,46]}
+{"kind":"textbox","id":"sh/tgjm1wba","slide":16,"name":"model-overview-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,258,46,22]}
+{"kind":"textbox","id":"sh/8fal8rup","slide":16,"name":"model-overview-name-1","text":"Circularo SaaS","textPreview":"Circularo SaaS","textChars":14,"textLines":1,"bbox":[48,318,340,72]}
+{"kind":"textbox","id":"sh/2twjqhsb","slide":16,"name":"model-overview-role-1","text":"Managed enterprise digital trust","textPreview":"Managed enterprise digital trust","textChars":32,"textLines":1,"bbox":[48,408,340,54]}
+{"kind":"textbox","id":"sh/nu5kz29w","slide":16,"name":"model-overview-audience-1","text":"Organizations that want to consume the platform without operating its infrastructure","textPreview":"Organizations that want to consume the platform without operating its infrastructure","textChars":84,"textLines":1,"bbox":[48,480,340,92]}
+{"kind":"shape","id":"sh/ove1s7ah","slide":16,"name":"model-overview-2-frame","bbox":[448,246,46,46]}
+{"kind":"textbox","id":"sh/pwn21cr2","slide":16,"name":"model-overview-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[448,258,46,22]}
+{"kind":"textbox","id":"sh/epcjmxsz","slide":16,"name":"model-overview-name-2","text":"Circularo Sovereign","textPreview":"Circularo Sovereign","textChars":19,"textLines":1,"bbox":[448,318,340,72]}
+{"kind":"textbox","id":"sh/fqlkv29k","slide":16,"name":"model-overview-role-2","text":"Customer-controlled trusted execution","textPreview":"Customer-controlled trusted execution","textChars":37,"textLines":1,"bbox":[448,408,340,54]}
+{"kind":"textbox","id":"sh/0ru1o7a5","slide":16,"name":"model-overview-audience-2","text":"Organizations that require stronger control over infrastructure, data, and governance","textPreview":"Organizations that require stronger control over infrastructure, data, and governance","textChars":85,"textLines":1,"bbox":[448,480,340,92]}
+{"kind":"shape","id":"sh/1s32xcrq","slide":16,"name":"model-overview-3-frame","bbox":[848,246,46,46]}
+{"kind":"textbox","id":"sh/ylgjy18j","slide":16,"name":"model-overview-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[848,258,46,22]}
+{"kind":"textbox","id":"sh/jmpk7m94","slide":16,"name":"model-overview-name-3","text":"Sovereign Trust Shared Services","textPreview":"Sovereign Trust Shared Services","textChars":31,"textLines":1,"bbox":[848,318,340,72]}
+{"kind":"textbox","id":"sh/v6hgzepg","slide":16,"name":"model-overview-role-3","text":"Digital trust as shared infrastructure","textPreview":"Digital trust as shared infrastructure","textChars":38,"textLines":1,"bbox":[848,408,340,54]}
+{"kind":"textbox","id":"sh/u58zqt8v","slide":16,"name":"model-overview-audience-3","text":"Governments and operators serving multiple institutions through one governed platform","textPreview":"Governments and operators serving multiple institutions through one governed platform","textChars":85,"textLines":1,"bbox":[848,480,340,92]}
+{"kind":"shape","id":"sh/h8zy1o7m","slide":16,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/g7qhsjq1","slide":16,"name":"takeaway","text":"Each model connects identity, authority, approval, trust services, evidence, archive, and intelligence.","textPreview":"Each model connects identity, authority, approval, trust services, evidence, archive, and intelligence.","textChars":103,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/lk7yt0v6","slide":16,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/h2e4lg","slide":16,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/btmtyf","slide":17,"title":"17","textShapes":13}
+{"kind":"textbox","id":"sh/tsje5wba","slide":17,"name":"page-number","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/8radcrup","slide":17,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/j2hczmts","slide":17,"name":"slide-eyebrow","text":"CIRCULARO DELIVERY MODELS","textPreview":"CIRCULARO DELIVERY MODELS","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/y18v6hcn","slide":17,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/loju1wby","slide":17,"name":"slide-title","text":"Circularo SaaS","textPreview":"Circularo SaaS","textChars":14,"textLines":1,"bbox":[48,96,1080,132]}
+{"kind":"textbox","id":"sh/k3ad8rud","slide":17,"name":"delivery-model-descriptor","text":"MANAGED ENTERPRISE DIGITAL TRUST","textPreview":"MANAGED ENTERPRISE DIGITAL TRUST","textChars":32,"textLines":1,"bbox":[48,220,600,24]}
+{"kind":"textbox","id":"sh/byhcv2tw","slide":17,"name":"delivery-model-description","text":"A managed cloud platform for organizations that want to simplify trusted digital work without operating the underlying infrastructure.","textPreview":"A managed cloud platform for organizations that want to simplify trusted digital work without operating the underlying infrastructure.","textChars":134,"textLines":1,"bbox":[48,262,550,154]}
+{"kind":"textbox","id":"sh/ax8v2xcb","slide":17,"name":"delivery-detail-1","text":"BEST FIT","textPreview":"BEST FIT","textChars":8,"textLines":1,"bbox":[700,236,180,24]}
+{"kind":"textbox","id":"sh/k3a9oni1","slide":17,"name":"delivery-detail-body-1","text":"Enterprises and institutions seeking a managed service","textPreview":"Enterprises and institutions seeking a managed service","textChars":54,"textLines":1,"bbox":[700,272,480,68]}
+{"kind":"shape","id":"sh/l4jax8zm","slide":17,"name":"delivery-detail-line-1","bbox":[700,334,480,1]}
+{"kind":"textbox","id":"sh/y18rmd0v","slide":17,"name":"delivery-detail-2","text":"CONTROL PROFILE","textPreview":"CONTROL PROFILE","textChars":15,"textLines":1,"bbox":[700,348,180,24]}
+{"kind":"textbox","id":"sh/z21svihg","slide":17,"name":"delivery-detail-body-2","text":"Circularo operates the platform environment","textPreview":"Circularo operates the platform environment","textChars":43,"textLines":1,"bbox":[700,384,480,68]}
+{"kind":"shape","id":"sh/cfq9k3i5","slide":17,"name":"delivery-detail-line-2","bbox":[700,446,480,1]}
+{"kind":"textbox","id":"sh/x0zat8zq","slide":17,"name":"delivery-detail-3","text":"STRATEGIC ROLE","textPreview":"STRATEGIC ROLE","textChars":14,"textLines":1,"bbox":[700,460,180,24]}
+{"kind":"textbox","id":"sh/ad8rit0z","slide":17,"name":"delivery-detail-body-3","text":"Fast adoption of the common Trust Orchestration Platform","textPreview":"Fast adoption of the common Trust Orchestration Platform","textChars":56,"textLines":1,"bbox":[700,496,480,68]}
+{"kind":"shape","id":"sh/behsryhk","slide":17,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/wbutw7i9","slide":17,"name":"takeaway","text":"The delivery model changes how the platform operates, not the underlying trust model.","textPreview":"The delivery model changes how the platform operates, not the underlying trust model.","textChars":85,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/zihg7a1k","slide":17,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/btmtyf","slide":17,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/1c52rg","slide":18,"title":"18","textShapes":13}
+{"kind":"textbox","id":"sh/dkv6lk7u","slide":18,"name":"page-number","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/sjm5sz69","slide":18,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/zmdonup0","slide":18,"name":"slide-eyebrow","text":"CIRCULARO DELIVERY MODELS","textPreview":"CIRCULARO DELIVERY MODELS","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/el4nupof","slide":18,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/18f6p476","slide":18,"name":"slide-title","text":"Circularo Sovereign","textPreview":"Circularo Sovereign","textChars":19,"textLines":1,"bbox":[48,96,1080,132]}
+{"kind":"textbox","id":"sh/07mpwz6l","slide":18,"name":"delivery-model-descriptor","text":"CUSTOMER-CONTROLLED TRUSTED EXECUTION INFRASTRUCTURE","textPreview":"CUSTOMER-CONTROLLED TRUSTED EXECUTION INFRASTRUCTURE","textChars":52,"textLines":1,"bbox":[48,220,600,24]}
+{"kind":"textbox","id":"sh/naxorepw","slide":18,"name":"delivery-model-description","text":"A self-hosted platform for organizations requiring stronger control over infrastructure, data, governance, and trusted digital processes.","textPreview":"A self-hosted platform for organizations requiring stronger control over infrastructure, data, governance, and trusted digital processes.","textChars":137,"textLines":1,"bbox":[48,262,550,154]}
+{"kind":"textbox","id":"sh/m9o7y9or","slide":18,"name":"delivery-detail-1","text":"BEST FIT","textPreview":"BEST FIT","textChars":8,"textLines":1,"bbox":[700,236,180,24]}
+{"kind":"textbox","id":"sh/orahgf6p","slide":18,"name":"delivery-detail-body-1","text":"Governments, regulated organizations, and large enterprises","textPreview":"Governments, regulated organizations, and large enterprises","textChars":59,"textLines":1,"bbox":[700,272,480,68]}
+{"kind":"shape","id":"sh/ps3i9kna","slide":18,"name":"delivery-detail-line-1","bbox":[700,334,480,1]}
+{"kind":"textbox","id":"sh/2psze5oz","slide":18,"name":"delivery-detail-2","text":"CONTROL PROFILE","textPreview":"CONTROL PROFILE","textChars":15,"textLines":1,"bbox":[700,348,180,24]}
+{"kind":"textbox","id":"sh/nq107a5k","slide":18,"name":"delivery-detail-body-2","text":"Customer-controlled or dedicated infrastructure","textPreview":"Customer-controlled or dedicated infrastructure","textChars":47,"textLines":1,"bbox":[700,384,480,68]}
+{"kind":"shape","id":"sh/cfu1kf61","slide":18,"name":"delivery-detail-line-2","bbox":[700,446,480,1]}
+{"kind":"textbox","id":"sh/xg3idknm","slide":18,"name":"delivery-detail-3","text":"STRATEGIC ROLE","textPreview":"STRATEGIC ROLE","textChars":14,"textLines":1,"bbox":[700,460,180,24]}
+{"kind":"textbox","id":"sh/adcjipov","slide":18,"name":"delivery-detail-body-3","text":"Apply the common trust model under stronger sovereignty requirements","textPreview":"Apply the common trust model under stronger sovereignty requirements","textChars":68,"textLines":1,"bbox":[700,496,480,68]}
+{"kind":"shape","id":"sh/bel0ba5g","slide":18,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/kje1oz6x","slide":18,"name":"takeaway","text":"The delivery model changes how the platform operates, not the underlying trust model.","textPreview":"The delivery model changes how the platform operates, not the underlying trust model.","textChars":85,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/7uxkrehg","slide":18,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/1c52rg","slide":18,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/39pcem","slide":19,"title":"19","textShapes":13}
+{"kind":"textbox","id":"sh/0rmhsvu1","slide":19,"name":"page-number","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/1svil0vm","slide":19,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/q1kzmlwz","slide":19,"name":"slide-eyebrow","text":"CIRCULARO DELIVERY MODELS","textPreview":"CIRCULARO DELIVERY MODELS","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/r2t0fqdk","slide":19,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/s32hovup","slide":19,"name":"slide-title","text":"Sovereign Trust Shared Services","textPreview":"Sovereign Trust Shared Services","textChars":31,"textLines":1,"bbox":[48,96,1080,132]}
+{"kind":"textbox","id":"sh/d4bihgva","slide":19,"name":"delivery-model-descriptor","text":"DIGITAL TRUST AS SHARED INFRASTRUCTURE","textPreview":"DIGITAL TRUST AS SHARED INFRASTRUCTURE","textChars":38,"textLines":1,"bbox":[48,220,600,24]}
+{"kind":"textbox","id":"sh/axojy5c3","slide":19,"name":"delivery-model-description","text":"A platform foundation for reusable trust capabilities across ministries, agencies, public services, or wider organizational ecosystems.","textPreview":"A platform foundation for reusable trust capabilities across ministries, agencies, public services, or wider organizational ecosystems.","textChars":135,"textLines":1,"bbox":[48,262,550,154]}
+{"kind":"textbox","id":"sh/byx0rado","slide":19,"name":"delivery-detail-1","text":"BEST FIT","textPreview":"BEST FIT","textChars":8,"textLines":1,"bbox":[700,236,180,24]}
+{"kind":"textbox","id":"sh/r61szq14","slide":19,"name":"delivery-detail-body-1","text":"Governments, national ecosystems, and shared-service operators","textPreview":"Governments, national ecosystems, and shared-service operators","textChars":62,"textLines":1,"bbox":[700,272,480,68]}
+{"kind":"shape","id":"sh/qlsrqlkj","slide":19,"name":"delivery-detail-line-1","bbox":[700,334,480,1]}
+{"kind":"textbox","id":"sh/d8ja10ja","slide":19,"name":"delivery-detail-2","text":"CONTROL PROFILE","textPreview":"CONTROL PROFILE","textChars":15,"textLines":1,"bbox":[700,348,180,24]}
+{"kind":"textbox","id":"sh/c7a9sv2p","slide":19,"name":"delivery-detail-body-2","text":"A governed common platform operated centrally","textPreview":"A governed common platform operated centrally","textChars":45,"textLines":1,"bbox":[700,384,480,68]}
+{"kind":"shape","id":"sh/zals3q10","slide":19,"name":"delivery-detail-line-2","bbox":[700,446,480,1]}
+{"kind":"textbox","id":"sh/e9sbulkf","slide":19,"name":"delivery-detail-3","text":"STRATEGIC ROLE","textPreview":"STRATEGIC ROLE","textChars":14,"textLines":1,"bbox":[700,460,180,24]}
+{"kind":"textbox","id":"sh/lc3a50j6","slide":19,"name":"delivery-detail-body-3","text":"Extend consistent trust services across multiple institutions","textPreview":"Extend consistent trust services across multiple institutions","textChars":61,"textLines":1,"bbox":[700,496,480,68]}
+{"kind":"shape","id":"sh/0butwv2l","slide":19,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/nels7a1c","slide":19,"name":"takeaway","text":"The delivery model changes how the platform operates, not the underlying trust model.","textPreview":"The delivery model changes how the platform operates, not the underlying trust model.","textChars":85,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/25c3i5cj","slide":19,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/39pcem","slide":19,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/p344wk","slide":20,"title":"20","textShapes":9}
+{"kind":"textbox","id":"sh/072p4jmd","slide":20,"name":"page-number","text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/l8b6xo3y","slide":20,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/q10ny94b","slide":20,"name":"slide-eyebrow","text":"CIRCULARO EXPERIENCE","textPreview":"CIRCULARO EXPERIENCE","textChars":20,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/b29ore5g","slide":20,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/c3i50jm1","slide":20,"name":"proof-kicker","text":"EXPERIENCE AND TRUST ECOSYSTEM","textPreview":"EXPERIENCE AND TRUST ECOSYSTEM","textChars":30,"textLines":1,"bbox":[48,124,560,24]}
+{"kind":"textbox","id":"sh/d4r6tonm","slide":20,"name":"proof-title","text":"Proven where trust matters","textPreview":"Proven where trust matters","textChars":26,"textLines":1,"bbox":[48,188,870,82]}
+{"kind":"textbox","id":"sh/ax47ad4f","slide":20,"name":"proof-subtitle","text":"More than a decade of experience across government, regulated industries, and large enterprises.","textPreview":"More than a decade of experience across government, regulated industries, and large enterprises.","textChars":96,"textLines":1,"bbox":[48,320,740,96]}
+{"kind":"shape","id":"sh/vydo3yl0","slide":20,"name":"proof-qualification","bbox":[820,234,360,250]}
+{"kind":"textbox","id":"sh/zmx432hg","slide":20,"name":"proof-qualification-label","text":"INTERNAL USE","textPreview":"INTERNAL USE","textChars":12,"textLines":1,"bbox":[860,274,280,24]}
+{"kind":"textbox","id":"sh/ylo3axgv","slide":20,"name":"proof-qualification-body","text":"Confirm current approval, exact wording, and logo permissions before external reuse.","textPreview":"Confirm current approval, exact wording, and logo permissions before external reuse.","textChars":84,"textLines":1,"bbox":[860,336,280,104]}
+{"kind":"textbox","id":"sh/lofm5cz6","slide":20,"name":"proof-foot","text":"The following references and frameworks come from the supplied internal narrative.","textPreview":"The following references and frameworks come from the supplied internal narrative.","textChars":82,"textLines":1,"bbox":[48,528,1060,44]}
+{"kind":"image","id":"im/ql8fid4b","slide":20,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/p344wk","slide":20,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/a8y5hx","slide":21,"title":"21","textShapes":17}
+{"kind":"textbox","id":"sh/kby1crqt","slide":21,"name":"page-number","text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/lc7ilwre","slide":21,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/6d0je18z","slide":21,"name":"slide-eyebrow","text":"CIRCULARO EXPERIENCE","textPreview":"CIRCULARO EXPERIENCE","textChars":20,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/7e9kn69k","slide":21,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/8fi1gbq5","slide":21,"name":"slide-title","text":"Government and shared services experience","textPreview":"Government and shared services experience","textChars":41,"textLines":1,"bbox":[48,96,1120,132]}
+{"kind":"shape","id":"sh/t0r2pgra","slide":21,"name":"government-1-frame","bbox":[48,236,40,40]}
+{"kind":"textbox","id":"sh/mhwj2h8f","slide":21,"name":"government-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,245,40,22]}
+{"kind":"textbox","id":"sh/ni50bm90","slide":21,"name":"government-name-1","text":"TDRA GovSign","textPreview":"TDRA GovSign","textChars":12,"textLines":1,"bbox":[116,238,310,38]}
+{"kind":"textbox","id":"sh/7i5onyt8","slide":21,"name":"government-body-1","text":"Federal government digital signature services","textPreview":"Federal government digital signature services","textChars":45,"textLines":1,"bbox":[452,238,728,42]}
+{"kind":"shape","id":"sh/6hwnetsn","slide":21,"name":"government-line-1","bbox":[116,294,1064,1]}
+{"kind":"shape","id":"sh/tk76p8by","slide":21,"name":"government-2-frame","bbox":[48,318,40,40]}
+{"kind":"textbox","id":"sh/8jy5g3at","slide":21,"name":"government-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,327,40,22]}
+{"kind":"textbox","id":"sh/je5ojetw","slide":21,"name":"government-name-2","text":"Digital Dubai DigiSign","textPreview":"Digital Dubai DigiSign","textChars":22,"textLines":1,"bbox":[116,320,310,38]}
+{"kind":"textbox","id":"sh/ydwna9sb","slide":21,"name":"government-body-2","text":"Shared digital signature services across Dubai government entities","textPreview":"Shared digital signature services across Dubai government entities","textChars":66,"textLines":1,"bbox":[452,320,728,42]}
+{"kind":"shape","id":"sh/lgn6lob2","slide":21,"name":"government-line-2","bbox":[116,376,1064,1]}
+{"kind":"shape","id":"sh/kfe5cjah","slide":21,"name":"government-3-frame","bbox":[48,400,40,40]}
+{"kind":"textbox","id":"sh/balofet0","slide":21,"name":"government-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,409,40,22]}
+{"kind":"textbox","id":"sh/apcn69sf","slide":21,"name":"government-name-3","text":"Sharjah Sign","textPreview":"Sharjah Sign","textChars":12,"textLines":1,"bbox":[116,402,310,38]}
+{"kind":"textbox","id":"sh/elc7i9c7","slide":21,"name":"government-body-3","text":"Shared digital trust services across Sharjah government entities","textPreview":"Shared digital trust services across Sharjah government entities","textChars":64,"textLines":1,"bbox":[452,402,728,42]}
+{"kind":"shape","id":"sh/zmloreds","slide":21,"name":"government-line-3","bbox":[116,458,1064,1]}
+{"kind":"shape","id":"sh/0nupkzud","slide":21,"name":"government-4-frame","bbox":[48,482,40,40]}
+{"kind":"textbox","id":"sh/1836t4vy","slide":21,"name":"government-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,491,40,22]}
+{"kind":"textbox","id":"sh/m9c7m9cj","slide":21,"name":"government-name-4","text":"e& DigiSign","textPreview":"e& DigiSign","textChars":11,"textLines":1,"bbox":[116,484,310,38]}
+{"kind":"textbox","id":"sh/naloved4","slide":21,"name":"government-body-4","text":"Digital signature services supporting business customers","textPreview":"Digital signature services supporting business customers","textChars":56,"textLines":1,"bbox":[452,484,728,42]}
+{"kind":"shape","id":"sh/obupoju9","slide":21,"name":"government-qualification","bbox":[48,570,1132,40]}
+{"kind":"textbox","id":"sh/9cn6xovu","slide":21,"name":"government-qualification-text","text":"INTERNAL REFERENCE SET. VERIFY CURRENT APPROVAL AND EXTERNAL USAGE RIGHTS.","textPreview":"INTERNAL REFERENCE SET. VERIFY CURRENT APPROVAL AND EXTERNAL USAGE RIGHTS.","textChars":74,"textLines":1,"bbox":[80,582,1068,20]}
+{"kind":"image","id":"im/ytg3qdcj","slide":21,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/a8y5hx","slide":21,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/kk4kq2","slide":22,"title":"22","textShapes":9}
+{"kind":"textbox","id":"sh/5gvalcfy","slide":22,"name":"page-number","text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/kfm9s7yd","slide":22,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/7idsn2xo","slide":22,"name":"slide-eyebrow","text":"CIRCULARO EXPERIENCE","textPreview":"CIRCULARO EXPERIENCE","textChars":20,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/6h4ruxgj","slide":22,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/t4vapcfu","slide":22,"name":"slide-title","text":"Enterprise, security, and trust ecosystem","textPreview":"Enterprise, security, and trust ecosystem","textChars":41,"textLines":1,"bbox":[48,96,1120,132]}
+{"kind":"shape","id":"sh/sjm9w7y9","slide":22,"name":"enterprise-side","bbox":[48,230,520,332]}
+{"kind":"textbox","id":"sh/nmt8bixk","slide":22,"name":"enterprise-label","text":"ENTERPRISE REFERENCES","textPreview":"ENTERPRISE REFERENCES","textChars":21,"textLines":1,"bbox":[84,266,440,24]}
+{"kind":"textbox","id":"sh/ml0ridgz","slide":22,"name":"enterprise-names","text":"RTA\nEDGE\nICD\nEmaar\nAbu Dhabi Department of Energy","textPreview":"RTA | EDGE | ICD | Emaar | Abu Dhabi Department of Energy","textChars":49,"textLines":5,"bbox":[84,316,440,210]}
+{"kind":"shape","id":"sh/s729w7ih","slide":22,"name":"trust-side","bbox":[648,230,532,332]}
+{"kind":"textbox","id":"sh/t8bqpcj2","slide":22,"name":"trust-label","text":"SECURITY AND TRUST FRAMEWORK CITED IN SOURCE","textPreview":"SECURITY AND TRUST FRAMEWORK CITED IN SOURCE","textChars":44,"textLines":1,"bbox":[684,266,460,24]}
+{"kind":"textbox","id":"sh/650rux0b","slide":22,"name":"trust-framework","text":"ISO 27001 and ISO 9001\nUAE digital trust and TDRA requirements\neIDAS-compatible trust services\nAdobe Approved Trust List ecosystem\nEnterprise security and audit controls","textPreview":"ISO 27001 and ISO 9001 | UAE digital trust and TDRA requirements | eIDAS-compatible trust services | Adobe Approved Trust List ecosystem ...","textChars":169,"textLines":5,"bbox":[684,316,460,218]}
+{"kind":"shape","id":"sh/r6t8n21w","slide":22,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/gb290rid","slide":22,"name":"takeaway","text":"Verify exact approved wording, current status, and customer-reference permissions before external use.","textPreview":"Verify exact approved wording, current status, and customer-reference permissions before external use.","textChars":102,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/by9kbalc","slide":22,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/kk4kq2","slide":22,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/3icasd","slide":23,"title":"23","textShapes":17}
+{"kind":"textbox","id":"sh/cfq5gnud","slide":23,"name":"page-number","text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/dgzm98by","slide":23,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/eh8nidcj","slide":23,"name":"slide-eyebrow","text":"AGENTIC TRUSTED EXECUTION","textPreview":"AGENTIC TRUSTED EXECUTION","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/zih4bit4","slide":23,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/0ja5knup","slide":23,"name":"slide-title","text":"Agentic systems change who can initiate action","textPreview":"Agentic systems change who can initiate action","textChars":46,"textLines":1,"bbox":[48,96,1120,132]}
+{"kind":"shape","id":"sh/1kjmdsbu","slide":23,"name":"agentic-spine","bbox":[90,356,1090,3]}
+{"kind":"shape","id":"sh/ulo36tcz","slide":23,"name":"agentic-1-frame","bbox":[150,334,46,46]}
+{"kind":"textbox","id":"sh/fmx4zytk","slide":23,"name":"agentic-1-text","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[150,346,46,22]}
+{"kind":"textbox","id":"sh/32hkvm54","slide":23,"name":"agentic-title-1","text":"Digital","textPreview":"Digital","textChars":7,"textLines":1,"bbox":[48,410,250,42]}
+{"kind":"textbox","id":"sh/218j2h4j","slide":23,"name":"agentic-body-1","text":"People move information online","textPreview":"People move information online","textChars":30,"textLines":1,"bbox":[48,474,250,70]}
+{"kind":"shape","id":"sh/p4z2xwna","slide":23,"name":"agentic-2-frame","bbox":[446,334,46,46]}
+{"kind":"textbox","id":"sh/o3q14rmp","slide":23,"name":"agentic-2-text","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[446,346,46,22]}
+{"kind":"textbox","id":"sh/fyxkr258","slide":23,"name":"agentic-title-2","text":"Automated","textPreview":"Automated","textChars":9,"textLines":1,"bbox":[344,410,250,42]}
+{"kind":"textbox","id":"sh/exojyx4n","slide":23,"name":"agentic-body-2","text":"Systems execute repeatable rules","textPreview":"Systems execute repeatable rules","textChars":32,"textLines":1,"bbox":[344,474,250,70]}
+{"kind":"shape","id":"sh/10z2tcny","slide":23,"name":"agentic-3-frame","bbox":[742,334,46,46]}
+{"kind":"textbox","id":"sh/gz6107mt","slide":23,"name":"agentic-3-text","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[742,346,46,22]}
+{"kind":"textbox","id":"sh/raxkn25w","slide":23,"name":"agentic-title-3","text":"AI assisted","textPreview":"AI assisted","textChars":11,"textLines":1,"bbox":[640,410,250,42]}
+{"kind":"textbox","id":"sh/69ojux4b","slide":23,"name":"agentic-body-3","text":"Systems interpret and recommend","textPreview":"Systems interpret and recommend","textChars":31,"textLines":1,"bbox":[640,474,250,70]}
+{"kind":"shape","id":"sh/u5436x8j","slide":23,"name":"agentic-4-frame","bbox":[1038,334,46,46]}
+{"kind":"textbox","id":"sh/v6dkz2po","slide":23,"name":"agentic-4-text","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1038,346,46,22]}
+{"kind":"textbox","id":"sh/w7ml8nq9","slide":23,"name":"agentic-title-4","text":"Agentic","textPreview":"Agentic","textChars":7,"textLines":1,"bbox":[936,410,250,42]}
+{"kind":"textbox","id":"sh/h8f21s7u","slide":23,"name":"agentic-body-4","text":"Software initiates trusted actions","textPreview":"Software initiates trusted actions","textChars":34,"textLines":1,"bbox":[936,474,250,70]}
+{"kind":"shape","id":"sh/i9o3ax8f","slide":23,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/jaxk32p0","slide":23,"name":"takeaway","text":"As autonomy increases, the burden of institutional control increases.","textPreview":"As autonomy increases, the burden of institutional control increases.","textChars":69,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/65w761cf","slide":23,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/3icasd","slide":23,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/e0m7i3","slide":24,"title":"24","textShapes":20}
+{"kind":"textbox","id":"sh/qh0ne5w3","slide":24,"name":"page-number","text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/ri947axo","slide":24,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/0n25kfe5","slide":24,"name":"slide-eyebrow","text":"AGENTIC TRUSTED EXECUTION","textPreview":"AGENTIC TRUSTED EXECUTION","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/1obmdkvq","slide":24,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/el0nipwf","slide":24,"name":"slide-title","text":"Intelligence and authority answer different questions","textPreview":"Intelligence and authority answer different questions","textChars":53,"textLines":1,"bbox":[48,96,1160,132]}
+{"kind":"shape","id":"sh/fmt4bax0","slide":24,"name":"intelligence-frame","bbox":[48,238,418,318]}
+{"kind":"textbox","id":"sh/gry58ve1","slide":24,"name":"intelligence-label","text":"INTELLIGENCE","textPreview":"INTELLIGENCE","textChars":12,"textLines":1,"bbox":[88,278,338,24]}
+{"kind":"textbox","id":"sh/hs7m10fm","slide":24,"name":"intelligence-title","text":"An AI agent may determine what should happen.","textPreview":"An AI agent may determine what should happen.","textChars":45,"textLines":1,"bbox":[88,338,338,108]}
+{"kind":"textbox","id":"sh/90z6hc76","slide":24,"name":"authority-thesis","text":"Institutional authority determines whether it may execute.","textPreview":"Institutional authority determines whether it may execute.","textChars":58,"textLines":1,"bbox":[88,474,338,62]}
+{"kind":"textbox","id":"sh/8z65876l","slide":24,"name":"authority-question-1","text":"ACTOR","textPreview":"ACTOR","textChars":5,"textLines":1,"bbox":[546,236,140,24]}
+{"kind":"textbox","id":"sh/nyxof2p0","slide":24,"name":"authority-question-body-1","text":"Who or what acted?","textPreview":"Who or what acted?","textChars":18,"textLines":1,"bbox":[706,233,474,34]}
+{"kind":"shape","id":"sh/mxon6x8f","slide":24,"name":"authority-question-line-1","bbox":[546,274,634,1]}
+{"kind":"textbox","id":"sh/x4z6lw72","slide":24,"name":"authority-question-2","text":"REPRESENTATION","textPreview":"REPRESENTATION","textChars":14,"textLines":1,"bbox":[546,291,140,24]}
+{"kind":"textbox","id":"sh/w3q5cr6h","slide":24,"name":"authority-question-body-2","text":"Whom did the actor represent?","textPreview":"Whom did the actor represent?","textChars":29,"textLines":1,"bbox":[706,288,474,34]}
+{"kind":"shape","id":"sh/v2hojmpw","slide":24,"name":"authority-question-line-2","bbox":[546,329,634,1]}
+{"kind":"textbox","id":"sh/a18nahor","slide":24,"name":"authority-question-3","text":"AUTHORITY","textPreview":"AUTHORITY","textChars":9,"textLines":1,"bbox":[546,346,140,24]}
+{"kind":"textbox","id":"sh/5sj6pw7e","slide":24,"name":"authority-question-body-3","text":"Did the mandate permit the action?","textPreview":"Did the mandate permit the action?","textChars":34,"textLines":1,"bbox":[706,343,474,34]}
+{"kind":"shape","id":"sh/krapgr6t","slide":24,"name":"authority-question-line-3","bbox":[546,384,634,1]}
+{"kind":"textbox","id":"sh/4bi9cvep","slide":24,"name":"authority-question-4","text":"APPROVAL","textPreview":"APPROVAL","textChars":8,"textLines":1,"bbox":[546,401,140,24]}
+{"kind":"textbox","id":"sh/5crql0fa","slide":24,"name":"authority-question-body-4","text":"What decision allowed execution?","textPreview":"What decision allowed execution?","textChars":32,"textLines":1,"bbox":[706,398,474,34]}
+{"kind":"shape","id":"sh/i9g7a5wz","slide":24,"name":"authority-question-line-4","bbox":[546,439,634,1]}
+{"kind":"textbox","id":"sh/3ap8jaxk","slide":24,"name":"authority-question-5","text":"EXECUTION","textPreview":"EXECUTION","textChars":9,"textLines":1,"bbox":[546,456,140,24]}
+{"kind":"textbox","id":"sh/szi9gfe1","slide":24,"name":"authority-question-body-5","text":"What actually happened?","textPreview":"What actually happened?","textChars":23,"textLines":1,"bbox":[706,453,474,34]}
+{"kind":"shape","id":"sh/d0rqpkfm","slide":24,"name":"authority-question-line-5","bbox":[546,494,634,1]}
+{"kind":"textbox","id":"sh/qx0re5wv","slide":24,"name":"authority-question-6","text":"EVIDENCE","textPreview":"EVIDENCE","textChars":8,"textLines":1,"bbox":[546,511,140,24]}
+{"kind":"textbox","id":"sh/ry98naxg","slide":24,"name":"authority-question-body-6","text":"What remains provable?","textPreview":"What remains provable?","textChars":22,"textLines":1,"bbox":[706,508,474,34]}
+{"kind":"shape","id":"sh/83ep4bex","slide":24,"name":"authority-question-line-6","bbox":[546,549,634,1]}
+{"kind":"shape","id":"sh/t47qdgf2","slide":24,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/vaxkzilw","slide":24,"name":"takeaway","text":"Intelligence can recommend an action. Authority determines whether it may execute.","textPreview":"Intelligence can recommend an action. Authority determines whether it may execute.","textChars":82,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/4be58j6x","slide":24,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/e0m7i3","slide":24,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/e7hsgo","slide":25,"title":"25","textShapes":13}
+{"kind":"textbox","id":"sh/43utsfy9","slide":25,"name":"page-number","text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/p43u1kfu","slide":25,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/q5cbupgf","slide":25,"name":"slide-eyebrow","text":"AGENTIC TRUSTED EXECUTION","textPreview":"AGENTIC TRUSTED EXECUTION","textChars":25,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/r6lc3ux0","slide":25,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/cretwzyl","slide":25,"name":"slide-title","text":"Circularo governs the execution boundary","textPreview":"Circularo governs the execution boundary","textChars":40,"textLines":1,"bbox":[48,96,1100,132]}
+{"kind":"shape","id":"sh/dsnu54f6","slide":25,"name":"boundary-actor-1","bbox":[78,226,220,62]}
+{"kind":"textbox","id":"sh/etwby9gb","slide":25,"name":"boundary-actor-label-1","text":"People","textPreview":"People","textChars":6,"textLines":1,"bbox":[78,246,220,26]}
+{"kind":"shape","id":"sh/zu5c7exw","slide":25,"name":"boundary-actor-drop-1","bbox":[187,288,2,50]}
+{"kind":"shape","id":"sh/3mt472h4","slide":25,"name":"boundary-actor-2","bbox":[362,226,220,62]}
+{"kind":"textbox","id":"sh/2lk3exgj","slide":25,"name":"boundary-actor-label-2","text":"Organizations","textPreview":"Organizations","textChars":13,"textLines":1,"bbox":[362,246,220,26]}
+{"kind":"shape","id":"sh/p8bm9cza","slide":25,"name":"boundary-actor-drop-2","bbox":[471,288,2,50]}
+{"kind":"shape","id":"sh/472lg7yp","slide":25,"name":"boundary-actor-3","bbox":[646,226,220,62]}
+{"kind":"textbox","id":"sh/fit43ih8","slide":25,"name":"boundary-actor-label-3","text":"Applications","textPreview":"Applications","textChars":12,"textLines":1,"bbox":[646,246,220,26]}
+{"kind":"shape","id":"sh/uh03adgn","slide":25,"name":"boundary-actor-drop-3","bbox":[755,288,2,50]}
+{"kind":"shape","id":"sh/hkbm5szy","slide":25,"name":"boundary-actor-4","bbox":[930,226,220,62]}
+{"kind":"textbox","id":"sh/gj2lcnyt","slide":25,"name":"boundary-actor-label-4","text":"AI agents","textPreview":"AI agents","textChars":9,"textLines":1,"bbox":[930,246,220,26]}
+{"kind":"shape","id":"sh/zed4fmhc","slide":25,"name":"boundary-actor-drop-4","bbox":[1039,288,2,50]}
+{"kind":"shape","id":"sh/yd4nmhgr","slide":25,"name":"execution-layer","bbox":[48,338,1132,118]}
+{"kind":"textbox","id":"sh/a987el0z","slide":25,"name":"execution-layer-title","text":"CIRCULARO TRUSTED EXECUTION LAYER","textPreview":"CIRCULARO TRUSTED EXECUTION LAYER","textChars":33,"textLines":1,"bbox":[88,364,1052,38]}
+{"kind":"textbox","id":"sh/vaho7q1k","slide":25,"name":"execution-layer-controls","text":"IDENTITY / AUTHORITY / POLICY / APPROVAL / TRUST SERVICES / EXECUTION / EVIDENCE / AUDIT","textPreview":"IDENTITY / AUTHORITY / POLICY / APPROVAL / TRUST SERVICES / EXECUTION / EVIDENCE / AUDIT","textChars":88,"textLines":1,"bbox":[88,416,1052,24]}
+{"kind":"shape","id":"sh/wbqpgvi5","slide":25,"name":"boundary-output-drop","bbox":[613,456,2,46]}
+{"kind":"shape","id":"sh/xcz690jq","slide":25,"name":"boundary-action","bbox":[250,502,330,68]}
+{"kind":"textbox","id":"sh/ix87il0b","slide":25,"name":"boundary-action-title","text":"TRUSTED BUSINESS ACTION","textPreview":"TRUSTED BUSINESS ACTION","textChars":23,"textLines":1,"bbox":[278,520,274,42]}
+{"kind":"shape","id":"sh/jyh8bq1g","slide":25,"name":"boundary-record","bbox":[648,502,330,68]}
+{"kind":"textbox","id":"sh/kzqpkvi1","slide":25,"name":"boundary-record-title","text":"TRUSTED RECORD AND EVIDENCE","textPreview":"TRUSTED RECORD AND EVIDENCE","textChars":27,"textLines":1,"bbox":[676,520,274,42]}
+{"kind":"shape","id":"sh/50jqd0jm","slide":25,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/y1o7610r","slide":25,"name":"takeaway","text":"Circularo governs permitted action, execution, and the evidence retained afterwards.","textPreview":"Circularo governs permitted action, execution, and the evidence retained afterwards.","textChars":84,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/uh8vi5sv","slide":25,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/e7hsgo","slide":25,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/1hllcu","slide":26,"title":"26","textShapes":13}
+{"kind":"textbox","id":"sh/6hovu1cb","slide":26,"name":"page-number","text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/rixwn6dw","slide":26,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/4f6dsru5","slide":26,"name":"slide-eyebrow","text":"CIRCULARO POSITIONING","textPreview":"CIRCULARO POSITIONING","textChars":21,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/5gfelwvq","slide":26,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/idovqhcf","slide":26,"name":"slide-title","text":"The Circularo proposition","textPreview":"The Circularo proposition","textChars":25,"textLines":1,"bbox":[48,96,1040,132]}
+{"kind":"textbox","id":"sh/jexwjmd0","slide":26,"name":"proposition-1-label","text":"COMPANY","textPreview":"COMPANY","textChars":7,"textLines":1,"bbox":[48,228,180,24]}
+{"kind":"textbox","id":"sh/obad4vup","slide":26,"name":"proposition-1-body","text":"A Digital Trust and Trusted Execution technology company for enterprises, governments, and digital services","textPreview":"A Digital Trust and Trusted Execution technology company for enterprises, governments, and digital services","textChars":107,"textLines":1,"bbox":[244,223,936,66]}
+{"kind":"shape","id":"sh/pcjex0ba","slide":26,"name":"proposition-line-1","bbox":[48,296,1132,1]}
+{"kind":"textbox","id":"sh/tg7a5w7i","slide":26,"name":"proposition-2-label","text":"PLATFORM","textPreview":"PLATFORM","textChars":8,"textLines":1,"bbox":[48,316,180,24]}
+{"kind":"textbox","id":"sh/sfe9wb6x","slide":26,"name":"proposition-2-body","text":"A Trust Orchestration Platform connecting content, authority, trust services, evidence, and records across end-to-end processes","textPreview":"A Trust Orchestration Platform connecting content, authority, trust services, evidence, and records across end-to-end processes","textChars":127,"textLines":1,"bbox":[244,311,936,66]}
+{"kind":"shape","id":"sh/ru5s36pc","slide":26,"name":"proposition-line-2","bbox":[48,384,1132,1]}
+{"kind":"textbox","id":"sh/6twru18r","slide":26,"name":"proposition-3-label","text":"OUTCOME","textPreview":"OUTCOME","textChars":7,"textLines":1,"bbox":[48,404,180,24]}
+{"kind":"textbox","id":"sh/5snq1w76","slide":26,"name":"proposition-3-body","text":"Trusted, compliant, and verifiable business outcomes","textPreview":"Trusted, compliant, and verifiable business outcomes","textChars":52,"textLines":1,"bbox":[244,399,936,66]}
+{"kind":"shape","id":"sh/4re9srql","slide":26,"name":"proposition-line-3","bbox":[48,472,1132,1]}
+{"kind":"textbox","id":"sh/jq58zmp0","slide":26,"name":"proposition-4-label","text":"AGENTIC ERA","textPreview":"AGENTIC ERA","textChars":11,"textLines":1,"bbox":[48,492,180,24]}
+{"kind":"textbox","id":"sh/ipwrqh8f","slide":26,"name":"proposition-4-body","text":"A Trusted Execution Layer for people, applications, and AI agents with verifiable authority and evidence","textPreview":"A Trusted Execution Layer for people, applications, and AI agents with verifiable authority and evidence","textChars":104,"textLines":1,"bbox":[244,487,936,66]}
+{"kind":"shape","id":"sh/porad07a","slide":26,"name":"takeaway-accent","bbox":[48,596,194,3]}
+{"kind":"textbox","id":"sh/oni94v65","slide":26,"name":"takeaway","text":"Use this language internally. External adaptation requires approved claims and current product evidence.","textPreview":"Use this language internally. External adaptation requires approved claims and current product evidence.","textChars":104,"textLines":1,"bbox":[48,610,1110,46]}
+{"kind":"image","id":"im/4rqpsjy9","slide":26,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/1hllcu","slide":26,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
+{"kind":"slide","id":"sl/3et70t","slide":27,"title":"27","textShapes":9}
+{"kind":"textbox","id":"sh/adgvq1kn","slide":27,"name":"page-number","text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1184,676,48,20]}
+{"kind":"shape","id":"sh/vepwj6l8","slide":27,"name":"signature-line","bbox":[48,662,250,1]}
+{"kind":"textbox","id":"sh/8rydob2h","slide":27,"name":"slide-eyebrow","text":"CIRCULARO POSITIONING","textPreview":"CIRCULARO POSITIONING","textChars":21,"textLines":1,"bbox":[104,31,790,24]}
+{"kind":"textbox","id":"sh/9s7ehg32","slide":27,"name":"internal-mark","text":"INTERNAL STRATEGY","textPreview":"INTERNAL STRATEGY","textChars":17,"textLines":1,"bbox":[948,34,232,20]}
+{"kind":"textbox","id":"sh/mpgvm1kr","slide":27,"name":"closing-kicker","text":"THE POSITION WE CARRY FORWARD","textPreview":"THE POSITION WE CARRY FORWARD","textChars":29,"textLines":1,"bbox":[48,124,600,24]}
+{"kind":"textbox","id":"sh/nqpcf6lc","slide":27,"name":"closing-1","text":"Circularo orchestrates trust.","textPreview":"Circularo orchestrates trust.","textChars":29,"textLines":1,"bbox":[48,196,1080,68]}
+{"kind":"textbox","id":"sh/snid0v21","slide":27,"name":"closing-2","text":"Trusted Execution is the outcome.","textPreview":"Trusted Execution is the outcome.","textChars":33,"textLines":1,"bbox":[48,290,1080,68]}
+{"kind":"textbox","id":"sh/tobet03m","slide":27,"name":"closing-3","text":"Agentic Trusted Execution is the next frontier.","textPreview":"Agentic Trusted Execution is the next frontier.","textChars":47,"textLines":1,"bbox":[48,384,1080,68]}
+{"kind":"shape","id":"sh/9kb650rq","slide":27,"name":"closing-rule","bbox":[48,500,1132,1]}
+{"kind":"textbox","id":"sh/8j25wva5","slide":27,"name":"closing-guardrail-label","text":"INTERNAL ALIGNMENT RULE","textPreview":"INTERNAL ALIGNMENT RULE","textChars":23,"textLines":1,"bbox":[48,536,250,24]}
+{"kind":"textbox","id":"sh/nito3q9k","slide":27,"name":"closing-guardrail","text":"Separate current capability, work in development, and strategic direction before external use.","textPreview":"Separate current capability, work in development, and strategic direction before external use.","textChars":94,"textLines":1,"bbox":[324,530,856,58]}
+{"kind":"image","id":"im/ovqhkfut","slide":27,"name":"","alt":"Circularo symbol","bbox":[48,24,40,40]}
+{"kind":"notes","id":"nt/3et70t","slide":27,"text":"[Sources]\n- work/new-story/about-circularo-updated.md\n- .agents/skills/circularo-slides/references/brand-system.md"}
