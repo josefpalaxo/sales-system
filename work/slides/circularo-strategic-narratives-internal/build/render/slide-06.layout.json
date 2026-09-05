@@ -1,0 +1,895 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/2bd393",
+    "id": "2bd393",
+    "slide": 6,
+    "layoutId": "41773048-3d99-4e76-884a-4e0e6650fc52",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "651410e0-be6e-403f-84ce-aa4c7d7160ac",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "41773048-3d99-4e76-884a-4e0e6650fc52",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "651410e0-be6e-403f-84ce-aa4c7d7160ac",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "651410e0-be6e-403f-84ce-aa4c7d7160ac",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/83q18nq9",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "6cc1cbac-f391-4ff3-9aa8-3bf60fe83ecf",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxcna18f",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zil43690",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cva58rqp",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        720,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CIRCULARO STRATEGIC NARRATIVES",
+      "textPreview": "CIRCULARO STRATEGIC NARRATIVES",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CIRCULARO STRATEGIC NARRATIVES"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CIRCULARO STRATEGIC NARRATIVES",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CIRCULARO STRATEGIC NARRATIVES",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dw3m1wra",
+      "id": "5",
+      "name": "internal-mark",
+      "bbox": [
+        908,
+        34,
+        272,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL TEAM DECK",
+      "textPreview": "INTERNAL TEAM DECK",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Mulish",
+        "color": "#667085",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL TEAM DECK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL TEAM DECK",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Mulish",
+            "color": "#667085",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL TEAM DECK",
+              "fontSize": 12,
+              "typeface": "Mulish",
+              "color": "#667085",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtsn6h8j",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1160,
+        132
+      ],
+      "geometry": "rect",
+      "text": "Circularo as the Trust Orchestration Platform",
+      "textPreview": "Circularo as the Trust Orchestration Platform",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Circularo as the Trust Orchestration Platform"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Circularo as the Trust Orchestration Platform",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Circularo as the Trust Orchestration Platform",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bu14zm94",
+      "id": "7",
+      "name": "platform-core",
+      "bbox": [
+        48,
+        222,
+        500,
+        266
+      ],
+      "geometry": "rect",
+      "text": "Digital identity, PKI, signatures, seals, timestamps, sovereign cloud and other trust capabilities increasingly form foundational infrastructure.\n\nCircularo operates above and across these foundations to turn individual trust services into complete business outcomes.",
+      "textPreview": "Digital identity, PKI, signatures, seals, timestamps, sovereign cloud and other trust capabilities increasingly form foundational infrast...",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Digital identity, PKI, signatures, seals, timestamps,"
+          },
+          {
+            "index": 2,
+            "text": "sovereign cloud and other trust capabilities"
+          },
+          {
+            "index": 3,
+            "text": "increasingly form foundational infrastructure."
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "Circularo operates above and across these"
+          },
+          {
+            "index": 6,
+            "text": "foundations to turn individual trust services into"
+          },
+          {
+            "index": 7,
+            "text": "complete business outcomes."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Digital identity, PKI, signatures, seals, timestamps, sovereign cloud and other trust capabilities increasingly form foundational infrastructure.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Digital identity, PKI, signatures, seals, timestamps, sovereign cloud and other trust capabilities increasingly form foundational infrastructure.",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Circularo operates above and across these foundations to turn individual trust services into complete business outcomes.",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Circularo operates above and across these foundations to turn individual trust services into complete business outcomes.",
+              "fontSize": 21,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4ral4rqd",
+      "id": "8",
+      "name": "platform-layer-1",
+      "bbox": [
+        640,
+        220,
+        540,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1D0090",
+      "lineColor": "#1D0090",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psjmxcry",
+      "id": "9",
+      "name": "platform-layer-label-1",
+      "bbox": [
+        670,
+        240,
+        480,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Business Process",
+      "textPreview": "Business Process",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Business Process"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Business Process",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Business Process",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x83u1sry",
+      "id": "10",
+      "name": "platform-layer-2",
+      "bbox": [
+        640,
+        308,
+        540,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#7000FF",
+      "lineColor": "#7000FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7ud8nqd",
+      "id": "11",
+      "name": "platform-layer-label-2",
+      "bbox": [
+        670,
+        328,
+        480,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Circularo Trust Orchestration",
+      "textPreview": "Circularo Trust Orchestration",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Circularo Trust Orchestration"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Circularo Trust Orchestration",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Circularo Trust Orchestration",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6lczi98",
+      "id": "12",
+      "name": "platform-layer-3",
+      "bbox": [
+        640,
+        396,
+        540,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F5EDFF",
+      "lineColor": "#C9AEFF",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alcv6d8n",
+      "id": "13",
+      "name": "platform-layer-label-3",
+      "bbox": [
+        670,
+        416,
+        480,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Identity + Trust + Infrastructure Services",
+      "textPreview": "Identity + Trust + Infrastructure Services",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Identity + Trust + Infrastructure Services"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Identity + Trust + Infrastructure Services",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Identity + Trust + Infrastructure Services",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9k3ux8r2",
+      "id": "14",
+      "name": "platform-layer-4",
+      "bbox": [
+        640,
+        484,
+        540,
+        66
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#1D0090",
+      "lineColor": "#1D0090",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jud43qh",
+      "id": "15",
+      "name": "platform-layer-label-4",
+      "bbox": [
+        670,
+        504,
+        480,
+        28
+      ],
+      "geometry": "rect",
+      "text": "Trusted, Compliant, Verifiable Outcome",
+      "textPreview": "Trusted, Compliant, Verifiable Outcome",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trusted, Compliant, Verifiable Outcome"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trusted, Compliant, Verifiable Outcome",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trusted, Compliant, Verifiable Outcome",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nilcvy9w",
+      "id": "16",
+      "name": "takeaway-rule",
+      "bbox": [
+        48,
+        596,
+        190,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#7000FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhcv2t8b",
+      "id": "17",
+      "name": "takeaway",
+      "bbox": [
+        48,
+        612,
+        1120,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Trust Orchestration is the platform capability. Trusted Execution is the outcome.",
+      "textPreview": "Trust Orchestration is the platform capability. Trusted Execution is the outcome.",
+      "resolvedFontSize": 20.51,
+      "resolvedTextStyle": {
+        "fontSize": 20.51,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Trust Orchestration is the platform capability. Trusted Execution is the outcome."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Trust Orchestration is the platform capability. Trusted Execution is the outcome.",
+          "resolvedTextStyle": {
+            "fontSize": 20.51,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Trust Orchestration is the platform capability. Trusted Execution is the outcome.",
+              "fontSize": 20.51,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

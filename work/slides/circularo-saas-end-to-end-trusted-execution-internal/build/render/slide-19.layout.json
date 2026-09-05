@@ -1,0 +1,1034 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ysbpx3",
+    "id": "ysbpx3",
+    "slide": 19,
+    "layoutId": "6d970aa8-8040-41e1-a95b-2bf134701eb9",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "14f10b92-597e-49d3-b1a8-728f1853a14f",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#1D0090",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "6d970aa8-8040-41e1-a95b-2bf134701eb9",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "14f10b92-597e-49d3-b1a8-728f1853a14f",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "14f10b92-597e-49d3-b1a8-728f1853a14f",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/250va9ov",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "41ca7b18-30de-49dc-99cb-daf175b39b49",
+        "contentType": "image/png",
+        "byteLength": 2198
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbe1cfyt",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "19",
+      "textPreview": "19",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "19"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "19",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "19",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcn2l0fe",
+      "id": "3",
+      "name": "signature-line",
+      "bbox": [
+        48,
+        662,
+        250,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2dw3e5gz",
+      "id": "4",
+      "name": "slide-eyebrow",
+      "bbox": [
+        104,
+        31,
+        720,
+        24
+      ],
+      "geometry": "rect",
+      "text": "APPENDIX",
+      "textPreview": "APPENDIX",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "APPENDIX"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "APPENDIX",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "APPENDIX",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e5knaxk",
+      "id": "5",
+      "name": "internal-mark",
+      "bbox": [
+        882,
+        34,
+        298,
+        20
+      ],
+      "geometry": "rect",
+      "text": "INTERNAL WORKING NARRATIVE",
+      "textPreview": "INTERNAL WORKING NARRATIVE",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Mulish",
+        "color": "#C9AEFF",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTERNAL WORKING NARRATIVE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTERNAL WORKING NARRATIVE",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Mulish",
+            "color": "#C9AEFF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTERNAL WORKING NARRATIVE",
+              "fontSize": 12,
+              "typeface": "Mulish",
+              "color": "#C9AEFF",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4felgfy5",
+      "id": "6",
+      "name": "slide-title",
+      "bbox": [
+        48,
+        96,
+        1140,
+        132
+      ],
+      "geometry": "rect",
+      "text": "Internal Positioning Guardrails",
+      "textPreview": "Internal Positioning Guardrails",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "fontSize": 48,
+        "typeface": "Spartan",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Internal Positioning Guardrails"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Internal Positioning Guardrails",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Spartan",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Internal Positioning Guardrails",
+              "fontSize": 48,
+              "typeface": "Spartan",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pgn2pkfq",
+      "id": "7",
+      "name": "bullet-1",
+      "bbox": [
+        48,
+        224,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qhg3ipgb",
+      "id": "8",
+      "name": "bullet-text-1",
+      "bbox": [
+        72,
+        214,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Electronic signatures remain a core Circularo capability; the narrative expands the context around them.",
+      "textPreview": "Electronic signatures remain a core Circularo capability; the narrative expands the context around them.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Electronic signatures remain a core Circularo capability; the narrative expands the context around them."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Electronic signatures remain a core Circularo capability; the narrative expands the context around them.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Electronic signatures remain a core Circularo capability; the narrative expands the context around them.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ripkruxg",
+      "id": "9",
+      "name": "bullet-rule-1",
+      "bbox": [
+        72,
+        264,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#5B3BC9",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fm14bq5g",
+      "id": "10",
+      "name": "bullet-2",
+      "bbox": [
+        48,
+        282,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/els3ilov",
+      "id": "11",
+      "name": "bullet-text-2",
+      "bbox": [
+        72,
+        272,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Do not position Circularo as replacing every enterprise application, identity provider or trust service.",
+      "textPreview": "Do not position Circularo as replacing every enterprise application, identity provider or trust service.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Do not position Circularo as replacing every enterprise application, identity provider or trust service."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Do not position Circularo as replacing every enterprise application, identity provider or trust service.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Do not position Circularo as replacing every enterprise application, identity provider or trust service.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ojmd0n6",
+      "id": "12",
+      "name": "bullet-rule-2",
+      "bbox": [
+        72,
+        322,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#5B3BC9",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnalkv6l",
+      "id": "13",
+      "name": "bullet-3",
+      "bbox": [
+        48,
+        340,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ri147q54",
+      "id": "14",
+      "name": "bullet-text-3",
+      "bbox": [
+        72,
+        330,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "The platform advantage is connection, orchestration, execution and evidence.",
+      "textPreview": "The platform advantage is connection, orchestration, execution and evidence.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The platform advantage is connection, orchestration, execution and evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The platform advantage is connection, orchestration, execution and evidence.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The platform advantage is connection, orchestration, execution and evidence.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h83eloj",
+      "id": "15",
+      "name": "bullet-rule-3",
+      "bbox": [
+        72,
+        380,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#5B3BC9",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkjm90na",
+      "id": "16",
+      "name": "bullet-4",
+      "bbox": [
+        48,
+        398,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjalgv6p",
+      "id": "17",
+      "name": "bullet-text-4",
+      "bbox": [
+        72,
+        388,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Use Trust Orchestration for the platform capability and Trusted Execution for the outcome.",
+      "textPreview": "Use Trust Orchestration for the platform capability and Trusted Execution for the outcome.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Use Trust Orchestration for the platform capability and Trusted Execution for the outcome."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Use Trust Orchestration for the platform capability and Trusted Execution for the outcome.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Use Trust Orchestration for the platform capability and Trusted Execution for the outcome.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bel4ja58",
+      "id": "18",
+      "name": "bullet-rule-4",
+      "bbox": [
+        72,
+        438,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#5B3BC9",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdcnq5o3",
+      "id": "19",
+      "name": "bullet-5",
+      "bbox": [
+        48,
+        456,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlgfydc7",
+      "id": "20",
+      "name": "bullet-text-5",
+      "bbox": [
+        72,
+        446,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Treat Unified Trust API, integrations and automation as a core part of the SaaS platform story.",
+      "textPreview": "Treat Unified Trust API, integrations and automation as a core part of the SaaS platform story.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Treat Unified Trust API, integrations and automation as a core part of the SaaS platform story."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Treat Unified Trust API, integrations and automation as a core part of the SaaS platform story.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Treat Unified Trust API, integrations and automation as a core part of the SaaS platform story.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7m9g7its",
+      "id": "21",
+      "name": "bullet-rule-5",
+      "bbox": [
+        72,
+        496,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#5B3BC9",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nix0nud",
+      "id": "22",
+      "name": "bullet-6",
+      "bbox": [
+        48,
+        514,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tory98by",
+      "id": "23",
+      "name": "bullet-text-6",
+      "bbox": [
+        72,
+        504,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Treat Agentic AI readiness as an architectural extension and future-facing advantage, not the main SaaS narrative.",
+      "textPreview": "Treat Agentic AI readiness as an architectural extension and future-facing advantage, not the main SaaS narrative.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Treat Agentic AI readiness as an architectural extension and future-facing advantage, not the main SaaS narrative."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Treat Agentic AI readiness as an architectural extension and future-facing advantage, not the main SaaS narrative.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Treat Agentic AI readiness as an architectural extension and future-facing advantage, not the main SaaS narrative.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/up0z2dcj",
+      "id": "24",
+      "name": "bullet-rule-6",
+      "bbox": [
+        72,
+        554,
+        1108,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#5B3BC9",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vq9gbit4",
+      "id": "25",
+      "name": "bullet-7",
+      "bbox": [
+        48,
+        572,
+        8,
+        8
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#C9AEFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/grih4nup",
+      "id": "26",
+      "name": "bullet-text-7",
+      "bbox": [
+        72,
+        562,
+        1108,
+        52
+      ],
+      "geometry": "rect",
+      "text": "Current product, integration, compliance and AI claims must be validated against canonical approved knowledge before external use.",
+      "textPreview": "Current product, integration, compliance and AI claims must be validated against canonical approved knowledge before external use.",
+      "resolvedFontSize": 19.51,
+      "resolvedTextStyle": {
+        "fontSize": 19.51,
+        "typeface": "Mulish",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Current product, integration, compliance and AI claims must be validated against canonical approved knowledge before"
+          },
+          {
+            "index": 2,
+            "text": "external use."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Current product, integration, compliance and AI claims must be validated against canonical approved knowledge before external use.",
+          "resolvedTextStyle": {
+            "fontSize": 19.51,
+            "typeface": "Mulish",
+            "color": "#FFFFFF",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Current product, integration, compliance and AI claims must be validated against canonical approved knowledge before external use.",
+              "fontSize": 19.51,
+              "typeface": "Mulish",
+              "color": "#FFFFFF",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
