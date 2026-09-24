@@ -1,17 +1,28 @@
 # Narrative Dictionary Source Map
 
-## Authority order
+## Authority and working ownership
 
-The catalog uses sources in this order:
+Current approved governed records remain authoritative for their stated scope, classification and review period. Reviewed and draft records retain their limitations. A newer working file does not override an existing terminology decision merely because of its date.
 
-1. Current approved governed records for internal commercial terminology.
-2. Reviewed governed records for known limitations and unknowns.
-3. The latest narrative-evolution files for the Trust Orchestration and Trusted Execution relationship.
-4. P1 narrative files as the consolidated narrative foundation.
-5. Current deck-reference Markdown files for audience-specific wording.
-6. Earlier ideas as provenance and alternative formulations.
+Within this working set:
 
-No working source is promoted to canonical status through inclusion in the dictionary.
+1. [The dictionary](README.md) owns terminology and usage.
+2. [The Strategic Narrative](../narratives/02-circularo-strategic-narrative.md) owns the common story.
+3. About Circularo, the government pitch and the agentic narrative apply that story for distinct purposes.
+   The [explainers](../explainers/README.md) develop its reasoning for internal learning and alignment; they do not define a competing narrative.
+4. [The review](../review/consolidation-review.md) records consolidation choices, evidence gaps and unresolved decisions.
+5. [Original narrative sources](../sources/README.md) preserve provenance, not current drafting instructions.
+
+The September 2026 reconciliation was requested by the user. It retained the dictionary's trusted-action preference, mechanism/outcome distinction, evolution framework and applicable legal/compliance outcome requirements while aligning the newer drafts. It added working explanatory models; it did not approve product claims.
+
+## Current consolidated narrative set
+
+- [About Circularo](../narratives/01-about-circularo.md) — concise introduction and proposed boilerplate.
+- [Circularo Strategic Narrative](../narratives/02-circularo-strategic-narrative.md) — master story, platform model and complexity dimensions.
+- [Government & Sovereign Trust Orchestration Pitch](../narratives/03-circularo-government-sovereign-trust-orchestration-pitch.md) — government and shared-services application.
+- [Trusted Execution for the Agentic Era](../narratives/04-circularo-trusted-execution-for-the-agentic-era.md) — future direction, delegation, routed execution and completion evidence.
+
+All four remain internal drafts. The original nine files from `work/new-story/` are now under `work/circularo-narrative/sources/new-story/`, unchanged. The dictionary moved from `work/narrative-dictionary/` and was edited in place at its new location.
 
 ## Governed records consulted
 
@@ -48,7 +59,7 @@ The exact rules, eligibility, limits, dates, prices, and mappings remain in thos
 
 Both are draft, internal assets. Their presence in the governed tree does not approve their slide claims.
 
-## Consolidated working narrative
+## Earlier P1 narrative foundation
 
 - `work/p1/narrative/circularo-core-narrative.md`
 - `work/p1/narrative/positioning-framework.md`
@@ -61,14 +72,14 @@ Both are draft, internal assets. Their presence in the governed tree does not ap
 - `work/p1/review/recommendations.md`
 - `work/p1/review/evidence-requirements.md`
 
-## Latest narrative-evolution sources
+## Narrative evolution explainers and originals
 
-- `work/narrative-evolution/Circularo narrative evolution.md`
-- `work/narrative-evolution/Circularo Trust Orchestration.md`
+- [Circularo narrative evolution](../explainers/circularo-narrative-evolution.md) — active aligned explainer; [original](<../sources/narrative-evolution/Circularo narrative evolution.md>).
+- [Circularo Trust Orchestration](../explainers/circularo-trust-orchestration.md) — active aligned explainer; [original](<../sources/narrative-evolution/Circularo Trust Orchestration.md>).
 
-These files introduce the current mechanism/outcome distinction: Trust Orchestration is the platform capability; Trusted Execution is the governed business outcome. They were read directly from the repository and were not present in the supplied Repomix bundle.
+The originals were moved from `work/narrative-evolution/` without content changes. They supplied reasoning retained by the dictionary: the first expands the story into digital trust, and the second makes Trust Orchestration explicit as the capability producing Trusted Execution. The active explainers preserve that reasoning while following current terminology and claim boundaries. The original notes were read directly from the repository and were not present in the supplied Repomix bundle.
 
-## Current deck-reference language
+## Other deck-reference language
 
 - `work/slides/about-circularo/about-circularo.md`
 - `work/slides/agentic-trusted-execution-partner-enablement/agentic-trusted-execution-partner-enablement.md`

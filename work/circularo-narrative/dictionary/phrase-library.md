@@ -6,10 +6,13 @@ This library collects reusable headlines, teasers, contrasts, transitions, and d
 
 Use one strong phrase at a time. Follow it with a plain explanation or a concrete model; do not stack multiple coined concepts into one sentence.
 
+For the current story, use the [Strategic Narrative](../narratives/02-circularo-strategic-narrative.md) and the [usage guidance](usage-guidance.md). Historical phrases below remain working options, not automatic approval to make present-tense claims. Lead general company and SaaS conversations with the business process; reserve autonomy-led openings for relevant strategic or AI audiences.
+
 ## 1. Master narrative phrases
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
+| **Keep the action connected to its authority and evidence.** | Plain-language expression beneath the core orchestration/outcome line. | Proposed house phrase; not a capability guarantee. |
 | **Connecting identity, authority, execution, and evidence across people, applications, and AI agents.** | Master descriptor, cover subtitle, web introduction. Add “organizations” only when the sentence remains readable and the audience needs the institutional actor called out. | Current house phrase. |
 | **As autonomy increases, the burden of trust increases.** | Strategic opening for company, AI, sovereign, and shared-services narratives. | Strong working narrative. |
 | **Greater autonomy must be matched by stronger institutional control.** | Follow-up to the autonomy progression. | Strong working narrative. |
@@ -21,9 +24,9 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **The future requirement is a continuous trust and evidence chain.** | Transition from fragmentation to the Circularo model. | Working narrative. |
 | **The output is a verifiable record—not just a PDF.** | Evidence and records section. | Current house phrase. |
 | **A completed process should produce more than a file.** | Lead-in to trusted records. | Strong working narrative. |
-| **Trusted records become institutional memory.** | Bridge from records to long-term value. | Strong working narrative. |
+| **Records with provenance and appropriate permissions can build institutional memory.** | Bridge from records to long-term value. | Strategic opportunity; not a guarantee of truth or complete coverage. |
 | **AI needs trusted context, not merely access to documents.** | Bridge from institutional memory to AI. | House recommendation. |
-| **The model may reason; the institution remains in control of what executes.** | AI boundary, especially sovereign environments. | Strong working narrative. |
+| **The model may reason; institutional authority determines what may execute through the governed process.** | AI boundary, especially sovereign environments. | Working design principle; implementation and bypass controls require validation. |
 | **People and agents share the same trust boundary.** | Explain one institutional framework across actor types. | House recommendation. |
 | **Trust becomes programmable.** | Introduce APIs as a strategic channel. | Strong working narrative. |
 | **One trust layer. Multiple channels. Consistent policy. Continuous evidence.** | API and multichannel summary. | Strong working narrative. |
@@ -60,7 +63,7 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 
 | Phrase | Best use | Status |
 | --- | --- | --- |
-| **Digital Signatures → Trust Orchestration → Trusted Execution → Agentic Trusted Execution.** | Master evolution framework. | Preferred house framework; owner validation required externally. |
+| **Digital Signatures → Trust Orchestration → Trusted Execution → Agentic Trusted Execution.** | Master evolution framework; strategic scope, not release history. | Preferred house framework; owner validation required externally. |
 | **From individual trust services to trusted outcomes.** | Transition from infrastructure components to customer value. | House recommendation. |
 | **Circularo is the orchestration layer above and across trust infrastructure.** | Architecture explanation. | House recommendation; architecture validation required. |
 | **Orchestrate the right trust events at the right point in the process.** | Plain mechanism explanation. | House recommendation. |
@@ -115,7 +118,8 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **AI may propose an action. Institutional authority determines whether it may execute.** | Authority boundary. | House recommendation. |
 | **Agents can prepare, initiate, or execute—but authority decides how far.** | Explain graduated agent permissions. | Current house phrase. |
 | **An agent's ability to act does not mean the institution has authorized the action.** | Plain authority-gap explanation. | Current house phrase. |
-| **Circularo governs and evidences what an agent is permitted to execute.** | Precise AI boundary. | Strong working narrative; capability validation required. |
+| **Circularo's strategic ambition is to govern and evidence agent actions routed through supported trust processes.** | Future-facing execution boundary. | Strategic direction; scope and capability validation required. |
+| **A request is not proof of completion. Connect the outcome to execution evidence.** | Explain connected-system accountability. | Proposed house phrase. |
 | **The relevant boundary is what the agent may do, what actually executes, and what evidence remains.** | Avoid claims about governing model reasoning. | House recommendation. |
 | **AI becomes another governed actor.** | Explain integration into the institutional framework. | Strong working narrative. |
 | **Trusted Records → Trusted Context → Trusted Intelligence → Governed Action.** | AI value progression. | Strong working narrative. |
@@ -162,6 +166,7 @@ Use one strong phrase at a time. Follow it with a plain explanation or a concret
 | **Enabling infrastructure, not another government application.** | Platform distinction. | House recommendation. |
 | **National identity answers who; Trust Orchestration governs how authorized action becomes Trusted Execution.** | Identity-to-execution distinction. | Preferred house phrase. |
 | **When every entity builds its own trust stack, government inherits fragmentation.** | Problem statement. | Strong working narrative. |
+| **Build a common trust capability that agencies can use within their own mandates.** | Shared-service value with entity authority preserved. | Proposed house phrase; supported operating model requires validation. |
 | **Shared capabilities, clear entity boundaries.** | Governance reassurance. | House recommendation. |
 | **A shared evidence model can strengthen accountability without creating unrestricted data sharing.** | Evidence and tenancy boundary. | House recommendation. |
 | **The architecture can be national from the beginning without requiring every entity to migrate at once.** | Progressive-adoption message. | Strong working narrative. |

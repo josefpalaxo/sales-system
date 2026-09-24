@@ -1,5 +1,11 @@
 # Narrative Dictionary Observations and Recommendations
 
+## September 2026 alignment
+
+The dictionary and four narratives now share one home under [Circularo Narrative](../README.md). The dictionary retains working terminology ownership; the Strategic Narrative holds the master story. The agreed editorial alignment preserves “trusted action,” the established evolution sequence and applicable compliance/legal requirements in the outcome definition. It does not confer product or publication approval.
+
+New guidance adds six connected platform areas, independent complexity dimensions, the distinction between deployment and shared-service operation, and an agentic boundary limited to routed actions with evidence of actual completion. “Keep the action connected to its authority and evidence” is a proposed house phrase. See the [review](../review/consolidation-review.md#dictionary-alignment-and-relocation).
+
 ## Observations
 
 ### 1. The core narrative is coherent
@@ -69,7 +75,7 @@ For legally significant actions, legal effect is part of the required outcome. T
 
 ### 8. The three delivery narratives are genuinely different
 
-They are three delivery and operating models of one platform foundation, but they should not be reduced to superficial hosting options:
+They are three useful buying narratives around one platform vision. Deployment, customer control and operation across entities are distinct design questions; they should not be treated as three equivalent hosting options:
 
 - SaaS answers how to simplify trusted work through managed delivery.
 - Sovereign answers how to retain a required control boundary.
@@ -109,7 +115,7 @@ Do not promote the entire phrase library as one canonical record.
 
 ### 2. Approve the positioning hierarchy separately
 
-Create a messaging decision for the five-level hierarchy. This decision should state which terms are:
+Create a messaging decision for the six-level hierarchy. This decision should state which terms are:
 
 - public market language;
 - approved positioning;
@@ -177,7 +183,7 @@ The model is valuable for partner discovery and commercial explanation, but it n
 
 ### 9. Keep one source of working vocabulary
 
-Use this folder as the working catalog and avoid creating competing glossaries inside individual deck folders. Deck references should link back here once the team begins maintaining the catalog operationally.
+Use `work/circularo-narrative/dictionary/` as the working catalog and link decks to it. The four documents in `../narratives/` apply this vocabulary; the Strategic Narrative owns their common story. Preserve original drafts in `../sources/` and record unresolved decisions in `../review/`.
 
 ### 10. Review cadence
 

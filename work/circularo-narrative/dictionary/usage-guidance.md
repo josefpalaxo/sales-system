@@ -19,7 +19,7 @@ Use three compatible levels of company narrative:
 
 - **Today:** Circularo enables organizations to approve, sign, execute, evidence, and preserve important digital transactions.
 - **Strategic:** Circularo provides a Digital Trust and Trust Orchestration Platform connecting business process, authority, trust services, execution, evidence, and records.
-- **Agentic:** Circularo provides the Trust Orchestration Layer through which people, applications, and AI agents can produce Agentic Trusted Executions under verifiable authority, assurance, legal, compliance, and evidence controls.
+- **Agentic:** Circularo's strategic ambition is to extend Trust Orchestration to agent-participating actions under delegated authority, applicable requirements and retained evidence. Describe released capabilities separately from this direction.
 
 These levels express one evolving company narrative. They must still distinguish current approved capabilities from strategic direction.
 
@@ -27,7 +27,7 @@ These levels express one evolving company narrative. They must still distinguish
 
 ### Preferred
 
-- **Trusted action** — the specific act.
+- **Trusted action** — the specific act to be governed and evidenced. It names a requirement, not prior validation. Use “proposed action” when describing a request that has not yet passed its controls.
 - **Trusted business action** — the specific customer-valued act when technical events also appear in the conversation.
 - **Trust Orchestration** — the platform capability coordinating the process, actors, authority, policy, approvals, assurance, trust services, evidence, and records required by the action.
 - **Trusted Execution** — the completed, governed business or institutional outcome created by that orchestration.
@@ -111,7 +111,7 @@ Broaden the frame without devaluing signatures.
 
 ### Preferred
 
-> Circularo governs and evidences what an agent is permitted to execute.
+> Circularo's strategic ambition is to govern and evidence agent actions routed through supported Trust Orchestration processes.
 
 > The model may reason; the institution remains in control of what executes.
 
@@ -123,6 +123,8 @@ Broaden the frame without devaluing signatures.
 - “Agentic” as a synonym for unrestricted autonomous action.
 
 When using **KNOW → ADVISE → ACT**, state that ACT is bounded by identity, delegated authority, policy, approval, evidence, and audit. Present current, integration-dependent, in-development, and directional capabilities separately.
+
+The proposed boundary covers actions routed through it. The wider architecture must control bypass paths and permissions. When another system performs the final action, obtain evidence of completion from that system; a successful API request alone is not proof of the outcome. Preserve declined, failed and escalated attempts as appropriate to the process. Treat these as design requirements until product support is confirmed.
 
 ## 7. Use trust as a concrete mechanism
 
@@ -147,7 +149,9 @@ Replace them with the concrete dimension:
 - verification;
 - control boundary.
 
-## 8. Keep delivery narratives distinct
+## 8. Keep buying narratives and operating responsibilities distinct
+
+Deployment describes where and how the platform runs. The operating model allocates responsibility; shared services describes operation for multiple participating entities. SaaS, Sovereign and Shared Services remain useful buying narratives, but they are not three equivalent hosting options. Do not infer feature parity or supported combinations. The meaning of the Sovereign label across self-hosted and dedicated environments remains an owner decision; exact commercial deployment rules stay in `edition-model:plan-edition-deployment`.
 
 ### Circularo SaaS
 
@@ -259,7 +263,7 @@ Retain official external names and legal terminology in their source spelling.
 | --- | --- |
 | Approved current capability | “Circularo supports…” followed by the governed scope. |
 | Configurable or integration-dependent | “Circularo can be configured to…” or “The solution can connect to… subject to validation.” |
-| Directional | “Circularo is designed to…” or “The platform can provide a foundation for…” |
+| Directional | “Circularo's strategic ambition is…” or “The proposed model would…”; use “designed to” only when the design itself is evidenced. |
 | Conceptual model | “The narrative proposes…” or “A trusted-execution model can…” |
 | Unknown | State that validation or evidence is required. |
 
@@ -343,9 +347,24 @@ Before using new Circularo narrative content, confirm:
 - Trust is explained through concrete controls and evidence.
 - Signatures are broadened into the lifecycle without being dismissed.
 - AI claims stop at permitted execution and retained evidence.
-- The correct delivery narrative is used.
+- The correct buying narrative is used, with deployment and operating responsibilities distinguished.
+- The six platform areas are an explanatory model, not a module or availability claim.
+- Complexity dimensions are independent, not a five-stage maturity ladder.
+- Evidence and AI-context claims state what can actually be verified; provenance does not certify every underlying statement.
 - APIs are not confused with commercial entitlements.
 - Strategic terms are not presented as approved product categories without validation.
 - Current capability, integration dependency, and direction are visibly separated.
 - Commercial rules point to stable IDs rather than being copied.
 - A concrete next step closes the narrative.
+
+## 18. Keep the narrative models aligned
+
+Use **Digital Signatures → Trust Orchestration → Trusted Execution → Agentic Trusted Execution** as the working evolution framework. Digital trust is the broad context. This is a strategic progression, not a release history.
+
+Use the six-area model in [the vocabulary](circularo-vocabulary.md#six-connected-platform-areas) when explaining the platform. Programmable Trust spans the other areas; it is not the last step after archiving. The older Cloud / Identity / Collaboration / Sign & Seal / DMS / AI lens remains historical context, not a competing default model.
+
+Use independent complexity dimensions: actors, systems, organizations, assurance requirements, autonomy and jurisdictions. Trust-service variety is part of service and assurance complexity. Do not rank customers on an implied maturity staircase.
+
+Use “Keep the action connected to its authority and evidence” as proposed plain-language messaging beneath the core line. Follow it with a concrete example and the relevant capability state.
+
+A trusted record retains the available content, provenance and process evidence. Establish which events are captured, by which systems, with which preservation and verification methods. Institutional memory and better AI context are opportunities, not proof of complete coverage, truth or model accuracy.
