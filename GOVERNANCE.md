@@ -105,7 +105,9 @@ GitHub rules should require passing checks and CODEOWNER review. `CODEOWNERS` it
 
 ## Working material
 
-`work/` is the only working directory. It is ignored except for its README. Do not add `tmp`, `.work`, domain-specific work folders, or account-output trees.
+`work/` is the only working directory. Do not add `tmp`, `.work`, domain-specific work folders, or account-output trees. Working material remains non-canonical whether or not it is versioned.
+
+The approved `work/m-capital/` exception versions original project documentation and explicitly allowlisted source files without sanitization. Its local `.gitignore` denies all other files by default, including raw/customer data, detailed evidence, generated workbooks, previews, dependencies and local connection configuration. These local artifacts must not be force-added. Adding another source file requires explicit allowlist review. Versioning is for internal traceability, not investor publication approval. This exception neither audits nor changes existing tracking in other working projects.
 
 Durable learning from working material is promoted by extracting the smallest reusable claim or pattern into a normal record, preserving provenance, and submitting it for review.
 

@@ -1,0 +1,48 @@
+-- REVIEW ONLY. NO STATEMENT IS EXECUTABLE. No cleanup is authorized.
+-- Retain every dependency of the issued internal-review workbook.
+-- Approval must identify exact targets and retention/reproducibility treatment.
+-- Recheck the live dependency graph before approving any deletion.
+
+-- DROP TABLE sandbox.m_capital__order_scope;
+-- DROP TABLE sandbox.m_capital__invoice_analysis;
+-- DROP TABLE sandbox.m_capital__invoice_attribution;
+-- DROP TABLE sandbox.m_capital__fx_context;
+-- DROP TABLE sandbox.m_capital__invoice_controls;
+-- DROP TABLE sandbox.m_capital__invoice_facts;
+-- DROP TABLE sandbox.m_capital__invoice_links;
+-- DROP TABLE sandbox.m_capital__orders;
+-- DROP TABLE sandbox.m_capital__invoice_reconciliation;
+-- DROP TABLE sandbox.m_capital__invoice_revenue;
+-- DROP TABLE sandbox.m_capital__invoice_line_context;
+-- DROP TABLE sandbox.m_capital__order_context;
+-- DROP TABLE sandbox.m_capital__customer_mapping;
+-- DROP TABLE sandbox.m_capital__r1_20260925_contracts;
+-- DROP TABLE sandbox.m_capital__r1_20260925_contract_lines;
+-- DROP TABLE sandbox.m_capital__r1_20260925_customers;
+-- DROP TABLE sandbox.m_capital__r1_20260925_growth;
+-- DROP TABLE sandbox.m_capital__r1_20260925_invoice_lines;
+-- DROP TABLE sandbox.m_capital__r1_20260925_service_allocations;
+-- DROP TABLE sandbox.m_capital__r1_20260925_customer_months;
+-- DROP TABLE sandbox.m_capital__r1_20260925_price_reviews;
+-- DROP TABLE sandbox.m_capital__r1_20260925_missing_service_periods;
+-- DROP TABLE sandbox.m_capital__r1_20260925_allocation_controls;
+-- DROP TABLE sandbox.m_capital__r1_20260925_pipeline;
+-- DROP TABLE sandbox.m_capital__r1_20260925_fx;
+-- DROP TABLE sandbox.m_capital__r1_20260925_forecast_inputs;
+-- DROP TABLE sandbox.m_capital__r1_20260925_forecast_assumptions;
+-- DROP TABLE sandbox.m_capital__r1_20260925_summary;
+-- DROP TABLE sandbox.m_capital__r1_20260925_forecast_results;
+-- DROP TABLE sandbox.m_capital__r1_20260925_release_manifest;
+-- DROP TABLE sandbox.m_capital__g176_20260925_sale_order;
+-- DROP TABLE sandbox.m_capital__g176_20260925_sale_order_line;
+-- DROP TABLE sandbox.m_capital__g176_20260925_account_move;
+-- DROP TABLE sandbox.m_capital__g176_20260925_account_move_line;
+-- DROP TABLE sandbox.m_capital__g176_20260925_sale_order_line_invoice_rel;
+-- DROP TABLE sandbox.m_capital__g176_20260925_res_partner;
+-- DROP TABLE sandbox.m_capital__g176_20260925_res_company;
+-- DROP TABLE sandbox.m_capital__g176_20260925_sale_subscription_plan;
+-- DROP TABLE sandbox.m_capital__g176_20260925_product_product;
+-- DROP TABLE sandbox.m_capital__g176_20260925_product_template;
+-- DROP TABLE sandbox.m_capital__g176_20260925_res_currency;
+-- DROP TABLE sandbox.m_capital__g176_20260925_res_currency_rate;
+-- DROP TABLE sandbox.m_capital__g176_20260925_res_country;

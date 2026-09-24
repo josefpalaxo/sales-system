@@ -19,7 +19,7 @@ Maintain this repository as a governed source of Circularo sales knowledge. Agen
 - Never choose one side of an open blocking conflict.
 - Never copy a precise commercial rule, limit, price, or claim into another record. Reference its stable ID.
 - Records under `generated/` are derived and must not be edited manually.
-- Content under `work/` is non-canonical and ignored by Git except for its README.
+- Content under `work/` is non-canonical. For `work/m-capital/`, version only the original project documents and source files explicitly allowed by its local `.gitignore`; data, evidence, outputs, previews, dependencies and connection configuration remain local. This exception does not approve publication or change the tracking of other working projects.
 
 ## Domain boundaries
 

@@ -1,0 +1,4 @@
+SELECT * FROM sandbox.m_capital__fx_context WHERE company_id IN (2,3,5)
+ORDER BY company_id,currency_id,fx_date LIMIT 100001
+SETTINGS max_execution_time=30,max_rows_to_read=1000000,result_overflow_mode='throw',output_format_json_quote_decimals=1
+FORMAT JSON;
