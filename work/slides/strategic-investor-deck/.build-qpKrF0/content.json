@@ -1,0 +1,367 @@
+{
+  "version": 1,
+  "title": "Circularo Strategic Partnership & Investment Opportunity",
+  "footer": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+  "contentStatus": "Company-source investor draft with visible review placeholders. Financials are management-reported.",
+  "slides": [
+    {
+      "id": "opportunity",
+      "layout": "investor-cover",
+      "title": "Strategic partnership\n& investment",
+      "body": "Digital trust technology for\nenterprises and governments",
+      "claimIds": [
+        "C01",
+        "C08"
+      ],
+      "notes": "Circularo is headquartered in Dubai. It connects documents, identity, approvals, trust services and process evidence. Circularo seeks a strategic shareholder that can accelerate adoption within its own businesses and wider customer network. The purpose of this discussion is commercial fit alongside minority ownership."
+    },
+    {
+      "id": "today",
+      "layout": "investor-snapshot",
+      "title": "Circularo today",
+      "metrics": [
+        {
+          "value": "≈$3M",
+          "label": "Current ARR",
+          "detail": "Management approximation\nAs of [DATE TO CONFIRM]"
+        },
+        {
+          "value": "$2.794M",
+          "label": "2025 revenue",
+          "detail": "Management-reported actual"
+        },
+        {
+          "value": "$0.859M",
+          "label": "2025 adjusted EBITDA",
+          "detail": "Management-reported actual"
+        }
+      ],
+      "delivery": "Managed SaaS, sovereign / self-hosted and shared services",
+      "continuity": "Founders continue as CEO and CSO (Chief of Sales)",
+      "review": {
+        "label": "CONFIRM [ARR date + financial definitions]",
+        "text": "Add the ARR basis and EBITDA reconciliation so investors can assess recurring revenue and earnings quality."
+      },
+      "claimIds": [
+        "Q01",
+        "Q07",
+        "Q08",
+        "Q09",
+        "Q10",
+        "C01",
+        "C05"
+      ],
+      "notes": "All amounts are USD. Source exact 2025 figures: revenue $2,793,981 and adjusted EBITDA $858,816, rounded here to three decimal places in millions. Current approximate ARR is a separate founder statement with no exact measurement date. The source financials are not represented as audited. Finance must supply the adjusted EBITDA definition and reconciliation. Gross profit/COS do not reconcile in the supplied source, so gross margin is excluded. Suggested diligence evidence: latest actual reporting period, recurring revenue definition, retention and customer concentration. Reconcile ADIB treatment before adding churn statistics. No net profit or cash-generation claim is made."
+    },
+    {
+      "id": "position",
+      "layout": "signature-service-stack",
+      "title": "Government\nand enterprise\nfit",
+      "items": [
+        {
+          "heading": "Customer-controlled deployment",
+          "body": "Control over hosting and the data environment."
+        },
+        {
+          "heading": "National identity integration",
+          "body": "Connect workflows with UAE PASS and Nafath."
+        },
+        {
+          "heading": "Multi-entity shared services",
+          "body": "A common trust platform for participating organizations."
+        },
+        {
+          "heading": "Process evidence and records",
+          "body": "Retain approvals and execution history for review."
+        },
+        {
+          "heading": "Deployment experience",
+          "body": "Government and enterprise references support new opportunities."
+        }
+      ],
+      "review": {
+        "label": "TO ADD [a documented reason for selection]",
+        "text": "A customer example would substantiate differentiation."
+      },
+      "claimIds": [
+        "C02",
+        "C04",
+        "C06",
+        "C07"
+      ],
+      "notes": "These are source-described capabilities, not a competitive scorecard. Deployment configuration, integrations and assurance depend on the customer and jurisdiction. No independent competitor comparison, universal compliance or certification claim is made. Suggested addition: one evidenced procurement or customer decision showing why the combination mattered, with scope and permission to disclose. Owner: CSO / product."
+    },
+    {
+      "id": "references",
+      "layout": "signature-editorial-split",
+      "title": "Selected\nreferences",
+      "lead": {
+        "heading": "Enterprise customers",
+        "body": "Emaar, ICD, RTA, EDGE Group, Ajman Bank and Ministry of Finance"
+      },
+      "items": [
+        {
+          "heading": "TDRA GovSign",
+          "body": "Federal government digital signature services."
+        },
+        {
+          "heading": "Digital Dubai DigiSign",
+          "body": "Shared digital signature services across Dubai government entities."
+        },
+        {
+          "heading": "Sharjah Sign",
+          "body": "Shared digital trust services across Sharjah government entities."
+        },
+        {
+          "heading": "e& DigiSign",
+          "body": "Digital signature services supporting business customers."
+        }
+      ],
+      "review": {
+        "label": "TO ADD [one approved deployment outcome]",
+        "text": "State the process, scope and measured result to show value beyond reference names. Confirm program naming."
+      },
+      "claimIds": [
+        "C03",
+        "C04"
+      ],
+      "notes": "The right-hand list contains shared-service / distribution program references. The left contains selected customer names. Names do not establish contract size, current revenue, exclusivity or organization-wide adoption. Exact program names require confirmation before circulation because older sources vary. No third-party logos are used. The e& program reference does not imply shareholder interest. No jurisdiction is added to Ministry of Finance. TCC/Mokham and unresolved institutional names remain excluded. Suggested addition owner: CSO / marketing; obtain a disclosed customer scope and outcome."
+    },
+    {
+      "id": "process",
+      "layout": "process",
+      "title": "Trust across an agreement process",
+      "items": [
+        {
+          "heading": "Prepare",
+          "body": "Create and review the document."
+        },
+        {
+          "heading": "Identify",
+          "body": "Establish participants and authority."
+        },
+        {
+          "heading": "Approve",
+          "body": "Route reviews and required decisions."
+        },
+        {
+          "heading": "Sign",
+          "body": "Apply the appropriate trust services."
+        },
+        {
+          "heading": "Preserve",
+          "body": "Retain the record and evidence."
+        }
+      ],
+      "claimIds": [
+        "C01",
+        "C06",
+        "C07"
+      ],
+      "notes": "Illustrative agreement process assembled from source-described capabilities, not a customer case study or universal configuration. An evidence record spans the process. Applications and AI agents can participate through programmable capabilities. Trusted execution means acting with appropriate authority and retaining a record of what happened. No universal legal validity or claim to govern an AI model's reasoning."
+    },
+    {
+      "id": "saas",
+      "layout": "signature-ribbon-journey",
+      "title": "SaaS\nexpansion",
+      "body": "Deploy within the group and distribute through customer channels, then expand successful accounts.",
+      "milestones": [
+        {
+          "heading": "Group adoption",
+          "body": "Identify suitable businesses and functions. Establish an initial deployment."
+        },
+        {
+          "heading": "Customer distribution",
+          "body": "Use account teams and relevant cloud, telecom or technology offerings."
+        },
+        {
+          "heading": "Account expansion",
+          "body": "Add users and workflows, including applicable AI and eDocs capabilities."
+        }
+      ],
+      "review": {
+        "label": "TO ADD [partner adoption model]",
+        "text": "Add eligible accounts, timing and retained ARR to test the commercial scale."
+      },
+      "claimIds": [
+        "Q07",
+        "C02",
+        "C09"
+      ],
+      "notes": "SaaS is an existing delivery model. Group adoption and distribution are proposed commercial mechanisms, not signed partner commitments. The ribbon establishes a development sequence, not a dated sales forecast. A prospective shareholder may not control portfolio-company procurement. Model eligible businesses, addressable customer accounts, adoption timing, net retained recurring value, channel economics and delivery resources. Do not assume improved margin or lower acquisition cost. Owner: CEO / CSO with a named partner."
+    },
+    {
+      "id": "shared-services",
+      "layout": "architecture",
+      "theme": "dark",
+      "title": "Sovereign shared services",
+      "items": [
+        {
+          "heading": "Sponsor",
+          "body": "Government, telco, cloud provider or holding group"
+        },
+        {
+          "heading": "Common platform",
+          "body": "Circularo digital trust services"
+        },
+        {
+          "heading": "Participating entities",
+          "body": "Organizations using the common service"
+        }
+      ],
+      "review": {
+        "label": "TO ADD [a sponsor-led deployment case]",
+        "text": "Define entities, hosting, contracts and retained ARR to test whether this model can be repeated."
+      },
+      "claimIds": [
+        "C02",
+        "C04",
+        "C09"
+      ],
+      "notes": "Illustrative shared-service structure, not a participant count. Existing references: TDRA GovSign, Digital Dubai DigiSign and Sharjah Sign. A strategic shareholder can help identify new sponsors, infrastructure and adoption opportunities. A participating entity is not automatically a separately paying customer. Hosting, contracting structure and recurring components must be established. No government mandate or procurement award is assumed. Do not use the historical $300k–$1M+ ARR benchmark without contract evidence. Owner: CSO / delivery with prospective partner."
+    },
+    {
+      "id": "markets",
+      "layout": "investor-market-table",
+      "title": "GCC and international expansion",
+      "rows": [
+        [
+          "Priority market",
+          "Potential partner contribution"
+        ],
+        [
+          "UAE and KSA",
+          "Enterprise and government access, group adoption and a local commercial sponsor"
+        ],
+        [
+          "Wider GCC",
+          "Relevant relationships and support for suitable deployments"
+        ],
+        [
+          "Selected international markets",
+          "Customer access and resources for market entry and delivery"
+        ]
+      ],
+      "review": {
+        "label": "TO ADD [priority markets + accountable sponsors]",
+        "text": "Rank verified demand and delivery readiness to focus expansion on achievable opportunities."
+      },
+      "claimIds": [
+        "C08",
+        "C09"
+      ],
+      "notes": "This table combines the GCC and international growth priorities. It describes expansion priorities, not a verified operating footprint or a committed pipeline. UAE references support present credibility. Select markets from identifiable demand and partner capability. Do not add market-size estimates from historic material without sourced definitions. Owner: CEO / CSO and prospective partner."
+    },
+    {
+      "id": "product",
+      "layout": "investor-product-proof",
+      "title": "Live AI and eDocs capabilities",
+      "items": [
+        {
+          "heading": "AI document\nintelligence",
+          "body": "Working with document information"
+        },
+        {
+          "heading": "eDocs",
+          "body": "Structured digital document capabilities"
+        },
+        {
+          "heading": "Agentic\nexecution",
+          "body": "Governed participation by AI agents in digital processes"
+        }
+      ],
+      "review": {
+        "label": "TO ADD [approved product demonstration or customer example]",
+        "text": "Show one real workflow, its supported scope and commercial packaging to make the opportunity concrete."
+      },
+      "claimIds": [
+        "C07"
+      ],
+      "notes": "All three capability areas are live by founder confirmation, superseding planned/emerging language in older documents. Availability reflects management confirmation. Specific feature scope, packaging, adoption scale, product ARR and outcomes remain unspecified. An approved screenshot or live workflow can replace the visible placeholder; do not fabricate an interface. The shareholder contribution is access to customers, integrations and complementary technology resources. No quantified productivity or legal-validity claim. Owner: Product / CEO."
+    },
+    {
+      "id": "ambition",
+      "layout": "investor-arr-ambition",
+      "theme": "gradient",
+      "title": "A joint ARR growth ambition",
+      "current": "≈$3M",
+      "ambition": "≈$9M",
+      "gap": "Approximately $6M of net ARR growth across the business",
+      "review": {
+        "label": "TO ADD [a reconciled commercial growth model]",
+        "text": "Show churn, expansion, new contracts, timing and delivery capacity to substantiate the ambition."
+      },
+      "claimIds": [
+        "Q01",
+        "Q02",
+        "Q03",
+        "Q04",
+        "Q11",
+        "C09"
+      ],
+      "notes": "Approximately $9M is 3 times approximately $3M. Approximately $6M is the arithmetic difference, not a booked pipeline or revenue attributed entirely to a partner. All amounts USD. Management ambition, not forecast or committed return. The 2–3-year horizon has no agreed calendar start and is not an exit timetable. Ending ARR = opening ARR minus churn/contraction plus existing-customer expansion plus new recurring business. Assign incremental contracts once to existing commercial activity, group deployment, partner-distributed SaaS or a new shared-service contract. AI/eDocs recurring value belongs within the relevant contract; geography is a tag. Remove overlaps with existing pipeline and use recurring revenue retained by Circularo after channel economics. Exclude one-off implementation revenue. Owner: CEO / CSO / finance with prospective partner."
+    },
+    {
+      "id": "transaction",
+      "layout": "signature-editorial-split",
+      "title": "$10–15M",
+      "lead": {
+        "heading": "Up to 25% minority ownership",
+        "body": "Primarily founder secondary. Founders continue as CEO and CSO (Chief of Sales)."
+      },
+      "items": [
+        {
+          "heading": "Commercial role",
+          "body": "The shareholder could adopt the platform or distribute it to customers."
+        },
+        {
+          "heading": "Shared ownership",
+          "body": "Participation in the equity value created through successful expansion."
+        },
+        {
+          "heading": "Flexible structure",
+          "body": "Strategic fit remains central. Final terms and valuation are subject to agreement."
+        },
+        {
+          "heading": "Execution commitment",
+          "body": "An active commercial sponsor and an agreed plan turn access into deployment."
+        }
+      ],
+      "review": {
+        "label": "TO ADD [expansion funding + ownership plan]",
+        "text": "Clarify any primary component and governance. Secondary proceeds go mainly to selling founders."
+      },
+      "claimIds": [
+        "Q05",
+        "Q06",
+        "C05",
+        "C08",
+        "C09",
+        "C10"
+      ],
+      "notes": "Preferred transaction is USD $10–15M with minority ownership up to 25%, primarily acquisition of existing founder shares. The range and 'up to' percentage do not fix valuation. Most proceeds under the working secondary structure would go to selling founders; do not describe the transaction as a company growth budget. Primary component, expansion funding, governance rights and post-transaction ownership remain open. No return multiple, liquidity guarantee, exclusivity or commercial commitment has been agreed. A meaningful minority holding aligns incentives but does not itself ensure execution. Owner: founders / finance."
+    },
+    {
+      "id": "discussion",
+      "layout": "signature-close",
+      "title": "Partnership\ndiscussion",
+      "body": "Agree opportunities, commercial owners, resources and an ARR plan.",
+      "contact": {
+        "label": "Start the discussion",
+        "detail": "investors@circularo.com"
+      },
+      "claimIds": [
+        "C01",
+        "C03",
+        "C04",
+        "C05",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11"
+      ],
+      "notes": "Circularo brings its established platform, government and enterprise references and live capabilities. The right shareholder can support deployment within its businesses and new customers and markets. Discuss initial opportunities, commercial sponsorship and delivery resources, a joint ARR expansion plan, minority ownership and long-term alignment. Future paths may include an IPO, private equity or a further strategic investment; route and timing remain open. The ARR horizon does not establish an exit timetable. Contact from the supplied deck outline."
+    }
+  ]
+}

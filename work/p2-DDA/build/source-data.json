@@ -1,0 +1,1153 @@
+{
+  "entities": [
+    {
+      "row": 2,
+      "number": 1.0,
+      "name": "Central Grievance Committee",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 3,
+      "number": 2.0,
+      "name": "Community Development Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 4,
+      "number": 3.0,
+      "name": "Dubai Courts",
+      "workforce": "R09: 1,275 (2024), candidate; PDF layout unverified",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 5,
+      "number": 4.0,
+      "name": "Department of Economic Development",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R11: DET predecessor; resolve group before counting."
+    },
+    {
+      "row": 6,
+      "number": 5.0,
+      "name": "Department of Economy and Tourism",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R11: current DET name; overlaps rows 5, 8, 24."
+    },
+    {
+      "row": 7,
+      "number": 6.0,
+      "name": "Department of Finance",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 8,
+      "number": 7.0,
+      "name": "Department of Tourism and Commerce Marketing ",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R11: DET predecessor; resolve group before counting."
+    },
+    {
+      "row": 9,
+      "number": 8.0,
+      "name": "Digital Dubai Authority",
+      "workforce": "\u2014",
+      "existing": 50,
+      "note": "S03: On-Premise project; same entity as row 10."
+    },
+    {
+      "row": 10,
+      "number": null,
+      "name": "Digital Dubai Authority",
+      "workforce": "\u2014",
+      "existing": 100,
+      "note": "S03: Shared Service project; same entity as row 9."
+    },
+    {
+      "row": 11,
+      "number": 9.0,
+      "name": "Directorate General of Dubai Civil Defense",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Civil Defence alias candidate with row 18."
+    },
+    {
+      "row": 12,
+      "number": 10.0,
+      "name": "Dubai Academic Health Corporation",
+      "workforce": "R03: 11,000 (2024); shared population with row 33",
+      "existing": null,
+      "note": "R03: Dubai Health brand; same workforce as row 33."
+    },
+    {
+      "row": 13,
+      "number": 11.0,
+      "name": "Dubai Air Navigation Services",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 14,
+      "number": 12.0,
+      "name": "Dubai Airport Freezone",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R14: DIEZ zone; exclude tenant-company workforce."
+    },
+    {
+      "row": 15,
+      "number": 13.0,
+      "name": "Dubai Airports",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R16: 45,000 airport-community trainees are not entity headcount."
+    },
+    {
+      "row": 16,
+      "number": 14.0,
+      "name": "Dubai Chambers",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 17,
+      "number": 15.0,
+      "name": "Dubai Civil Aviaition Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 18,
+      "number": 16.0,
+      "name": "Dubai Civil Defence",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Civil Defence alias candidate with row 11."
+    },
+    {
+      "row": 19,
+      "number": 17.0,
+      "name": "Dubai Corporation for Ambulances Services",
+      "workforce": "R07: 1,375 personnel (2023), operational scope",
+      "existing": 275,
+      "note": "R07: operational-team scope, not verified total headcount."
+    },
+    {
+      "row": 20,
+      "number": 18.0,
+      "name": "Dubai Corporation for Aviation Engineering Projects",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 21,
+      "number": 19.0,
+      "name": "Dubai Culture & Arts Authority",
+      "workforce": "\u2014",
+      "existing": 25,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 22,
+      "number": 20.0,
+      "name": "Dubai Customs",
+      "workforce": "R06: 2,880, undated; current count unverified",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 23,
+      "number": 21.0,
+      "name": "Dubai Duty Free",
+      "workforce": "R05: 5,800+ (2025), indexed primary report",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 24,
+      "number": 22.0,
+      "name": "Dubai Economy and Tourism",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R11: DET alias candidate; do not sum independently."
+    },
+    {
+      "row": 25,
+      "number": 23.0,
+      "name": "Dubai Electricity & Water Authority (DEWA)",
+      "workforce": "R02: 10,764 (2025), indexed primary report",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 26,
+      "number": 24.0,
+      "name": "Dubai Electronic Security Center",
+      "workforce": "\u2014",
+      "existing": 60,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 27,
+      "number": 25.0,
+      "name": "Dubai Export Development Coroporation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 28,
+      "number": 26.0,
+      "name": "Dubai Financial Market (DFM)",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Listed-market operator workforce needed; exclude listed companies."
+    },
+    {
+      "row": 29,
+      "number": 27.0,
+      "name": "Dubai Foundation for Women and Children",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 30,
+      "number": 28.0,
+      "name": "Dubai Future Foundation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 31,
+      "number": 29.0,
+      "name": "Dubai Government Human Resource Department",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Human Resources alias candidate with row 82."
+    },
+    {
+      "row": 32,
+      "number": 30.0,
+      "name": "Dubai Government Workshop",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 33,
+      "number": 31.0,
+      "name": "Dubai Health",
+      "workforce": "R03: 11,000 (2024); shared population with row 12",
+      "existing": null,
+      "note": "R03: Dubai Health; same workforce as row 12."
+    },
+    {
+      "row": 34,
+      "number": 32.0,
+      "name": "Dubai Health Authority (DHA)",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R03: DHA regulator distinct from Dubai Health; current scope required."
+    },
+    {
+      "row": 35,
+      "number": 33.0,
+      "name": "Dubai International Financial Centre (DIFC)",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 36,
+      "number": 34.0,
+      "name": "Dubai Islamic Economy Development Centre",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 37,
+      "number": 35.0,
+      "name": "Dubai Judicial Institute",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 38,
+      "number": 36.0,
+      "name": "Dubai Land Department (DLD)",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 39,
+      "number": 37.0,
+      "name": "Dubai Maritime City Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 40,
+      "number": 38.0,
+      "name": "Dubai Media Council",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 41,
+      "number": 39.0,
+      "name": "Dubai Media Inc",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 42,
+      "number": 40.0,
+      "name": "Dubai Municipality",
+      "workforce": "R10: 11,000, undated profile; not current-verified",
+      "existing": null,
+      "note": "Literal duplicate of row 50; preserve raw row."
+    },
+    {
+      "row": 43,
+      "number": 41.0,
+      "name": "Dubai Petroleum",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 44,
+      "number": 42.0,
+      "name": "Dubai Police",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 45,
+      "number": 43.0,
+      "name": "Dubai Public Prosecution",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Public Prosecution alias candidate with row 75."
+    },
+    {
+      "row": 46,
+      "number": 44.0,
+      "name": "Dubai Silicon Oasis Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R14: DIEZ zone; exclude tenant-company workforce."
+    },
+    {
+      "row": 47,
+      "number": 45.0,
+      "name": "Dubai South",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 48,
+      "number": 46.0,
+      "name": "Dubai Sports Council",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 49,
+      "number": 47.0,
+      "name": "Dubai Statistics Center",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 50,
+      "number": 40.0,
+      "name": "Dubai Municipality",
+      "workforce": "R10: duplicate of row 42, no additional workforce",
+      "existing": null,
+      "note": "Literal duplicate of row 42; do not allocate additional users."
+    },
+    {
+      "row": 51,
+      "number": 49.0,
+      "name": "Dubai Women Establishment",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 52,
+      "number": 50.0,
+      "name": "Economic Security Center of Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 53,
+      "number": 51.0,
+      "name": "Emirates International Accreditation Centre (eiac)",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 54,
+      "number": 52.0,
+      "name": "Endowment And Minor Trust Foundation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Awqaf/Islamic Affairs naming requires review with row 60."
+    },
+    {
+      "row": 55,
+      "number": 53.0,
+      "name": "Financial Audit Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 56,
+      "number": 54.0,
+      "name": "General Directorate of Residency and Forigners Affairs - Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 57,
+      "number": 55.0,
+      "name": "Hamdan Bin Mohammed Smart University",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 58,
+      "number": 56.0,
+      "name": "International City for Humanitarian Services",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 59,
+      "number": 57.0,
+      "name": "Investment Corporation of Dubai",
+      "workforce": "\u2014",
+      "existing": 150,
+      "note": "R15: exclude ICD-affiliated-network counts; corporate scope needed."
+    },
+    {
+      "row": 60,
+      "number": 58.0,
+      "name": "Islamic Affairs & Charitable Activities Department (Awqaf Dubai)",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Awqaf/Islamic Affairs naming requires review with row 54."
+    },
+    {
+      "row": 61,
+      "number": 59.0,
+      "name": "Jabel Ali Free Zone",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Free-zone authority vs tenant workforce must be separated."
+    },
+    {
+      "row": 62,
+      "number": 60.0,
+      "name": "Khbrati",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 63,
+      "number": 61.0,
+      "name": "Knowledge and Human Development Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 64,
+      "number": 62.0,
+      "name": "Knowledge Fund Foundation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 65,
+      "number": 63.0,
+      "name": "Mohamed Bin Rashid Space Centre",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 66,
+      "number": 64.0,
+      "name": "Mohammed Bin Rashid Al Maktoum Knowledge Foundation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 67,
+      "number": 65.0,
+      "name": "Mohammed Bin Rashid Al Maktoum Library Foundation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 68,
+      "number": 66.0,
+      "name": "Mohammed Bin Rashid Housing Establishment",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 69,
+      "number": 67.0,
+      "name": "Mohammed Bin Rashid School of Government",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 70,
+      "number": 68.0,
+      "name": "National Bonds",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 71,
+      "number": 69.0,
+      "name": "Nedaa - Professional Communication Corporation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R12: same named organization as row 73."
+    },
+    {
+      "row": 72,
+      "number": 70.0,
+      "name": "Ports, Customs and Free Zone Corporation (PCFC)",
+      "workforce": "\u2014",
+      "existing": 20,
+      "note": "PCFC, Trakhees and Customs workforce boundaries need confirmation."
+    },
+    {
+      "row": 73,
+      "number": 71.0,
+      "name": "Professional Communication Corporation 'Nedaa'",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R12: same named organization as row 71."
+    },
+    {
+      "row": 74,
+      "number": 72.0,
+      "name": "Protocol Department",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 75,
+      "number": 73.0,
+      "name": "Public Prosecution",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Public Prosecution alias candidate with row 45."
+    },
+    {
+      "row": 76,
+      "number": 74.0,
+      "name": "Roads and Transport Authority (RTA)",
+      "workforce": "R08: 3,259 (2024), candidate; scope unverified",
+      "existing": 1000,
+      "note": "S07: include as subscription in proposed model; current CAPEX remains fact."
+    },
+    {
+      "row": 77,
+      "number": 75.0,
+      "name": "Security Industry Regulatory Authority",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 78,
+      "number": 76.0,
+      "name": "State Security - Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 79,
+      "number": 77.0,
+      "name": "Supreme Council of Energy Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 80,
+      "number": 78.0,
+      "name": "Supreme Legislation Committee",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R18: Supreme Legislation Committee alias with row 85."
+    },
+    {
+      "row": 81,
+      "number": 79.0,
+      "name": "The Executive Council - Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 82,
+      "number": 80.0,
+      "name": "The Governement of Dubai Human Resources Department",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Human Resources alias candidate with row 31."
+    },
+    {
+      "row": 83,
+      "number": 81.0,
+      "name": "The Government of Dubai Legal Affairs Department",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 84,
+      "number": 82.0,
+      "name": "The Government of Dubai Media Office",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 85,
+      "number": 83.0,
+      "name": "The Supreme Legislation Committee",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R18: Supreme Legislation Committee alias with row 80."
+    },
+    {
+      "row": 86,
+      "number": 84.0,
+      "name": "Trakhees Corporation",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "PCFC/Trakhees scope needs confirmation."
+    },
+    {
+      "row": 87,
+      "number": 85.0,
+      "name": "UAE Food Bank",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Program vs standalone employer scope needs confirmation."
+    },
+    {
+      "row": 88,
+      "number": 86.0,
+      "name": "Visit Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "DET-related brand scope requires confirmation; no workforce assigned."
+    },
+    {
+      "row": 89,
+      "number": 87.0,
+      "name": "Emirates Integrated Telecommunications Company (du)",
+      "workforce": "R04: 2,687 (2025); source period inconsistency noted",
+      "existing": null,
+      "note": "R04: corporate workforce; DDA procurement eligibility to confirm."
+    },
+    {
+      "row": 90,
+      "number": 88.0,
+      "name": "Mohammed Bin Rashid Al Maktoum Global Initiatives",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 91,
+      "number": 89.0,
+      "name": "Mohammed Bin Rashid Centre for Government Innovation - Dubai",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "Entity-specific workforce and paid-user demand remain unestablished."
+    },
+    {
+      "row": 92,
+      "number": 90.0,
+      "name": "Sheikh Zayed Housing Programme",
+      "workforce": "\u2014",
+      "existing": null,
+      "note": "R13: federal MoEI program; DDA procurement eligibility unresolved."
+    },
+    {
+      "row": 93,
+      "number": 91.0,
+      "name": "Dubai Healthcare City Authority",
+      "workforce": "\u2014",
+      "existing": 150,
+      "note": "Authority staff distinct from healthcare-zone provider workforce."
+    }
+  ],
+  "survey": [
+    {
+      "question": "Q1. Does your organization currently use a digital/electronic signature system?",
+      "response": "Yes",
+      "count": 21,
+      "percent": 0.5526
+    },
+    {
+      "question": "Q1. Does your organization currently use a digital/electronic signature system?",
+      "response": "No",
+      "count": 10,
+      "percent": 0.2632
+    },
+    {
+      "question": "Q1. Does your organization currently use a digital/electronic signature system?",
+      "response": "Under planning",
+      "count": 6,
+      "percent": 0.15789999999999998
+    },
+    {
+      "question": "Q1. Does your organization currently use a digital/electronic signature system?",
+      "response": "Under implementation",
+      "count": 1,
+      "percent": 0.0263
+    },
+    {
+      "question": "Q1. Does your organization currently use a digital/electronic signature system?",
+      "response": "Total",
+      "count": 38,
+      "percent": 1.0
+    },
+    {
+      "question": "Q2. Which digital signature system is currently used / being implemented?",
+      "response": "Circularo Digital Sign",
+      "count": 6,
+      "percent": 0.2727
+    },
+    {
+      "question": "Q2. Which digital signature system is currently used / being implemented?",
+      "response": "Adobe Sign",
+      "count": 5,
+      "percent": 0.2273
+    },
+    {
+      "question": "Q2. Which digital signature system is currently used / being implemented?",
+      "response": "DocuSign",
+      "count": 2,
+      "percent": 0.0909
+    },
+    {
+      "question": "Q2. Which digital signature system is currently used / being implemented?",
+      "response": "Other",
+      "count": 9,
+      "percent": 0.40909999999999996
+    },
+    {
+      "question": "Q2. Which digital signature system is currently used / being implemented?",
+      "response": "Total",
+      "count": 22,
+      "percent": 1.0
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "d2tick",
+      "count": 2,
+      "percent": null
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "signeasy",
+      "count": 2,
+      "percent": null
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "Ascertia SigningHub",
+      "count": 1,
+      "percent": null
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "DocuSign & Adobe Sign",
+      "count": 1,
+      "percent": null
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "emSigner",
+      "count": 1,
+      "percent": null
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "Kofax SignDoc",
+      "count": 1,
+      "percent": null
+    },
+    {
+      "question": "Q2a. Other systems specified",
+      "response": "Tungsten (Kofax) SignDoc",
+      "count": 1,
+      "percent": null
+    },
+    {
+      "question": "Q3. Current / expected number of digital signature users when implementation is complete",
+      "response": "1\u201350 users",
+      "count": 6,
+      "percent": 0.2727
+    },
+    {
+      "question": "Q3. Current / expected number of digital signature users when implementation is complete",
+      "response": "51\u2013100 users",
+      "count": 4,
+      "percent": 0.1818
+    },
+    {
+      "question": "Q3. Current / expected number of digital signature users when implementation is complete",
+      "response": "101\u2013500 users",
+      "count": 7,
+      "percent": 0.3182
+    },
+    {
+      "question": "Q3. Current / expected number of digital signature users when implementation is complete",
+      "response": "More than 1,000 users",
+      "count": 4,
+      "percent": 0.1818
+    },
+    {
+      "question": "Q3. Current / expected number of digital signature users when implementation is complete",
+      "response": "Other",
+      "count": 1,
+      "percent": 0.0455
+    },
+    {
+      "question": "Q3. Current / expected number of digital signature users when implementation is complete",
+      "response": "Total",
+      "count": 22,
+      "percent": 1.0
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "Less than AED 50,000",
+      "count": 7,
+      "percent": 0.3182
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "AED 50,001\u2013100,000",
+      "count": 6,
+      "percent": 0.2727
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "AED 100,001\u2013250,000",
+      "count": 6,
+      "percent": 0.2727
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "AED 250,001\u2013500,000",
+      "count": 1,
+      "percent": 0.0455
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "More than AED 2,000,000",
+      "count": 1,
+      "percent": 0.0455
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "Not available / unknown",
+      "count": 1,
+      "percent": 0.0455
+    },
+    {
+      "question": "Q4. Approximate annual cost of the current / expected digital signature system",
+      "response": "Total",
+      "count": 22,
+      "percent": 1.0
+    },
+    {
+      "question": "Q5. Do you expect digital signature usage to increase in the future?",
+      "response": "Yes \u2013 moderate increase expected",
+      "count": 11,
+      "percent": 0.5
+    },
+    {
+      "question": "Q5. Do you expect digital signature usage to increase in the future?",
+      "response": "Yes \u2013 significant increase expected",
+      "count": 6,
+      "percent": 0.2727
+    },
+    {
+      "question": "Q5. Do you expect digital signature usage to increase in the future?",
+      "response": "Unsure / to be determined",
+      "count": 1,
+      "percent": 0.0455
+    },
+    {
+      "question": "Q5. Do you expect digital signature usage to increase in the future?",
+      "response": "No \u2013 expected to remain approximately the same",
+      "count": 4,
+      "percent": 0.1818
+    },
+    {
+      "question": "Q5. Do you expect digital signature usage to increase in the future?",
+      "response": "Total",
+      "count": 22,
+      "percent": 1.0
+    },
+    {
+      "question": "Q6. What factors are expected to drive this increase?",
+      "response": "Increase in number of users",
+      "count": 13,
+      "percent": 0.7646999999999999
+    },
+    {
+      "question": "Q6. What factors are expected to drive this increase?",
+      "response": "Expansion to additional departments",
+      "count": 10,
+      "percent": 0.5882000000000001
+    },
+    {
+      "question": "Q6. What factors are expected to drive this increase?",
+      "response": "Increased external signing with suppliers, partners, customers/public",
+      "count": 10,
+      "percent": 0.5882000000000001
+    },
+    {
+      "question": "Q6. What factors are expected to drive this increase?",
+      "response": "New document types / new use cases",
+      "count": 9,
+      "percent": 0.5294
+    },
+    {
+      "question": "Q6. What factors are expected to drive this increase?",
+      "response": "Other",
+      "count": 0,
+      "percent": 0.0
+    },
+    {
+      "question": "Q7. Would your organization be interested in using a digital signature system?",
+      "response": "Yes \u2013 we have a current requirement",
+      "count": 10,
+      "percent": 0.625
+    },
+    {
+      "question": "Q7. Would your organization be interested in using a digital signature system?",
+      "response": "Yes \u2013 may need it in the future",
+      "count": 6,
+      "percent": 0.375
+    },
+    {
+      "question": "Q7. Would your organization be interested in using a digital signature system?",
+      "response": "Total interested organizations",
+      "count": 16,
+      "percent": 1.0
+    },
+    {
+      "question": "Q8. What is the primary use of digital/electronic signature in your organization, or expected use if implemented?",
+      "response": "Both internal and external",
+      "count": 26,
+      "percent": 0.6842
+    },
+    {
+      "question": "Q8. What is the primary use of digital/electronic signature in your organization, or expected use if implemented?",
+      "response": "Internal \u2013 document approval/signing between departments or employees",
+      "count": 10,
+      "percent": 0.2632
+    },
+    {
+      "question": "Q8. What is the primary use of digital/electronic signature in your organization, or expected use if implemented?",
+      "response": "External \u2013 signing documents with suppliers, partners, customers/public",
+      "count": 2,
+      "percent": 0.0526
+    },
+    {
+      "question": "Q8. What is the primary use of digital/electronic signature in your organization, or expected use if implemented?",
+      "response": "Total",
+      "count": 38,
+      "percent": 1.0
+    }
+  ],
+  "research": [
+    {
+      "id": "R01",
+      "citation": "[Digital Dubai, GITEX Europe announcement](https://www.digitaldubai.ae/newsroom/news/dubai-to-make-presence-felt-at-gitex-europe-x-ai-everything-2025-with-a-joint-pavilion-featuring-12-government-and-private-entities), May 2025; also [Dubai Government Media Office, 18 May 2025](https://www.mediaoffice.ae/en/news/2025/may/18-05/dubai-to-make-presence-felt-at-gitex-europe-x-ai)",
+      "finding": "Smart Employee served over 76,000 employees across 76 government entities.",
+      "limits": "Strong first-party scale benchmark. Do not add entity headcounts to this aggregate or treat HR self-service users as paid signature users.",
+      "url": "https://www.digitaldubai.ae/newsroom/news/dubai-to-make-presence-felt-at-gitex-europe-x-ai-everything-2025-with-a-joint-pavilion-featuring-12-government-and-private-entities"
+    },
+    {
+      "id": "R02",
+      "citation": "[DEWA Integrated Report 2025](https://www.dewa.gov.ae/-/media/Files/Investor-Relations-Files/Integrated-report-for-the-year-2025.ashx), printed p.117; [issuer filing on DFM](https://feeds.dfm.ae/documents/2026/Mar/23/b94e2b1a-48b8-4fa8-b35b-542a63444231/DEWA%20Integrated%20Repo.pdf), workforce table p.161",
+      "finding": "10,764 employees reported for 2025.",
+      "limits": "Workforce context for DEWA. Primary search-index extracts corroborate the total; full DEWA PDF retrieval exceeded tool size limit. Operational workers are not automatically paid sign users.",
+      "url": "https://www.dewa.gov.ae/-/media/Files/Investor-Relations-Files/Integrated-report-for-the-year-2025.ashx"
+    },
+    {
+      "id": "R03",
+      "citation": "[Dubai Government, Dubai Health identity announcement](https://mediaoffice.ae/en/news/2023/November/11-11/Dubai-Health), 11 November 2023; [Dubai Health, Clinic of Hope announcement](https://dubaihealth.ae/w/dubai-health-marks-zayed-humanitarian-day-with-the-inauguration-of-the-clinic-of-hope-), 2024",
+      "finding": "More than 11,000 professionals in the 2023 announcement; 2024 entity announcement describes 11,000 employees. Dubai Academic Health Corporation operates as Dubai Health. DHA has a separate regulatory role.",
+      "limits": "Historical workforce scale; one delivery-system population, not two. Do not reuse historic DHA headcounts without accounting for restructuring, or assume all clinicians need Circularo seats.",
+      "url": "https://mediaoffice.ae/en/news/2023/November/11-11/Dubai-Health"
+    },
+    {
+      "id": "R04",
+      "citation": "[du Sustainability Report 2025](https://investors.du.ae/static-files/db00b561-a6f2-41e5-a0de-c73bbad518d2), p.13; [du Annual Report](https://investors.du.ae/static-files/a619c2a1-f3e3-4552-b9b1-3d41b65f4723), human-capital section",
+      "finding": "2,687 total employees.",
+      "limits": "Entity/corporate workforce context, subject to procurement-scope confirmation. The sustainability report introduction identifies 2025, but its GRI index contains a 2024 period statement; retain this source inconsistency. Annual-report search extract corroborates the number.",
+      "url": "https://investors.du.ae/static-files/db00b561-a6f2-41e5-a0de-c73bbad518d2"
+    },
+    {
+      "id": "R05",
+      "citation": "[ICD Annual Report 2025](https://icd.gov.ae/wp-content/uploads/2025/11/ICD-AR2025-Full-Report-2.pdf), Dubai Duty Free profile pp.116\u2013117",
+      "finding": "Dubai Duty Free reports 5,800+ employees supporting operations.",
+      "limits": "Search-index evidence; full PDF retrieval failed. Do not turn this rounded floor into an exact count, or count it again inside ICD-wide workforce.",
+      "url": "https://icd.gov.ae/wp-content/uploads/2025/11/ICD-AR2025-Full-Report-2.pdf"
+    },
+    {
+      "id": "R06",
+      "citation": "[Dubai Customs, Our Employees](https://www.dubaicustoms.gov.ae/en/SocialResponsibility/Csr/OurEmployees/Pages/default.aspx), undated page",
+      "finding": "The entity page states 2,880 personnel.",
+      "limits": "Reported but undated; not accepted as a current 2026 count. A recent crawl does not establish a recent underlying observation.",
+      "url": "https://www.dubaicustoms.gov.ae/en/SocialResponsibility/Csr/OurEmployees/Pages/default.aspx"
+    },
+    {
+      "id": "R07",
+      "citation": "[Dubai Government Media Office, Dubai Ambulance performance](https://www.mediaoffice.ae/en/news/2024/april/04-04/dubai-ambulance-responds-to-over), 4 April 2024, covering 2023",
+      "finding": "Describes 1,375 personnel managing and operating specialized ambulance services.",
+      "limits": "Operational-team scope, not established total entity headcount; use only as contextual evidence. S03's 275 licensed users remains the direct current-customer input.",
+      "url": "https://www.mediaoffice.ae/en/news/2024/april/04-04/dubai-ambulance-responds-to-over"
+    },
+    {
+      "id": "R08",
+      "citation": "[RTA Sustainability Report 2024](https://www.rta.ae/wps/wcm/connect/rta/b7653aa3-5dbc-436f-90a3-8dd1aeb270d0/RTA%2BSustainability%2BReport%2B2024-%2BFinal.pdf?MOD=AJPERES), printed pp.125\u2013126",
+      "finding": "An employee-category table includes a 2024 total of 3,259.",
+      "limits": "Candidate only: text extraction and search rendering differ in language/layout; screenshot retrieval failed. Confirm table purpose and population before using this as workforce or an adoption denominator. Keep S03's 1,000 users.",
+      "url": "https://www.rta.ae/wps/wcm/connect/rta/b7653aa3-5dbc-436f-90a3-8dd1aeb270d0/RTA%2BSustainability%2BReport%2B2024-%2BFinal.pdf?MOD=AJPERES"
+    },
+    {
+      "id": "R09",
+      "citation": "[Dubai Courts Annual Report 2024](https://www.dc.gov.ae/publicservices/websitefiles/Annual_Report/Annual-Report-2024-En.pdf), p.45",
+      "finding": "Search extract places 1,275 beside total employees, with separate administrative and judicial metrics.",
+      "limits": "Candidate only: full retrieval failed and visual association was not verified. Do not use 1,275 in a base-case calculation until the source page is confirmed.",
+      "url": "https://www.dc.gov.ae/publicservices/websitefiles/Annual_Report/Annual-Report-2024-En.pdf"
+    },
+    {
+      "id": "R10",
+      "citation": "[Dubai Municipality organizational profile](https://www.linkedin.com/company/dubai-municipality)",
+      "finding": "Profile states 11,000 employees in 34 departments.",
+      "limits": "Undated self-description; similar figures appear in much older coverage. Lower confidence than a dated annual report; do not treat as current verified workforce.",
+      "url": "https://www.linkedin.com/company/dubai-municipality"
+    },
+    {
+      "id": "R11",
+      "citation": "[Dubai Government announcement of Economy/Tourism merger](https://pddportalstg.dubai.gov.ae/en/media-listing/news-events/mohammed-bin-rashid-issues-decision-to-merge-dubai-economy-dubai-tourism-to-become-dubai-s-department-of-economy-and-tourism/), 6 November 2021",
+      "finding": "Dubai Economy and Dubai Tourism merged into the Department of Economy and Tourism.",
+      "limits": "Supports predecessor/alias review. No workforce count is supplied; do not sum their historic workforces with DET.",
+      "url": "https://pddportalstg.dubai.gov.ae/en/media-listing/news-events/mohammed-bin-rashid-issues-decision-to-merge-dubai-economy-dubai-tourism-to-become-dubai-s-department-of-economy-and-tourism/"
+    },
+    {
+      "id": "R12",
+      "citation": "[Nedaa, About](https://www.nedaa.ae/en/Pages/aboutus.aspx)",
+      "finding": "Nedaa is the Professional Communication Corporation.",
+      "limits": "Source names for the two Nedaa rows refer to the same named organization; retain both raw rows, propose one demand group.",
+      "url": "https://www.nedaa.ae/en/Pages/aboutus.aspx"
+    },
+    {
+      "id": "R13",
+      "citation": "[UAE Government, housing authorities and programmes](https://u.ae/en/information-and-services/housing/housing-authorities-and-programmes); [Ministry of Energy and Infrastructure, About](https://www.moei.gov.ae/en/about-ministry)",
+      "finding": "Sheikh Zayed Housing Programme is federal and was merged into MoEI in 2020.",
+      "limits": "Flag eligibility under a DDA purchase for confirmation; do not silently delete the user-supplied potential entity.",
+      "url": "https://u.ae/en/information-and-services/housing/housing-authorities-and-programmes"
+    },
+    {
+      "id": "R14",
+      "citation": "[Dubai Government, DIEZ measures](https://mediaoffice.ae/en/news/2026/april/09-04/dubai-integrated-economic-zones-authority-launches-set-of-economic-measures), 9 April 2026",
+      "finding": "DIEZ covers DAFZ, Dubai Silicon Oasis, and Dubai CommerCity.",
+      "limits": "Parent/zone relationships require workforce boundaries. Zone tenant employees are not automatically authority employees or eligible subscribers.",
+      "url": "https://mediaoffice.ae/en/news/2026/april/09-04/dubai-integrated-economic-zones-authority-launches-set-of-economic-measures"
+    },
+    {
+      "id": "R15",
+      "citation": "[ICD, ESG and CSR](https://icd.gov.ae/corporate-social-responsibility/), 2025 activities",
+      "finding": "Its Happiness Club reached over 76,000 employees across 39 companies.",
+      "limits": "This is an ICD-affiliated network, not ICD headquarters headcount. It is also a different population from R01 despite the similar number. Exclude from employee totals.",
+      "url": "https://icd.gov.ae/corporate-social-responsibility/"
+    },
+    {
+      "id": "R16",
+      "citation": "[Dubai Airports, accessibility training](https://media.dubaiairports.ae/dubai-airports-redefines-accessible-travel-and-enhances-autism-services-and-training/), 2025",
+      "finding": "45,000 training participants span the wider airport community, including partners.",
+      "limits": "Exclude as an employer headcount or paid-user estimate. Airport-community scale must not be assigned entirely to Dubai Airports.",
+      "url": "https://media.dubaiairports.ae/dubai-airports-redefines-accessible-travel-and-enhances-autism-services-and-training/"
+    },
+    {
+      "id": "R17",
+      "citation": "[Digital Dubai, HR Register](https://www.digitaldubai.ae/knowledge-hub/blogs/the-dubai-hr-register-why-human-decisions-need-sound-data), 2021; [GRP HRMS service description](https://partnersportal.digitaldubai.ae/Services/Details/c9038cc7-2e35-4867-9aca-04b721e18f20)",
+      "finding": "DDA describes a public-sector HR data initiative and a centralized HR system with regular/outsourced employee records.",
+      "limits": "Indicates an authoritative route for aggregate counts by entity and role. This research has not accessed those records or requested personal data.",
+      "url": "https://www.digitaldubai.ae/knowledge-hub/blogs/the-dubai-hr-register-why-human-decisions-need-sound-data"
+    },
+    {
+      "id": "R18",
+      "citation": "[Dubai Supreme Legislation Committee](https://slc.dubai.gov.ae/en/)",
+      "finding": "Official name and remit of the Supreme Legislation Committee.",
+      "limits": "Supports alias review for the two SLC names in the supplied list.",
+      "url": "https://slc.dubai.gov.ae/en/"
+    }
+  ],
+  "source_sha256": "9fd08ca1e11cabfcfbe865882d58b4eda623ca1faf9abbc98a90403bd85bfeb9"
+}

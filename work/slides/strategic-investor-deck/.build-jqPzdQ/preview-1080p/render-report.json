@@ -1,0 +1,10 @@
+{
+  "input": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-jqPzdQ/validated/circularo-strategic-partnership-investment-deck.pptx",
+  "dest": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-jqPzdQ/preview-1080p",
+  "engine": "libreoffice",
+  "scale": 1,
+  "pdf": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-jqPzdQ/preview-1080p/circularo-strategic-partnership-investment-deck.pdf",
+  "profile": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-jqPzdQ/preview-1080p/.lo-profile-jZQcMw",
+  "stdout": "convert /Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-jqPzdQ/validated/circularo-strategic-partnership-investment-deck.pptx as a Impress document -> /Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-jqPzdQ/preview-1080p/circularo-strategic-partnership-investment-deck.pdf using filter : impress_pdf_Export\n",
+  "stderr": "\nFontconfig error: No writable cache directories\n\t/Users/josefneumann/Projects/ai-workspace/output/font-cache\n\nFontconfig error: No writable cache directories\n\t/Users/josefneumann/Projects/ai-workspace/output/font-cache\n\nFontconfig error: No writable cache directories\n\t/Users/josefneumann/Projects/ai-workspace/output/font-cache\n\nFontconfig error: No writable cache directories\n\t/Users/josefneumann/Projects/ai-workspace/output/font-cache\n"
+}

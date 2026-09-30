@@ -71,6 +71,27 @@ Every field, including exact source JSON, is reconciled to the corresponding SHA
 
 ## Retention and cleanup
 
+### Invoice-only cohort model — run started 26 September 2026
+
+The following new immutable datasets support the customer-relative invoice-only Excel analysis. All 14 were reconciled field-for-field to hashed local model files; see `evidence/customer-cohorts-20260926/warehouse-manifest.json`. They do not replace any prior source or model table.
+
+- sandbox.m_capital__cohorts_20260926_customers
+- sandbox.m_capital__cohorts_20260926_invoice_lines
+- sandbox.m_capital__cohorts_20260926_customer_periods
+- sandbox.m_capital__cohorts_20260926_expansion
+- sandbox.m_capital__cohorts_20260926_cohorts
+- sandbox.m_capital__cohorts_20260926_invoice_history
+- sandbox.m_capital__cohorts_20260926_service_allocations
+- sandbox.m_capital__cohorts_20260926_customer_months
+- sandbox.m_capital__cohorts_20260926_classifications
+- sandbox.m_capital__cohorts_20260926_exceptions
+- sandbox.m_capital__cohorts_20260926_migrations
+- sandbox.m_capital__cohorts_20260926_subscription_context
+- sandbox.m_capital__cohorts_20260926_header_checks
+- sandbox.m_capital__cohorts_20260926_summary
+
+No cleanup is executed or authorized by this inventory. Keep these datasets and their generation-176 source dependencies while the workbook must remain reproducible.
+
 The final release additionally tracks:
 
 - sandbox.m_capital__r1_20260925_forecast_results — 1,260 customer-year rows for the flat review case.
