@@ -26,6 +26,7 @@ Maintain this repository as a governed source of Circularo sales knowledge. Agen
 - Put cross-domain company, product, commercial, market, competition, proof, positioning, and governed reusable assets under `shared/`.
 - Put domain-specific knowledge, messaging, methodology, plays, templates, and governed reusable assets under `domains/<domain>/`.
 - Add a domain by following `domains/README.md`; do not add new top-level working or knowledge trees.
+- The user-authorized `investors/` workspace is an explicit exception, versioned in this repository under its local `AGENTS.md` and `GOVERNANCE.md`. It must not become a nested Git repository; its draft investor content does not override approved shared records.
 - Entity IDs are globally unique across shared and all domains.
 - Keep one stable path for each slide deck; Git history stores normal revisions. Create another deck only for an explicitly distinct durable variant.
 - For slide decks, the singular `topic` metadata mirrors the one folder below `assets/slides/`, and the governed Markdown record shares the PPTX basename. Use tags and typed relations for all secondary associations.

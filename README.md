@@ -12,6 +12,8 @@ The repository has three content zones:
 
 Governed binary artifacts live in topic folders under `shared/assets/` or `domains/<domain>/assets/`. Their normal revisions replace one stable file; Git history carries earlier versions.
 
+The user-authorized [`investors/`](investors/README.md) workspace is also versioned here for investor context and relationship preparation, subject to its local governance and the investor workspace exception in `GOVERNANCE.md`.
+
 Agents and humans must treat only current, approved records as canonical. Draft, reviewed, expired, or conflicted material must remain visibly qualified.
 
 ## Start here
