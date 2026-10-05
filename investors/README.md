@@ -9,6 +9,7 @@ A dedicated investor workspace within the sales-system repository for Circularo'
 | [master/](master/README.md) | Common company facts and investor context; detailed records hold facts, the executive index points to them |
 | [materials/](materials/README.md) | Current generic investor assets derived from the master |
 | [investors/_template/](investors/_template/README.md) | Reusable workspace for each investor relationship |
+| [Investor outreach batches](outreach/README.md) | Separate research mandates, preserved lists, evidence and contact preparation; all outputs are confidential drafts versioned under Git |
 | [research/](research/README.md) | Evidence and analysis awaiting reconciliation |
 | [sources/](sources/README.md) | Source provenance and access guidance |
 | [archive/](archive/README.md) | Superseded materials, never current authority |
@@ -28,7 +29,7 @@ Copy `investors/_template/` to `investors/<normalized-investor-name>/`, using lo
 
 Adapt the structure to the relationship. Brokers and advisers need concise engagement records; use the investor-assessment template only where relevant, and add files when there is substantive content.
 
-Use master links for common facts. Store investor-specific research, analysis and deliverables in that investor's folder. Keep personal contact information and raw correspondence in the approved business system or ignored local files; the versioned contact/log templates hold references and non-sensitive summaries.
+Use master links for common facts. Store investor-specific research, analysis and deliverables in that investor's folder. The [outreach workspace](outreach/README.md) versions research batches, contacts and saved conversations under Josef's explicit 2026-10-03 instruction. Other personal/raw material remains subject to the exclusions in governance.
 
 ## Update company facts
 

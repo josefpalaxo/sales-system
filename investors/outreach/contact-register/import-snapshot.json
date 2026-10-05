@@ -1,0 +1,4274 @@
+{
+  "status": "draft",
+  "classification": "confidential",
+  "canonical": false,
+  "as_of": "2026-10-03",
+  "contacts": [
+    {
+      "id": "CON-9284e55365",
+      "name": "Alex Neo",
+      "organisation": "Singtel Innov8",
+      "title": "Director (Investments), Singapore; APAC enterprise SaaS/infrastructure focus and prior cybersecurity experience. Suggested first sector/operating-fit discussion",
+      "linkedin": "https://www.linkedin.com/in/neoalex/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/singtel-innov8.md"
+      ],
+      "verification": [
+        "Authenticated profile header checked 2026-10-03 confirms Director (Investments), Singtel Innov8, Singapore. Focus/background remain attributed to the earlier official-source review"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://innov8.singtel.com/our-team.html"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-c2f2509ec0",
+      "name": "Dylan Pearce",
+      "organisation": "Greycroft",
+      "title": "Partner",
+      "linkedin": "https://www.linkedin.com/in/pearcedylan/",
+      "batches": [
+        "03",
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/greycroft-dylan-pearce.md",
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "Public indexed result checked on 2026-10-02; name, Greycroft association and Los Angeles location match the official biography. Full authenticated profile was not inspected",
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed.",
+        "Existing user tip; software/AI contact locally based"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-03/leads/greycroft-dylan-pearce.md",
+        "https://www.linkedin.com/in/pearcedylan/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-13fe0d21fb",
+      "name": "Hasan Askari",
+      "organisation": "K1 Investment Management",
+      "title": "Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/hasan-askari-19512019/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Senior founder/transaction sponsor"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/hasan-askari-19512019/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-97c191fcf4",
+      "name": "Jed Leidheiser",
+      "organisation": "March Capital",
+      "title": "Partner",
+      "linkedin": "https://www.linkedin.com/in/jedleidheiser/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Cybersecurity investment lead and enterprise operating experience"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/jedleidheiser/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-3693ac5238",
+      "name": "Kobie Fuller",
+      "organisation": "Upfront Ventures",
+      "title": "General Partner",
+      "linkedin": "https://www.linkedin.com/in/kobiefuller/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Enterprise/AI discussion and LA introductions"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/kobiefuller/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-b47cdf8025",
+      "name": "Paul Huber",
+      "organisation": "Clearlake Capital Group",
+      "title": "Partner and Managing Director",
+      "linkedin": "https://www.linkedin.com/in/paulcampbellhuber/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Software/identity transaction sponsor; Quest adjacency"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/paulcampbellhuber/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-d0c4e0ef20",
+      "name": "Ryan Laurin",
+      "organisation": "Marlin Equity Partners",
+      "title": "Managing Director",
+      "linkedin": "https://www.linkedin.com/in/ryanlaurin/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Direct deal-origination and qualification route"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/ryanlaurin/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-58878be8b7",
+      "name": "Thomas Oh",
+      "organisation": "Arrowroot Capital",
+      "title": "Partner",
+      "linkedin": "https://www.linkedin.com/in/thomasoh52/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Sourcing, transaction execution and portfolio management"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/thomasoh52/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-a388e98b0f",
+      "name": "Alameen Alhazmi",
+      "organisation": "Elm",
+      "title": "Group Chief, Integrated Solutions",
+      "linkedin": "https://www.linkedin.com/in/alameen-alhazmi-664ab31/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Official page says Group Chief, Integrated Solutions; LinkedIn says Chief Integrated Solutions Officer."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://elm.sa/en/investor-relations/corporate-governance/Pages/executive-management.aspx"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-cbf925c23f",
+      "name": "Alex Malvone (Alexander Malvone)",
+      "organisation": "FTV Capital / Ascend",
+      "title": "Partner; co-head of FTV Ascend",
+      "linkedin": "https://www.linkedin.com/in/alexandermalvone/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Indexed LinkedIn profile matched to official role"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://ftvcapital.com/team-member/alex-malvone/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-3cbd1c508d",
+      "name": "Amit Sinha",
+      "organisation": "DigiCert",
+      "title": "CEO",
+      "linkedin": "https://www.linkedin.com/in/amitsinha/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Indexed LinkedIn profile matched to official role"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.digicert.com/leadership"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-cc1fea3ac8",
+      "name": "Andrew Kvålseth",
+      "organisation": "Beyon",
+      "title": "Chief Executive Officer Beyon",
+      "linkedin": "https://www.linkedin.com/in/andrew-kv%C3%A5lseth-b5515917/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.beyon.com/our-teams/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-540abb4c9d",
+      "name": "Anoushka Vaswani",
+      "organisation": "Lightspeed Venture Partners",
+      "title": "Suggested first enterprise/growth sponsor; enterprise software and infrastructure remit, Temporal announcement co-author",
+      "linkedin": "https://www.linkedin.com/in/anoushka-vaswani-aa330017/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/lightspeed-venture-partners.md"
+      ],
+      "verification": [
+        "Current biography lists Partner, Menlo Park, Growth; indexed professional profile matches Lightspeed"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://lsvp.com/team-member/anoushka-vaswani/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-f497b99b50",
+      "name": "Arteen Arabshahi",
+      "organisation": "Fika Ventures",
+      "title": "General Partner",
+      "linkedin": "https://www.linkedin.com/in/arteeninla/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn profile header; event agenda"
+      ],
+      "notes": [
+        "Named moderator. Profile header does not establish LA residence; event is in Culver City."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-04/tech-week-events.json#TW05"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-2b5df2a786",
+      "name": "Asger Hattel",
+      "organisation": "Signicat",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/asger-hattel-878813/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.signicat.com/about",
+        "https://www.signicat.com/de/uber-uns"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-188a646973",
+      "name": "Assaf Shamia",
+      "organisation": "Giesecke+Devrient",
+      "title": "Managing Director, G+D Ventures",
+      "linkedin": "https://www.linkedin.com/in/assafshamia/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Official page says Managing Director; LinkedIn says Investment Partner."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.gi-de.com/en/ventures"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-b2ee9dfe29",
+      "name": "Atul Koul Randev",
+      "organisation": "Signicat",
+      "title": "Chief Strategy Officer",
+      "linkedin": "https://www.linkedin.com/in/atul-randev/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.signicat.com/about",
+        "https://www.signicat.com/de/uber-uns"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-de6974591b",
+      "name": "Austin Arensberg",
+      "organisation": "Okta Ventures",
+      "title": "VP, Okta Ventures",
+      "linkedin": "https://www.linkedin.com/in/austinarensberg/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.okta.com/en-gb/blog/company-and-culture/founders-in-focus-itai-gafni-ceo-of-huskeys/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-a46a2e2b71",
+      "name": "Avery Rosin",
+      "organisation": "Unresolved: Waveline / Lead Edge",
+      "title": "Unresolved — confirm vehicle",
+      "linkedin": "https://www.linkedin.com/in/averyrosin/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn profile header; event agenda"
+      ],
+      "notes": [
+        "UNRESOLVED AFFILIATION: event names Founder & Managing Partner, Waveline Capital; current authenticated LinkedIn header says Partner, Lead Edge Capital. Address him by name and confirm vehicle; do not resolve by assumption."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-04/tech-week-events.json#TW03"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-25c71fbe73",
+      "name": "Ben Levin (Benjamin Levin)",
+      "organisation": "Level Equity",
+      "title": "Co-Founder and CEO",
+      "linkedin": "https://www.linkedin.com/in/benjamin-levin-a3116/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.levelequity.com/our-people/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-f09e7cb7fe",
+      "name": "Charly Zwemstra",
+      "organisation": "Main Capital Partners",
+      "title": "Managing Partner & Chief Investment Officer",
+      "linkedin": "https://www.linkedin.com/in/charlyzwemstra4263/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Official team/location page links profile; full LinkedIn fetch blocked"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://main.nl/location/the-hague/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-090a1699e1",
+      "name": "Crevan O’Grady",
+      "organisation": "Volpi Capital",
+      "title": "Co-founder; Managing Partner in published Volpi announcement",
+      "linkedin": "https://www.linkedin.com/in/crevan-o-grady-a143743/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Indexed LinkedIn profile matched to Volpi activity; headline may show YAVEON"
+      ],
+      "notes": [
+        "Official 2024 announcement says co-founder; a later transaction announcement says Managing Partner. LinkedIn may show a portfolio board headline."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.volpicapital.com/meet-the-team/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-a3c291c70d",
+      "name": "Dan / Daniel Waine",
+      "organisation": "Crescent Capital Partners",
+      "title": "Director New Investments; suggested first contact for eligibility, ticket and transaction structure",
+      "linkedin": "https://www.linkedin.com/in/daniel-waine-7a983778/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/crescent-capital-partners.md"
+      ],
+      "verification": [
+        "Official site uses Dan; indexed personal profile uses Daniel and matches Crescent/Sydney. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.crescentcap.com.au/our-people"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-5f5aa0ec72",
+      "name": "Dana Settle",
+      "organisation": "Greycroft",
+      "title": "Co-Founder and Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/dana-settle-8b18/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn profile header; event agenda"
+      ],
+      "notes": [
+        "Listed speaker; official Greycroft biography corroborates role."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-04/tech-week-events.json#TW02"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-20ac028ed8",
+      "name": "Daniel Dines",
+      "organisation": "UiPath",
+      "title": "Founder and Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/danieldines/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.uipath.com/newsroom/daniel-dines-book-the-work-that-remains"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-7a70c3a4be",
+      "name": "Danilo Cattaneo",
+      "organisation": "Tinexta / Tinexta Trust",
+      "title": "CEO InfoCert; Chairman Camerfirma",
+      "linkedin": "https://www.linkedin.com/in/danilocattaneo/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://tinexta.com/-/media/tinexta/data/media/files/docs/InvestorRelations/Presentazioni_Finanziarie/2025/ENG/CMD_Presentation_060325_ENG.pdf"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-13b53dbd4e",
+      "name": "Danny de Vreeze",
+      "organisation": "Thales",
+      "title": "Vice President, Identity & Access Management",
+      "linkedin": "https://www.linkedin.com/in/dannydevreeze/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://cpl.thalesgroup.com/leadership"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-eb95aff720",
+      "name": "Dave Tabors",
+      "organisation": "Battery Ventures",
+      "title": "Private Equity Partner, Boston; later-stage software focus. Suggested structure discussion: software buyouts and Signal AI involvement",
+      "linkedin": "https://www.linkedin.com/in/dave-tabors/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/battery-ventures.md"
+      ],
+      "verification": [
+        "Role and focus from official biography. Indexed LinkedIn result matches name and Boston but does not expose employment; confirm identity in the authenticated profile before using"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.battery.com/people/dave-tabors/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-8c44bd779e",
+      "name": "David Popowitz",
+      "organisation": "Adobe",
+      "title": "Head of Adobe Corporate Development and Ventures",
+      "linkedin": "https://www.linkedin.com/in/popowitz/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn profile header; event agenda"
+      ],
+      "notes": [
+        "Listed speaker; event uses VP Corporate Development. Profile checked directly; public search label SignalFire is inconsistent with current header."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-04/tech-week-events.json#TW02"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-4b0e3431b8",
+      "name": "Davis Treybig",
+      "organisation": "Innovation Endeavors",
+      "title": "Suggested first technical/document-infrastructure sponsor; led the Extend investment and co-authored the agent/API thesis",
+      "linkedin": "https://www.linkedin.com/in/davistreybig/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/innovation-endeavors.md"
+      ],
+      "verification": [
+        "Current roster lists General Partner; 29 October 2025 promotion announcement identifies Extend leadership; indexed professional profile matches the firm"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.innovationendeavors.com/team"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-60ad41c3ff",
+      "name": "Davor Hebel",
+      "organisation": "Eight Roads",
+      "title": "Managing Partner, Head of Europe; senior regional-mandate and structure route",
+      "linkedin": "https://www.linkedin.com/in/davorhebel/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/eight-roads.md"
+      ],
+      "verification": [
+        "Current role from official biography; indexed profile matches name, London and Harvard MBA context, with Eight Roads-related investment articles. Current employment not exposed in retrieved profile; reconfirm before use"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://eightroads.com/en/people/davor-hebel"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-0c1c9d6785",
+      "name": "Derek Idemoto",
+      "organisation": "Cisco Investments",
+      "title": "Senior Vice President, Corporate Development and Cisco Investments",
+      "linkedin": "https://www.linkedin.com/in/derekidemoto/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.ciscoinvestments.com/team"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-3c4e7c1264",
+      "name": "Dr. Karim El Solh",
+      "organisation": "Gulf Capital",
+      "title": "Co-founder and CEO",
+      "linkedin": "https://www.linkedin.com/in/dr-karim-el-solh/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Indexed LinkedIn profile matched to official role"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.gulfcapital.com/team-showcase/dr-karim-el-solh-2"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-f3364f144b",
+      "name": "Edgar Hardless",
+      "organisation": "Singtel Innov8",
+      "title": "CEO; potential senior route for fund selection and group strategic sponsorship",
+      "linkedin": "https://www.linkedin.com/in/edgarhardless/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/singtel-innov8.md"
+      ],
+      "verification": [
+        "Current role from official team page. Public indexed profile matches name and Singapore; employment not exposed in the retrieved profile. Identity needs reconfirmation before use"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://innov8.singtel.com/our-team.html"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-d763f2a486",
+      "name": "Eva Rudin",
+      "organisation": "Thales",
+      "title": "Senior Vice President, Cyber Security Products",
+      "linkedin": "https://www.linkedin.com/in/eva-rudin-909a6713/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://cpl.thalesgroup.com/leadership"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-f82fb80f70",
+      "name": "Gina Mastantuono",
+      "organisation": "ServiceNow / ServiceNow Ventures",
+      "title": "President and Chief Financial Officer",
+      "linkedin": "https://www.linkedin.com/in/gina-mastantuono/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.servicenow.com/company/ventures.html"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-b62ec458ea",
+      "name": "Ilya Fushman",
+      "organisation": "Kleiner Perkins",
+      "title": "Partner; suggested first product/enterprise-workflow discussion, with Harvey/Rippling experience",
+      "linkedin": "https://www.linkedin.com/in/ilyafushman/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/kleiner-perkins.md"
+      ],
+      "verification": [
+        "Current official role; indexed personal profile identifies Kleiner Perkins and Stanford. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.kleinerperkins.com/people/ilya-fushman/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-a935d0221f",
+      "name": "Ilya Kiykov",
+      "organisation": "e&",
+      "title": "Group Chief Corporate Development Officer",
+      "linkedin": "https://www.linkedin.com/in/ilya-kiykov-a0171311/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.eand.com/en/whoweare/senior-management.html"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-a2de3d6196",
+      "name": "Iqbal Khan",
+      "organisation": "Fajr Capital",
+      "title": "CEO",
+      "linkedin": "https://www.linkedin.com/in/iqbal-khan-a8b95827/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Indexed LinkedIn profile matched to official role"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://fajrcapital.com/management-team/iqbal-khan"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-46e20872e8",
+      "name": "Jack Fowler",
+      "organisation": "Lightspeed Venture Partners",
+      "title": "Complementary founder-secondary qualification route; Capital Markets lead",
+      "linkedin": "https://www.linkedin.com/in/jack-fowler-b019a9/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/lightspeed-venture-partners.md"
+      ],
+      "verification": [
+        "Current biography lists Partner, Capital Markets; indexed profile identifies Lightspeed"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://lsvp.com/team-member/jack-fowler/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-1485829565",
+      "name": "Jake Saper",
+      "organisation": "Emergence Capital",
+      "title": "General Partner",
+      "linkedin": "https://www.linkedin.com/in/jakesaper/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn profile header; event agenda"
+      ],
+      "notes": [
+        "Named keynote speaker, not an LA resident assumption. Official bio links this profile."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-04/tech-week-events.json#TW05"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-ef3ef7a653",
+      "name": "Jamie Montgomery",
+      "organisation": "March Capital",
+      "title": "Co-Founder and Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/jamiemontgomery/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Senior sponsor and enterprise/corporate network route"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/jamiemontgomery/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-907a59f002",
+      "name": "Jean-Michel Beghin",
+      "organisation": "Keensight Capital",
+      "title": "Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/jean-michel-beghin-0ab40/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Indexed LinkedIn profile matched to official indexed biography"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://keensight.com/ks/jean-michel-beghin/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-6eb0246768",
+      "name": "Jennifer Richard",
+      "organisation": "Bonfire Ventures",
+      "title": "Principal",
+      "linkedin": "https://www.linkedin.com/in/richardjennifer/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Operating software and US market feedback"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/richardjennifer/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-3db30e3763",
+      "name": "Jerome Berger",
+      "organisation": "Orange / Orange Ventures",
+      "title": "Chief Strategy Officer and Venture Capital",
+      "linkedin": "https://www.linkedin.com/in/jerome-berger-a221a7168/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.linkedin.com/in/jerome-berger-a221a7168/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-9a5b5553ef",
+      "name": "Jon Kossow",
+      "organisation": "Norwest",
+      "title": "Managing Partner and Growth Equity Co-head; software/information services and Avetta/GeoComply experience. Senior complementary route",
+      "linkedin": "https://www.linkedin.com/in/jon-kossow-42706b2/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/norwest.md"
+      ],
+      "verification": [
+        "Current role from official biography. LinkedIn URL appears in his [2021 USA Swimming board application](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/meeting-minutes/2021-bod-minutes/board-of-directors-meeting-minutes-attachments-12-6-21.pdf); current profile access failed. Reconfirm before use"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.norwest.com/team/jon-kossow/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-b5e5a39670",
+      "name": "Jordan Leites",
+      "organisation": "Norwest",
+      "title": "Principal, Venture; author of the Beltic agent-trust thesis. Optional thematic route if venture is the appropriate vehicle",
+      "linkedin": "https://www.linkedin.com/in/leitesj/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/norwest.md"
+      ],
+      "verification": [
+        "Role from official biography; LinkedIn URL linked directly by Norwest's Beltic article. Profile fetch failed. General biography emphasises consumer sectors; thematic relevance is based on Beltic, not a claimed enterprise-software mandate"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.norwest.com/team/jordan-leites/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-c906e91592",
+      "name": "Joseph Lok",
+      "organisation": "Diversis Capital",
+      "title": "Principal",
+      "linkedin": "https://www.linkedin.com/in/josephlok/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Investment execution and Adlib board relevance"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/josephlok/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-e540533c25",
+      "name": "Justin Saslaw",
+      "organisation": "Ribbit Capital",
+      "title": "Suggested first identity/secondary discussion contact; quoted as General Partner in ID.me's tender announcement",
+      "linkedin": "https://www.linkedin.com/in/justin-saslaw-cfa-1a181312/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/ribbit-capital.md"
+      ],
+      "verification": [
+        "On current roster; indexed profile identifies Ribbit. General Partner title comes from November 2024 announcement; current responsibilities should be reconfirmed"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.ribbitcap.com/team"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-57be4cd367",
+      "name": "Kenneth Auchenberg",
+      "organisation": "Innovation Endeavors",
+      "title": "Complementary software-infrastructure and agent/API discussion route",
+      "linkedin": "https://www.linkedin.com/in/auchenberg/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/innovation-endeavors.md"
+      ],
+      "verification": [
+        "Current roster and indexed professional profile list Partner; 13 May 2026 announcement confirms joining and technical focus"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.innovationendeavors.com/team"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-40edf055fd",
+      "name": "Leon Chen",
+      "organisation": "Composition Capital",
+      "title": "Co-Founder and Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/leon-chen-063b29a/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Alternative senior sponsor; qualify ARR gate first"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/leon-chen-063b29a/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-6087d3808c",
+      "name": "Mamoon Hamid",
+      "organisation": "Kleiner Perkins",
+      "title": "Partner; complementary enterprise-AI and strategic-conviction route, including Glean experience",
+      "linkedin": "https://www.linkedin.com/in/mamoonha/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/kleiner-perkins.md"
+      ],
+      "verification": [
+        "Current official role; indexed personal profile identifies Kleiner Perkins. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.kleinerperkins.com/people/mamoon-hamid/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-eaefb49efe",
+      "name": "Mansoor Al Mansoori",
+      "organisation": "G42",
+      "title": "Chief Executive Officer, G42 International",
+      "linkedin": "https://www.linkedin.com/in/mansoor-almansoori-265abb32/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Official page says CEO G42 International; LinkedIn still says Group COO. Preserve discrepancy."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.g42.ai/about"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-43d448d925",
+      "name": "Mark Mullen",
+      "organisation": "Bonfire Ventures",
+      "title": "Co-Founder",
+      "linkedin": "https://www.linkedin.com/in/mamullen/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Senior B2B software contact; network-first route"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/mamullen/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-ba6616e108",
+      "name": "Max Pellegrini",
+      "organisation": "Namirial",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/maxpellegrini/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.namirial.com/en/author/m-pellegrini/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-137d43ec64",
+      "name": "Meyer “Micky” Malka",
+      "organisation": "Ribbit Capital",
+      "title": "Founder; senior strategic-conviction route after initial fit qualification",
+      "linkedin": "https://www.linkedin.com/in/meyermalka/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/ribbit-capital.md"
+      ],
+      "verification": [
+        "Current roster and indexed public profile match; founder identity documented in the [2020 Ribbit LEAP filing](https://www.sec.gov/Archives/edgar/data/1818346/000104746920004858/a2242371z424b4.htm), used only for historical founding context"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.ribbitcap.com/team"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-c0185d76b5",
+      "name": "Michael Brown",
+      "organisation": "Battery Ventures",
+      "title": "General Partner, Boston. Suggested first sector discussion: enterprise software experience and historical Nitro, RiskIQ and Mendix involvement",
+      "linkedin": "https://www.linkedin.com/in/michaelbrownvc/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/battery-ventures.md"
+      ],
+      "verification": [
+        "Role and investments from official biography; indexed LinkedIn name, Battery association, Boston and Georgetown education align. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.battery.com/people/michael-brown/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-0d57b61261",
+      "name": "Michael Hochholzer",
+      "organisation": "Giesecke+Devrient",
+      "title": "Managing Director, G+D Ventures",
+      "linkedin": "https://www.linkedin.com/in/michael-hochholzer-450a22/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.gi-de.com/en/ventures"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-0a0f46f66e",
+      "name": "Michael Treskow",
+      "organisation": "Eight Roads",
+      "title": "Partner; Europe/Israel venture and growth technology focus. Suggested first sector discussion; quoted on the Odaseva investment",
+      "linkedin": "https://www.linkedin.com/in/michaeltreskow/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/eight-roads.md"
+      ],
+      "verification": [
+        "Official role/focus; indexed LinkedIn identifies Eight Roads, London and links his official biography. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://eightroads.com/en/people/michael-treskow"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-c1104ef9cc",
+      "name": "Mike Farrell",
+      "organisation": "Spectrum Equity",
+      "title": "Managing Director — software, AI and data",
+      "linkedin": "https://www.linkedin.com/in/mifarrell/",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Official biography links profile; full LinkedIn fetch blocked"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.spectrumequity.com/team/mike-farrell/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-123739a222",
+      "name": "Mohammad bin Abdulaziz Alomair",
+      "organisation": "Elm",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/alomair/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://elm.sa/en/investor-relations/corporate-governance/Pages/executive-management.aspx"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-2fe43712a9",
+      "name": "Motaz Al-Angari",
+      "organisation": "stc Group",
+      "title": "Group Chief Investment Officer",
+      "linkedin": "https://www.linkedin.com/in/motaz-al-angari-07174820/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.stc.com/en/investors/governance/executive-management.html"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-828a8ff722",
+      "name": "Nick Shalek",
+      "organisation": "Ribbit Capital",
+      "title": "Complementary investment/AI discussion route; current team member",
+      "linkedin": "https://www.linkedin.com/in/nickshalek/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/ribbit-capital.md"
+      ],
+      "verification": [
+        "Current official roster and indexed public Ribbit-related investment posts checked; current title not exposed on the official roster"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.ribbitcap.com/team"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-12eccba4a3",
+      "name": "Nishita Cummings",
+      "organisation": "Composition Capital",
+      "title": "Co-Founder and Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/nishita-cummings/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Senior sponsor; qualify ARR gate first"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/nishita-cummings/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-ac496970c2",
+      "name": "Noah Yago",
+      "organisation": "Cisco Investments",
+      "title": "Vice President",
+      "linkedin": "https://www.linkedin.com/in/noahyago/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.ciscoinvestments.com/team/noah-yago"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-3108862290",
+      "name": "Ondrej Ruzicka",
+      "organisation": "Crescent Capital Partners",
+      "title": "Managing Partner Crescent Growth; complementary route if company scale requires the smaller-investment strategy",
+      "linkedin": "https://www.linkedin.com/in/ondrej-ruzicka-759a556/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/crescent-capital-partners.md"
+      ],
+      "verification": [
+        "Role from official team page; public profile identifies Crescent. Published background is consumer/healthcare, so do not assume software specialism"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.crescentcap.com.au/our-people"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-7292c6d26c",
+      "name": "Peng Xiao",
+      "organisation": "G42",
+      "title": "Group Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/reachpeng/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.g42.ai/about"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-d0f294fb7a",
+      "name": "Peter Chung",
+      "organisation": "Marlin Equity Partners",
+      "title": "Managing Director",
+      "linkedin": "https://www.linkedin.com/in/petergchung/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Investment evaluation and execution; useful alternative entry"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/petergchung/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-7d3ebebf29",
+      "name": "Peter Scrine",
+      "organisation": "Crescent Capital Partners",
+      "title": "Director Business Development; sourcing and founder-partnership discussion route",
+      "linkedin": "https://www.linkedin.com/in/peterscrine/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/crescent-capital-partners.md"
+      ],
+      "verification": [
+        "Official role and indexed public profile/comments checked; no personal connection or current deal mandate established"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.crescentcap.com.au/our-people"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-9e71012cee",
+      "name": "Philip Kirk",
+      "organisation": "Databricks Ventures",
+      "title": "SVP, Corporate Development & Venture Investments",
+      "linkedin": "https://www.linkedin.com/in/philipjkirk/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.linkedin.com/in/philipjkirk/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-7b9d851e82",
+      "name": "Radek Sali",
+      "organisation": "Light Warrior",
+      "title": "Founder / Executive Chairman; senior strategic-conviction route after initial fit qualification",
+      "linkedin": "https://www.linkedin.com/in/radeksali/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/light-warrior.md"
+      ],
+      "verification": [
+        "Role from official team page. Locator is published in the [14 August 2023 Buy Grow Sell interview notes](https://buygrowsell.com/podcast/how-swisse-wellness-group-got-acquired-for-1-7b-by-an-international-buyer/); direct LinkedIn fetch was blocked. Current profile identity/content must be reconfirmed before use"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://lightwarrior.com/our-team/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-8a185e50c1",
+      "name": "Ran Ding",
+      "organisation": "Norwest",
+      "title": "General Partner; co-leads B2B growth equity in software/data/services. Suggested first route for compliance, public-sector workflows and transaction qualification",
+      "linkedin": "https://www.linkedin.com/in/randing/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/norwest.md"
+      ],
+      "verification": [
+        "Official role/focus; indexed LinkedIn name, Norwest, Menlo Park and Cornell education align. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.norwest.com/team/ran-ding/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-1de066f236",
+      "name": "Ravi Mhatre",
+      "organisation": "Lightspeed Venture Partners",
+      "title": "Senior enterprise/infrastructure sponsor; Temporal announcement co-author",
+      "linkedin": "https://www.linkedin.com/in/ravimhatre/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/lightspeed-venture-partners.md"
+      ],
+      "verification": [
+        "Current biography lists Partner & Co-Founder, Menlo Park; indexed profile matches the firm"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://lsvp.com/team-member/ravi-mhatre/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-ed5b72a468",
+      "name": "Riyadh Muawad",
+      "organisation": "stc Group",
+      "title": "Group Chief Business Officer",
+      "linkedin": "https://www.linkedin.com/in/riyadhmuawad/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.stc.com/en/investors/governance/executive-management.html"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-3b167649e4",
+      "name": "Ron Cano",
+      "organisation": "K1 Investment Management",
+      "title": "Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/ron-cano-4314264/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Alternative investment sponsor; qualify digital-trust portfolio overlap"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/ron-cano-4314264/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-797ed957b8",
+      "name": "Ron Nayot",
+      "organisation": "Diversis Capital",
+      "title": "Co-Founder and Managing Partner",
+      "linkedin": "https://www.linkedin.com/in/ron-nayot-a0b7b967/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn header inspected 2026-10-03; matches named firm and location"
+      ],
+      "notes": [
+        "Control transaction sponsor; qualify ticket/geography"
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "https://www.linkedin.com/in/ron-nayot-a0b7b967/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-83f148eea7",
+      "name": "Ryan Mandl",
+      "organisation": "Five Elms Capital",
+      "title": "Partner",
+      "linkedin": "https://www.linkedin.com/in/ryanmandl/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.fiveelms.com/team/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-ed1e76b36e",
+      "name": "Saad Saleh Alaboodi",
+      "organisation": "SITE",
+      "title": "Chief Executive Officer",
+      "linkedin": "",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Unresolved"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://gcforum.org/en/speakers/95fd2cc5-3c86-48f1-991c-1c7b90dfeda1/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-9c19427e51",
+      "name": "Sarah Sommer",
+      "organisation": "Level Equity",
+      "title": "Co-Founder and Partner",
+      "linkedin": "https://www.linkedin.com/in/sarah-sommer-14b61227/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.levelequity.com/our-people/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-d779ec95a0",
+      "name": "Shaikh Mohamed bin Khalifa Al Khalifa",
+      "organisation": "Beyon",
+      "title": "CEO Beyon Digital Growth",
+      "linkedin": "https://www.linkedin.com/in/moalkhalifa/",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.beyon.com/our-teams/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-948163ada6",
+      "name": "Solomon Hailu",
+      "organisation": "March Capital",
+      "title": "Partner",
+      "linkedin": "https://www.linkedin.com/in/solomonhailu/",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "verification": [
+        "authenticated LinkedIn profile header; event agenda"
+      ],
+      "notes": [
+        "Listed panelist on expanded Partiful agenda; current official March biography corroborates role."
+      ],
+      "checked": "2026-10-03",
+      "role_sources": [
+        "outreach-batch-04/tech-week-events.json#TW03"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-50b0b525a6",
+      "name": "Stephynee Harper-Paterson",
+      "organisation": "Light Warrior",
+      "title": "Investment Manager; preferred first qualification contact for mandate, ticket and structure",
+      "linkedin": "https://www.linkedin.com/in/stephynee-harper-paterson-12abbb316/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/light-warrior.md"
+      ],
+      "verification": [
+        "Official role; indexed personal profile matches Light Warrior and University of Queensland. Team page reports prior family-office, M&A and private-equity experience. Full authenticated profile not inspected"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://lightwarrior.com/our-team/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-fd5315b99a",
+      "name": "Tara Stokes",
+      "organisation": "Point72",
+      "title": "Candidate first sector contact: published AI/ML and vertical-software focus; coauthor of the Luminance investment note",
+      "linkedin": "https://www.linkedin.com/in/tara-stokes-63793154/",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/point72.md"
+      ],
+      "verification": [
+        "Partner title and focus from April 2024 announcement; indexed personal profile identifies Point72 Ventures, and company posts describe her as a partner. Reconfirm current role/responsibility before use; full authenticated profile not inspected. Linked official team biography returned 404"
+      ],
+      "notes": [
+        "Batch 03 suggested contact; transaction authority and interest unconfirmed."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://p72.vc/news/meet-the-new-point72-ventures-partners-tara-stokes/"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-1d4e111ba4",
+      "name": "Tony Ball (Anthony Ball)",
+      "organisation": "Entrust",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/anthony-ball-889391/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.entrust.com/company/leadership"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-a62680351c",
+      "name": "Victor Limongelli",
+      "organisation": "OneSpan",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/victorlimongelli/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Public role observed; exact transaction authority not established"
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.onespan.com/about/leadership"
+      ],
+      "aliases": []
+    },
+    {
+      "id": "CON-375340aa3b",
+      "name": "Will Lynn",
+      "organisation": "Five Elms Capital",
+      "title": "Director of Business Development",
+      "linkedin": "https://www.linkedin.com/in/willlynn/",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/contacts.csv",
+        "outreach-batch-02/contacts.csv"
+      ],
+      "verification": [
+        "Authenticated LinkedIn page read"
+      ],
+      "notes": [
+        "Official team page says Director of Business Development; LinkedIn headline says Corporate Strategy."
+      ],
+      "checked": "2026-10-02",
+      "role_sources": [
+        "https://www.fiveelms.com/team/"
+      ],
+      "aliases": []
+    }
+  ],
+  "organisations": [
+    {
+      "id": "ORG-694ed82397",
+      "name": "Accenture / Accenture Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://accenture.com",
+      "linkedin": "https://www.linkedin.com/company/accenture/",
+      "region": "Europe",
+      "type": "Technology services / corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ee9021c84f",
+      "name": "Adobe",
+      "batches": [
+        "01",
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "website": "https://adobe.com",
+      "linkedin": "https://www.linkedin.com/company/adobe/",
+      "region": "United States",
+      "type": "Enterprise software corporate",
+      "notes": "Tech Week speaker/moderator route; participation is organiser-listed, not personally confirmed."
+    },
+    {
+      "id": "ORG-60d9c3faed",
+      "name": "ADQ",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://adq.ae",
+      "linkedin": "https://www.linkedin.com/company/adqofficial/",
+      "region": "UAE/GCC",
+      "type": "Sovereign holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-b9ebc6df43",
+      "name": "Advania",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://advania.com",
+      "linkedin": "https://www.linkedin.com/company/advania/",
+      "region": "Europe",
+      "type": "IT services / technology group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-c8b5367d34",
+      "name": "Al Ghurair",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://al-ghurair.com",
+      "linkedin": "https://www.linkedin.com/company/alghurair/",
+      "region": "UAE/GCC",
+      "type": "Operating holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-09fa87391c",
+      "name": "Al Nowais Investments",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://alnowais.com",
+      "linkedin": "https://www.linkedin.com/company/alnowais-investments/",
+      "region": "UAE/GCC",
+      "type": "Principal investment / holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-dac597b435",
+      "name": "Al-Futtaim Group",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://alfuttaim.com",
+      "linkedin": "https://www.linkedin.com/company/alfuttaim/",
+      "region": "UAE/GCC",
+      "type": "Operating holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-83a9df5294",
+      "name": "Amazon / AWS",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://aws.amazon.com",
+      "linkedin": "https://www.linkedin.com/company/amazon/",
+      "region": "United States",
+      "type": "Cloud / AI corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-4af9552503",
+      "name": "Aramco Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://aramcoventures.com",
+      "linkedin": "https://www.linkedin.com/company/aramcoventures/",
+      "region": "UAE/GCC",
+      "type": "Corporate investment arm",
+      "notes": ""
+    },
+    {
+      "id": "ORG-54038dad72",
+      "name": "Arrowroot Capital",
+      "batches": [
+        "01",
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://www.arrowrootcapital.com/",
+      "linkedin": "https://www.linkedin.com/company/arrowroot-capital",
+      "region": "Marina del Rey",
+      "type": "Software growth equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-fcde6f0ded",
+      "name": "Atos / Eviden",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://atos.net",
+      "linkedin": "https://www.linkedin.com/company/eviden/",
+      "region": "Europe",
+      "type": "Enterprise / sovereign technology group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-9ffbd94deb",
+      "name": "Automation Anywhere",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://automationanywhere.com",
+      "linkedin": "https://www.linkedin.com/company/automation-anywhere/",
+      "region": "United States",
+      "type": "Automation / agentic software company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-d534f45144",
+      "name": "Battery Ventures",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/battery-ventures.md"
+      ],
+      "website": "https://www.battery.com/",
+      "linkedin": "https://www.linkedin.com/company/battery-ventures/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-2d386d3756",
+      "name": "Beyon",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://beyon.com",
+      "linkedin": "https://www.linkedin.com/company/beyon-bh/",
+      "region": "UAE/GCC",
+      "type": "Telecom / digital group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-4a0e9200fb",
+      "name": "Bonfire Ventures",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://www.bonfirevc.com/",
+      "linkedin": "https://www.linkedin.com/company/bonfireventures",
+      "region": "Brentwood",
+      "type": "B2B seed venture capital",
+      "notes": ""
+    },
+    {
+      "id": "ORG-26f8567f25",
+      "name": "Box",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://box.com",
+      "linkedin": "https://www.linkedin.com/company/box/",
+      "region": "United States",
+      "type": "Content / AI software company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-c554fbc3c8",
+      "name": "Bundesdruckerei Group / D-Trust",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://bundesdruckerei.de",
+      "linkedin": "https://www.linkedin.com/company/bundesdruckerei/",
+      "region": "Europe",
+      "type": "Sovereign identity / trust group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-f55a85b2f2",
+      "name": "Capgemini",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://capgemini.com",
+      "linkedin": "https://www.linkedin.com/company/capgemini/",
+      "region": "Europe",
+      "type": "Enterprise technology services",
+      "notes": ""
+    },
+    {
+      "id": "ORG-b52442c86a",
+      "name": "Cisco Investments",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ciscoinvestments.com",
+      "linkedin": "https://www.linkedin.com/company/cisco-investments/",
+      "region": "United States",
+      "type": "Corporate investment arm",
+      "notes": ""
+    },
+    {
+      "id": "ORG-a0318d5ee1",
+      "name": "Clearlake Capital Group",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://clearlake.com/",
+      "linkedin": "https://www.linkedin.com/company/clearlake-capital-group-lp",
+      "region": "Santa Monica",
+      "type": "Private equity and other investment strategies",
+      "notes": ""
+    },
+    {
+      "id": "ORG-5da06ac268",
+      "name": "Composition Capital",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://www.compositioncap.com/home.html",
+      "linkedin": "https://www.linkedin.com/company/composition-capital",
+      "region": "Los Angeles; precise meeting area to confirm",
+      "type": "Technology growth capital and private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-0e77c227d8",
+      "name": "Crescent Capital Partners",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/crescent-capital-partners.md"
+      ],
+      "website": "https://www.crescentcap.com.au/",
+      "linkedin": "https://www.linkedin.com/company/crescent-capital-partners/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-101958dadd",
+      "name": "CrowdStrike",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://crowdstrike.com",
+      "linkedin": "https://www.linkedin.com/company/crowdstrike/",
+      "region": "United States",
+      "type": "Cybersecurity corporate / venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-170cbb7f9a",
+      "name": "Dassault Systèmes",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://3ds.com",
+      "linkedin": "https://www.linkedin.com/company/dassaultsystemes/",
+      "region": "Europe",
+      "type": "Enterprise software corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-35cdac53b5",
+      "name": "Data#3",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://data3.com",
+      "linkedin": "https://www.linkedin.com/company/data3/",
+      "region": "ANZ",
+      "type": "Enterprise technology integrator",
+      "notes": ""
+    },
+    {
+      "id": "ORG-744e48aab7",
+      "name": "Databricks Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://databricks.com",
+      "linkedin": "https://www.linkedin.com/company/databricks/",
+      "region": "United States",
+      "type": "Data / AI corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-627ad506d9",
+      "name": "Deutsche Telekom / T.Capital",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://telekom.com",
+      "linkedin": "https://www.linkedin.com/company/telekom/",
+      "region": "Europe",
+      "type": "Telecom / strategic investment group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-77633e4c62",
+      "name": "DigiCert",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://www.digicert.com/",
+      "linkedin": "https://www.linkedin.com/company/digicert-inc-/",
+      "region": "United States",
+      "type": "Operating digital-trust company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-57e5d26e58",
+      "name": "Diversis Capital",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://www.diversis.com/",
+      "linkedin": "https://www.linkedin.com/company/diversis-capital",
+      "region": "Century City",
+      "type": "Software buyout private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-6e2430424c",
+      "name": "Docusign / Docusign Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://docusign.com",
+      "linkedin": "https://www.linkedin.com/company/docusign/",
+      "region": "United States",
+      "type": "Agreement corporate / venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-c2b2bc5038",
+      "name": "Dubai Holding",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://dubaiholding.com",
+      "linkedin": "https://www.linkedin.com/company/dubai-holding/",
+      "region": "UAE/GCC",
+      "type": "Holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-a188401954",
+      "name": "e&",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://eand.com",
+      "linkedin": "https://www.linkedin.com/company/eandgroup/",
+      "region": "UAE/GCC",
+      "type": "Operating technology / telecom group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-efc6152ef7",
+      "name": "Eight Roads",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/eight-roads.md"
+      ],
+      "website": "https://eightroads.com/en/",
+      "linkedin": "https://www.linkedin.com/company/eight-roads/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-af9b6fe9bd",
+      "name": "Elm",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://elm.sa",
+      "linkedin": "https://www.linkedin.com/company/elm/",
+      "region": "UAE/GCC",
+      "type": "Operating GovTech company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-9e18c9359a",
+      "name": "Emergence Capital",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "website": "",
+      "linkedin": "",
+      "region": "",
+      "type": "",
+      "notes": "Tech Week speaker/moderator route; participation is organiser-listed, not personally confirmed."
+    },
+    {
+      "id": "ORG-f0228cfdb3",
+      "name": "Entrust",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://entrust.com",
+      "linkedin": "https://www.linkedin.com/company/entrust/",
+      "region": "United States",
+      "type": "Operating identity / digital-trust company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-fcb2a8c3e8",
+      "name": "Fajr Capital",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://fajrcapital.com/",
+      "linkedin": "https://www.linkedin.com/company/fajr-capital/",
+      "region": "UAE/GCC",
+      "type": "Regional private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-b1f1b18944",
+      "name": "Fika Ventures",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "website": "",
+      "linkedin": "",
+      "region": "",
+      "type": "",
+      "notes": "Tech Week speaker/moderator route; participation is organiser-listed, not personally confirmed."
+    },
+    {
+      "id": "ORG-c10749e7e9",
+      "name": "Five Elms Capital",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://fiveelms.com",
+      "linkedin": "https://www.linkedin.com/company/five-elms-capital/",
+      "region": "United States",
+      "type": "Software growth private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-da2f417984",
+      "name": "Fortinet",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://fortinet.com",
+      "linkedin": "https://www.linkedin.com/company/fortinet/",
+      "region": "United States",
+      "type": "Cybersecurity corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-26767375d3",
+      "name": "Francisco Partners",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://franciscopartners.com",
+      "linkedin": "https://www.linkedin.com/company/francisco-partners/",
+      "region": "Global PE / growth",
+      "type": "Technology private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-e585549e67",
+      "name": "FTV Capital / Ascend",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://ftvcapital.com/",
+      "linkedin": "https://www.linkedin.com/company/ftv-capital/",
+      "region": "United States",
+      "type": "Sector-focused growth equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-4742b2b656",
+      "name": "Fujitsu",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://fujitsu.com",
+      "linkedin": "https://www.linkedin.com/company/fujitsu/",
+      "region": "Asia",
+      "type": "Enterprise technology corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-6291c857c2",
+      "name": "G42",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://g42.ai",
+      "linkedin": "https://www.linkedin.com/company/g42ai/",
+      "region": "UAE/GCC",
+      "type": "Operating AI / sovereign technology group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-acea7e9771",
+      "name": "General Atlantic",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://generalatlantic.com",
+      "linkedin": "https://www.linkedin.com/company/general-atlantic/",
+      "region": "Global PE / growth",
+      "type": "Growth equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-9f0f8e5f8f",
+      "name": "Giesecke+Devrient",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://gi-de.com",
+      "linkedin": "https://www.linkedin.com/company/giesecke-devrient/",
+      "region": "Europe",
+      "type": "Operating security / identity parent group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-a383afd3b5",
+      "name": "Greycroft",
+      "batches": [
+        "03",
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/greycroft-dylan-pearce.md",
+        "outreach-batch-04/research.json",
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "website": "https://www.greycroft.com/",
+      "linkedin": "https://www.linkedin.com/company/greycroft-partners",
+      "region": "Los Angeles Arts District",
+      "type": "Seed-to-growth venture capital",
+      "notes": "Tech Week speaker/moderator route; participation is organiser-listed, not personally confirmed."
+    },
+    {
+      "id": "ORG-74ee591d9b",
+      "name": "Gulf Capital",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://gulfcapital.com",
+      "linkedin": "https://www.linkedin.com/company/gulf-capital/",
+      "region": "UAE/GCC",
+      "type": "Growth / buyout private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-70176124ab",
+      "name": "Hg",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://hgcapital.com",
+      "linkedin": "https://www.linkedin.com/company/hgcapital/",
+      "region": "Global PE / growth",
+      "type": "Technology private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ca6e0dc328",
+      "name": "Hitachi",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://hitachi.com",
+      "linkedin": "https://www.linkedin.com/company/hitachi/",
+      "region": "Asia",
+      "type": "Technology / operating group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-e59725d665",
+      "name": "Hyland",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://hyland.com",
+      "linkedin": "https://www.linkedin.com/company/hyland-ai/",
+      "region": "United States",
+      "type": "Operating content / workflow company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-916a98f0fa",
+      "name": "IBM",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ibm.com",
+      "linkedin": "https://www.linkedin.com/company/ibm/",
+      "region": "United States",
+      "type": "Enterprise AI / technology corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-8193ae418b",
+      "name": "IDEMIA",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://idemia.com",
+      "linkedin": "https://www.linkedin.com/company/idemiagroup/",
+      "region": "Europe",
+      "type": "Identity / security group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-820909653a",
+      "name": "IDnow",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://idnow.io",
+      "linkedin": "https://www.linkedin.com/company/idnow/",
+      "region": "Europe",
+      "type": "Identity verification company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-f289bf813e",
+      "name": "Inflexion — Enterprise / Partnership Capital",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://www.inflexion.com/",
+      "linkedin": "https://www.linkedin.com/company/inflexion-private-equity/",
+      "region": "Europe",
+      "type": "Growth / buyout private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-35dec64c96",
+      "name": "Innovation Endeavors",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/innovation-endeavors.md"
+      ],
+      "website": "https://www.innovationendeavors.com/",
+      "linkedin": "https://www.linkedin.com/company/innovation-endeavors",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-d173466e0c",
+      "name": "Insight Partners",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://insightpartners.com",
+      "linkedin": "https://www.linkedin.com/company/insight--partners/",
+      "region": "Global PE / growth",
+      "type": "Software investor",
+      "notes": ""
+    },
+    {
+      "id": "ORG-93c9616025",
+      "name": "International Holding Company",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ihcuae.com",
+      "linkedin": "https://www.linkedin.com/company/ihc-uae/",
+      "region": "UAE/GCC",
+      "type": "Holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-4482dec431",
+      "name": "Investcorp",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://investcorp.com",
+      "linkedin": "https://www.linkedin.com/company/investcorp/",
+      "region": "UAE/GCC",
+      "type": "Technology private equity — group / ITP route",
+      "notes": ""
+    },
+    {
+      "id": "ORG-a551e21119",
+      "name": "Investment Corporation of Dubai",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://icd.gov.ae",
+      "linkedin": "https://www.linkedin.com/company/icd-gov-ae/",
+      "region": "UAE/GCC",
+      "type": "Sovereign holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ec61bcb4e4",
+      "name": "IONOS",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ionos.com",
+      "linkedin": "https://www.linkedin.com/company/ionos/",
+      "region": "Europe",
+      "type": "Cloud / hosting company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-caf4b1819b",
+      "name": "K1 Investment Management",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://k1.com/",
+      "linkedin": "https://www.linkedin.com/company/k1",
+      "region": "Manhattan Beach",
+      "type": "Software private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ff55c5d1a9",
+      "name": "KDDI / KDDI Open Innovation Fund",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://kddi.com",
+      "linkedin": "https://www.linkedin.com/company/kddi-corporation/",
+      "region": "Asia",
+      "type": "Telecom / corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-c8314721c9",
+      "name": "Keensight Capital",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://keensight.com/",
+      "linkedin": "https://www.linkedin.com/company/keensight-capital/",
+      "region": "Europe",
+      "type": "Technology growth buyout",
+      "notes": ""
+    },
+    {
+      "id": "ORG-e57bc478e2",
+      "name": "Kleiner Perkins",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/kleiner-perkins.md"
+      ],
+      "website": "https://www.kleinerperkins.com/",
+      "linkedin": "https://www.linkedin.com/company/kleinerperkins/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-3fbb2a1a2a",
+      "name": "Level Equity",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://levelequity.com",
+      "linkedin": "https://www.linkedin.com/company/level-equity/",
+      "region": "United States",
+      "type": "Software growth equity / recapitalisation",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ed757106cb",
+      "name": "Light Warrior",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/light-warrior.md"
+      ],
+      "website": "https://lightwarrior.com/",
+      "linkedin": "https://au.linkedin.com/company/light-warrior-group",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-705ac43cb5",
+      "name": "Lightspeed Venture Partners",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/lightspeed-venture-partners.md"
+      ],
+      "website": "https://lsvp.com/",
+      "linkedin": "https://www.linkedin.com/company/lightspeed-venture-partners",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-b0349b9aec",
+      "name": "Macquarie Capital",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://macquarie.com",
+      "linkedin": "https://www.linkedin.com/company/macquariegroup/",
+      "region": "ANZ",
+      "type": "Strategic investment / advisory",
+      "notes": ""
+    },
+    {
+      "id": "ORG-6483fd0983",
+      "name": "Main Capital Partners",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://main.nl/",
+      "linkedin": "https://www.linkedin.com/company/main-capital-partners/",
+      "region": "Europe",
+      "type": "Enterprise software private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-609ae97389",
+      "name": "Majid Al Futtaim",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://majidalfuttaim.com",
+      "linkedin": "https://www.linkedin.com/company/majid-al-futtaim/",
+      "region": "UAE/GCC",
+      "type": "Operating holding group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-5945a8f3f2",
+      "name": "March Capital",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json",
+        "outreach-batch-04/tech-week-events.json"
+      ],
+      "website": "https://marchcp.com/",
+      "linkedin": "https://www.linkedin.com/company/march-capital",
+      "region": "Santa Monica",
+      "type": "Venture growth",
+      "notes": "Tech Week speaker/moderator route; participation is organiser-listed, not personally confirmed."
+    },
+    {
+      "id": "ORG-745122be0e",
+      "name": "Marlin Equity Partners",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://www.marlinequity.com/",
+      "linkedin": "https://www.linkedin.com/company/marlin-equity-partners",
+      "region": "Hermosa Beach",
+      "type": "Software and technology private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-fe23563ae3",
+      "name": "MGX",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://mgx.ae",
+      "linkedin": "https://www.linkedin.com/company/mgxai/",
+      "region": "UAE/GCC",
+      "type": "AI investment platform",
+      "notes": ""
+    },
+    {
+      "id": "ORG-f1566bd3b2",
+      "name": "Microsoft / M12",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://m12.vc",
+      "linkedin": "https://www.linkedin.com/company/microsoft/",
+      "region": "United States",
+      "type": "Strategic corporate / venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-e192cd5626",
+      "name": "Mubadala",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://mubadala.com",
+      "linkedin": "https://www.linkedin.com/company/mubadala/",
+      "region": "UAE/GCC",
+      "type": "Sovereign investor",
+      "notes": ""
+    },
+    {
+      "id": "ORG-a709b8417c",
+      "name": "Namirial",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://namirial.com",
+      "linkedin": "https://www.linkedin.com/company/namirial/",
+      "region": "Europe",
+      "type": "Operating digital-trust / transaction group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-9d9b90817f",
+      "name": "NEC",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://nec.com",
+      "linkedin": "https://www.linkedin.com/company/nec/",
+      "region": "Asia",
+      "type": "Identity / technology corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-de4402be96",
+      "name": "Norwest",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/norwest.md"
+      ],
+      "website": "https://www.norwest.com/",
+      "linkedin": "https://www.linkedin.com/company/norwest-venture-partners/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-68bad0bf4a",
+      "name": "NTT DATA",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://nttdata.com",
+      "linkedin": "https://www.linkedin.com/company/nttdata/",
+      "region": "Asia",
+      "type": "Enterprise / government technology",
+      "notes": ""
+    },
+    {
+      "id": "ORG-dc7c4e51fb",
+      "name": "NVIDIA / NVentures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://www.nvidia.com/en-us/startups/nventures/",
+      "linkedin": "https://www.linkedin.com/company/nvidia/",
+      "region": "United States",
+      "type": "AI infrastructure corporate / venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-0081487dce",
+      "name": "Okta Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://okta.com",
+      "linkedin": "https://www.linkedin.com/company/okta-inc-/",
+      "region": "United States",
+      "type": "Identity corporate / venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-dfd4ff348a",
+      "name": "Omantel",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://omantel.om",
+      "linkedin": "https://www.linkedin.com/company/omantel/",
+      "region": "UAE/GCC",
+      "type": "Telecom group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ab91dd9282",
+      "name": "OneSpan",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://onespan.com",
+      "linkedin": "https://www.linkedin.com/company/onespan/",
+      "region": "United States",
+      "type": "Operating digital agreement / cybersecurity company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-0ba6cd006d",
+      "name": "Ooredoo",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ooredoo.com",
+      "linkedin": "https://www.linkedin.com/company/ooredoo-group/",
+      "region": "UAE/GCC",
+      "type": "Telecom group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-9202af6ce9",
+      "name": "Oracle",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://oracle.com",
+      "linkedin": "https://www.linkedin.com/company/oracle/",
+      "region": "United States",
+      "type": "Enterprise software / cloud corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-6755d8e1c0",
+      "name": "Orange / Orange Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://orange.com",
+      "linkedin": "https://www.linkedin.com/company/orange/",
+      "region": "Europe",
+      "type": "Telecom / corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-68a5bbea95",
+      "name": "OVHcloud",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ovhcloud.com",
+      "linkedin": "https://www.linkedin.com/company/ovhgroup/",
+      "region": "Europe",
+      "type": "Sovereign cloud company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-c21b962e71",
+      "name": "Palantir",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://palantir.com",
+      "linkedin": "https://www.linkedin.com/company/palantir-technologies/",
+      "region": "United States",
+      "type": "Enterprise AI software corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-099d992076",
+      "name": "Palo Alto Networks",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://paloaltonetworks.com",
+      "linkedin": "https://www.linkedin.com/company/palo-alto-networks/",
+      "region": "United States",
+      "type": "Cybersecurity corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-1cf493e736",
+      "name": "Ping Identity",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://pingidentity.com",
+      "linkedin": "https://www.linkedin.com/company/ping-identity/",
+      "region": "United States",
+      "type": "Identity operating company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-7e3b20c0c8",
+      "name": "Point72",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/point72.md"
+      ],
+      "website": "",
+      "linkedin": "https://www.linkedin.com/company/point72-ventures/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-f29a5b70e8",
+      "name": "Potentia Capital",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://potentiacap.com",
+      "linkedin": "https://www.linkedin.com/company/potentia-capital/",
+      "region": "ANZ",
+      "type": "Technology private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-92a8411d88",
+      "name": "PSG Equity",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://psgequity.com",
+      "linkedin": "https://www.linkedin.com/company/psgequity/",
+      "region": "Global PE / growth",
+      "type": "Software growth equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-5861664ccc",
+      "name": "Ribbit Capital",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/ribbit-capital.md"
+      ],
+      "website": "https://www.ribbitcap.com/",
+      "linkedin": "https://www.linkedin.com/company/ribbit-capital/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-aae2a2996f",
+      "name": "SailPoint",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://sailpoint.com",
+      "linkedin": "https://www.linkedin.com/company/sailpoint-technologies/",
+      "region": "United States",
+      "type": "Identity-security company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-8e18936867",
+      "name": "Salesforce Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://salesforceventures.com",
+      "linkedin": "https://www.linkedin.com/company/salesforce-ventures/",
+      "region": "United States",
+      "type": "Corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-7a9c94a8c2",
+      "name": "SAP",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://sap.com",
+      "linkedin": "https://www.linkedin.com/company/sap/",
+      "region": "Europe",
+      "type": "Enterprise software corporate",
+      "notes": ""
+    },
+    {
+      "id": "ORG-cb813d7d18",
+      "name": "ServiceNow / ServiceNow Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://servicenow.com",
+      "linkedin": "https://www.linkedin.com/company/servicenow/",
+      "region": "United States",
+      "type": "Workflow corporate / venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-dad1e356a9",
+      "name": "Shorooq",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://shorooq.com",
+      "linkedin": "https://www.linkedin.com/company/shorooqpartners/",
+      "region": "UAE/GCC",
+      "type": "Technology investment firm",
+      "notes": ""
+    },
+    {
+      "id": "ORG-1d3eac5a4d",
+      "name": "Signicat",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://signicat.com",
+      "linkedin": "https://www.linkedin.com/company/signicat/",
+      "region": "Europe",
+      "type": "Operating digital identity / trust group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-4430f20813",
+      "name": "Singtel / Singtel Innov8",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://singtel.com",
+      "linkedin": "https://www.linkedin.com/company/singtel/",
+      "region": "Asia",
+      "type": "Telecom / corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-8a9e237194",
+      "name": "Singtel Innov8",
+      "batches": [
+        "03"
+      ],
+      "sources": [
+        "outreach-batch-03/leads/singtel-innov8.md"
+      ],
+      "website": "https://innov8.singtel.com/",
+      "linkedin": "https://www.linkedin.com/company/singtel-innov8/",
+      "region": "",
+      "type": "",
+      "notes": ""
+    },
+    {
+      "id": "ORG-fbae041b02",
+      "name": "SITE",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://site.sa",
+      "linkedin": "https://www.linkedin.com/company/sitesaudi/",
+      "region": "UAE/GCC",
+      "type": "Sovereign cybersecurity company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-766019553a",
+      "name": "Sopra Steria",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://soprasteria.com",
+      "linkedin": "https://www.linkedin.com/company/soprasteria/",
+      "region": "Europe",
+      "type": "Enterprise / GovTech services",
+      "notes": ""
+    },
+    {
+      "id": "ORG-3e054e36b1",
+      "name": "Spectrum Equity",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://www.spectrumequity.com/",
+      "linkedin": "https://www.linkedin.com/company/spectrum-equity/",
+      "region": "United States",
+      "type": "Software / data growth equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-5e667d9040",
+      "name": "ST Engineering",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://stengg.com",
+      "linkedin": "https://www.linkedin.com/company/st-engineering/",
+      "region": "Asia",
+      "type": "Technology / GovTech group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-877a355b0d",
+      "name": "stc Group",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://stc.com.sa",
+      "linkedin": "https://www.linkedin.com/company/stc/",
+      "region": "UAE/GCC",
+      "type": "Operating technology / telecom group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-6a2ca1ec61",
+      "name": "Summit Partners",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://summitpartners.com",
+      "linkedin": "https://www.linkedin.com/company/summit-partners_2/",
+      "region": "Global PE / growth",
+      "type": "Growth equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-dbee56b864",
+      "name": "Swiss Post / SwissSign",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://swisssign.com",
+      "linkedin": "https://www.linkedin.com/company/swiss-post/",
+      "region": "Europe",
+      "type": "Identity / trust operating group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-701622b799",
+      "name": "Swisscom",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://swisscom.ch",
+      "linkedin": "https://www.linkedin.com/company/swisscom/",
+      "region": "Europe",
+      "type": "Telecom / digital-trust group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-2af65ae00b",
+      "name": "TA Associates",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ta.com",
+      "linkedin": "https://www.linkedin.com/company/ta-associates/",
+      "region": "Global PE / growth",
+      "type": "Growth private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-5b5245affe",
+      "name": "Tata Communications",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://tatacommunications.com",
+      "linkedin": "https://www.linkedin.com/company/tata-communication/",
+      "region": "Asia",
+      "type": "Digital infrastructure / telecom",
+      "notes": ""
+    },
+    {
+      "id": "ORG-990bb270a8",
+      "name": "TeamViewer",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://teamviewer.com",
+      "linkedin": "https://www.linkedin.com/company/teamviewer/",
+      "region": "Europe",
+      "type": "Enterprise connectivity / automation",
+      "notes": ""
+    },
+    {
+      "id": "ORG-d72ead2e3d",
+      "name": "Tech Mahindra",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://techmahindra.com",
+      "linkedin": "https://www.linkedin.com/company/tech-mahindra/",
+      "region": "Asia",
+      "type": "Enterprise / telecom integrator",
+      "notes": ""
+    },
+    {
+      "id": "ORG-0bd88a3ca8",
+      "name": "Technology Control Company",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://www.tcc-ict.com",
+      "linkedin": "https://www.linkedin.com/company/technology-control-co-/",
+      "region": "UAE/GCC",
+      "type": "Technology / cybersecurity company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-0fa7534d13",
+      "name": "TechnologyOne",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://www.technology1.com/",
+      "linkedin": "https://www.linkedin.com/company/technology-one/",
+      "region": "ANZ",
+      "type": "Enterprise / GovTech software",
+      "notes": ""
+    },
+    {
+      "id": "ORG-8004c7b1e8",
+      "name": "Telefónica / Telefónica Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://telefonica.com",
+      "linkedin": "https://www.linkedin.com/company/telefonica/",
+      "region": "Europe",
+      "type": "Telecom / investment group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-4fbddb45c8",
+      "name": "Temasek",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://temasek.com.sg",
+      "linkedin": "https://www.linkedin.com/company/temasek-holdings/",
+      "region": "Asia",
+      "type": "Investment holding company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-3dba2d2e96",
+      "name": "Thales",
+      "batches": [
+        "01",
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json",
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://thalesgroup.com",
+      "linkedin": "https://www.linkedin.com/company/thales/",
+      "region": "Europe",
+      "type": "Operating cybersecurity / identity group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-30b7bf1593",
+      "name": "Tinexta / Tinexta Trust",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://tinexta.com",
+      "linkedin": "https://www.linkedin.com/company/tinexta/",
+      "region": "Europe",
+      "type": "Digital-trust / cybersecurity group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-f19600b9e1",
+      "name": "UiPath",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://uipath.com",
+      "linkedin": "https://www.linkedin.com/company/uipath/",
+      "region": "United States",
+      "type": "Automation / agentic software company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-0f320b32b2",
+      "name": "Upfront Ventures",
+      "batches": [
+        "04"
+      ],
+      "sources": [
+        "outreach-batch-04/research.json"
+      ],
+      "website": "https://upfront.com/",
+      "linkedin": "https://www.linkedin.com/company/upfront-ventures",
+      "region": "Los Angeles metro; meeting area to confirm",
+      "type": "Venture capital",
+      "notes": ""
+    },
+    {
+      "id": "ORG-ab3b2c3d66",
+      "name": "Visma",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://visma.com",
+      "linkedin": "https://www.linkedin.com/company/visma/",
+      "region": "Europe",
+      "type": "Enterprise software group",
+      "notes": ""
+    },
+    {
+      "id": "ORG-2c5d3d0bb5",
+      "name": "Volpi Capital",
+      "batches": [
+        "02"
+      ],
+      "sources": [
+        "outreach-batch-02/candidates.json"
+      ],
+      "website": "https://www.volpicapital.com/",
+      "linkedin": "https://www.linkedin.com/company/volpi-capital/",
+      "region": "Europe",
+      "type": "B2B software / technology private equity",
+      "notes": ""
+    },
+    {
+      "id": "ORG-fb2382f2b2",
+      "name": "Waha Capital",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://wahacapital.com",
+      "linkedin": "https://www.linkedin.com/company/waha-capital/",
+      "region": "UAE/GCC",
+      "type": "Investment company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-3284909304",
+      "name": "WiseTech Global",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://wisetechglobal.com",
+      "linkedin": "https://www.linkedin.com/company/wisetech-global/",
+      "region": "ANZ",
+      "type": "Logistics enterprise software",
+      "notes": ""
+    },
+    {
+      "id": "ORG-7a1128e475",
+      "name": "WithSecure",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://withsecure.com",
+      "linkedin": "https://www.linkedin.com/company/withsecure/",
+      "region": "Europe",
+      "type": "Cybersecurity company",
+      "notes": ""
+    },
+    {
+      "id": "ORG-df7ee19bb4",
+      "name": "Workday Ventures",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://ventures.workday.com",
+      "linkedin": "https://www.linkedin.com/company/workdayventures/",
+      "region": "United States",
+      "type": "Corporate venture",
+      "notes": ""
+    },
+    {
+      "id": "ORG-3cb2df6b3b",
+      "name": "Zain Group",
+      "batches": [
+        "01"
+      ],
+      "sources": [
+        "outreach-batch-01/qualified-candidates.json"
+      ],
+      "website": "https://zain.com",
+      "linkedin": "https://www.linkedin.com/company/zain/",
+      "region": "UAE/GCC",
+      "type": "Telecom / technology group",
+      "notes": ""
+    }
+  ],
+  "activities": [
+    {
+      "entry": 1,
+      "contact_id": "CON-3693ac5238",
+      "name": "Kobie Fuller",
+      "slug": "kobie-fuller",
+      "time": "3:30 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-YjNlNmQwZGQtNDRhNy00NGY2LTkwY2MtOTI1N2E1NzM5ZDgwXzEwMA==/",
+      "subject": "Circularo - Trust Infrastructure for the Agentic AI Era",
+      "body": "Hi Kobie,\n\nI’m the co-founder and CEO of circularo.com, a profitable, bootstrapped digital trust platform headquartered in Dubai.\n\nWe’ve grown to ~$3M in recurring revenue with no external capital, building sovereign-scale digital signature and trusted transaction infrastructure used across UAE government and major enterprise environments.\n\nWe’re now extending that foundation toward trusted execution for the agentic AI era — connecting identity, authority, approvals and verifiable evidence for actions taken by humans and AI agents.\n\nGiven your focus on AI and software at Upfront, I thought our story might be relevant. I’ll be in LA from October 8 for a week and would be happy to meet in person if useful.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/kobie-fuller.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 2,
+      "contact_id": "CON-b47cdf8025",
+      "name": "Paul Huber",
+      "slug": "paul-huber",
+      "time": "3:28 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-ZmJmYmZkM2QtMmY0Zi00YzZkLWJmZmItN2NlMGU2ZjVmNGY3XzEwMA==/",
+      "subject": "Circularo - Digital Trust & Workflow Infrastructure",
+      "body": "Hi Paul,\n\nI’m the co-founder and CEO of circularo.com, a profitable, bootstrapped digital trust software company headquartered in Dubai.\n\nWe’ve grown to ~$3M in recurring revenue with no external capital, building sovereign-scale digital signature, workflow and trusted transaction infrastructure used across UAE government and major enterprise environments.\n\nGiven your experience in enterprise software and particularly Kofax, I thought Circularo might be relevant. We’re now considering bringing in our first institutional investor to support our next phase of growth across the GCC and internationally.\n\nI’ll be in LA from October 8 for a week and would be happy to meet in person if useful.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/paul-huber.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 3,
+      "contact_id": "CON-d0c4e0ef20",
+      "name": "Ryan Laurin",
+      "slug": "ryan-laurin",
+      "time": "3:25 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-YzQ2ZDlhZjItM2EwMi00YWQ1LWI4ZGQtMGYyYWIzY2ZmNWNjXzEwMA==/",
+      "subject": "Profitable bootstrapped software platform -> Circularo",
+      "body": "Hi Ryan,\n\nI’m the co-founder and CEO of circularo.com, a profitable, bootstrapped digital trust software company headquartered in Dubai.\n\nWe’ve grown to ~$3M in recurring revenue with no external capital, building sovereign-scale digital signature and trusted transaction infrastructure used across UAE government and major enterprise environments.\n\nWe’re now considering bringing in our first institutional investor to support the next phase of growth across the GCC and internationally.\n\nGiven Marlin’s focus on software and technology businesses, I thought Circularo might be relevant.\n\nI’ll be in LA from October 8 for a week and would be happy to meet in person if useful.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/ryan-laurin.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 4,
+      "contact_id": "CON-13fe0d21fb",
+      "name": "Hasan Askari",
+      "slug": "hasan-askari",
+      "time": "3:22 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-ZmY4NDNjZGMtNjE3Ny00MjgyLTlkZTEtN2UwNTVjNTI1NGJjXzEwMA==/",
+      "subject": "Circularo -> Sovereign Digital Trust Infrastructure for the Agentic AI Era",
+      "body": "Hi Hasan,\n\nI’m the co-founder and CEO of circularo.com, a profitable, bootstrapped digital trust software company headquartered in Dubai.\n\nWe’ve grown to ~$3M in recurring revenue with no external capital, building sovereign-scale digital signature and trusted transaction infrastructure used across UAE government and major enterprise environments.\n\nWe’re now considering bringing in our first institutional investor to support the next phase of growth across the GCC and internationally.\n\nGiven K1’s focus on founder-led enterprise software companies, I thought Circularo might be relevant.\n\nI’ll be in LA from October 8 for a week and would be happy to meet in person if useful.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/hasan-askari.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 5,
+      "contact_id": "CON-97c191fcf4",
+      "name": "Jed Leidheiser",
+      "slug": "jed-leidheiser",
+      "time": "3:20 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-ZDI2NTUzNTYtOTZlMS00NjYzLTkyNTMtNWVmOGJiYjI2MzRjXzEwMA==/",
+      "subject": "Circularo -> Digital Trust Infrastructure for the Agentic AI Era",
+      "body": "Hi Jed,\n\nI’m the co-founder and CEO of circularo.com, a profitable, bootstrapped digital trust platform headquartered in Dubai.\n\nWe’ve grown to ~$3M in recurring revenue with no external capital, building sovereign-scale digital signature and trusted transaction infrastructure used across UAE government and major enterprise environments.\n\nWe’re now extending the platform toward trusted execution for the agentic AI era — connecting identity, authority, approvals and verifiable evidence for actions taken by humans and AI agents.\n\nGiven your enterprise and cybersecurity focus at March, I thought our story might be relevant.\n\nI’ll be in LA from October 8 for a week and would be happy to meet in person if useful.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/jed-leidheiser.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 6,
+      "contact_id": "CON-58878be8b7",
+      "name": "Thomas Oh",
+      "slug": "thomas-oh",
+      "time": "3:18 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-MmQ4MzczOTgtMDM0MC00MzU5LTk1ZDktNWNhMGI5NTNkMDAzXzEwMA==/",
+      "subject": "Profitable bootstrapped digital trust platform — Circularo",
+      "body": "Hi Thomas,\n\nI’m the co-founder and CEO of circularo.com, a profitable, bootstrapped digital trust software company headquartered in Dubai.\n\nWe’ve grown to ~$3M in recurring revenue with no external capital, building sovereign-scale digital signature and trusted transaction infrastructure used across UAE government and major enterprise environments.\n\nWe’re now considering bringing in our first institutional investor to support the next phase of growth, including expansion across the GCC and internationally.\n\nGiven Arrowroot’s focus on founder-led software companies and flexible growth investments, I thought there could be a fit.\n\nI’ll be in LA from October 8 for a week and would be happy to meet in person if useful.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com\nwww.circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/thomas-oh.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 7,
+      "contact_id": "CON-c2f2509ec0",
+      "name": "Dylan Pearce",
+      "slug": "dylan-pearce",
+      "time": "2:52 PM",
+      "url": "https://www.linkedin.com/messaging/thread/2-ODcxZjQ0MzEtNzU0Zi00YzJjLTk1NDQtMDAzNzYwNDQ4NzBjXzEwMA==/",
+      "subject": "Circularo-> Digital Trust Infrastructure for the Agentic AI Era.",
+      "body": "Hi Dylan,\n\nI’m the co-founder and CEO of circularo.com, a profitable digital trust platform headquartered in Dubai.\n\nGiven your software and AI focus at Greycroft, I thought our story might be relevant. I’ll be in LA from October 8 for a week, so I’d be happy to meet in person if that’s easier.\n\nWe’ve built sovereign-scale digital signature and trusted transaction infrastructure used across UAE government and enterprise environments, and are now expanding the platform toward trusted execution for the agentic AI era — identity, authority, approvals and verifiable evidence for actions taken by humans and AI agents.\n\nWe’re at ~$3M recurring revenue, bootstrapped to date, and I’m starting conversations with a small number of potential strategic investors for our next phase.\n\nBest,\nJosef\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/dylan-pearce.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange LA meeting",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    },
+    {
+      "entry": 8,
+      "contact_id": "CON-9284e55365",
+      "name": "Alex Neo",
+      "slug": "alex-neo",
+      "time": "1:00 AM",
+      "url": "https://www.linkedin.com/messaging/thread/2-NjI0YWIyYzAtMWQ5Ni00ZDM1LWI1ZWEtMzUxNDNiNjljMzZjXzEwMA==/",
+      "subject": "Circularo × Singtel Innov8 — digital trust and strategic investment",
+      "body": "Hi Alex, \n\nI’m Josef Neumann co-founder of Circularo.com.\n\nOur digital-trust solutions help governments and enterprises in the GCC and EU manage approvals, digital signatures and verifiable document transactions. \n\nOur broader direction is to extend that foundation into trusted execution: how organisations authorise consequential actions and retain reliable evidence, whether those actions originate from people, enterprise systems or AI agents.\n\nI’d like to explore a strategic investment relationship with Singtel Innov8, combining our sovereign digital-trust platform with your enterprise and telecom ecosystem. \n\nWould you be open to a brief introductory call?\n\nJosef \n\nJosef Neumann\n+61 421 817 894\njosef.neumann@circularo.com",
+      "date": "2026-10-03",
+      "timezone": "Unknown — not exposed by LinkedIn",
+      "status": "Sent awaiting reply",
+      "file": "conversations/alex-neo.md",
+      "owner": "Josef Neumann",
+      "channel": "LinkedIn",
+      "direction": "Outbound",
+      "follow_up": null,
+      "next_action": "Review reply; arrange introductory call",
+      "evidence": "Authenticated LinkedIn visible message; no response at capture"
+    }
+  ],
+  "counts": {
+    "contacts": 86,
+    "organisations": 130,
+    "activities": 8
+  }
+}

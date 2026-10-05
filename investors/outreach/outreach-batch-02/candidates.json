@@ -1,0 +1,1210 @@
+{
+  "batch_id": "outreach-batch-02",
+  "as_of": "2026-10-02",
+  "status": "draft",
+  "canonical": false,
+  "mandate": {
+    "minimum_ticket_usd": 4000000,
+    "maximum_ticket_usd": null,
+    "equity_cap_percent": null,
+    "secondary_required": true,
+    "minimum_founder_proceeds_usd": null,
+    "conventional_vc_excluded": true
+  },
+  "candidates": [
+    {
+      "name": "Gulf Capital",
+      "original_id": "C015",
+      "region": "UAE/GCC",
+      "category": "Growth / buyout private equity",
+      "priority": "First qualification",
+      "secondary_evidence": "Official portfolio describes strategic and majority-stake acquisitions; seller/founder proceeds and a minority-secondary mandate are not established.",
+      "ticket_evidence": "No current comparable ticket range established; portfolio transaction sizes are not a typical cheque.",
+      "fit_hypothesis": "Regional growth and cross-border operating support could pair founder liquidity with a GCC expansion plan.",
+      "risks": "Confirm software appetite, size, legal domicile and ownership preferences; portfolio acquisition history does not prove founder-secondary acceptance.",
+      "website": "https://gulfcapital.com",
+      "company_linkedin": "https://www.linkedin.com/company/gulf-capital/",
+      "company_linkedin_check": "Observed in search result; organisation matched by name/context, authenticated page verification pending",
+      "contacts": [
+        {
+          "name": "Dr. Karim El Solh",
+          "current_title": "Co-founder and CEO",
+          "linkedin": "https://ae.linkedin.com/in/dr-karim-el-solh",
+          "role_source_id": "N035",
+          "profile_source_id": "N036",
+          "reason": "Qualify technology sector, ownership and practical ticket.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Indexed LinkedIn profile matched to official role",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [
+        "S015"
+      ],
+      "source_urls": [
+        "https://www.gulfcapital.com/our-businesses"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-001",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N001"
+      ],
+      "linkedin_source_id": "N053"
+    },
+    {
+      "name": "Investcorp",
+      "original_id": "C025",
+      "region": "UAE/GCC",
+      "category": "Technology private equity — group / ITP route",
+      "priority": "Conditional / size and domicile gate",
+      "secondary_evidence": "ITP states controlling investments with founders retaining equity. Acquisition of existing ownership is relevant, but the Circularo proceeds split is unconfirmed.",
+      "ticket_evidence": "Published ITP equity range USD 20–100m; targets about USD 10m+ revenue and positive EBITDA. These are fund criteria, not a Circularo valuation or an offered ticket.",
+      "fit_hypothesis": "Technology operating partners and international expansion capabilities could support enterprise trust software.",
+      "risks": "ITP expressly targets European-headquartered companies and control. Resolve the eligible legal entity, operating geography and founder independence before contact.",
+      "website": "https://investcorp.com",
+      "company_linkedin": "https://www.linkedin.com/company/investcorp/",
+      "company_linkedin_check": "Observed in search result; organisation matched by name/context, authenticated page verification pending",
+      "contacts": [],
+      "prior_source_ids": [
+        "S237"
+      ],
+      "source_urls": [
+        "https://www.investcorp.com/what-we-do/private-equity/private-equity-technology-investment/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-002",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N002"
+      ],
+      "linkedin_source_id": "N054"
+    },
+    {
+      "name": "Fajr Capital",
+      "original_id": null,
+      "region": "UAE/GCC",
+      "category": "Regional private equity",
+      "priority": "Exploratory / sector and scale gate",
+      "secondary_evidence": "Official overview records a sizeable minority BIBD acquisition and the Aster investment; no Circularo founder-secondary mandate established.",
+      "ticket_evidence": "No current software ticket range established; the large Aster investment is a precedent, not a minimum or typical ticket.",
+      "fit_hypothesis": "Institutional GCC relationships and patient operating support are possible strategic benefits.",
+      "risks": "Software-sector appetite and practical transaction scale are unverified; evaluate values and investment-policy fit.",
+      "website": "https://fajrcapital.com/",
+      "company_linkedin": "https://www.linkedin.com/company/fajr-capital/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Iqbal Khan",
+          "current_title": "CEO",
+          "linkedin": "https://ae.linkedin.com/in/iqbal-khan-a8b95827",
+          "role_source_id": "N037",
+          "profile_source_id": "N038",
+          "reason": "Qualify software appetite and secondary structure.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Indexed LinkedIn profile matched to official role",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://fajrcapital.com/overview",
+        "https://fajrcapital.com/private-equity"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-003",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N003",
+        "N004"
+      ],
+      "linkedin_source_id": "N055"
+    },
+    {
+      "name": "Al Nowais Investments",
+      "original_id": "C012",
+      "region": "UAE/GCC",
+      "category": "Principal investment / holding group",
+      "priority": "Exploratory / sponsor gate",
+      "secondary_evidence": "Official principal-investments page confirms a holding/investment route; no verified software founder-secondary precedent.",
+      "ticket_evidence": "No public ticket floor, range or current Circularo allocation established.",
+      "fit_hypothesis": "An operating sponsor within the group could create enterprise distribution and technology adoption.",
+      "risks": "Holding-company interest cannot be inferred from a technology business listing. Establish the actual investment committee and sponsor.",
+      "website": "https://alnowais.com",
+      "company_linkedin": "https://www.linkedin.com/company/alnowais-investments/",
+      "company_linkedin_check": "Observed in search result; organisation matched by name/context, authenticated page verification pending",
+      "contacts": [],
+      "prior_source_ids": [
+        "S033"
+      ],
+      "source_urls": [
+        "https://www.alnowais.com/our-businness/our-investment-portfolio/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-004",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N005"
+      ],
+      "linkedin_source_id": "N056"
+    },
+    {
+      "name": "e&",
+      "original_id": "C001",
+      "region": "UAE/GCC",
+      "category": "Operating technology / telecom group",
+      "priority": "First qualification",
+      "secondary_evidence": "Bespin precedent is explicitly primary minority investment plus a majority regional JV. It does not demonstrate founder-secondary willingness.",
+      "ticket_evidence": "USD 60m initial primary commitment in the 2022 Bespin transaction; single precedent, not a typical or minimum ticket.",
+      "fit_hypothesis": "A direct corporate-development investment could combine GCC enterprise channels with Circularo's management-reported digital-trust position.",
+      "risks": "Founder liquidity must be agreed independently of a commercial alliance. Validate existing DigiSign relationship, exclusivity and IP/roadmap boundaries.",
+      "website": "https://eand.com",
+      "company_linkedin": "https://www.linkedin.com/company/eandgroup/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C001",
+          "name": "Ilya Kiykov",
+          "current_title": "Group Chief Corporate Development Officer",
+          "linkedin": "https://www.linkedin.com/in/ilya-kiykov-a0171311/",
+          "role_source_id": "S369",
+          "reason": "Leads strategic investments, M&A and partnerships",
+          "warm_intro": "Mouteih and Eduard visible; 11 further mutuals",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B001"
+        }
+      ],
+      "prior_source_ids": [
+        "S796",
+        "S369",
+        "D001"
+      ],
+      "source_urls": [
+        "https://www.eand.com/en/news/09-12-2022-eand-enterprise-forms-joint-venture-with-bespin-global.html"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-005",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N006"
+      ],
+      "linkedin_source_id": "N057"
+    },
+    {
+      "name": "G42",
+      "original_id": "C002",
+      "region": "UAE/GCC",
+      "category": "Operating AI / sovereign technology group",
+      "priority": "Strategic / secondary gate",
+      "secondary_evidence": "Official CPX acquisition supports corporate acquisition activity; it does not establish a minority founder-secondary mandate.",
+      "ticket_evidence": "No comparable transaction cheque established; do not infer willingness from group size.",
+      "fit_hypothesis": "Potential sovereign trust infrastructure alongside cloud, AI and cybersecurity offerings.",
+      "risks": "Require a real group operating sponsor and approved secondary structure. Agentic trusted execution is Circularo's draft future direction, not verified production.",
+      "website": "https://g42.ai",
+      "company_linkedin": "https://www.linkedin.com/company/g42ai/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C002",
+          "name": "Peng Xiao",
+          "current_title": "Group Chief Executive Officer",
+          "linkedin": "https://www.linkedin.com/in/reachpeng/",
+          "role_source_id": "S402",
+          "reason": "Can sponsor platform strategy across the G42 ecosystem",
+          "warm_intro": "Jeffrey Abbott shown in search; profile displays Jeffrey",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B002"
+        },
+        {
+          "candidate_id": "C002",
+          "name": "Mansoor Al Mansoori",
+          "current_title": "Chief Executive Officer, G42 International",
+          "linkedin": "https://www.linkedin.com/in/mansoor-almansoori-265abb32/",
+          "role_source_id": "S402",
+          "reason": "International ecosystem and partnership sponsor",
+          "warm_intro": "Mahmoud and Khalfan visible; 2 further mutuals",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Official page says CEO G42 International; LinkedIn still says Group COO. Preserve discrepancy.",
+          "email": "Not collected",
+          "profile_source_id": "B003"
+        }
+      ],
+      "prior_source_ids": [
+        "S402",
+        "S493",
+        "D002"
+      ],
+      "source_urls": [
+        "https://www.g42.ai/resources/news/g42-acquires-cpx-bring-world-class-cybersecurity-entire-ai-value-chain"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-006",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N007"
+      ],
+      "linkedin_source_id": "N058"
+    },
+    {
+      "name": "stc Group",
+      "original_id": "C016",
+      "region": "UAE/GCC",
+      "category": "Operating technology / telecom group",
+      "priority": "First qualification",
+      "secondary_evidence": "2024 reporting records operating acquisitions and a 40% Devoteam Middle East stake. Founder proceeds and Circularo secondary eligibility remain unknown.",
+      "ticket_evidence": "No current comparable cheque range established.",
+      "fit_hypothesis": "solutions/sirar and group enterprise routes could support Saudi distribution, digital trust and cross-border adoption.",
+      "risks": "Use group corporate development and an operating sponsor; Tali Ventures is excluded from this batch. Verify localisation, channel overlap and group approval authority.",
+      "website": "https://stc.com.sa",
+      "company_linkedin": "https://www.linkedin.com/company/stc/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C016",
+          "name": "Motaz Al-Angari",
+          "current_title": "Group Chief Investment Officer",
+          "linkedin": "https://www.linkedin.com/in/motaz-al-angari-07174820/",
+          "role_source_id": "S459",
+          "reason": "Owns investment and capital-allocation route",
+          "warm_intro": "2nd degree; no named mutual verified",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B004"
+        },
+        {
+          "candidate_id": "C016",
+          "name": "Riyadh Muawad",
+          "current_title": "Group Chief Business Officer",
+          "linkedin": "https://www.linkedin.com/in/riyadhmuawad/",
+          "role_source_id": "S459",
+          "reason": "Commercial sponsor for enterprise distribution",
+          "warm_intro": "Ahmed and Akram visible; 2 further mutuals",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B005"
+        }
+      ],
+      "prior_source_ids": [
+        "S459",
+        "S020",
+        "A004",
+        "D003"
+      ],
+      "source_urls": [
+        "https://www.stc.com.sa/content/dam/stc/stc-annual-report-2024/assets/img/pdfs/subsidiaries-and-investments.pdf"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-007",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N008"
+      ],
+      "linkedin_source_id": "N059"
+    },
+    {
+      "name": "Elm",
+      "original_id": "C017",
+      "region": "UAE/GCC",
+      "category": "Operating GovTech company",
+      "priority": "Strategic / control gate",
+      "secondary_evidence": "Official indexed announcement describes full Thiqah acquisition; the full page remained inaccessible. Minority-secondary appetite is unknown.",
+      "ticket_evidence": "No current comparable ticket range established.",
+      "fit_hypothesis": "Saudi public-sector workflows and trusted transaction infrastructure could create strategic value.",
+      "risks": "Direct portfolio overlap and preference for integration/control. Require a structure and operating boundaries compatible with founder objectives.",
+      "website": "https://elm.sa",
+      "company_linkedin": "https://www.linkedin.com/company/elm/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C017",
+          "name": "Mohammad bin Abdulaziz Alomair",
+          "current_title": "Chief Executive Officer",
+          "linkedin": "https://www.linkedin.com/in/alomair/",
+          "role_source_id": "S489",
+          "reason": "Executive sponsor for Saudi digital-platform strategy",
+          "warm_intro": "Akram and Dalal visible; 8 further mutuals",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B006"
+        },
+        {
+          "candidate_id": "C017",
+          "name": "Alameen Alhazmi",
+          "current_title": "Group Chief, Integrated Solutions",
+          "linkedin": "https://www.linkedin.com/in/alameen-alhazmi-664ab31/",
+          "role_source_id": "S489",
+          "reason": "Operational sponsor for integrated sovereign workflows",
+          "warm_intro": "Thamer visible; 6 further mutuals",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Official page says Group Chief, Integrated Solutions; LinkedIn says Chief Integrated Solutions Officer.",
+          "email": "Not collected",
+          "profile_source_id": "B007"
+        }
+      ],
+      "prior_source_ids": [
+        "S656",
+        "S489",
+        "D004"
+      ],
+      "source_urls": [
+        "https://elm.sa/en/media-center/news/Pages/Elm-Completes-Full-Acquisition-of-Thiqah-to-Drive-Growth-and-Integration.aspx"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-008",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N009"
+      ],
+      "linkedin_source_id": "N060"
+    },
+    {
+      "name": "Five Elms Capital",
+      "original_id": "C098",
+      "region": "United States",
+      "category": "Software growth private equity",
+      "priority": "First qualification",
+      "secondary_evidence": "Current materials support flexible software growth investment; a specific founder-secondary policy was not established by the pages checked.",
+      "ticket_evidence": "Fund V announced USD 5–75m in 2021. Current Fund VI range is not disclosed in its checked announcement; requalify rather than treat the old range as current.",
+      "fit_hypothesis": "Hands-on software operations, international go-to-market and product support could provide business value beyond capital.",
+      "risks": "Current AI-forward focus and software growth expectations need to match documented Circularo metrics. Confirm founder liquidity, eligible domicile and current cheque size.",
+      "website": "https://fiveelms.com",
+      "company_linkedin": "https://www.linkedin.com/company/five-elms-capital/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C098",
+          "name": "Ryan Mandl",
+          "current_title": "Partner",
+          "linkedin": "https://www.linkedin.com/in/ryanmandl/",
+          "role_source_id": "S338",
+          "reason": "Investment committee and software transaction sponsor",
+          "warm_intro": "Troy visible as mutual",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B027"
+        },
+        {
+          "candidate_id": "C098",
+          "name": "Will Lynn",
+          "current_title": "Director of Business Development",
+          "linkedin": "https://www.linkedin.com/in/willlynn/",
+          "role_source_id": "S338",
+          "reason": "Routes software opportunities to investment team",
+          "warm_intro": "Troy visible as mutual",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Official team page says Director of Business Development; LinkedIn headline says Corporate Strategy.",
+          "email": "Not collected",
+          "profile_source_id": "B028"
+        }
+      ],
+      "prior_source_ids": [
+        "S679",
+        "S680",
+        "S338",
+        "D019"
+      ],
+      "source_urls": [
+        "https://www.fiveelms.com/",
+        "https://www.fiveelms.com/five-elms-capital-raises-1-1-billion-fund-vi-to-back-high-growth-software-companies/",
+        "https://www.fiveelms.com/five-elms-closes-780-million-growth-equity-fund-v/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-009",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N010",
+        "N011",
+        "N012"
+      ],
+      "linkedin_source_id": "N061"
+    },
+    {
+      "name": "Level Equity",
+      "original_id": "C099",
+      "region": "United States",
+      "category": "Software growth equity / recapitalisation",
+      "priority": "First qualification",
+      "secondary_evidence": "Current site explicitly offers minority growth capital and majority growth equity/recaps. The founder-secondary amount and terms remain unconfirmed.",
+      "ticket_evidence": "Current cheque range not established; older one-pager criteria are historical and require requalification.",
+      "fit_hypothesis": "Operational value creation and B2B software portfolio relationships could help distribution and international growth.",
+      "risks": "Do not use structured-credit investments as equity evidence. Reconfirm ARR/growth gates, GCC legal-entity eligibility and proceeds allocation.",
+      "website": "https://levelequity.com",
+      "company_linkedin": "https://www.linkedin.com/company/level-equity/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C099",
+          "name": "Ben Levin (Benjamin Levin)",
+          "current_title": "Co-Founder and CEO",
+          "linkedin": "https://www.linkedin.com/in/benjamin-levin-a3116/",
+          "role_source_id": "S361",
+          "reason": "Founder-led software investment and liquidity structure",
+          "warm_intro": "Sean Diljore shown as mutual in search",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B029"
+        },
+        {
+          "candidate_id": "C099",
+          "name": "Sarah Sommer",
+          "current_title": "Co-Founder and Partner",
+          "linkedin": "https://www.linkedin.com/in/sarah-sommer-14b61227/",
+          "role_source_id": "S361",
+          "reason": "Investment partner and software growth strategy",
+          "warm_intro": "3rd degree; no warm route established",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B030"
+        }
+      ],
+      "prior_source_ids": [
+        "S211",
+        "S215",
+        "S361",
+        "D020"
+      ],
+      "source_urls": [
+        "https://www.levelequity.com/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-010",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N013"
+      ],
+      "linkedin_source_id": "N062"
+    },
+    {
+      "name": "Spectrum Equity",
+      "original_id": null,
+      "region": "United States",
+      "category": "Software / data growth equity",
+      "priority": "Conditional / larger-ticket gate",
+      "secondary_evidence": "Published strategy explicitly includes shareholder liquidity and minority recapitalisations.",
+      "ticket_evidence": "2024 year review states generally USD 30–200m. Supports larger alternatives, not a USD 4m allocation assumption.",
+      "fit_hypothesis": "Software/data expertise and go-to-market support could help scale an enterprise trust platform.",
+      "risks": "Company scale, revenue quality, eligible domicile and appetite for GCC concentration must be tested before detailed outreach.",
+      "website": "https://www.spectrumequity.com/",
+      "company_linkedin": "https://www.linkedin.com/company/spectrum-equity/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Mike Farrell",
+          "current_title": "Managing Director — software, AI and data",
+          "linkedin": "https://www.linkedin.com/in/mifarrell/",
+          "role_source_id": "N039",
+          "profile_source_id": "N040",
+          "reason": "Qualify software scale and shareholder-liquidity fit.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Official biography links profile; full LinkedIn fetch blocked",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://www.spectrumequity.com/year-in-review-2024/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-011",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N014"
+      ],
+      "linkedin_source_id": "N063"
+    },
+    {
+      "name": "FTV Capital / Ascend",
+      "original_id": null,
+      "region": "United States",
+      "category": "Sector-focused growth equity",
+      "priority": "Conditional / larger-ticket gate",
+      "secondary_evidence": "Official managing-partner discussion describes liquidity with minority and control growth investing; no Circularo deal eligibility confirmed.",
+      "ticket_evidence": "January 2025 announcement: Ascend USD 20–60m; flagship USD 60–300m. USD 4m is below published strategies.",
+      "fit_hypothesis": "Enterprise technology, financial-services network and published human/AI control-layer thesis could support a digital-trust expansion case.",
+      "risks": "Requires a meaningfully larger transaction than the user's floor and proven business fundamentals. Pure secondary versus mixed capital remains a gate.",
+      "website": "https://ftvcapital.com/",
+      "company_linkedin": "https://www.linkedin.com/company/ftv-capital/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Alex Malvone (Alexander Malvone)",
+          "current_title": "Partner; co-head of FTV Ascend",
+          "linkedin": "https://www.linkedin.com/in/alexandermalvone/",
+          "role_source_id": "N041",
+          "profile_source_id": "N042",
+          "reason": "Enterprise technology; qualify USD 20m+ strategy and liquidity.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Indexed LinkedIn profile matched to official role",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://ftvcapital.com/2025/ftv-capital-completes-record-4-05-billion-growth-equity-fundraise/",
+        "https://ftvcapital.com/2025/the-expanding-role-of-growth-equity-brad-bernstein-managing-partner-ftv-capital/",
+        "https://ftvcapital.com/insights/ftvs-alex-malvone-on-the-enterprise-control-layer-managing-people-and-ai-at-scale/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-012",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N015",
+        "N016",
+        "N017"
+      ],
+      "linkedin_source_id": "N064"
+    },
+    {
+      "name": "Entrust",
+      "original_id": "C032",
+      "region": "United States",
+      "category": "Operating identity / digital-trust company",
+      "priority": "First qualification",
+      "secondary_evidence": "Onfido acquisition demonstrates corporate acquisition activity; standalone minority founder-secondary policy is not established.",
+      "ticket_evidence": "No comparable cheque range established.",
+      "fit_hypothesis": "Identity assurance, signing and sovereign deployment could form a broader trusted-transaction proposition.",
+      "risks": "Significant direct overlap and possible full-acquisition preference. Protect IP, customer relationships and product independence.",
+      "website": "https://entrust.com",
+      "company_linkedin": "https://www.linkedin.com/company/entrust/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C032",
+          "name": "Tony Ball (Anthony Ball)",
+          "current_title": "Chief Executive Officer",
+          "linkedin": "https://www.linkedin.com/in/anthony-ball-889391/",
+          "role_source_id": "S356",
+          "reason": "Strategic sponsor for identity-centric trust expansion",
+          "warm_intro": "Ace Shim shown as mutual in search",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B013"
+        }
+      ],
+      "prior_source_ids": [
+        "S723",
+        "S356",
+        "D009"
+      ],
+      "source_urls": [
+        "https://www.entrust.com/es/resources/learn/entrust-completes-acquisition-of-onfido"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-013",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N018"
+      ],
+      "linkedin_source_id": "N065"
+    },
+    {
+      "name": "OneSpan",
+      "original_id": "C033",
+      "region": "United States",
+      "category": "Operating digital agreement / cybersecurity company",
+      "priority": "Strategic / overlap gate",
+      "secondary_evidence": "Build38 acquisition completed in 2026; founder-secondary or minority-only willingness is unknown.",
+      "ticket_evidence": "No comparable cheque range established.",
+      "fit_hypothesis": "Digital agreement and cybersecurity channels could value Circularo's management-reported sovereign GCC position.",
+      "risks": "Direct signing competition, integration priorities and acquisition preference; require a specific complementary market mechanism.",
+      "website": "https://onespan.com",
+      "company_linkedin": "https://www.linkedin.com/company/onespan/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C033",
+          "name": "Victor Limongelli",
+          "current_title": "Chief Executive Officer",
+          "linkedin": "https://www.linkedin.com/in/victorlimongelli/",
+          "role_source_id": "S513",
+          "reason": "Strategic sponsor for digital agreements and transaction security",
+          "warm_intro": "3rd degree; no warm route established",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B014"
+        }
+      ],
+      "prior_source_ids": [
+        "S513",
+        "A006",
+        "D010"
+      ],
+      "source_urls": [
+        "https://www.onespan.com/about/news/onespan-completes-acquisition-build38"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-014",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N019"
+      ],
+      "linkedin_source_id": "N066"
+    },
+    {
+      "name": "DigiCert",
+      "original_id": null,
+      "region": "United States",
+      "category": "Operating digital-trust company",
+      "priority": "Strategic / secondary gate",
+      "secondary_evidence": "Vercara acquisition demonstrates strategic M&A; no minority founder-secondary mandate established.",
+      "ticket_evidence": "No current comparable ticket range established.",
+      "fit_hypothesis": "PKI, identity assurance and digital trust could complement sovereign trusted transaction infrastructure and enterprise distribution.",
+      "risks": "Existing trust/signing products can overlap; confirm group ownership approval, product boundaries and secondary structure.",
+      "website": "https://www.digicert.com/",
+      "company_linkedin": "https://www.linkedin.com/company/digicert-inc-/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Amit Sinha",
+          "current_title": "CEO",
+          "linkedin": "https://www.linkedin.com/in/amitsinha/",
+          "role_source_id": "N043",
+          "profile_source_id": "N044",
+          "reason": "Operating sponsor for GCC trust corporate-development discussion.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Indexed LinkedIn profile matched to official role",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://www.digicert.com/news/digicert-completes-acquisition-of-vercara-strengthening-position-as-a-leader-in-digital-trust"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-015",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N020"
+      ],
+      "linkedin_source_id": "N067"
+    },
+    {
+      "name": "Hyland",
+      "original_id": "C047",
+      "region": "United States",
+      "category": "Operating content / workflow company",
+      "priority": "Strategic / overlap gate",
+      "secondary_evidence": "Official acquisitions include Alfresco, Nuxeo and Learning Machine. This is acquisition evidence, not minority-founder liquidity acceptance.",
+      "ticket_evidence": "No comparable cheque range established.",
+      "fit_hypothesis": "Document/process ecosystem and digital credentialing adjacency could create customer access and embedded trusted execution.",
+      "risks": "Existing signing integrations, internal product overlap and control preference; prove incremental value before a technology or investment pitch.",
+      "website": "https://hyland.com",
+      "company_linkedin": "https://www.linkedin.com/company/hyland-ai/",
+      "company_linkedin_check": "Observed in LinkedIn search; matched by business context",
+      "contacts": [],
+      "prior_source_ids": [
+        "S104"
+      ],
+      "source_urls": [
+        "https://www.hyland.com/en/company/about/acquisitions"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-016",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N021"
+      ],
+      "linkedin_source_id": "N068"
+    },
+    {
+      "name": "Volpi Capital",
+      "original_id": null,
+      "region": "Europe",
+      "category": "B2B software / technology private equity",
+      "priority": "First qualification",
+      "secondary_evidence": "Official Version 1 transaction describes a management buyout; current approach supports B2B software/tech services. Founder-secondary terms for Circularo are unknown.",
+      "ticket_evidence": "EUR 90m equity in the 2017 Version 1 transaction; a dated precedent, not a current minimum or typical ticket.",
+      "fit_hypothesis": "Published channel/alliance, sales and international expansion support could help Circularo enter Europe and the US.",
+      "risks": "European platform/geography and profitable-growth requirements must be qualified. Clarify control preference and founder rollover expectations.",
+      "website": "https://www.volpicapital.com/",
+      "company_linkedin": "https://www.linkedin.com/company/volpi-capital/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Crevan O’Grady",
+          "current_title": "Co-founder; Managing Partner in published Volpi announcement",
+          "linkedin": "https://uk.linkedin.com/in/crevan-o-grady-a143743",
+          "role_source_id": "N045",
+          "profile_source_id": "N046",
+          "reason": "Qualify technology buyout/rollover and international expansion.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Indexed LinkedIn profile matched to Volpi activity; headline may show YAVEON",
+          "role_note": "Official 2024 announcement says co-founder; a later transaction announcement says Managing Partner. LinkedIn may show a portfolio board headline.",
+          "additional_role_source_ids": [
+            "N047",
+            "N048"
+          ]
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://www.volpicapital.com/approach/",
+        "https://www.volpicapital.com/news/volpi-capital-partners-with-version-1-management-in-management-buy-out/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-017",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N022",
+        "N023"
+      ],
+      "linkedin_source_id": "N069"
+    },
+    {
+      "name": "Main Capital Partners",
+      "original_id": null,
+      "region": "Europe",
+      "category": "Enterprise software private equity",
+      "priority": "Conditional / domicile and control gate",
+      "secondary_evidence": "Current site publishes majority-stake acquisitions. Signicat's Inverid announcement identifies Main as seller and reinvesting minority shareholder.",
+      "ticket_evidence": "No current equity ticket range established by checked pages.",
+      "fit_hypothesis": "Security/identity, government and business-transformation software ecosystem could provide buy-and-build and distribution synergies.",
+      "risks": "Targets northwestern Europe and North America; GCC entity eligibility is uncertain. Main's minority position in Signicat links these routes; do not count them as wholly independent pools.",
+      "website": "https://main.nl/",
+      "company_linkedin": "https://www.linkedin.com/company/main-capital-partners/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Charly Zwemstra",
+          "current_title": "Managing Partner & Chief Investment Officer",
+          "linkedin": "https://www.linkedin.com/in/charlyzwemstra4263/",
+          "role_source_id": "N049",
+          "profile_source_id": "N050",
+          "reason": "Qualify geography/control and coordinate Signicat overlap.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Official team/location page links profile; full LinkedIn fetch blocked",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://www.main.nl/",
+        "https://main.nl/investors/",
+        "https://www.signicat.com/press-releases/signicat-acquires-inverid"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-018",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N024",
+        "N025",
+        "N026"
+      ],
+      "linkedin_source_id": "N070"
+    },
+    {
+      "name": "Inflexion — Enterprise / Partnership Capital",
+      "original_id": null,
+      "region": "Europe",
+      "category": "Growth / buyout private equity",
+      "priority": "Conditional / scale and geography gate",
+      "secondary_evidence": "Official flexible-capital strategy explicitly allows shareholder realisations, with dedicated minority Partnership Capital and minority/majority Enterprise investments.",
+      "ticket_evidence": "2023 Enterprise commentary cites GBP 10–75m; treat as dated. 2024 Partnership Capital III targets enterprise values GBP 200m to over GBP 1bn, not equity tickets.",
+      "fit_hypothesis": "International expansion, commercial effectiveness and technology support could add operational value.",
+      "risks": "UK/northern-Europe scope and company-scale gates may be restrictive. Choose the eligible strategy; never convert enterprise value into an equity cheque.",
+      "website": "https://www.inflexion.com/",
+      "company_linkedin": "https://www.linkedin.com/company/inflexion-private-equity/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://www.inflexion.com/approach/flexible-capital/",
+        "https://www.inflexion.com/about-us/about-us-faqs/",
+        "https://www.inflexion.com/news-and-insights/insights/2023/enterprising-spirit-how-private-equity-can-turbocharge-growth/",
+        "https://www.inflexion.com/news-and-insights/news/2024/inflexion-raises-175-billion-for-partnership-capital-fund-iii/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-019",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N027",
+        "N028",
+        "N029",
+        "N030"
+      ],
+      "linkedin_source_id": "N071"
+    },
+    {
+      "name": "Keensight Capital",
+      "original_id": null,
+      "region": "Europe",
+      "category": "Technology growth buyout",
+      "priority": "Conditional / revenue and geography gate",
+      "secondary_evidence": "Current official approach explicitly includes liquidity to existing shareholders and minority or majority investments.",
+      "ticket_evidence": "Current site states portfolio-company revenues EUR 10–400m; this is a revenue criterion, not ticket size. Current cheque range unestablished.",
+      "fit_hypothesis": "Technology operating support, internationalisation and security-adjacent experience could support Circularo expansion.",
+      "risks": "Need evidence of qualifying profitable growth, revenue scale and European eligibility; no approved Circularo numbers establish those gates.",
+      "website": "https://keensight.com/",
+      "company_linkedin": "https://www.linkedin.com/company/keensight-capital/",
+      "company_linkedin_check": "Indexed LinkedIn company result matched; not authenticated in this batch",
+      "contacts": [
+        {
+          "name": "Jean-Michel Beghin",
+          "current_title": "Managing Partner",
+          "linkedin": "https://fr.linkedin.com/in/jean-michel-beghin-0ab40",
+          "role_source_id": "N051",
+          "profile_source_id": "N052",
+          "reason": "Qualify revenue/profitability and shareholder-liquidity fit.",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Indexed LinkedIn profile matched to official indexed biography",
+          "role_note": "Public role observed; exact transaction authority not established."
+        }
+      ],
+      "prior_source_ids": [],
+      "source_urls": [
+        "https://keensight.com/about-us/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-020",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N031"
+      ],
+      "linkedin_source_id": "N072"
+    },
+    {
+      "name": "Signicat",
+      "original_id": "C051",
+      "region": "Europe",
+      "category": "Operating digital identity / trust group",
+      "priority": "First qualification",
+      "secondary_evidence": "Inverid acquisition from Main and founders, with selling shareholders reinvesting, is direct seller-liquidity/rollover evidence. It remains an acquisition, not a Circularo minority-only precedent.",
+      "ticket_evidence": "Inverid consideration undisclosed; no cheque range inferred.",
+      "fit_hypothesis": "European identity distribution plus a GCC trusted-transaction expansion could be strategically complementary.",
+      "risks": "Nordic Capital-backed consolidation, portfolio overlap and control expectations. Main is a minority shareholder following the Inverid deal; overlapping routes require coordination.",
+      "website": "https://signicat.com",
+      "company_linkedin": "https://www.linkedin.com/company/signicat/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C051",
+          "name": "Asger Hattel",
+          "current_title": "Chief Executive Officer",
+          "linkedin": "https://www.linkedin.com/in/asger-hattel-878813/",
+          "role_source_id": "S564",
+          "reason": "Strategic ownership and international expansion sponsor",
+          "warm_intro": "Bertrand visible as mutual",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "role_source_url": "https://www.signicat.com/about",
+          "profile_source_id": "B018"
+        },
+        {
+          "candidate_id": "C051",
+          "name": "Atul Koul Randev",
+          "current_title": "Chief Strategy Officer",
+          "linkedin": "https://www.linkedin.com/in/atul-randev/",
+          "role_source_id": "S564",
+          "reason": "Strategy and potential transaction evaluation",
+          "warm_intro": "Bertrand and John visible",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "role_source_url": "https://www.signicat.com/about",
+          "profile_source_id": "B019"
+        }
+      ],
+      "prior_source_ids": [
+        "S236",
+        "S564",
+        "A005",
+        "A007",
+        "D013"
+      ],
+      "source_urls": [
+        "https://www.signicat.com/press-releases/signicat-acquires-inverid"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-021",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N026"
+      ],
+      "linkedin_source_id": "N073"
+    },
+    {
+      "name": "Namirial",
+      "original_id": "C052",
+      "region": "Europe",
+      "category": "Operating digital-trust / transaction group",
+      "priority": "Strategic / overlap gate",
+      "secondary_evidence": "2025 Signaturit combination demonstrates consolidation. Standalone minority founder-secondary structure remains unconfirmed.",
+      "ticket_evidence": "No comparable cheque range established.",
+      "fit_hypothesis": "Trust-services distribution and shared future trusted-execution direction could support cross-region expansion.",
+      "risks": "Direct competition and integration workload. Prior FAQ/company-history chronology discrepancy remains unresolved; use year-level wording and do not infer production readiness.",
+      "website": "https://namirial.com",
+      "company_linkedin": "https://www.linkedin.com/company/namirial/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C052",
+          "name": "Max Pellegrini",
+          "current_title": "Chief Executive Officer",
+          "linkedin": "https://www.linkedin.com/in/maxpellegrini/",
+          "role_source_id": "S562",
+          "reason": "Strategic sponsor for trust and agentic services expansion",
+          "warm_intro": "Bertrand Bouteloup and Rolf Schroeder shown in search; profile also displays Chris",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "profile_source_id": "B020"
+        }
+      ],
+      "prior_source_ids": [
+        "S393",
+        "S869",
+        "S562",
+        "A001",
+        "D014"
+      ],
+      "source_urls": [
+        "https://www.namirial.com/en/company/namirial-signaturit/"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-022",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N032"
+      ],
+      "linkedin_source_id": "N074"
+    },
+    {
+      "name": "Thales",
+      "original_id": "C060",
+      "region": "Europe",
+      "category": "Operating cybersecurity / identity group",
+      "priority": "Strategic / scale gate",
+      "secondary_evidence": "Imperva acquisition supports strategic M&A; minority founder-secondary mandate unestablished.",
+      "ticket_evidence": "No comparable small-deal ticket range established; large acquisition capacity is not minimum-cheque evidence.",
+      "fit_hypothesis": "Security, identity and government channels could support sovereign digital trust offerings.",
+      "risks": "Large-group priority/approval cycle, product overlap and deal-scale mismatch. Operating sponsors need corporate-development approval.",
+      "website": "https://thalesgroup.com",
+      "company_linkedin": "https://www.linkedin.com/company/thales/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [
+        {
+          "candidate_id": "C060",
+          "name": "Eva Rudin",
+          "current_title": "Senior Vice President, Cyber Security Products",
+          "linkedin": "https://www.linkedin.com/in/eva-rudin-909a6713/",
+          "role_source_id": "A008",
+          "reason": "Operating sponsor for cybersecurity and identity integrations",
+          "warm_intro": "2nd degree; follower relationship is not an introduction",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "role_source_url": "https://cpl.thalesgroup.com/leadership",
+          "profile_source_id": "B024"
+        },
+        {
+          "candidate_id": "C060",
+          "name": "Danny de Vreeze",
+          "current_title": "Vice President, Identity & Access Management",
+          "linkedin": "https://www.linkedin.com/in/dannydevreeze/",
+          "role_source_id": "A008",
+          "reason": "IAM business sponsor for trusted transaction extension",
+          "warm_intro": "Radim and Israr visible",
+          "accessed_at": "2026-10-02",
+          "profile_verification": "Authenticated LinkedIn page read",
+          "role_note": "Public role observed; exact transaction authority not established",
+          "email": "Not collected",
+          "role_source_url": "https://cpl.thalesgroup.com/leadership",
+          "profile_source_id": "B025"
+        }
+      ],
+      "prior_source_ids": [
+        "S760",
+        "A008",
+        "D017"
+      ],
+      "source_urls": [
+        "https://cpl.thalesgroup.com/about-us/newsroom/thales-acquires-imperva-global-leader-in-cybersecurity-press-release"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-023",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N033"
+      ],
+      "linkedin_source_id": "N075"
+    },
+    {
+      "name": "Giesecke+Devrient",
+      "original_id": "C058",
+      "region": "Europe",
+      "category": "Operating security / identity parent group",
+      "priority": "Exploratory / parent route only",
+      "secondary_evidence": "Non-VC parent investment is a hypothesis; no qualifying founder-secondary precedent was established. G+D Ventures is excluded.",
+      "ticket_evidence": "No comparable parent cheque range established.",
+      "fit_hypothesis": "Government identity and SecurityTech reach could create technology/market synergies.",
+      "risks": "Do not reuse Ventures investment mandate or Ventures contacts as evidence of parent secondary appetite. Parent corporate-development owner remains unresolved.",
+      "website": "https://gi-de.com",
+      "company_linkedin": "https://www.linkedin.com/company/giesecke-devrient/",
+      "company_linkedin_check": "Authenticated company About page read; identity and self-reported location matched",
+      "contacts": [],
+      "prior_source_ids": [
+        "D016"
+      ],
+      "source_urls": [
+        "https://www.gi-de.com/en/about-us/company"
+      ],
+      "decision": "Conditional candidate; no Circularo transaction appetite confirmed",
+      "id": "B02-024",
+      "minimum_requested_ticket_usd": 4000000,
+      "maximum_requested_ticket_usd": null,
+      "equity_cap_percent": null,
+      "secondary_required": true,
+      "secondary_acceptance": "Unconfirmed for Circularo",
+      "as_of": "2026-10-02",
+      "source_ids": [
+        "N034"
+      ],
+      "linkedin_source_id": "N076"
+    }
+  ]
+}
