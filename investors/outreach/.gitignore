@@ -1,0 +1,15 @@
+# All outreach research, batches, contact registers, conversations and outputs
+# are versioned at Josef's explicit instruction on 2026-10-03.
+# Keep only secrets, dependencies and OS metadata out of Git.
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+__pycache__/
+*.py[cod]
+node_modules/
+node_modules
+.venv/

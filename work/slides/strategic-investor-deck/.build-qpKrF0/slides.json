@@ -1,0 +1,74 @@
+[
+  {
+    "id": "opportunity",
+    "layout": "investor-cover",
+    "theme": "gradient",
+    "index": 1
+  },
+  {
+    "id": "today",
+    "layout": "investor-snapshot",
+    "theme": "light",
+    "index": 2
+  },
+  {
+    "id": "position",
+    "layout": "signature-service-stack",
+    "theme": "light",
+    "index": 3
+  },
+  {
+    "id": "references",
+    "layout": "signature-editorial-split",
+    "theme": "light",
+    "index": 4
+  },
+  {
+    "id": "process",
+    "layout": "process",
+    "theme": "light",
+    "index": 5
+  },
+  {
+    "id": "saas",
+    "layout": "signature-ribbon-journey",
+    "theme": "light",
+    "index": 6
+  },
+  {
+    "id": "shared-services",
+    "layout": "architecture",
+    "theme": "dark",
+    "index": 7
+  },
+  {
+    "id": "markets",
+    "layout": "investor-market-table",
+    "theme": "light",
+    "index": 8
+  },
+  {
+    "id": "product",
+    "layout": "investor-product-proof",
+    "theme": "light",
+    "index": 9
+  },
+  {
+    "id": "ambition",
+    "layout": "investor-arr-ambition",
+    "theme": "gradient",
+    "index": 10
+  },
+  {
+    "id": "transaction",
+    "layout": "signature-editorial-split",
+    "theme": "light",
+    "index": 11
+  },
+  {
+    "id": "discussion",
+    "layout": "signature-close",
+    "theme": "light",
+    "index": 12
+  }
+]

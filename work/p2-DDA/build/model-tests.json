@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Base recurring five years",
+    "actual": 73755900,
+    "expected": 73755900
+  },
+  {
+    "name": "Base onboarding",
+    "actual": 720000,
+    "expected": 720000
+  },
+  {
+    "name": "Initial-pool commitment",
+    "actual": 65643400,
+    "expected": 65643400
+  },
+  {
+    "name": "Base net benefit",
+    "actual": 73035900,
+    "expected": 73035900
+  },
+  {
+    "name": "Customer source users",
+    "actual": 1830,
+    "expected": 1830
+  },
+  {
+    "name": "Known source charges",
+    "actual": 2047235.66,
+    "expected": 2047235.66
+  },
+  {
+    "name": "Survey numerical lower bound",
+    "actual": 4921,
+    "expected": 4921
+  },
+  {
+    "name": "RTA conversion difference",
+    "actual": 808000,
+    "expected": 808000
+  },
+  {
+    "name": "Slow adoption Year 1 users",
+    "actual": 6000,
+    "expected": 6000
+  },
+  {
+    "name": "Slow migration overlap",
+    "actual": 511808.915,
+    "expected": 511808.915
+  },
+  {
+    "name": "Later-year selected driver change",
+    "actual": 162000,
+    "expected": 162000
+  },
+  {
+    "name": "Blank unselected case is isolated",
+    "actual": 73035900,
+    "expected": 73035900
+  },
+  {
+    "name": "Earlier growth Year 3 seats",
+    "actual": 12500,
+    "expected": 12500
+  },
+  {
+    "name": "Restored base",
+    "actual": 73035900,
+    "expected": 73035900
+  }
+]

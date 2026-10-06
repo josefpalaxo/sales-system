@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown HTML Pack"
+  short_description: "Build a portable offline reader from Markdown files"
+  default_prompt: "Use $markdown-html-pack to turn the selected Markdown files or folder into one self-contained HTML reader, preserving source metadata and exclusions."

@@ -1,0 +1,39 @@
+{
+  "audience": ["Digital Dubai Authority", "TDRA"],
+  "objective": "Expand existing services toward a shared government trust service",
+  "company_confirmed": {
+    "date": "2026-09-30",
+    "available": ["Unified trust API", "Agent execution", "An agent can digitally seal documents with organizational identity on behalf of an employee"],
+    "reference_names_allowed": ["TDRA GovSign", "Digital Dubai DigiSign"],
+    "not_specified": ["Production or pilot maturity of agent sealing", "Exact live delegated-authority, policy and approval mechanisms"],
+    "presentation_boundary": "State the confirmed capability without claiming a government agent deployment or unspecified control implementation. Treat shared-service controls and expansion as proposed design decisions."
+  },
+  "provided_brief": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/ideas/Trusted Execution for the Agentic Era.md",
+  "official_sources": [
+    {
+      "title": "Digital Dubai Partners Portal: Digital Sign",
+      "url": "https://partnersportal.digitaldubai.ae/Services/Details/cbe90258-5c5e-40b7-9103-9e5af992369d",
+      "supports": "Digital Sign is powered by Circularo; UAE PASS integration; Digital Dubai hosting; approvals and document workflows. Official public service name is Digital Sign."
+    },
+    {
+      "title": "TDRA Unveils GovSign Initiative at GITEX 2023",
+      "url": "https://tdra.gov.ae/en/media/press-release/2023/tdra-unveils-govsign-initiative-at-gitex-2023",
+      "supports": "GovSign supports federal government document management and approvals with UAE PASS and digital signatures. Does not independently establish the vendor relationship."
+    },
+    {
+      "title": "TDRA: UAE Pass",
+      "url": "https://tdra.gov.ae/en/About/initiatives/mgov/uae-pass",
+      "supports": "National digital identity, signing and digital document verification."
+    },
+    {
+      "title": "Digital Dubai unified government platform and Agentic AI projects, 1 April 2026",
+      "url": "https://www.digitaldubai.ae/newsroom/news/hamdan-bin-mohammed-directs-dubai-government-entities-to-integrate-all-individual-and-business-services-into-a-unified-digital-platform-within-one-year",
+      "supports": "Policy context of integrated government service delivery and agentic government services."
+    },
+    {
+      "title": "Digital Dubai AI Integration Matrix Framework, 28 April 2026",
+      "url": "https://www.digitaldubai.ae/newsroom/digital-dubai-launches-ai-integration-matrix-framework-to-accelerate-ai-adoption-across-government",
+      "supports": "Coordinated, interoperable AI adoption across government."
+    }
+  ]
+}

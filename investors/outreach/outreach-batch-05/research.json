@@ -1,0 +1,1300 @@
+{
+  "meta": {
+    "batch_id": "outreach-batch-05",
+    "status": "draft",
+    "classification": "confidential",
+    "canonical": false,
+    "checked": "2026-10-03",
+    "owner": "Josef Neumann"
+  },
+  "mandate": {
+    "source": "taks.md",
+    "minority_preferred": true,
+    "majority_control_acceptable": true,
+    "founder_secondary_required": true,
+    "indicative_terms_not_caps": true,
+    "no_external_outreach_sent": true
+  },
+  "firms": [
+    {
+      "id": "adviser:jahani",
+      "name": "Jahani & Associates",
+      "tier": "A",
+      "website": "https://jahaniandassociates.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#jahani",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:jahani",
+        "name": "Joshua Jahani",
+        "title": "Managing Director",
+        "linkedin": "https://www.linkedin.com/in/joshuajahani",
+        "email": "jahani@jahaniandassociates.com",
+        "source": "https://jahaniandassociates.com/who-we-are/",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": {
+          "firm_level": true,
+          "year": 2021,
+          "source": "Josef user report",
+          "person_unknown": true
+        }
+      },
+      "cases": [
+        {
+          "name": "GCC cloud software financing",
+          "source_date": "2025-11-01",
+          "published_value": "$20M, firm-stated; value definition unknown",
+          "status_scope": "Anonymous case labelled closed; not independently corroborated",
+          "url": "https://jahaniandassociates.com/transactions-and-case-studies/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Middle East enterprise software sale",
+          "source_date": "2025-06-28",
+          "published_value": "$15M, firm-stated; value definition unknown",
+          "status_scope": "Anonymous case labelled closed; acquirer unnamed",
+          "url": "https://jahaniandassociates.com/transactions-and-case-studies/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "GCC SaaS strategic transaction",
+          "source_date": "2025-05-23",
+          "published_value": "$20M, firm-stated; value definition unknown",
+          "status_scope": "Anonymous case labelled closed; international software acquirer unnamed",
+          "url": "https://jahaniandassociates.com/transactions-and-case-studies/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "GCC cloud software growth investment",
+          "source_date": "2025-03-03",
+          "published_value": "$15M, firm-stated; value definition unknown",
+          "status_scope": "Anonymous case labelled closed; secondary proceeds unknown",
+          "url": "https://jahaniandassociates.com/transactions-and-case-studies/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://jahaniandassociates.com/",
+        "https://jahaniandassociates.com/who-we-are/",
+        "https://jahaniandassociates.com/"
+      ]
+    },
+    {
+      "id": "adviser:aq",
+      "name": "AQ Technology Partners",
+      "tier": "A",
+      "website": "https://www.aqtpartners.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#aq",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:aq",
+        "name": "Matt Sachse",
+        "title": "Founder and Managing Partner",
+        "linkedin": "https://www.linkedin.com/in/mattsachse",
+        "email": "matt@aqtpartners.com",
+        "source": "https://www.aqtpartners.com/team-blog/matt-sachse",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Liferaft / Securitas",
+          "source_date": "2026-03-17",
+          "published_value": "Undisclosed",
+          "status_scope": "Agreement announced; AQ explicitly exclusive adviser. Closing not verified in this research",
+          "url": "https://www.aqtpartners.com/news-blog/acquisition-positions-liferaft-to-expand-intelligence-led-security-capabilities-globally",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Rightsline / Hg",
+          "source_date": "2026-05-27",
+          "published_value": "$500M strategic growth investment",
+          "status_scope": "AQ explicitly financial adviser; existing owner and management reinvest. Founder cash split not disclosed",
+          "url": "https://www.aqtpartners.com/news-blog/rightsline-announces-500-million-strategic-growth-investment-from-hg-to-accelerate-ai-innovation-and-global-expansion",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Nulogy / Rubicon Technology Partners",
+          "source_date": "2024-02-15",
+          "published_value": "Undisclosed",
+          "status_scope": "Strategic investment shown in AQ transaction gallery and reposted release; release does not specify AQ role; gallery includes prior broker-dealer affiliations",
+          "url": "https://www.aqtpartners.com/news-blog/nulogy-announces-strategic-investment-from-rubicon-technology-partners",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.aqtpartners.com/",
+        "https://www.aqtpartners.com/team-blog/matt-sachse",
+        "https://www.aqtpartners.com/transactions"
+      ]
+    },
+    {
+      "id": "adviser:drake-star",
+      "name": "Drake Star",
+      "tier": "A",
+      "website": "https://www.drakestar.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#drake-star",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:drake-star",
+        "name": "Ralf Philipp Hofmann",
+        "title": "Managing Partner; Executive Committee member",
+        "linkedin": "https://de.linkedin.com/in/ralf-philipp-hofmann-00356b4b/en",
+        "email": "ralf.hofmann@drakestar.com",
+        "source": "https://www.drakestar.com/leadership-team/ralf-philipp-hofmann",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "ConSense / Maguar",
+          "source_date": "2026-08-26",
+          "published_value": "Undisclosed",
+          "status_scope": "Majority recapitalisation agreed; founders reinvest; exclusive adviser. Closing not separately verified",
+          "url": "https://www.drakestar.com/our-work/drake-star-acts-as-exclusive-financial-advisor-to-consense-on-the-majority-recapitalization-with-maguar-capital",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Babtec / Paragon Partners",
+          "source_date": "2026-08-17",
+          "published_value": "Undisclosed",
+          "status_scope": "Signed investment; founders remain shareholders; exclusive adviser; announcement says completion subject to antitrust",
+          "url": "https://www.drakestar.com/our-work/drake-star-acts-as-exclusive-financial-advisor-to-babtec-on-its-strategic-growth-partnership-with-paragon-partners",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Gini / Banyan Software",
+          "source_date": "2026-02-03",
+          "published_value": "Undisclosed",
+          "status_scope": "Sale reported; exclusive adviser to company/shareholders; AI document-intelligence and payments platform",
+          "url": "https://www.drakestar.com/our-work/exclusive-financial-advisor-to-gini",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.drakestar.com/",
+        "https://www.drakestar.com/leadership-team/ralf-philipp-hofmann",
+        "https://www.drakestar.com/where-we-are"
+      ]
+    },
+    {
+      "id": "adviser:icon",
+      "name": "ICON Corporate Finance",
+      "tier": "A",
+      "website": "https://www.iconcorpfin.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#icon",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:icon",
+        "name": "Eddie Harding",
+        "title": "Partner",
+        "linkedin": "https://uk.linkedin.com/in/eddie-harding-6b1b2",
+        "email": "eddie@iconcorpfin.com",
+        "source": "https://www.iconcorpfin.com/person/eddie-harding/",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Paperbox / Adlib",
+          "source_date": "2026-09-22",
+          "published_value": "Undisclosed",
+          "status_scope": "ICON case labelled closed; Paperbox acquired by Adlib; AI document intake and evidence layer for regulated AI agents",
+          "url": "https://www.iconcorpfin.com/deal/paperbox/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Oak Engage / NorthEdge",
+          "source_date": "2025-07-01",
+          "published_value": "Undisclosed",
+          "status_scope": "ICON case labelled closed; majority investment in employee engagement SaaS",
+          "url": "https://www.iconcorpfin.com/deal/oak-engage/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Sideways 6 / Interact Software",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "ICON sale case; SaaS acquired by enterprise intranet software buyer; precise secondary split unknown",
+          "url": "https://www.iconcorpfin.com/deal/sideways-6/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.iconcorpfin.com/",
+        "https://www.iconcorpfin.com/person/eddie-harding/",
+        "https://www.iconcorpfin.com/contact/"
+      ]
+    },
+    {
+      "id": "adviser:hampleton",
+      "name": "Hampleton Partners",
+      "tier": "A",
+      "website": "https://www.hampletonpartners.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#hampleton",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:hampleton",
+        "name": "Miro Parizek",
+        "title": "Founder and Senior Partner; enterprise software practice lead",
+        "linkedin": "https://www.linkedin.com/in/miroparizek/",
+        "email": null,
+        "source": "https://www.hampletonpartners.com/our-experts/",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Shopware / Carlyle and PayPal",
+          "source_date": "2022-02-09",
+          "published_value": "$100M growth capital",
+          "status_scope": "Founders retain significant majority and co-CEO roles; primary/secondary cash split not stated",
+          "url": "https://www.hampletonpartners.com/news/newsdetail/hampleton-partners-advises-shopware-on-its-usd-100-million-growth-capital-raise-from-carlyle-and-paypal/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "FAST LTA / Afinum",
+          "source_date": "2019-12-09",
+          "published_value": "Undisclosed",
+          "status_scope": "Advised acquisition of secure archiving/backup business; majority sale described in team bio; cash split unknown",
+          "url": "https://www.hampletonpartners.com/news/newsdetail/hampleton-partners-advises-fast-lta-on-acquisition-by-afinum/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Banking Software Company / PortfoLion and W.UP",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Official sector page describes advised cross-border combination; management/shareholders remain; stake and proceeds unknown",
+          "url": "https://www.hampletonpartners.com/sectors/enterprise-software/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.hampletonpartners.com/",
+        "https://www.hampletonpartners.com/our-experts/",
+        "https://www.hampletonpartners.com/contact/"
+      ]
+    },
+    {
+      "id": "adviser:alantra",
+      "name": "Alantra",
+      "tier": "A",
+      "website": "https://www.alantra.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#alantra",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:alantra",
+        "name": "Saad Ashraf",
+        "title": "Managing Partner, United Arab Emirates",
+        "linkedin": "https://www.linkedin.com/in/saad-ashraf-383aab13/",
+        "email": null,
+        "source": "https://www.alantra.com/team-member/saad-ashraf/",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Atlantic Navigation / MAG Offshore",
+          "source_date": "2024-10",
+          "published_value": "Undisclosed",
+          "status_scope": "Completed cross-border fleet sale and acquisition financing; Saad named; UAE/GCC proof outside technology",
+          "url": "https://www.alantra.com/ib-transaction/atlantic-navigation-holdings-sell-side-ma-and-acquisition-financing-advisory-mag-offshore-2/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "CedarBridge / The Grooming Company / Omorfia",
+          "source_date": "2024-06",
+          "published_value": "Undisclosed",
+          "status_scope": "Published UAE sell-side case; consumer services, not software or minority founder liquidity",
+          "url": "https://www.alantra.com/ib-transaction/cedarbridge-capital-partners-the-grooming-company-holding-sell-side-advisory-omorfia-group/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "GreenTek Solutions / Sumitomo",
+          "source_date": "2026-07",
+          "published_value": "Undisclosed",
+          "status_scope": "Published technology sell-side investment case; exact stake, founder cash and software purity not established",
+          "url": "https://www.alantra.com/ib-transaction/greentek-solutions-sell-side-advisory-sumitomo-corporation/",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.alantra.com/",
+        "https://www.alantra.com/team-member/saad-ashraf/",
+        "https://www.alantra.com/what-we-do/investment-banking/transactions/?country=united-arab-emirates"
+      ]
+    },
+    {
+      "id": "adviser:corniche",
+      "name": "Corniche Growth Advisors",
+      "tier": "B",
+      "website": "https://cornichegrowthadvisors.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#corniche",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:corniche",
+        "name": "David Keast",
+        "title": "Partner / co-founder",
+        "linkedin": "https://uk.linkedin.com/in/davidkeast",
+        "email": "partners@cornichegrowthadvisors.com",
+        "source": "https://cornichegrowthadvisors.com/",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Sendmarc Series A",
+          "source_date": "Date not captured",
+          "published_value": "$7M fundraising",
+          "status_scope": "Firm lists strategic/financial adviser role; cybersecurity; founder cash not disclosed",
+          "url": "https://cornichegrowthadvisors.com/transactions",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Futurelink Group / Ciel Group",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Firm lists strategic/financial adviser role; strategic investment; ownership/cash split unknown",
+          "url": "https://cornichegrowthadvisors.com/transactions",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Fetch Analytics / Experian Ventures",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Firm describes financing and subsequent strategic investment advisory; secondary cash unconfirmed",
+          "url": "https://cornichegrowthadvisors.com/transactions",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://cornichegrowthadvisors.com/",
+        "https://cornichegrowthadvisors.com/",
+        "https://cornichegrowthadvisors.com/"
+      ]
+    },
+    {
+      "id": "adviser:talaria",
+      "name": "Talaria Capital",
+      "tier": "B",
+      "website": "https://www.talaria-capital.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#talaria",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:talaria",
+        "name": "Alexandre Kaykac",
+        "title": "Technology M&A, Talaria (profile headline); precise seniority/title not established",
+        "linkedin": "https://www.linkedin.com/in/alexandrekaykac/",
+        "email": null,
+        "source": "https://www.linkedin.com/in/alexandrekaykac/",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Ocellus / Elevation Capital Partners",
+          "source_date": "Date not displayed",
+          "published_value": "€4M fundraising reported in firm feed; official card no amount",
+          "status_scope": "Official tombstone: private placement; adviser role in firm announcement; founder liquidity unconfirmed",
+          "url": "https://www.talaria-capital.com/#deals",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Supermood / Zest",
+          "source_date": "Date not displayed",
+          "published_value": "Undisclosed",
+          "status_scope": "Official tombstone: sold to; HR software adjacency; adviser role detail and closing date not displayed",
+          "url": "https://www.talaria-capital.com/#deals",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "52 Entertainment / Blackout Lab",
+          "source_date": "Date not displayed",
+          "published_value": "Undisclosed",
+          "status_scope": "Official tombstone: acquisition; gaming adjacency, not enterprise software/secondary precedent",
+          "url": "https://www.talaria-capital.com/#deals",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.talaria-capital.com/",
+        "https://www.linkedin.com/in/alexandrekaykac/",
+        "https://www.talaria-capital.com/"
+      ]
+    },
+    {
+      "id": "adviser:clipperton",
+      "name": "Clipperton",
+      "tier": "B",
+      "website": "https://www.clipperton.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#clipperton",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:clipperton",
+        "name": "Olivier Combaudou",
+        "title": "Partner; cybersecurity coverage",
+        "linkedin": null,
+        "email": null,
+        "source": "https://www.clipperton.com/team",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Advens / CAPZA",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Team biography describes sale of minority stake; cybersecurity; founder cash split unknown",
+          "url": "https://www.clipperton.com/team",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Vade / Hornetsecurity",
+          "source_date": "2024, year in firm history",
+          "published_value": "Undisclosed",
+          "status_scope": "Firm history lists security-software sale; complete cash structure/date not captured",
+          "url": "https://www.clipperton.com/uncategorized/clipperton-story",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Didomi / Marlin Equity Partners",
+          "source_date": "2025, year in firm history",
+          "published_value": "$83M investment",
+          "status_scope": "Firm history lists privacy/consent software investment; stake and founder cash unconfirmed",
+          "url": "https://www.clipperton.com/uncategorized/clipperton-story",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.clipperton.com/",
+        "https://www.clipperton.com/team",
+        "https://www.clipperton.com/about"
+      ]
+    },
+    {
+      "id": "adviser:torch",
+      "name": "Torch Partners",
+      "tier": "B",
+      "website": "https://www.torchpartners.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#torch",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:torch",
+        "name": "Brenton Purslowe",
+        "title": "Managing Director, Software team",
+        "linkedin": "https://uk.linkedin.com/in/brenton-purslowe-4255a415",
+        "email": "brenton.purslowe@torchpartners.com",
+        "source": "https://www.torchpartners.com/people/brenton-purslowe",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Envizi / IBM",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Direct Torch case explicitly exclusive adviser to shareholders on sale",
+          "url": "https://www.torchpartners.com/deals/envizi",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Greenstone+ / Cority",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Direct Torch case explicitly exclusive adviser on acquisition by Thoma Bravo portfolio company",
+          "url": "https://www.torchpartners.com/deals/greenstone-cority",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "Curriculum Associates / Hellman & Friedman",
+          "source_date": "Date not captured",
+          "published_value": "Undisclosed",
+          "status_scope": "Direct Torch minority investment case; advised Permira/Berkshire majority shareholders, not proof of founder-specific cash",
+          "url": "https://www.torchpartners.com/deals/curriculum-associates-hellman-friedman",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.torchpartners.com/",
+        "https://www.torchpartners.com/people/brenton-purslowe",
+        "https://www.torchpartners.com/people/brenton-purslowe"
+      ]
+    },
+    {
+      "id": "adviser:ciesco",
+      "name": "Ciesco",
+      "tier": "B",
+      "website": "https://www.ciesco.com/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#ciesco",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:ciesco",
+        "name": "Ateesh Srivastava",
+        "title": "Managing Director",
+        "linkedin": "https://uk.linkedin.com/in/ateeshsrivastava",
+        "email": "ateesh.srivastava@ciesco.com",
+        "source": "https://www.ciesco.com/our-team/ateesh-srivastava",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [
+        {
+          "name": "Element34 / Banyan Software",
+          "source_date": "2022-12-19",
+          "published_value": "Undisclosed",
+          "status_scope": "Completed; exclusive sell-side adviser to company/shareholders; Switzerland/US",
+          "url": "https://www.ciesco.com/deals/element34-sale-to-banyan-software",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "AiVidens / RecVue",
+          "source_date": "2026-03-18",
+          "published_value": "Undisclosed",
+          "status_scope": "Completed; exclusive sell-side adviser; Ateesh team lead in client testimonial; Belgium/US",
+          "url": "https://www.ciesco.com/deals/aividens-sale-to-recvue",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        },
+        {
+          "name": "MMC / HW Fisher",
+          "source_date": "2025-08-07",
+          "published_value": "Undisclosed",
+          "status_scope": "Published sell-side case; contract-compliance audit services, not pure software",
+          "url": "https://www.ciesco.com/deals/mmc-sale-to-hwfisher",
+          "founder_cash": "not-disclosed-in-reviewed-source"
+        }
+      ],
+      "sources": [
+        "https://www.ciesco.com/",
+        "https://www.ciesco.com/our-team/ateesh-srivastava",
+        "https://www.ciesco.com/"
+      ]
+    },
+    {
+      "id": "adviser:bdo-uae",
+      "name": "BDO UAE",
+      "tier": "B",
+      "website": "https://www.bdo.ae/",
+      "research_depth": "detailed-profile",
+      "profile": "adviser-profiles.md#bdo-uae",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": {
+        "id": "contact:batch05:bdo-uae",
+        "name": "Shivendra Jha",
+        "title": "Partner; Head of Advisory Services and International Liaison Partner",
+        "linkedin": "https://ae.linkedin.com/in/shivendrajha",
+        "email": "shivendra.jha@bdo.ae",
+        "source": "https://www.bdo.ae/en-gb/our-people/shivendra-jha",
+        "status": "not-contacted-in-batch-05",
+        "historical_relationship": null
+      },
+      "cases": [],
+      "sources": [
+        "https://www.bdo.ae/",
+        "https://www.bdo.ae/en-gb/our-people/shivendra-jha",
+        "https://www.bdo.ae/en-gb/services/advisory/deal-advisory"
+      ]
+    },
+    {
+      "id": "adviser:arma",
+      "name": "Arma Partners",
+      "tier": "C",
+      "website": "https://www.armapartners.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.armapartners.com/"
+      ]
+    },
+    {
+      "id": "adviser:lincoln",
+      "name": "Lincoln International",
+      "tier": "C",
+      "website": "https://www.lincolninternational.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.lincolninternational.com/worldwide/middle-east/"
+      ]
+    },
+    {
+      "id": "adviser:matchpoint",
+      "name": "Matchpoint Partners",
+      "tier": "C",
+      "website": "https://www.matchpoint-partners.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.matchpoint-partners.com/track-record.html"
+      ]
+    },
+    {
+      "id": "adviser:corvian",
+      "name": "Corvian Advisory",
+      "tier": "C",
+      "website": "https://corvianadvisory.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://corvianadvisory.com/"
+      ]
+    },
+    {
+      "id": "adviser:gp-bullhound",
+      "name": "GP Bullhound",
+      "tier": "C",
+      "website": "https://www.gpbullhound.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.gpbullhound.com/sectors-new/digital-services-new/"
+      ]
+    },
+    {
+      "id": "adviser:houlihan",
+      "name": "Houlihan Lokey (including former GCA)",
+      "tier": "C",
+      "website": "https://hl.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://hl.com/about-us/newsroom/houlihan-lokey-completes-integration-of-gca-establishing-global-leadership-in-technology-and-mid-cap-corporate-finance/"
+      ]
+    },
+    {
+      "id": "adviser:william-blair",
+      "name": "William Blair",
+      "tier": "C",
+      "website": "https://www.williamblair.com/Investment-Banking",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.williamblair.com/Investment-Banking"
+      ]
+    },
+    {
+      "id": "adviser:raymond-james",
+      "name": "Raymond James",
+      "tier": "C",
+      "website": "https://www.raymondjames.com/corporations-and-institutions/investment-banking",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.raymondjames.com/corporations-and-institutions/investment-banking"
+      ]
+    },
+    {
+      "id": "adviser:da-davidson",
+      "name": "D.A. Davidson",
+      "tier": "C",
+      "website": "https://www.dadavidson.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.dadavidson.com/corporations-institutions/equity-capital-markets/investment-banking/industry-expertise/technology"
+      ]
+    },
+    {
+      "id": "adviser:equiteq",
+      "name": "Equiteq",
+      "tier": "C",
+      "website": "https://www.equiteq.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.equiteq.com/transactions-data.html"
+      ]
+    },
+    {
+      "id": "adviser:stifel",
+      "name": "Stifel Europe (former Bryan Garnier)",
+      "tier": "C",
+      "website": "https://stifelinstitutional.com/global-coverage/europe/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.stifel.com/docs/pdf/pressreleases/2025/Stifel-Completes-BG-Acquisition-for-06.02.25.pdf"
+      ]
+    },
+    {
+      "id": "adviser:oaklins",
+      "name": "Oaklins / DeSilva+Phillips technology team",
+      "tier": "C",
+      "website": "https://www.oaklins.com/dp/en/industry/software-technology/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.oaklins.com/dp/en/deals/?country=all&sector=software-and-technology"
+      ]
+    },
+    {
+      "id": "adviser:kroll",
+      "name": "Kroll Investment Banking",
+      "tier": "C",
+      "website": "https://www.kroll.com/en/services/investment-banking/technology-business-services-investment-banking",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.kroll.com/en/services/investment-banking/technology-business-services-investment-banking"
+      ]
+    },
+    {
+      "id": "adviser:investec",
+      "name": "Investec Advisory",
+      "tier": "C",
+      "website": "https://www.investec.com/advisory",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.investec.com/en_gb/business/popular-solutions/business-advisory-services/technology-and-software.html"
+      ]
+    },
+    {
+      "id": "adviser:canaccord",
+      "name": "Canaccord Genuity (including Results International)",
+      "tier": "C",
+      "website": "https://www.canaccordgenuity.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.canaccordgenuity.com/493f19/globalassets/capital-markets/documents/newsletters/tech/cg-hcm-market-update-march-2025.pdf"
+      ]
+    },
+    {
+      "id": "adviser:translink",
+      "name": "Translink Corporate Finance",
+      "tier": "C",
+      "website": "https://translinkcf.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://translinkcf.com/"
+      ]
+    },
+    {
+      "id": "adviser:berkery-noyes",
+      "name": "Berkery Noyes",
+      "tier": "C",
+      "website": "https://berkerynoyes.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://berkerynoyes.com/industries/software/"
+      ]
+    },
+    {
+      "id": "adviser:benchmark",
+      "name": "Benchmark International",
+      "tier": "C",
+      "website": "https://www.benchmarkintl.com/",
+      "research_depth": "preliminary-service-screen",
+      "profile": "adviser-longlist.md",
+      "mandate_acceptance": "unknown",
+      "fee_terms": "unknown",
+      "contact": null,
+      "cases": [],
+      "sources": [
+        "https://www.benchmarkintl.com/"
+      ]
+    }
+  ],
+  "additional_contacts": [
+    {
+      "id": "contact:batch05:alantra-tom-burton",
+      "firm": "adviser:alantra",
+      "name": "Tom Burton",
+      "role": "Managing Director, Software/Data/Analytics",
+      "linkedin": "https://www.linkedin.com/in/tom-burton-1265902a/",
+      "email": null,
+      "source": "https://www.alantra.com/team-member/tom-burton/",
+      "status": "not-contacted-in-batch-05"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S001",
+      "url": "https://jahaniandassociates.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S002",
+      "url": "https://jahaniandassociates.com/who-we-are/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S003",
+      "url": "https://jahaniandassociates.com/transactions-and-case-studies/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S004",
+      "url": "https://www.aqtpartners.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S005",
+      "url": "https://www.aqtpartners.com/team-blog/matt-sachse",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S006",
+      "url": "https://www.aqtpartners.com/transactions",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S007",
+      "url": "https://www.aqtpartners.com/news-blog/acquisition-positions-liferaft-to-expand-intelligence-led-security-capabilities-globally",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S008",
+      "url": "https://www.aqtpartners.com/news-blog/rightsline-announces-500-million-strategic-growth-investment-from-hg-to-accelerate-ai-innovation-and-global-expansion",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S009",
+      "url": "https://www.aqtpartners.com/news-blog/nulogy-announces-strategic-investment-from-rubicon-technology-partners",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S010",
+      "url": "https://www.drakestar.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S011",
+      "url": "https://www.drakestar.com/leadership-team/ralf-philipp-hofmann",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S012",
+      "url": "https://www.drakestar.com/where-we-are",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S013",
+      "url": "https://www.drakestar.com/our-work/drake-star-acts-as-exclusive-financial-advisor-to-consense-on-the-majority-recapitalization-with-maguar-capital",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S014",
+      "url": "https://www.drakestar.com/our-work/drake-star-acts-as-exclusive-financial-advisor-to-babtec-on-its-strategic-growth-partnership-with-paragon-partners",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S015",
+      "url": "https://www.drakestar.com/our-work/exclusive-financial-advisor-to-gini",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S016",
+      "url": "https://www.iconcorpfin.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S017",
+      "url": "https://www.iconcorpfin.com/person/eddie-harding/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S018",
+      "url": "https://www.iconcorpfin.com/contact/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S019",
+      "url": "https://www.iconcorpfin.com/deal/paperbox/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S020",
+      "url": "https://www.iconcorpfin.com/deal/oak-engage/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S021",
+      "url": "https://www.iconcorpfin.com/deal/sideways-6/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S022",
+      "url": "https://www.hampletonpartners.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S023",
+      "url": "https://www.hampletonpartners.com/our-experts/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S024",
+      "url": "https://www.hampletonpartners.com/contact/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S025",
+      "url": "https://www.hampletonpartners.com/news/newsdetail/hampleton-partners-advises-shopware-on-its-usd-100-million-growth-capital-raise-from-carlyle-and-paypal/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S026",
+      "url": "https://www.hampletonpartners.com/news/newsdetail/hampleton-partners-advises-fast-lta-on-acquisition-by-afinum/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S027",
+      "url": "https://www.hampletonpartners.com/sectors/enterprise-software/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S028",
+      "url": "https://www.alantra.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S029",
+      "url": "https://www.alantra.com/team-member/saad-ashraf/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S030",
+      "url": "https://www.alantra.com/what-we-do/investment-banking/transactions/?country=united-arab-emirates",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S031",
+      "url": "https://www.alantra.com/ib-transaction/atlantic-navigation-holdings-sell-side-ma-and-acquisition-financing-advisory-mag-offshore-2/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S032",
+      "url": "https://www.alantra.com/ib-transaction/cedarbridge-capital-partners-the-grooming-company-holding-sell-side-advisory-omorfia-group/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S033",
+      "url": "https://www.alantra.com/ib-transaction/greentek-solutions-sell-side-advisory-sumitomo-corporation/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S034",
+      "url": "https://cornichegrowthadvisors.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S035",
+      "url": "https://cornichegrowthadvisors.com/transactions",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S036",
+      "url": "https://www.talaria-capital.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S037",
+      "url": "https://www.linkedin.com/in/alexandrekaykac/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S038",
+      "url": "https://www.talaria-capital.com/#deals",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S039",
+      "url": "https://www.clipperton.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S040",
+      "url": "https://www.clipperton.com/team",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S041",
+      "url": "https://www.clipperton.com/about",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S042",
+      "url": "https://www.clipperton.com/uncategorized/clipperton-story",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S043",
+      "url": "https://www.torchpartners.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S044",
+      "url": "https://www.torchpartners.com/people/brenton-purslowe",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S045",
+      "url": "https://www.torchpartners.com/deals/envizi",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S046",
+      "url": "https://www.torchpartners.com/deals/greenstone-cority",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S047",
+      "url": "https://www.torchpartners.com/deals/curriculum-associates-hellman-friedman",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S048",
+      "url": "https://www.ciesco.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S049",
+      "url": "https://www.ciesco.com/our-team/ateesh-srivastava",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S050",
+      "url": "https://www.ciesco.com/deals/element34-sale-to-banyan-software",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S051",
+      "url": "https://www.ciesco.com/deals/aividens-sale-to-recvue",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S052",
+      "url": "https://www.ciesco.com/deals/mmc-sale-to-hwfisher",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S053",
+      "url": "https://www.bdo.ae/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S054",
+      "url": "https://www.bdo.ae/en-gb/our-people/shivendra-jha",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S055",
+      "url": "https://www.bdo.ae/en-gb/services/advisory/deal-advisory",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S056",
+      "url": "https://www.armapartners.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S057",
+      "url": "https://www.lincolninternational.com/worldwide/middle-east/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S058",
+      "url": "https://www.matchpoint-partners.com/track-record.html",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S059",
+      "url": "https://corvianadvisory.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S060",
+      "url": "https://www.gpbullhound.com/sectors-new/digital-services-new/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S061",
+      "url": "https://hl.com/about-us/newsroom/houlihan-lokey-completes-integration-of-gca-establishing-global-leadership-in-technology-and-mid-cap-corporate-finance/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S062",
+      "url": "https://www.williamblair.com/Investment-Banking",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S063",
+      "url": "https://www.raymondjames.com/corporations-and-institutions/investment-banking",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S064",
+      "url": "https://www.dadavidson.com/corporations-institutions/equity-capital-markets/investment-banking/industry-expertise/technology",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S065",
+      "url": "https://www.equiteq.com/transactions-data.html",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S066",
+      "url": "https://www.stifel.com/docs/pdf/pressreleases/2025/Stifel-Completes-BG-Acquisition-for-06.02.25.pdf",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S067",
+      "url": "https://www.oaklins.com/dp/en/deals/?country=all&sector=software-and-technology",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S068",
+      "url": "https://www.kroll.com/en/services/investment-banking/technology-business-services-investment-banking",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S069",
+      "url": "https://www.investec.com/en_gb/business/popular-solutions/business-advisory-services/technology-and-software.html",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S070",
+      "url": "https://www.canaccordgenuity.com/493f19/globalassets/capital-markets/documents/newsletters/tech/cg-hcm-market-update-march-2025.pdf",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S071",
+      "url": "https://translinkcf.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S072",
+      "url": "https://berkerynoyes.com/industries/software/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S073",
+      "url": "https://www.benchmarkintl.com/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S074",
+      "url": "https://www.canaccordgenuity.com/4aa8be/globalassets/investor-relations/documents/financial-reports-en/2023/q2/Q223-quarterly-report/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S075",
+      "url": "https://www.iconcorpfin.com/software/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S076",
+      "url": "https://www.alantra.com/team-member/tom-burton/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S077",
+      "url": "https://www.alantra.com/what-we-do/investment-banking/our-sectors/technology/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S078",
+      "url": "https://www.hampletonpartners.com/imprint/",
+      "checked": "2026-10-03"
+    },
+    {
+      "id": "S079",
+      "url": "https://www.gpbullhound.com/articles/introducing-our-next-chapter-meet-bullhound-capital/",
+      "checked": "2026-10-03"
+    }
+  ]
+}
+

@@ -111,6 +111,10 @@ The approved `work/m-capital/` exception versions original project documentation
 
 Durable learning from working material is promoted by extracting the smallest reusable claim or pattern into a normal record, preserving provenance, and submitting it for review.
 
+## Investor workspace exception
+
+The user-authorized `investors/` folder is versioned within this repository for investor master drafts, strategic narratives, templates and permitted relationship summaries. Its local [governance](investors/GOVERNANCE.md) and [agent instructions](investors/AGENTS.md) define its evidence and handling rules. It uses the parent Git history and remote, with no nested repository. Investor records retain their own draft/approval states and reference approved shared commercial records rather than replacing them. Raw personal data, credentials, CRM exports and correspondence remain excluded. Versioning does not authorize investor-facing publication.
+
 ## Governed binary assets
 
 Reusable sales artifacts such as slide decks may be committed under `shared/assets/` or `domains/<domain>/assets/`. Each committed artifact must have a companion governed Markdown record that states its stable path, audience, purpose, owner, status, classification, review dates, and source lineage.

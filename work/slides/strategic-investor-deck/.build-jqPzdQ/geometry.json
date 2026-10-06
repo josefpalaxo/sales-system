@@ -1,0 +1,2747 @@
+[
+  {
+    "slide": "opportunity",
+    "name": "cover-signature",
+    "kind": "image",
+    "box": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    "asset": "signature-curves"
+  },
+  {
+    "slide": "opportunity",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-white"
+  },
+  {
+    "slide": "opportunity",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 245,
+      "width": 1590,
+      "height": 360
+    },
+    "text": "Strategic partnership\n& investment",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "opportunity",
+    "name": "cover-descriptor",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 655,
+      "width": 1490,
+      "height": 160
+    },
+    "text": "Digital trust technology for\nenterprises and governments",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "opportunity",
+    "name": "cover-intent",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 855,
+      "width": 1530,
+      "height": 100
+    },
+    "text": "A strategic shareholder to expand adoption across its businesses and customer network.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "opportunity",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "today",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "today",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 185,
+      "width": 1670,
+      "height": 120
+    },
+    "text": "Circularo today",
+    "font": "Spartan",
+    "fontSize": 68
+  },
+  {
+    "slide": "today",
+    "name": "metric-label-0",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 370,
+      "width": 530,
+      "height": 54
+    },
+    "text": "Current ARR",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "metric-value-0",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 440,
+      "width": 540,
+      "height": 145
+    },
+    "text": "≈$3M",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "today",
+    "name": "metric-detail-0",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 600,
+      "width": 530,
+      "height": 90
+    },
+    "text": "Management approximation\nAs of [DATE TO CONFIRM]",
+    "font": "Mulish",
+    "fontSize": 27
+  },
+  {
+    "slide": "today",
+    "name": "metric-label-1",
+    "kind": "text",
+    "box": {
+      "left": 692,
+      "top": 370,
+      "width": 530,
+      "height": 54
+    },
+    "text": "2025 revenue",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "metric-value-1",
+    "kind": "text",
+    "box": {
+      "left": 692,
+      "top": 440,
+      "width": 540,
+      "height": 145
+    },
+    "text": "$2.794M",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "today",
+    "name": "metric-detail-1",
+    "kind": "text",
+    "box": {
+      "left": 692,
+      "top": 600,
+      "width": 530,
+      "height": 90
+    },
+    "text": "Management-reported actual",
+    "font": "Mulish",
+    "fontSize": 27
+  },
+  {
+    "slide": "today",
+    "name": "metric-label-2",
+    "kind": "text",
+    "box": {
+      "left": 1262,
+      "top": 370,
+      "width": 530,
+      "height": 54
+    },
+    "text": "2025 adjusted EBITDA",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "metric-value-2",
+    "kind": "text",
+    "box": {
+      "left": 1262,
+      "top": 440,
+      "width": 540,
+      "height": 145
+    },
+    "text": "$0.859M",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "today",
+    "name": "metric-detail-2",
+    "kind": "text",
+    "box": {
+      "left": 1262,
+      "top": 600,
+      "width": 530,
+      "height": 90
+    },
+    "text": "Management-reported actual",
+    "font": "Mulish",
+    "fontSize": 27
+  },
+  {
+    "slide": "today",
+    "name": "delivery-label",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 736,
+      "width": 240,
+      "height": 48
+    },
+    "text": "Delivery",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "delivery",
+    "kind": "text",
+    "box": {
+      "left": 390,
+      "top": 736,
+      "width": 1380,
+      "height": 50
+    },
+    "text": "Managed SaaS, sovereign / self-hosted and shared services",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "leadership-label",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 803,
+      "width": 240,
+      "height": 48
+    },
+    "text": "Leadership",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "leadership",
+    "kind": "text",
+    "box": {
+      "left": 390,
+      "top": 803,
+      "width": 1380,
+      "height": 50
+    },
+    "text": "Founders continue as CEO and CSO (Chief of Sales)",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "today",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 887,
+      "width": 1670,
+      "height": 108
+    }
+  },
+  {
+    "slide": "today",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 887,
+      "width": 4,
+      "height": 108
+    }
+  },
+  {
+    "slide": "today",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 897,
+      "width": 1630,
+      "height": 38
+    },
+    "text": "CONFIRM [ARR date + financial definitions]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "today",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 940,
+      "width": 1630,
+      "height": 51
+    },
+    "text": "Add the ARR basis and EBITDA reconciliation so investors can assess recurring revenue and earnings quality.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "today",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "position",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "position",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 224,
+      "width": 830,
+      "height": 600
+    },
+    "text": "Government\nand enterprise\nfit",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "position",
+    "name": "signature-divider",
+    "kind": "shape",
+    "box": {
+      "left": 1020,
+      "top": 127,
+      "width": 2,
+      "height": 825
+    }
+  },
+  {
+    "slide": "position",
+    "name": "service-heading-0",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 178,
+      "width": 628,
+      "height": 56
+    },
+    "text": "Customer-controlled deployment",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "position",
+    "name": "service-body-0",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 244,
+      "width": 628,
+      "height": 84
+    },
+    "text": "Control over hosting and the data environment.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "position",
+    "name": "service-heading-1",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 330,
+      "width": 628,
+      "height": 56
+    },
+    "text": "National identity integration",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "position",
+    "name": "service-body-1",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 396,
+      "width": 628,
+      "height": 84
+    },
+    "text": "Connect workflows with UAE PASS and Nafath.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "position",
+    "name": "service-heading-2",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 482,
+      "width": 628,
+      "height": 56
+    },
+    "text": "Multi-entity shared services",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "position",
+    "name": "service-body-2",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 548,
+      "width": 628,
+      "height": 84
+    },
+    "text": "A common trust platform for participating\norganizations.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "position",
+    "name": "service-heading-3",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 634,
+      "width": 628,
+      "height": 56
+    },
+    "text": "Process evidence and records",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "position",
+    "name": "service-body-3",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 700,
+      "width": 628,
+      "height": 84
+    },
+    "text": "Retain approvals and execution history for\nreview.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "position",
+    "name": "service-heading-4",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 786,
+      "width": 628,
+      "height": 56
+    },
+    "text": "Deployment experience",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "position",
+    "name": "service-body-4",
+    "kind": "text",
+    "box": {
+      "left": 1188,
+      "top": 852,
+      "width": 628,
+      "height": 84
+    },
+    "text": "Government and enterprise references support\nnew opportunities.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "position",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "references",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "references",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 230,
+      "width": 830,
+      "height": 310
+    },
+    "text": "Selected\nreferences",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "references",
+    "name": "signature-divider",
+    "kind": "shape",
+    "box": {
+      "left": 1020,
+      "top": 127,
+      "width": 2,
+      "height": 825
+    }
+  },
+  {
+    "slide": "references",
+    "name": "feature-0",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 134,
+      "width": 716,
+      "height": 184
+    },
+    "text": "TDRA GovSign: Federal government digital signature\nservices.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "TDRA GovSign:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " Federal government digital signature\nservices."
+      }
+    ]
+  },
+  {
+    "slide": "references",
+    "name": "feature-1",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 352,
+      "width": 716,
+      "height": 184
+    },
+    "text": "Digital Dubai DigiSign: Shared digital signature\nservices across Dubai government entities.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "Digital Dubai DigiSign:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " Shared digital signature\nservices across Dubai government entities."
+      }
+    ]
+  },
+  {
+    "slide": "references",
+    "name": "feature-2",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 570,
+      "width": 716,
+      "height": 184
+    },
+    "text": "Sharjah Sign: Shared digital trust services across\nSharjah government entities.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "Sharjah Sign:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " Shared digital trust services across\nSharjah government entities."
+      }
+    ]
+  },
+  {
+    "slide": "references",
+    "name": "feature-3",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 788,
+      "width": 716,
+      "height": 184
+    },
+    "text": "e& DigiSign: Digital signature services supporting\nbusiness customers.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "e& DigiSign:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " Digital signature services supporting\nbusiness customers."
+      }
+    ]
+  },
+  {
+    "slide": "references",
+    "name": "lead-heading",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 554,
+      "width": 810,
+      "height": 60
+    },
+    "text": "Enterprise customers",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "references",
+    "name": "lead-body",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 625,
+      "width": 760,
+      "height": 138
+    },
+    "text": "Emaar, ICD, RTA, EDGE Group, Ajman Bank and Ministry\nof Finance",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "references",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "process",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "process",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 185,
+      "width": 1670,
+      "height": 120
+    },
+    "text": "Trust across an agreement process",
+    "font": "Spartan",
+    "fontSize": 68
+  },
+  {
+    "slide": "process",
+    "name": "stage-0",
+    "kind": "shape",
+    "box": {
+      "left": 110,
+      "top": 430,
+      "width": 296,
+      "height": 110
+    }
+  },
+  {
+    "slide": "process",
+    "name": "stage-number-0",
+    "kind": "text",
+    "box": {
+      "left": 134,
+      "top": 450,
+      "width": 248,
+      "height": 65
+    },
+    "text": "01",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-label-0",
+    "kind": "text",
+    "box": {
+      "left": 110,
+      "top": 590,
+      "width": 296,
+      "height": 130
+    },
+    "text": "Prepare",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-body-0",
+    "kind": "text",
+    "box": {
+      "left": 110,
+      "top": 750,
+      "width": 296,
+      "height": 190
+    },
+    "text": "Create and review\nthe document.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "process",
+    "name": "stage-1",
+    "kind": "shape",
+    "box": {
+      "left": 461,
+      "top": 430,
+      "width": 296,
+      "height": 110
+    }
+  },
+  {
+    "slide": "process",
+    "name": "stage-number-1",
+    "kind": "text",
+    "box": {
+      "left": 485,
+      "top": 450,
+      "width": 248,
+      "height": 65
+    },
+    "text": "02",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-label-1",
+    "kind": "text",
+    "box": {
+      "left": 461,
+      "top": 590,
+      "width": 296,
+      "height": 130
+    },
+    "text": "Identify",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-body-1",
+    "kind": "text",
+    "box": {
+      "left": 461,
+      "top": 750,
+      "width": 296,
+      "height": 190
+    },
+    "text": "Establish\nparticipants and\nauthority.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "process",
+    "name": "stage-2",
+    "kind": "shape",
+    "box": {
+      "left": 812,
+      "top": 430,
+      "width": 296,
+      "height": 110
+    }
+  },
+  {
+    "slide": "process",
+    "name": "stage-number-2",
+    "kind": "text",
+    "box": {
+      "left": 836,
+      "top": 450,
+      "width": 248,
+      "height": 65
+    },
+    "text": "03",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-label-2",
+    "kind": "text",
+    "box": {
+      "left": 812,
+      "top": 590,
+      "width": 296,
+      "height": 130
+    },
+    "text": "Approve",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-body-2",
+    "kind": "text",
+    "box": {
+      "left": 812,
+      "top": 750,
+      "width": 296,
+      "height": 190
+    },
+    "text": "Route reviews and\nrequired decisions.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "process",
+    "name": "stage-3",
+    "kind": "shape",
+    "box": {
+      "left": 1163,
+      "top": 430,
+      "width": 296,
+      "height": 110
+    }
+  },
+  {
+    "slide": "process",
+    "name": "stage-number-3",
+    "kind": "text",
+    "box": {
+      "left": 1187,
+      "top": 450,
+      "width": 248,
+      "height": 65
+    },
+    "text": "04",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-label-3",
+    "kind": "text",
+    "box": {
+      "left": 1163,
+      "top": 590,
+      "width": 296,
+      "height": 130
+    },
+    "text": "Sign",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-body-3",
+    "kind": "text",
+    "box": {
+      "left": 1163,
+      "top": 750,
+      "width": 296,
+      "height": 190
+    },
+    "text": "Apply the\nappropriate trust\nservices.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "process",
+    "name": "stage-4",
+    "kind": "shape",
+    "box": {
+      "left": 1514,
+      "top": 430,
+      "width": 296,
+      "height": 110
+    }
+  },
+  {
+    "slide": "process",
+    "name": "stage-number-4",
+    "kind": "text",
+    "box": {
+      "left": 1538,
+      "top": 450,
+      "width": 248,
+      "height": 65
+    },
+    "text": "05",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-label-4",
+    "kind": "text",
+    "box": {
+      "left": 1514,
+      "top": 590,
+      "width": 296,
+      "height": 130
+    },
+    "text": "Preserve",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "process",
+    "name": "stage-body-4",
+    "kind": "text",
+    "box": {
+      "left": 1514,
+      "top": 750,
+      "width": 296,
+      "height": 190
+    },
+    "text": "Retain the record\nand evidence.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "process",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "saas",
+    "name": "journey-ribbon",
+    "kind": "image",
+    "box": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    "asset": "signature-journey-ribbon"
+  },
+  {
+    "slide": "saas",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "saas",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 235,
+      "width": 710,
+      "height": 340
+    },
+    "text": "SaaS\nexpansion",
+    "font": "Spartan",
+    "fontSize": 88
+  },
+  {
+    "slide": "saas",
+    "name": "journey-body",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 610,
+      "width": 660,
+      "height": 190
+    },
+    "text": "Deploy within the group and distribute\nthrough customer channels, then expand\nsuccessful accounts.",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-stop-0",
+    "kind": "shape",
+    "geometry": "ellipse",
+    "box": {
+      "left": 1071,
+      "top": 187,
+      "width": 127,
+      "height": 127
+    }
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-number-0",
+    "kind": "text",
+    "box": {
+      "left": 1091,
+      "top": 216,
+      "width": 87,
+      "height": 70
+    },
+    "text": "01",
+    "font": "Mulish",
+    "fontSize": 44
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-heading-0",
+    "kind": "text",
+    "box": {
+      "left": 1251,
+      "top": 199,
+      "width": 450,
+      "height": 55
+    },
+    "text": "Group adoption",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-body-0",
+    "kind": "text",
+    "box": {
+      "left": 1251,
+      "top": 264,
+      "width": 450,
+      "height": 125
+    },
+    "text": "Identify suitable businesses and\nfunctions. Establish an initial\ndeployment.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-stop-1",
+    "kind": "shape",
+    "geometry": "ellipse",
+    "box": {
+      "left": 1186,
+      "top": 402,
+      "width": 127,
+      "height": 127
+    }
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-number-1",
+    "kind": "text",
+    "box": {
+      "left": 1206,
+      "top": 431,
+      "width": 87,
+      "height": 70
+    },
+    "text": "02",
+    "font": "Mulish",
+    "fontSize": 44
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-heading-1",
+    "kind": "text",
+    "box": {
+      "left": 1366,
+      "top": 414,
+      "width": 450,
+      "height": 55
+    },
+    "text": "Customer distribution",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-body-1",
+    "kind": "text",
+    "box": {
+      "left": 1366,
+      "top": 479,
+      "width": 450,
+      "height": 125
+    },
+    "text": "Use account teams and relevant\ncloud, telecom or technology\nofferings.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-stop-2",
+    "kind": "shape",
+    "geometry": "ellipse",
+    "box": {
+      "left": 1071,
+      "top": 617,
+      "width": 127,
+      "height": 127
+    }
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-number-2",
+    "kind": "text",
+    "box": {
+      "left": 1091,
+      "top": 646,
+      "width": 87,
+      "height": 70
+    },
+    "text": "03",
+    "font": "Mulish",
+    "fontSize": 44
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-heading-2",
+    "kind": "text",
+    "box": {
+      "left": 1251,
+      "top": 629,
+      "width": 450,
+      "height": 55
+    },
+    "text": "Account expansion",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "saas",
+    "name": "milestone-body-2",
+    "kind": "text",
+    "box": {
+      "left": 1251,
+      "top": 694,
+      "width": 450,
+      "height": 125
+    },
+    "text": "Add users and workflows,\nincluding applicable AI and eDocs\ncapabilities.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "saas",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "shared-services",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-white"
+  },
+  {
+    "slide": "shared-services",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 185,
+      "width": 1670,
+      "height": 120
+    },
+    "text": "Sovereign shared services",
+    "font": "Spartan",
+    "fontSize": 68
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-0",
+    "kind": "shape",
+    "box": {
+      "left": 110,
+      "top": 390,
+      "width": 1700,
+      "height": 112
+    }
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-name-0",
+    "kind": "text",
+    "box": {
+      "left": 140,
+      "top": 412,
+      "width": 540,
+      "height": 68
+    },
+    "text": "Sponsor",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-body-0",
+    "kind": "text",
+    "box": {
+      "left": 730,
+      "top": 412,
+      "width": 1040,
+      "height": 78
+    },
+    "text": "Government, telco, cloud provider or holding group",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-1",
+    "kind": "shape",
+    "box": {
+      "left": 110,
+      "top": 540,
+      "width": 1700,
+      "height": 112
+    }
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-name-1",
+    "kind": "text",
+    "box": {
+      "left": 140,
+      "top": 562,
+      "width": 540,
+      "height": 68
+    },
+    "text": "Common platform",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-body-1",
+    "kind": "text",
+    "box": {
+      "left": 730,
+      "top": 562,
+      "width": 1040,
+      "height": 78
+    },
+    "text": "Circularo digital trust services",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-2",
+    "kind": "shape",
+    "box": {
+      "left": 110,
+      "top": 690,
+      "width": 1700,
+      "height": 112
+    }
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-name-2",
+    "kind": "text",
+    "box": {
+      "left": 140,
+      "top": 712,
+      "width": 540,
+      "height": 68
+    },
+    "text": "Participating entities",
+    "font": "Spartan",
+    "fontSize": 42
+  },
+  {
+    "slide": "shared-services",
+    "name": "layer-body-2",
+    "kind": "text",
+    "box": {
+      "left": 730,
+      "top": 712,
+      "width": 1040,
+      "height": 78
+    },
+    "text": "Organizations using the common service",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "shared-services",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "markets",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "markets",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 185,
+      "width": 1670,
+      "height": 120
+    },
+    "text": "GCC and international expansion",
+    "font": "Spartan",
+    "fontSize": 68
+  },
+  {
+    "slide": "markets",
+    "name": "priority-table",
+    "kind": "table",
+    "box": {
+      "left": 122,
+      "top": 365,
+      "width": 1670,
+      "height": 456
+    },
+    "rows": 4,
+    "columns": 2
+  },
+  {
+    "slide": "markets",
+    "name": "market-scope",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 843,
+      "width": 1670,
+      "height": 42
+    },
+    "text": "Expansion priorities. Market selection follows identifiable demand and partner capability.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "markets",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 897,
+      "width": 1670,
+      "height": 100
+    }
+  },
+  {
+    "slide": "markets",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 897,
+      "width": 4,
+      "height": 100
+    }
+  },
+  {
+    "slide": "markets",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 907,
+      "width": 1630,
+      "height": 38
+    },
+    "text": "TO ADD [priority markets + accountable sponsors]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "markets",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 950,
+      "width": 1630,
+      "height": 43
+    },
+    "text": "Rank verified demand and delivery readiness to focus expansion on achievable opportunities.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "markets",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "product",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "product",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 185,
+      "width": 1670,
+      "height": 120
+    },
+    "text": "Live AI and eDocs capabilities",
+    "font": "Spartan",
+    "fontSize": 68
+  },
+  {
+    "slide": "product",
+    "name": "product-rule-0",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 350,
+      "width": 505,
+      "height": 3
+    }
+  },
+  {
+    "slide": "product",
+    "name": "product-name-0",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 390,
+      "width": 510,
+      "height": 132
+    },
+    "text": "AI document\nintelligence",
+    "font": "Spartan",
+    "fontSize": 40
+  },
+  {
+    "slide": "product",
+    "name": "product-scope-0",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 555,
+      "width": 510,
+      "height": 150
+    },
+    "text": "Working with document\ninformation",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "product",
+    "name": "product-rule-1",
+    "kind": "shape",
+    "box": {
+      "left": 692,
+      "top": 350,
+      "width": 505,
+      "height": 3
+    }
+  },
+  {
+    "slide": "product",
+    "name": "product-name-1",
+    "kind": "text",
+    "box": {
+      "left": 692,
+      "top": 390,
+      "width": 510,
+      "height": 132
+    },
+    "text": "eDocs",
+    "font": "Spartan",
+    "fontSize": 40
+  },
+  {
+    "slide": "product",
+    "name": "product-scope-1",
+    "kind": "text",
+    "box": {
+      "left": 692,
+      "top": 555,
+      "width": 510,
+      "height": 150
+    },
+    "text": "Structured digital document\ncapabilities",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "product",
+    "name": "product-rule-2",
+    "kind": "shape",
+    "box": {
+      "left": 1262,
+      "top": 350,
+      "width": 505,
+      "height": 3
+    }
+  },
+  {
+    "slide": "product",
+    "name": "product-name-2",
+    "kind": "text",
+    "box": {
+      "left": 1262,
+      "top": 390,
+      "width": 510,
+      "height": 132
+    },
+    "text": "Agentic\nexecution",
+    "font": "Spartan",
+    "fontSize": 40
+  },
+  {
+    "slide": "product",
+    "name": "product-scope-2",
+    "kind": "text",
+    "box": {
+      "left": 1262,
+      "top": 555,
+      "width": 510,
+      "height": 150
+    },
+    "text": "Governed participation by AI\nagents in digital processes",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "product",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 748,
+      "width": 1670,
+      "height": 145
+    }
+  },
+  {
+    "slide": "product",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 748,
+      "width": 4,
+      "height": 145
+    }
+  },
+  {
+    "slide": "product",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 758,
+      "width": 1630,
+      "height": 38
+    },
+    "text": "TO ADD [approved product demonstration or customer example]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "product",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 801,
+      "width": 1630,
+      "height": 88
+    },
+    "text": "Show one real workflow, its supported scope and commercial packaging to make the opportunity concrete.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "product",
+    "name": "product-status",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 920,
+      "width": 1670,
+      "height": 60
+    },
+    "text": "Live status reflects management confirmation. Adoption scale and product-specific ARR are not supplied.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "product",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "ambition",
+    "name": "growth-signature",
+    "kind": "image",
+    "box": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1080
+    },
+    "asset": "signature-curves"
+  },
+  {
+    "slide": "ambition",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-white"
+  },
+  {
+    "slide": "ambition",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 185,
+      "width": 1670,
+      "height": 120
+    },
+    "text": "A joint ARR growth ambition",
+    "font": "Spartan",
+    "fontSize": 68
+  },
+  {
+    "slide": "ambition",
+    "name": "current-label",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 352,
+      "width": 720,
+      "height": 60
+    },
+    "text": "Current ARR",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "ambition",
+    "name": "ambition-label",
+    "kind": "text",
+    "box": {
+      "left": 1100,
+      "top": 352,
+      "width": 700,
+      "height": 60
+    },
+    "text": "Management ambition",
+    "font": "Mulish",
+    "fontSize": 32
+  },
+  {
+    "slide": "ambition",
+    "name": "current-value",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 430,
+      "width": 700,
+      "height": 190
+    },
+    "text": "≈$3M",
+    "font": "Spartan",
+    "fontSize": 126
+  },
+  {
+    "slide": "ambition",
+    "name": "ambition-value",
+    "kind": "text",
+    "box": {
+      "left": 1100,
+      "top": 430,
+      "width": 700,
+      "height": 190
+    },
+    "text": "≈$9M",
+    "font": "Spartan",
+    "fontSize": 126
+  },
+  {
+    "slide": "ambition",
+    "name": "current-basis",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 631,
+      "width": 770,
+      "height": 55
+    },
+    "text": "Management approximation",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "ambition",
+    "name": "ambition-timing",
+    "kind": "text",
+    "box": {
+      "left": 1100,
+      "top": 631,
+      "width": 700,
+      "height": 55
+    },
+    "text": "Within 2–3 years",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "ambition",
+    "name": "growth-gap",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 741,
+      "width": 1670,
+      "height": 66
+    },
+    "text": "Approximately $6M of net ARR growth across the business",
+    "font": "Spartan",
+    "fontSize": 40
+  },
+  {
+    "slide": "ambition",
+    "name": "growth-caveat",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 821,
+      "width": 1670,
+      "height": 48
+    },
+    "text": "Management ambition, not a forecast. Partner contribution and timing remain to be validated.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "ambition",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 887,
+      "width": 1670,
+      "height": 108
+    }
+  },
+  {
+    "slide": "ambition",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 887,
+      "width": 4,
+      "height": 108
+    }
+  },
+  {
+    "slide": "ambition",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 897,
+      "width": 1630,
+      "height": 38
+    },
+    "text": "TO ADD [a reconciled commercial growth model]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "ambition",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 940,
+      "width": 1630,
+      "height": 51
+    },
+    "text": "Show churn, expansion, new contracts, timing and delivery capacity to substantiate the ambition.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "ambition",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "transaction",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "transaction",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 230,
+      "width": 830,
+      "height": 310
+    },
+    "text": "$10–15M",
+    "font": "Spartan",
+    "fontSize": 100
+  },
+  {
+    "slide": "transaction",
+    "name": "signature-divider",
+    "kind": "shape",
+    "box": {
+      "left": 1020,
+      "top": 127,
+      "width": 2,
+      "height": 825
+    }
+  },
+  {
+    "slide": "transaction",
+    "name": "feature-0",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 134,
+      "width": 716,
+      "height": 184
+    },
+    "text": "Commercial role: The shareholder could adopt the\nplatform or distribute it to customers.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "Commercial role:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " The shareholder could adopt the\nplatform or distribute it to customers."
+      }
+    ]
+  },
+  {
+    "slide": "transaction",
+    "name": "feature-1",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 352,
+      "width": 716,
+      "height": 184
+    },
+    "text": "Shared ownership: Participation in the equity value\ncreated through successful expansion.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "Shared ownership:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " Participation in the equity value\ncreated through successful expansion."
+      }
+    ]
+  },
+  {
+    "slide": "transaction",
+    "name": "feature-2",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 570,
+      "width": 716,
+      "height": 184
+    },
+    "text": "Flexible structure: Strategic fit remains central. Final\nterms and valuation are subject to agreement.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "Flexible structure:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " Strategic fit remains central. Final\nterms and valuation are subject to agreement."
+      }
+    ]
+  },
+  {
+    "slide": "transaction",
+    "name": "feature-3",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 788,
+      "width": 716,
+      "height": 184
+    },
+    "text": "Execution commitment: An active commercial\nsponsor and an agreed plan turn access into\ndeployment.",
+    "font": "Mulish",
+    "fontSize": 28,
+    "runs": [
+      {
+        "text": "Execution commitment:",
+        "bold": true,
+        "color": "#7000FF"
+      },
+      {
+        "text": " An active commercial\nsponsor and an agreed plan turn access into\ndeployment."
+      }
+    ]
+  },
+  {
+    "slide": "transaction",
+    "name": "lead-heading",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 554,
+      "width": 810,
+      "height": 60
+    },
+    "text": "Up to 25% minority ownership",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "transaction",
+    "name": "lead-body",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 625,
+      "width": 760,
+      "height": 138
+    },
+    "text": "Primarily founder secondary. Founders continue as CEO\nand CSO (Chief of Sales).",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "transaction",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "discussion",
+    "name": "closing-signature",
+    "kind": "image",
+    "box": {
+      "left": 0,
+      "top": 0,
+      "width": 1920,
+      "height": 1076
+    },
+    "asset": "signature-closing-art"
+  },
+  {
+    "slide": "discussion",
+    "name": "circularo-logo",
+    "kind": "image",
+    "box": {
+      "left": 122,
+      "top": 70,
+      "width": 224,
+      "height": 50
+    },
+    "asset": "logo-blue"
+  },
+  {
+    "slide": "discussion",
+    "name": "slide-title",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 300,
+      "width": 735,
+      "height": 335
+    },
+    "text": "Partnership\ndiscussion",
+    "font": "Spartan",
+    "fontSize": 110
+  },
+  {
+    "slide": "discussion",
+    "name": "close-body",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 670,
+      "width": 670,
+      "height": 145
+    },
+    "text": "Agree opportunities, commercial owners,\nresources and an ARR plan.",
+    "font": "Mulish",
+    "fontSize": 34
+  },
+  {
+    "slide": "discussion",
+    "name": "contact-label",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 845,
+      "width": 670,
+      "height": 50
+    },
+    "text": "Start the discussion",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "discussion",
+    "name": "contact-detail",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 910,
+      "width": 670,
+      "height": 85
+    },
+    "text": "investors@circularo.com",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "discussion",
+    "name": "footer",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 1010,
+      "width": 1500,
+      "height": 35
+    },
+    "text": "CONFIDENTIAL • FOUNDER REVIEW DRAFT",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "opportunity",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "01",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "today",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "02",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "today",
+    "name": "financial-units",
+    "kind": "text",
+    "box": {
+      "left": 1610,
+      "top": 135,
+      "width": 180,
+      "height": 42
+    },
+    "text": "USD",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "position",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "03",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "position",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 841,
+      "width": 830,
+      "height": 145
+    }
+  },
+  {
+    "slide": "position",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 841,
+      "width": 4,
+      "height": 145
+    }
+  },
+  {
+    "slide": "position",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 851,
+      "width": 790,
+      "height": 38
+    },
+    "text": "TO ADD [a documented reason for selection]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "position",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 894,
+      "width": 790,
+      "height": 88
+    },
+    "text": "A customer example would substantiate differentiation.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "references",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "04",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "references",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 795,
+      "width": 810,
+      "height": 195
+    }
+  },
+  {
+    "slide": "references",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 795,
+      "width": 4,
+      "height": 195
+    }
+  },
+  {
+    "slide": "references",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 805,
+      "width": 770,
+      "height": 38
+    },
+    "text": "TO ADD [one approved deployment outcome]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "references",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 848,
+      "width": 770,
+      "height": 138
+    },
+    "text": "State the process, scope and measured result to show value\nbeyond reference names. Confirm program naming.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "references",
+    "name": "program-group-label",
+    "kind": "text",
+    "box": {
+      "left": 1098,
+      "top": 72,
+      "width": 716,
+      "height": 48
+    },
+    "text": "Shared services and distribution",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "process",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "05",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "process",
+    "name": "process-context",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 342,
+      "width": 1670,
+      "height": 47
+    },
+    "text": "Illustrative workflow. Applications and AI agents can participate through programmable capabilities.",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "process",
+    "name": "evidence-continuity",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 951,
+      "width": 1670,
+      "height": 45
+    },
+    "text": "A continuing record of decisions, execution and evidence",
+    "font": "Mulish",
+    "fontSize": 28
+  },
+  {
+    "slide": "saas",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "06",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "saas",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 819,
+      "width": 740,
+      "height": 175
+    }
+  },
+  {
+    "slide": "saas",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 819,
+      "width": 4,
+      "height": 175
+    }
+  },
+  {
+    "slide": "saas",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 829,
+      "width": 700,
+      "height": 38
+    },
+    "text": "TO ADD [partner adoption model]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "saas",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 872,
+      "width": 700,
+      "height": 118
+    },
+    "text": "Add eligible accounts, timing and retained ARR to test\nthe commercial scale.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "shared-services",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "07",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "shared-services",
+    "name": "service-references",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 840,
+      "width": 1670,
+      "height": 50
+    },
+    "text": "References: TDRA GovSign, Digital Dubai DigiSign and Sharjah Sign",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "shared-services",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 901,
+      "width": 1670,
+      "height": 95
+    }
+  },
+  {
+    "slide": "shared-services",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 901,
+      "width": 4,
+      "height": 95
+    }
+  },
+  {
+    "slide": "shared-services",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 911,
+      "width": 1630,
+      "height": 38
+    },
+    "text": "TO ADD [a sponsor-led deployment case]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "shared-services",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 954,
+      "width": 1630,
+      "height": 38
+    },
+    "text": "Define entities, hosting, contracts and retained ARR to test whether this model can be repeated.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "markets",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "08",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "product",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "09",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "ambition",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "10",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "transaction",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "11",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "transaction",
+    "name": "review-panel",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 795,
+      "width": 810,
+      "height": 195
+    }
+  },
+  {
+    "slide": "transaction",
+    "name": "review-accent",
+    "kind": "shape",
+    "box": {
+      "left": 122,
+      "top": 795,
+      "width": 4,
+      "height": 195
+    }
+  },
+  {
+    "slide": "transaction",
+    "name": "review-label",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 805,
+      "width": 770,
+      "height": 38
+    },
+    "text": "TO ADD [expansion funding + ownership plan]",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "transaction",
+    "name": "review-reason",
+    "kind": "text",
+    "box": {
+      "left": 142,
+      "top": 848,
+      "width": 770,
+      "height": 138
+    },
+    "text": "Clarify any primary component and governance. Secondary\nproceeds go mainly to selling founders.",
+    "font": "Mulish",
+    "fontSize": 26
+  },
+  {
+    "slide": "transaction",
+    "name": "transaction-subject",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 160,
+      "width": 810,
+      "height": 50
+    },
+    "text": "Preferred transaction (USD)",
+    "font": "Mulish",
+    "fontSize": 30
+  },
+  {
+    "slide": "discussion",
+    "name": "slide-number",
+    "kind": "text",
+    "box": {
+      "left": 1730,
+      "top": 1010,
+      "width": 65,
+      "height": 35
+    },
+    "text": "12",
+    "font": "Mulish",
+    "fontSize": 20
+  },
+  {
+    "slide": "discussion",
+    "name": "future-options",
+    "kind": "text",
+    "box": {
+      "left": 122,
+      "top": 170,
+      "width": 1670,
+      "height": 96
+    },
+    "text": "Potential future paths: IPO, private equity or a further strategic investment. Route and timing remain open.",
+    "font": "Mulish",
+    "fontSize": 28
+  }
+]
