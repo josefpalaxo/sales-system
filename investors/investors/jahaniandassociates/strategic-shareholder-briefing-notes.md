@@ -2,7 +2,7 @@
 id: investor-material:jahani-strategic-shareholder-briefing-notes
 title: Circularo Briefing Review Notes
 status: draft
-revision: 1
+revision: 3
 classification: confidential
 canonical: false
 evidence_state: mixed
@@ -11,6 +11,9 @@ created: 2026-10-06
 updated: 2026-10-06
 review_by: 2026-10-12
 external_sharing_approval: pending
+export_source_revision: 3
+export_source_sha256: dd454aaa9febba530770c9dd3af3b95b087ef08a06f81a742b2a8c048a3af1ae
+exports_updated: 2026-10-06
 ---
 
 # Briefing record and completion notes
@@ -23,18 +26,18 @@ Three-page adviser briefing requested by Josef on 6 October 2026 for his discuss
 
 - [Editable briefing](strategic-shareholder-briefing.docx)
 - [PDF briefing](strategic-shareholder-briefing.pdf)
-- [Original export builder](build-briefing.py)
+- [Markdown export builder](build-briefing.py)
 
-Normal revisions replace these stable paths. Render previews are held outside the repository in `/private/tmp/circularo-jahani-briefing/`.
+Normal revisions replace these stable paths. The builder now reads the Markdown directly; it no longer embeds a separate copy of the briefing text. Latest render previews are held outside the repository in `/private/tmp/circularo-jahani-briefing-review/`.
 
 ## Source lineage
 
 | Source | Status and locator | Used for |
 | --- | --- | --- |
 | [Management pre-call memo](<sources/25-09-2026-Pre-Call Memo - Circularo.md>) | User-supplied draft; body dated 2 October 2026 despite filename; no approval metadata or revision | Company and product sections 1 and 4; historical financials section 9 Q2; September 2026 commercial accounts section 9 Q1; monetization section 11; terms section 13; risks section 14; live and future product distinction section 18 |
-| [Investor positioning brief](<sources/22-09-2026-Circularo — Investor Positioning Brief.md>) | User-supplied confidential draft; body October 2026; no revision or approval metadata | Transaction sections 2 and 3; platform expansion sections 7-10; source-category discipline section 20 |
+| [Investor positioning brief](<sources/22-09-2026-Circularo — Investor Positioning Brief.md>) | User-supplied confidential draft; body October 2026; no revision or approval metadata | Transaction sections 2 and 3; product evolution and capability roles section 6; platform expansion and multiplication sections 7-12; source-category discipline section 20 |
 | [Investor process and transaction context](<sources/22-09-2026-Circularo – Investor Process & Transaction Context.md>) | User-supplied draft; no revision or approval metadata | Liquidity requirement, flexibility and valuation discussion sections 3 and 4 |
-| [AI opportunity brief](<sources/22-09-2026-Circularo — AI Opportunity in the Agentic Era.md>) | User-supplied confidential draft; body October 2026; no revision or approval metadata | Future direction only; maturity distinctions section 19 |
+| [AI opportunity brief](<sources/22-09-2026-Circularo — AI Opportunity in the Agentic Era.md>) | User-supplied confidential draft; body October 2026; no revision or approval metadata | Institutional authority problem and future trust/execution role sections 1-6 and 10; maturity distinctions section 19 |
 | [Master investment thesis](../../master/strategy/investment-thesis.md) | `investor-master:strategy-investment-thesis`, draft revision 1, updated 1 October 2026 | Strategic synthesis; contrary 2025 ARR value retained as an unresolved issue below |
 | [Strategic partnership thesis](../../master/strategy/strategic-partnership-thesis.md) | `investor-master:strategy-strategic-partnership-thesis`, draft revision 1, updated 1 October 2026 | Concrete shareholder contribution and commercial partnership alternatives |
 | [Master executive index](../../master/investor-materials-master.md) and [data quality register](../../master/data-quality-and-open-questions.md) | Index draft revision 1, updated 1 October 2026; data quality draft revision 2, updated 6 October 2026 | Approval and verification boundaries; the index is a scaffold and does not approve the newer supplied figures; DQ-20 through DQ-24 retain the briefing source issues |
@@ -42,7 +45,9 @@ Normal revisions replace these stable paths. Render previews are held outside th
 
 Financial and operating assertions are **reported management draft information**, not CONFIRMED or audited actuals. Historical results are dated 2024/2025 and customer accounts September 2026. No source has been promoted to approved. Generic commercial descriptions are used; precise pricing, limits and entitlements are not copied.
 
-## Completion fields in the briefing
+## Original completion fields
+
+The current Markdown no longer contains the five completion fields below. They are retained here as review history and unresolved information needs; the updated Word/PDF follow the latest Markdown and do not restore them.
 
 | Field | Information Josef can provide | Handling |
 | --- | --- | --- |
@@ -74,8 +79,10 @@ Josef should complete the five fields, reconcile the flagged finance/definition 
 
 ## Verification
 
+Word and PDF were regenerated from the latest Markdown revision 3, including Josef's edits to company positioning, monetization, profitability and partner wording, and removal of completion fields. Export provenance is recorded in the frontmatter. Markdown wording was not changed during export.
+
 - Bundled documents renderer produced exactly three A4 pages. Every page image was inspected; no clipping, overlap, broken table, missing glyph or unintended page break was found.
-- Final PDF contains all five completion fields and excludes both disputed 2025 ARR values and the unverified Qubit mandate statement.
+- Word body text and all table cells match the Markdown wording in sequence after removing Markdown formatting. The final PDF is exactly three pages and contains the evolution, scale engines, Platform Multiplication and expanded AI sections. Removed completion fields and discussion questions are absent.
 - Word accessibility audit returned no high, medium or low findings.
 - `rtk make catalog` succeeded; `python3 scripts/build_catalog.py --check` confirmed generated catalogues are current.
 - `rtk make validate` was run. Full repository validation is blocked by unrelated existing paths: root `tmp/`, nested `work/m-capital/work/`, and unresolved links in vendored `skia-canvas` and `debug` READMEs under `slides-projects/circularo-slide-generator/vendor/node_modules/`. No validation error names the new briefing, its source files or the updated data quality register. Those unrelated files were not modified.
@@ -85,3 +92,5 @@ Josef should complete the five fields, reconcile the flagged finance/definition 
 - 2026-10-06: Created the requested three-page draft with management attribution, five completion fields, source lineage and visible unresolved issues. No external messages sent and no source approval status changed.
 
 - 2026-10-06: Saved the full briefing as the Markdown editing source at Josef's request. Word and PDF remain the original reviewed exports; future wording changes should begin in Markdown and be reflected in exports when regenerated. The Python builder still embeds revision 1 export text and must be synchronized before any rebuild.
+- 2026-10-06: At Josef's request, added the opening evolution and capability-role table, named the three engines for scale and Platform Multiplication paths, connected shareholder access to the growth mechanism, expanded the institutional AI trust thesis and removed the discussion questions. User edits to company positioning and monetization were preserved. Current capabilities, development and agentic vision remain distinct; no financial values or approvals changed.
+- 2026-10-06: Regenerated Word and PDF from the latest Markdown at Josef's request. Replaced duplicated builder prose with direct Markdown import, preserved all wording and emphasis, adjusted spacing and page breaks, and visually verified all three pages. No external messages sent or approval states changed.

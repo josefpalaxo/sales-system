@@ -2,7 +2,7 @@
 id: investor-material:jahani-strategic-shareholder-briefing
 title: Circularo Strategic Shareholder Opportunity
 status: draft
-revision: 2
+revision: 3
 classification: confidential
 canonical: false
 evidence_state: mixed
@@ -22,6 +22,23 @@ review_notes: strategic-shareholder-briefing-notes.md
 Prepared for Joshua Jahani by Josef Neumann  
 Confidential discussion draft | 6 October 2026
 
+### How Circularo has evolved
+
+Since our earlier conversations, Circularo's scope has expanded from digital signatures and document workflows toward a broader Digital Trust and Trust Orchestration platform, including government shared-service deployments.
+
+**Digital Signatures → Digital Trust → Trusted Execution → Agentic Trusted Execution**
+
+This describes expanding strategic scope, not four completed product generations. eSignature gave us an entry point into identity, approvals, organizational authority, trust services, evidence and records. We are building on that foundation toward richer trusted records and governed execution, with agentic capabilities remaining a longer-term direction.
+
+| Area | Strategic role |
+| --- | --- |
+| **Content & Collaboration** | Connect preparation, versions and review to the subsequent decision. |
+| **Identity & Authority** | Establish who is acting, whom they represent and what they may do; deeper authority models are in development. |
+| **Workflow & Approval** | Coordinate participation, decisions and required approvals. |
+| **Trust Services** | Apply supported verification, signatures, seals, timestamps and related trust services. |
+| **Evidence & Trusted Records** | Preserve process evidence and context; richer native Trusted Records are in development. |
+| **Programmable Trust** | Connect trust capabilities to enterprise applications and integrations through APIs, providing a foundation for future governed agentic operations. |
+
 We are exploring Circularo's first external shareholder transaction to accelerate GCC and international expansion while providing meaningful liquidity to the founders. We would value your perspective on the investor universe, transaction structure and evidence needed to support a market-tested valuation.
 
 ### The business today
@@ -32,7 +49,7 @@ Circularo’s strategic proposition is **Trust Orchestration** — connecting id
 
 The same technology operates as managed SaaS, in customer-controlled infrastructure and as shared services supporting multiple organizations.
 
-Our revenue model is subscription-based, complemented by consumption-based add-ons, advanced trust services and support services. We have built the business without external institutional equity funding. Management reports profitable operations and no debt.
+Our revenue model is subscription-based, complemented by consumption-based add-ons, advanced trust services and support services. We have built the business without external institutional equity funding. We are profitable and debt free.
 
 ### Reported financial performance
 
@@ -47,16 +64,31 @@ Figures are management-reported historical results. The adjustment basis and sup
 
 Our September 2026 subscription snapshot reports 143 active paid commercial accounts across 15 countries. These commercial accounts are distinct from the underlying organizations reached through government platforms and enterprise groups. Revenue remains predominantly GCC-based.
 
-### Current figures to complete
-
-[COMPLETE 1: Latest ARR in USD, snapshot date and definition.]  
-[COMPLETE 2: 2026 YTD net revenue and adjusted EBITDA, reporting period, and top-five customer share of ARR.]
-
 <!-- Page 2 -->
 
 ## Growth Through Platforms and Distribution
 
-Our growth strategy builds on positions already established. A government shared-service platform or distribution partner can bring Circularo to multiple organizations through one technology relationship. The investment case depends on converting that reach into paying adoption, increased usage and recurring revenue.
+Our growth strategy builds on the operating business and platform positions already established. The next phase is to multiply adoption within those environments and replicate the model through new platforms and partners.
+
+### Three engines for scale
+
+1. **Direct Enterprise Adoption** expands through new customers and additional users, departments and use cases within existing accounts.
+2. **Sovereign & Shared-Service Platforms** expand through broader paid adoption across underlying entities, additional processes and replication in other jurisdictions.
+3. **Strategic Distribution Partners** commercialize Circularo through their own brands, services and customer ecosystems.
+
+### Platform Multiplication as the key growth mechanism
+
+**Direct Enterprise:** Circularo → Enterprise Customer
+
+**Government Shared Services:** Circularo → Government Shared-Service Platform → Multiple Government Entities
+
+**Strategic Distribution:** Circularo → Strategic Partner / Service Provider → Multiple Downstream Customers
+
+**One Circularo platform deployment or strategic relationship can potentially create access to many underlying organizations, departments or downstream customers.** Together, these engines create the **Platform Multiplication effect**: growth through direct adoption, expansion within shared platforms and distribution across partner ecosystems.
+
+The next phase focuses on multiplying a proven operating base. The investment case depends on converting ecosystem access into paying adoption and recurring revenue; replication in new markets still requires commercial validation and execution.
+
+This is why the choice of shareholder matters. A strategic shareholder with relevant government, enterprise or portfolio-company access can accelerate the same mechanism through specific deployments, distribution initiatives and expansion opportunities.
 
 ### Existing platforms and expansion opportunities
 
@@ -68,15 +100,9 @@ The following positions are described in management's current briefing. Expansio
 | TDRA<br>GovSign | Federal shared-service deployment; GovSign 2.0 launched in October 2025. | Further federal-entity adoption and expanded document processes. |
 | Sharjah Government<br>Sharjah Sign | Shared-service deployment across the Sharjah government ecosystem. | Additional departments, users and transaction volumes. |
 
-[COMPLETE 3: For each platform, add current annual Circularo revenue, active versus addressable entities, and the next procurement or adoption milestone with expected timing.]
+### Strategic distribution in practice
 
-### Three routes to recurring revenue growth
-
-Direct enterprise adoption grows through new customers and expansion within existing accounts. Government shared services grow through wider paid adoption and additional use cases inside existing platforms, followed by replication in other jurisdictions. Strategic distribution grows through partners commercializing Circularo within their own customer ecosystems.
-
-Management identifies e& DigiSign and TCC/Mokham in Saudi Arabia as examples of the partner model. The economics depend on each agreement: downstream service revenue must be distinguished from the revenue Circularo receives.
-
-[COMPLETE 4: Confirm e& DigiSign and TCC/Mokham commercial status, current Circularo revenue and contracted participation in downstream growth.]
+e& DigiSign and TCC/Mokham in Saudi Arabia are  examples of the partner co-branded model. The economics depend on each agreement: downstream service revenue must be distinguished from the revenue Circularo receives.
 
 ### Strategic value and execution risks
 
@@ -102,24 +128,20 @@ We want a shareholder who can help turn Circularo's existing technology and cust
 
 A wholly secondary purchase of 25% for USD 10-15M would imply USD 40-60M equity value. We would value your assessment of whether the business and buyer-specific opportunities support that expectation, and which alternative structures merit consideration.
 
-[COMPLETE 5: Minimum desired founder cash proceeds and any primary capital requirement for the agreed growth plan.]
-
 ### The shareholder we are looking for
 
 Our preferred routes include a strategic technology company, a sovereign or institutional investor, or a group with relevant GCC and international reach. We are open to considering financial investors with demonstrable commercial capabilities. We would like to understand which candidates can provide founder liquidity and make a measurable contribution to growth.
 
 Any strategic rationale should translate into concrete initiatives, such as distribution resources, portfolio deployments, integrations or named market-entry programmes. We also want to understand the governance and alignment required to make those initiatives work.
 
-### Longer term product direction
+### The AI opportunity and longer term product direction
 
-We are developing richer trusted records and deeper authority controls. Our longer-term vision is to govern and evidence consequential actions initiated by enterprise systems and AI agents. This is development and strategic optionality; it is separate from current revenue and released product capability.
+For Circularo, the larger AI opportunity lies in the institutional trust problem created when AI systems move from advising people to acting on behalf of organizations.
 
-### Questions for our discussion
+**Intelligence alone does not establish authority.** Governments and enterprises need infrastructure that determines who or what may act, under whose authority, through which controls, and what verifiable evidence remains afterwards.
 
-1. Which buyer categories are credible at our scale and willing to support meaningful founder secondary?
+Circularo's existing architecture, sovereign deployments, workflow and approval capabilities, APIs and transaction evidence provide a relevant foundation for addressing that problem. Our developing Trusted Records and deeper authority models extend that foundation.
 
-2. What evidence and comparable transactions should determine valuation, and how does the minority preference affect appetite?
+This creates a potential role for Circularo as the **trust, authority, execution and evidence layer for consequential digital actions performed by humans, enterprise systems and increasingly AI agents**.
 
-3. Which commercial initiatives could justify strategic ownership, and which could be achieved through a partnership?
-
-4. What preparation, execution team and engagement economics would you recommend for a focused process?
+Agentic Trusted Execution remains a longer-term strategic direction. It should be understood as an opportunity to expand Circularo's role and product category, separate from current revenue and released capabilities.
