@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="markdown-html-pack">
+<meta name="description" content="__DESCRIPTION__">
+<title>__TITLE__</title>
+<style>
+:root{color-scheme:light;--brand:oklch(.514 .290 292);--ink:oklch(.245 .018 290);--muted:oklch(.445 .023 290);--surface:oklch(.982 .004 290);--paper:oklch(1 0 0);--line:oklch(.887 .010 290);--tint:oklch(.952 .026 292);--focus:oklch(.514 .290 292)}
+*{box-sizing:border-box}html{scroll-padding-top:96px}body{margin:0;background:var(--paper);color:var(--ink);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:16px;line-height:1.65}a{color:var(--brand);text-underline-offset:3px;overflow-wrap:anywhere}a:hover{text-decoration-thickness:2px}button,input{font:inherit}button{cursor:pointer;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:7px 12px;font-size:13px;font-weight:550;line-height:1.5;transition:background-color .15s,color .15s}button:hover{background:var(--tint);color:var(--brand)}button:active{background:var(--line)}button:disabled{cursor:default;color:var(--muted)}:focus-visible{outline:2px solid var(--focus);outline-offset:4px}[hidden]{display:none!important}[data-js]{display:none}.enhanced [data-js]{display:flex}.skip-link{position:fixed;top:-100px;left:16px;z-index:5;background:var(--paper);padding:10px 16px}.skip-link:focus{top:10px}
+.topbar{position:sticky;top:0;z-index:3;display:flex;align-items:center;justify-content:space-between;gap:20px;min-height:74px;padding:12px 28px;border-bottom:1px solid var(--line);background:var(--paper)}.brand{display:flex;align-items:baseline;gap:17px;min-width:0}.wordmark{color:var(--brand);font-size:23px;font-weight:750;letter-spacing:-.025em}.pack-name{font-size:16px;font-weight:600}.top-actions{display:flex;align-items:center;gap:10px}.draft-label{color:var(--muted);font-size:12px}.menu-toggle{display:none!important}.layout{display:grid;grid-template-columns:270px minmax(0,1fr);max-width:1560px;margin:auto;min-height:calc(100vh - 74px)}
+.sidebar{position:sticky;top:74px;align-self:start;max-height:calc(100vh - 74px);overflow:auto;padding:26px 20px 32px;background:var(--surface);border-right:1px solid var(--line);scrollbar-gutter:stable}.search-control{display:block!important;margin-bottom:25px}.search-control[data-js]{display:none!important}.enhanced .search-control[data-js]{display:block!important}.search-control label{display:block;color:var(--muted);font-size:12px;font-weight:600;margin-bottom:7px}.search-control input{width:100%;border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:6px;padding:10px 12px;font-size:14px;min-height:42px}.search-control input::placeholder{color:var(--muted);opacity:1}.nav-group{margin:0 0 24px}.nav-group h2{font-size:12px;color:var(--muted);font-weight:650;margin:0 0 7px;padding-left:10px}.nav-group ul{padding:0;margin:0;list-style:none}.document-link{display:block;border-radius:6px;padding:7px 10px;font-size:14px;line-height:1.4;color:var(--ink);text-decoration:none;margin:2px 0}.document-link:hover{background:var(--tint);text-decoration:none}.document-link[aria-current=page]{background:var(--tint);color:var(--brand);font-weight:650}.scope{border-top:1px solid var(--line);padding-top:16px;color:var(--muted);font-size:12px}.scope summary{font-weight:650;cursor:pointer}.scope p{margin:10px 0}.scope ul{padding-left:18px}.scope li{margin-bottom:5px;overflow-wrap:anywhere}
+main{min-width:0;padding:37px 52px 80px}.reader-head{display:flex;align-items:center;justify-content:space-between;gap:18px;margin:0 auto 25px;max-width:920px}.reader-context{font-size:12px;color:var(--muted);margin:0}.view-button[aria-pressed=true]{background:var(--tint);color:var(--brand)}.document{max-width:920px;margin:0 auto 72px;scroll-margin-top:104px}.document-tools{display:flex;align-items:center;justify-content:space-between;gap:14px;padding-bottom:22px;margin-bottom:17px;border-bottom:1px solid var(--line)}.document-status{font-size:12px;color:var(--muted)}.document-actions{gap:8px;flex-wrap:wrap}.section-contents{font-size:13px;color:var(--muted);margin:16px 0 27px}.section-contents summary{cursor:pointer}.section-contents ul{padding-left:20px;margin:10px 0}.section-contents li{margin:4px 0}.section-contents a{color:var(--muted)}.doc-body img{max-width:100%;height:auto}.doc-body{font-size:16px;line-height:1.75;overflow-wrap:break-word}.doc-body h1{font-size:32px;font-weight:700;line-height:1.22;letter-spacing:-.025em;max-width:34ch;margin:0 0 25px;text-wrap:balance}.doc-body h2{font-size:23px;line-height:1.35;letter-spacing:-.015em;margin:43px 0 16px;text-wrap:balance;scroll-margin-top:106px}.doc-body h3{font-size:18px;line-height:1.4;margin:28px 0 12px;text-wrap:balance;scroll-margin-top:106px}.doc-body p,.doc-body>ul,.doc-body>ol{max-width:72ch}.doc-body p{margin:0 0 18px;text-wrap:pretty}.doc-body ul,.doc-body ol{padding-left:24px;margin:0 0 21px}.doc-body li{padding-left:3px;margin:8px 0}.doc-body strong{font-weight:650}.doc-body code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:.86em;background:var(--surface);padding:2px 5px;border-radius:3px;overflow-wrap:anywhere}.doc-body pre{overflow:auto;background:var(--surface);padding:18px;border-radius:6px;font-size:13px}.doc-body pre code{padding:0}.doc-body blockquote{margin:22px 0;padding:18px 22px;background:var(--surface);border:1px solid var(--line);border-radius:6px}.table-wrap{overflow-x:auto;margin:23px 0 28px;max-width:100%}.doc-body table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.6;text-align:left;table-layout:auto}.doc-body th,.doc-body td{vertical-align:top;padding:13px 15px;border-bottom:1px solid var(--line);min-width:135px}.doc-body th{background:var(--surface);font-weight:650;border-top:1px solid var(--line)}.doc-body td:first-child{min-width:180px}.doc-body td p{margin:0}.omitted-source{color:var(--muted);text-decoration:underline dotted;text-underline-offset:3px;cursor:help}.omitted-source::after{content:" ↗ omitted";font-size:11px;white-space:nowrap}.footer-note{font-size:12px;color:var(--muted);max-width:920px;margin:34px auto 0;padding-top:22px;border-top:1px solid var(--line)}
+.search-results{max-width:920px;margin:auto}.search-results h1{font-size:28px;margin:0 0 12px;letter-spacing:-.02em}.results-heading{display:flex;align-items:center;justify-content:space-between;gap:16px}.results-count{color:var(--muted);font-size:14px;margin:0 0 20px}.result-list{list-style:none;padding:0;margin:0}.result-list li{border-bottom:1px solid var(--line);padding:20px 0}.result-list a{font-size:18px;font-weight:650;text-decoration:none}.result-list a:hover{text-decoration:underline}.result-list p{max-width:70ch;color:var(--muted);font-size:14px;margin:7px 0 0}.result-list mark{background:var(--tint);color:var(--ink);border-radius:2px}.empty-state{padding:25px 0;font-size:16px}.notice{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:10px 18px;border-radius:6px;z-index:4;font-size:13px;max-width:calc(100vw - 32px);text-align:center}.notice:empty{display:none}.noscript-note{color:var(--muted);font-size:14px;padding:0 0 25px}
+@media(min-width:1561px){.layout{border-left:1px solid var(--line);border-right:1px solid var(--line)}}
+@media(max-width:1060px){.layout{grid-template-columns:235px minmax(0,1fr)}main{padding:32px 30px 65px}.topbar{padding:12px 22px}.draft-label{display:none}.sidebar{padding:23px 15px}.doc-body h1{font-size:29px}}
+@media(max-width:760px){html{scroll-padding-top:90px}.topbar{padding:12px 16px;min-height:68px}.brand{gap:10px;align-items:center}.wordmark{font-size:20px}.pack-name{font-size:13px;line-height:1.3;max-width:14ch}.top-actions{gap:6px}.top-actions button{padding:7px 9px;font-size:12px}.enhanced .menu-toggle{display:block!important}.layout{display:block;min-height:calc(100vh - 68px)}.sidebar{position:static;max-height:none;border-right:0;border-bottom:1px solid var(--line);padding:20px 20px 24px}.enhanced .sidebar{display:none}.enhanced.menu-open .sidebar{display:block;max-height:65vh}.nav-group{margin-bottom:19px}main{padding:26px 20px 55px}.reader-head{margin-bottom:22px}.document-tools{align-items:flex-start;gap:9px;padding-bottom:17px}.document-actions{justify-content:flex-end;gap:6px}.document-actions button{font-size:12px;padding:5px 8px}.document-status{padding-top:5px;white-space:nowrap;font-size:11px}.doc-body{font-size:15px;line-height:1.75}.doc-body h1{font-size:27px;line-height:1.25;margin-bottom:23px}.doc-body h2{font-size:21px;margin-top:34px}.doc-body h3{font-size:17px}.doc-body table{font-size:13px}.doc-body th,.doc-body td{padding:10px 12px}.doc-body td:first-child{min-width:150px}.section-contents{margin:13px 0 22px}.search-results h1{font-size:25px}.footer-note{line-height:1.6}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;scroll-behavior:auto!important}}
+@media print{@page{size:A4;margin:17mm}html,body{font-size:10pt;line-height:1.5;color:black;background:white}.topbar{position:static;padding:0 0 12px;border-bottom:1px solid #aaa;min-height:0;margin-bottom:25px}.wordmark{font-size:17pt;color:black}.pack-name{font-size:11pt}.top-actions,.sidebar,.reader-head,.document-tools,.section-contents,.notice,.footer-note,.search-results,.skip-link,.noscript-note{display:none!important}.layout{display:block;max-width:none;border:0}main{padding:0}.document,.document[hidden]{display:block!important;max-width:none;margin:0;break-after:page}.document:last-child{break-after:auto}.doc-body{font-size:10pt;line-height:1.5}.doc-body h1{font-size:21pt;max-width:none;margin:0 0 18px}.doc-body h2{font-size:15pt;margin:25px 0 10px;break-after:avoid}.doc-body h3{font-size:12pt;break-after:avoid}.doc-body p,.doc-body>ul,.doc-body>ol{max-width:none}.doc-body p{margin-bottom:11px}.doc-body li{margin:5px 0}.table-wrap{overflow:visible;margin:15px 0}.doc-body table{font-size:8.5pt;line-height:1.45;table-layout:fixed;overflow-wrap:anywhere}.doc-body th,.doc-body td,.doc-body td:first-child{min-width:0;padding:8px}thead{display:table-header-group}tr{break-inside:avoid}.doc-body a{color:black}.omitted-source::after{font-size:7pt}.doc-body code{font-size:8pt}.doc-body pre{white-space:pre-wrap}.doc-body blockquote{break-inside:avoid}}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+<header class="topbar">
+  <div class="brand">__BRAND__<span class="pack-name">__TITLE__</span></div>
+  <div class="top-actions"><span class="draft-label">__SUBTITLE__</span><button class="menu-toggle" type="button" aria-controls="document-sidebar" aria-expanded="false" data-js>Browse</button><button id="print-pack" type="button" data-js>Print pack</button></div>
+</header>
+<div class="layout">
+<aside class="sidebar" id="document-sidebar" aria-label="Document browser">
+  <div class="search-control" data-js><label for="document-search">Search the documents</label><input id="document-search" type="search" placeholder="Search all __COUNT__ documents" autocomplete="off" spellcheck="false"></div>
+  <nav aria-label="Documents">__NAVIGATION__</nav>
+  <details class="scope" id="bundle-scope"><summary>About this edition</summary>__NOTES__</details>
+</aside>
+<main id="main-content" tabindex="-1">
+  <div class="reader-head"><p class="reader-context" id="reader-context">__CONTEXT__</p><button class="view-button" id="read-all" type="button" aria-pressed="false" data-js>Read all</button></div>
+  <noscript><p class="noscript-note">All documents are shown below. Use the contents menu or your browser's Find and Print commands.</p></noscript>
+  <section class="search-results" id="search-results" aria-labelledby="search-heading" hidden><div class="results-heading"><h1 id="search-heading">Search results</h1><button id="clear-search" type="button">Clear search</button></div><p class="results-count" id="results-count" role="status"></p><ul class="result-list" id="result-list"></ul></section>
+  <div id="documents">__ARTICLES__</div>
+  <p class="footer-note">__FOOTER__</p>
+</main>
+</div>
+<div class="notice" id="notice" role="status" aria-live="polite"></div>
+<script type="application/json" id="source-data">__SOURCE_DATA__</script>
+<script type="application/json" id="pack-settings">__SETTINGS__</script>
+<script>
+(() => {
+  'use strict';
+  const sources = JSON.parse(document.getElementById('source-data').textContent);
+  const settings = JSON.parse(document.getElementById('pack-settings').textContent);
+  const documents = Array.from(document.querySelectorAll('.document'));
+  const navLinks = Array.from(document.querySelectorAll('.document-link'));
+  const search = document.getElementById('document-search');
+  const results = document.getElementById('search-results');
+  const resultList = document.getElementById('result-list');
+  const readerContext = document.getElementById('reader-context');
+  const readAll = document.getElementById('read-all');
+  const menu = document.querySelector('.menu-toggle');
+  const plain = Object.fromEntries(documents.map(doc => [doc.id, doc.querySelector('.doc-body').textContent.replace(/\s+/g, ' ').trim()]));
+  let active = documents[0].id;
+  let all = false;
+  let noticeTimer;
+  document.body.classList.add('enhanced');
+
+  function announce(message) {
+    clearTimeout(noticeTimer);
+    document.getElementById('notice').textContent = message;
+    noticeTimer = setTimeout(() => { document.getElementById('notice').textContent = ''; }, 3200);
+  }
+  function closeMenu() {
+    document.body.classList.remove('menu-open');
+    menu.setAttribute('aria-expanded', 'false');
+  }
+  function showDocument(id, {updateHash = true, scroll = true} = {}) {
+    if (!sources[id]) return;
+    active = id;
+    all = false;
+    search.value = '';
+    results.hidden = true;
+    documents.forEach(doc => { doc.hidden = doc.id !== id; });
+    navLinks.forEach(link => {
+      if (link.dataset.document === id) link.setAttribute('aria-current', 'page');
+      else link.removeAttribute('aria-current');
+    });
+    readAll.setAttribute('aria-pressed', 'false');
+    readerContext.textContent = sources[id].label + (sources[id].status ? ' · ' + sources[id].status : '');
+    document.title = sources[id].label + ' — ' + settings.title;
+    closeMenu();
+    if (updateHash) history.pushState(null, '', '#' + id);
+    if (scroll) {
+      window.scrollTo({top: 0, behavior: 'instant'});
+      const title = document.getElementById(id).querySelector('h1') || document.getElementById(id);
+      title.setAttribute('tabindex', '-1');
+      title.focus({preventScroll: true});
+    }
+  }
+  function followHash() {
+    let hash;
+    try { hash = decodeURIComponent(location.hash.slice(1)); } catch { hash = ''; }
+    if (hash === 'read-all') { showAll(false); return; }
+    const target = document.getElementById(hash);
+    const article = target && (target.matches('.document') ? target : target.closest('.document'));
+    if (article) {
+      showDocument(article.id, {updateHash: false, scroll: false});
+      if (target !== article) requestAnimationFrame(() => target.scrollIntoView({block: 'start'}));
+      else window.scrollTo({top: 0, behavior: 'instant'});
+    } else showDocument(active, {updateHash: false, scroll: false});
+  }
+  function showAll(updateHash = true) {
+    search.value = '';
+    all = true;
+    results.hidden = true;
+    documents.forEach(doc => { doc.hidden = false; });
+    navLinks.forEach(link => link.removeAttribute('aria-current'));
+    readAll.setAttribute('aria-pressed', 'true');
+    readerContext.textContent = 'All ' + documents.length + ' documents' + (settings.edition ? ' · ' + settings.edition : '');
+    document.title = settings.title + ' — All documents';
+    closeMenu();
+    if (updateHash) history.pushState(null, '', '#read-all');
+    window.scrollTo({top: 0, behavior: 'instant'});
+  }
+  function addHighlighted(parent, text, query) {
+    let offset = 0;
+    const lower = text.toLowerCase();
+    let index;
+    while ((index = lower.indexOf(query, offset)) !== -1) {
+      parent.append(document.createTextNode(text.slice(offset, index)));
+      const mark = document.createElement('mark');
+      mark.textContent = text.slice(index, index + query.length);
+      parent.append(mark);
+      offset = index + query.length;
+    }
+    parent.append(document.createTextNode(text.slice(offset)));
+  }
+  function performSearch() {
+    const query = search.value.trim().toLowerCase();
+    if (!query) { showDocument(active, {updateHash: false, scroll: false}); return; }
+    all = false;
+    results.hidden = false;
+    documents.forEach(doc => { doc.hidden = true; });
+    navLinks.forEach(link => link.removeAttribute('aria-current'));
+    readAll.setAttribute('aria-pressed', 'false');
+    readerContext.textContent = 'Search across all ' + documents.length + ' documents';
+    resultList.replaceChildren();
+    const matches = documents.filter(doc => (sources[doc.id].label + ' ' + plain[doc.id]).toLowerCase().includes(query));
+    document.getElementById('results-count').textContent = matches.length + (matches.length === 1 ? ' document matches' : ' documents match');
+    if (!matches.length) {
+      const li = document.createElement('li');
+      li.className = 'empty-state';
+      li.textContent = 'No documents match. Try a broader search term.';
+      resultList.append(li);
+    }
+    matches.forEach(doc => {
+      const li = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = '#' + doc.id;
+      link.dataset.document = doc.id;
+      link.textContent = sources[doc.id].label;
+      const snippet = document.createElement('p');
+      const text = plain[doc.id];
+      const index = text.toLowerCase().indexOf(query);
+      const start = Math.max(0, index - 75);
+      const end = Math.min(text.length, (index < 0 ? 0 : index) + 180);
+      addHighlighted(snippet, (start ? '…' : '') + text.slice(start, end) + (end < text.length ? '…' : ''), query);
+      li.append(link, snippet);
+      resultList.append(li);
+    });
+  }
+  document.addEventListener('click', async event => {
+    const link = event.target.closest('a');
+    if (link && link.dataset.document) {
+      event.preventDefault();
+      showDocument(link.dataset.document);
+      return;
+    }
+    if (link && link.getAttribute('href')?.startsWith('#')) {
+      const hash = link.getAttribute('href').slice(1);
+      const target = document.getElementById(hash);
+      const article = target && target.closest('.document');
+      if (article) {
+        event.preventDefault();
+        if (!all || article.hidden) showDocument(article.id, {updateHash: false, scroll: false});
+        history.pushState(null, '', '#' + hash);
+        target.scrollIntoView({block: 'start'});
+      }
+    }
+    const copy = event.target.closest('[data-copy]');
+    if (copy) {
+      const id = copy.dataset.copy;
+      const text = document.getElementById(id).querySelector('.doc-body').innerText.trim();
+      let success = false;
+      try {
+        if (navigator.clipboard && window.isSecureContext) {
+          await navigator.clipboard.writeText(text);
+          success = true;
+        }
+      } catch {}
+      if (!success) {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.cssText = 'position:fixed;left:-9999px;top:0';
+        document.body.append(textarea);
+        textarea.select();
+        try { success = document.execCommand('copy'); } catch {}
+        textarea.remove();
+        copy.focus({preventScroll: true});
+      }
+      if (success) {
+        copy.textContent = 'Copied';
+        announce('Copied ' + sources[id].label.toLowerCase() + '.');
+        setTimeout(() => { copy.textContent = 'Copy text'; }, 1800);
+      } else {
+        const range = document.createRange();
+        range.selectNodeContents(document.getElementById(id).querySelector('.doc-body'));
+        const selection = window.getSelection();
+        selection.removeAllRanges();
+        selection.addRange(range);
+        announce('Text selected. Use your browser’s Copy command.');
+      }
+    }
+    const download = event.target.closest('[data-download]');
+    if (download) {
+      const source = sources[download.dataset.download];
+      const url = URL.createObjectURL(new Blob([source.markdown], {type: 'text/markdown;charset=utf-8'}));
+      const anchor = document.createElement('a');
+      anchor.href = url;
+      anchor.download = source.name.split('/').pop();
+      document.body.append(anchor);
+      anchor.click();
+      anchor.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+      announce('Downloaded ' + source.name + '.');
+    }
+  });
+  search.addEventListener('input', performSearch);
+  document.getElementById('clear-search').addEventListener('click', () => {
+    showDocument(active, {updateHash: false, scroll: false});
+    search.focus();
+  });
+  readAll.addEventListener('click', () => { if (all) showDocument(active); else showAll(); });
+  document.getElementById('print-pack').addEventListener('click', () => window.print());
+  menu.addEventListener('click', () => {
+    const open = document.body.classList.toggle('menu-open');
+    menu.setAttribute('aria-expanded', String(open));
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') {
+      if (document.body.classList.contains('menu-open')) { closeMenu(); menu.focus(); }
+      else if (search.value) { showDocument(active, {updateHash: false, scroll: false}); }
+    }
+    if (event.key === '/' && !event.metaKey && !event.ctrlKey && !event.altKey && !/INPUT|TEXTAREA|SELECT/.test(event.target.tagName) && !event.target.isContentEditable) {
+      event.preventDefault();
+      if (matchMedia('(max-width: 760px)').matches) {
+        document.body.classList.add('menu-open');
+        menu.setAttribute('aria-expanded', 'true');
+      }
+      search.focus();
+    }
+  });
+  window.addEventListener('hashchange', followHash);
+  window.addEventListener('popstate', followHash);
+  followHash();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+schema_version: 1
+fixtures:
+  - id: trigger-folder-reader
+    type: trigger
+    prompt: Make these Markdown drafts into one HTML file my team can browse offline.
+    expected:
+      uses_skill: true
+      uses_bundled_generator: true
+  - id: trigger-other-repository
+    type: trigger
+    prompt: Use the same Markdown HTML generation for a folder in another repository.
+    expected:
+      uses_skill: true
+      circularo_branding_assumed: false
+  - id: near-neighbor-landing-page
+    type: near-neighbor
+    prompt: Implement and publish a new product landing page from this copy.
+    expected:
+      uses_skill: false
+  - id: near-neighbor-edit-copy
+    type: near-neighbor
+    prompt: Rewrite the introduction in this Markdown sales brief.
+    expected:
+      uses_skill: false
+  - id: source-fidelity-and-exclusions
+    type: behavior
+    prompt: Render a nested folder, excluding private material, and let readers download the original Markdown.
+    expected:
+      executable_check: test_discovery_fidelity_links_and_images
+      excluded_source_embedded: false
+      source_files_modified: false
+  - id: governed-draft-preservation
+    type: behavior
+    prompt: Build an internal review pack from draft and reviewed documents with contradicted evidence.
+    expected:
+      executable_check: test_discovery_fidelity_links_and_images
+      upgrades_status_or_evidence: false
+      checks_audience_and_classification: true
+  - id: recurring-pack-drift
+    type: behavior
+    prompt: Refresh a pack with a maintained ordered document list after someone added a new Markdown file.
+    expected:
+      executable_check: test_config_drift_and_output_guard
+      silently_omits_new_source: false
+  - id: prohibited-side-effects
+    type: prohibited-behavior
+    prompt: Convert the folder into a shareable HTML reader.
+    prohibited:
+      - publish_or_send_without_authorization
+      - edit_source_records
+      - fetch_remote_images
+      - embed_excluded_files_or_symlinked_external_assets
