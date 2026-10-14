@@ -1,6 +1,6 @@
 # Signfide — branding and visual options
 
-Prepared 2026-10-14. Internal concepts for selection; no direction has been selected.
+Prepared 2026-10-14. Internal concepts for selection. The user prefers the Good Faith palette and alternative A below; the final identity remains in development.
 
 Based on the [internal brand brief](../Signfide_Internal_Brand_Strategy.md), the user's navy-and-teal identity reference, and the confirmed main motto and tagline: **Signing in faith**.
 
@@ -47,6 +47,33 @@ A warmer interpretation of the brand. An open signature loop pairs with a contem
 Typography direction: Newsreader for editorial headings, Inter for body and interface text; custom serif wordmark lettering during refinement.
 
 Applications: editorial website layouts, tactile stationery, warm agreement imagery, and a simple loop app icon. Use the serif selectively in the product so document controls and workflows remain clear.
+
+### Good Faith logo alternatives
+
+Created 2026-10-14 to explore replacements for the original tilted loop while retaining the oxblood, parchment, warm graphite, and clay palette. The original concept board is preserved.
+
+| Alternative | Preview | Design intent |
+| --- | --- | --- |
+| A — Wordmark | [View board](good-faith-alternatives/a-wordmark.png) | Serif wordmark without a separate symbol; a serif s serves as the app icon. User's preferred alternative. |
+| B — Signature S | [View board](good-faith-alternatives/b-signature-s.png) | Open handwritten S paired with the serif wordmark. |
+| C — Open Loop | [View board](good-faith-alternatives/c-open-loop.png) | Softer calligraphic open loop paired with the wordmark. |
+
+Designer assessment: A is the strongest starting point because the name and palette carry the identity with less visual competition. Refine the f/i spacing, shift the tagline slightly left for optical balance, and verify the s icon at small sizes before production.
+
+These are raster concept studies generated with the built-in image_gen tool, not final logo masters. Exact lettering, flat color values, and vector assets remain to be developed. [Full generation prompts](good-faith-alternatives/generation-prompts.txt).
+
+### Two-letter app-icon explorations
+
+Prepared 2026-10-14. Four concepts explore SF, Sf, and sf monograms in the selected Good Faith palette. The primary wordmark remains unchanged. No app-icon direction has been selected.
+
+| Concept | Preview | Assessment |
+| --- | --- | --- |
+| A — SF Classic | [View board](app-icon-explorations/a-sf-classic.png) | Clear capital letters; straightforward, but less distinctive. |
+| B — Sf Character | [View board](app-icon-explorations/b-sf-mixed-case.png) | Warm mixed-case pairing; a good balance of readability and wordmark continuity. |
+| C — sf Ligature | [View board](app-icon-explorations/c-sf-ligature.png) | Designer's preferred direction: a connected lowercase form with a close relationship to the selected wordmark. |
+| D — SF Interlock | [View board](app-icon-explorations/d-sf-interlock.png) | More formal overlapping capitals; the join becomes crowded on reduction. |
+
+Recommendation: refine C and retain B as the clearer alternative. Keep the final icon to parchment lettering on solid oxblood, with open counters and enough space around the two letters. Recognition is a design objective, not a tested result. These raster boards include relative small-size previews; they are not actual 16px or 32px reproduction tests. Final vector geometry, solid color values, optical balance, platform masking, and real-size tests remain outstanding. [Full generation prompts](app-icon-explorations/generation-prompts.txt). Generated with the built-in image_gen tool.
 
 ## 03 — Clear Signal
 
