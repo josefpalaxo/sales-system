@@ -12,6 +12,8 @@ The initial service is **Signfide — Powered by Circularo**, using **Option A: 
 
 This appendix proposes the working obligations, deliverables, and handoffs between the Circularo and REDA teams. SignFide is the entity on whose behalf the commercial work is performed, not a third operating team to which unresolved work can be assigned.
 
+Global brand ownership, territorial rights, performance remedies, and exit mechanisms remain open in the [internal questions registry](open-questions.md). References to joint brand development in this appendix do not assign trademark ownership or worldwide rights to SignFide LLC or REDA. These questions must be resolved in the relevant agreements before the affected rights are granted.
+
 ## Parties and authority
 
 For this draft, “Circularo” means the technology provider and its designated team; “REDA” means the legal counterparty representing Reda’s team and the personnel it assigns. Exact legal names, representatives, and the agreement to which this appendix will attach must be completed before adoption.
@@ -46,6 +48,8 @@ Circularo will:
 Circularo’s contribution does not include creating or maintaining SignFide’s website, campaigns, sales collateral, branded help center, customer training materials, sales funnel, or first-line customer operation. REDA may adapt Circularo source materials, but remains responsible for producing and maintaining the SignFide versions. Additional development, custom integrations, content production, or professional services require separately agreed scope, ownership, cost, and timing.
 
 ## REDA obligations for the SignFide business
+
+SignFide’s US business includes direct sales and approved distributors/resellers. REDA’s commercial remit covers both routes: developing and managing the channel program, coordinating partner approval, maintaining direct/channel account rules, and ensuring customer-lifecycle coverage. Delegation to a partner does not remove REDA’s program responsibilities. See the [corporate and commercial structure](corporate-structure-and-commercial-model.md).
 
 REDA will:
 
@@ -88,6 +92,10 @@ The [REDA contribution and performance schedule](reda-contribution-and-performan
 | Activity | Circularo team | REDA team | Required output or handoff |
 | --- | --- | --- | --- |
 | US go-to-market plan and sales-team execution | C | A/R | Resourced launch plan, channels, and opportunity pipeline |
+| Distributor/reseller recruitment and approval coordination | C | A/R | Partner assessment and authorized SignFide appointment |
+| Channel enablement, onboarding, and performance management | C | A/R | Approved partner resources, training, coverage, and reporting |
+| Direct/channel account routing and conflict coordination | C | A/R | Agreed deal-registration, account, renewal, and escalation rules |
+| Channel wholesale orders, payment follow-up, and customer coverage | C | A/R | Traceable authorized orders, reconciled status, and a complete support path |
 | SignFide branding implementation and positioning | C | A/R | Materials consistent with approved SignFide identity |
 | Plan names, packaging, and proposed retail pricing | C | A/R | Company-approved offer aligned with upstream scope and terms |
 | Website, landing pages, and sales/marketing collateral | C | A/R | Maintained market-facing content and working customer journey |

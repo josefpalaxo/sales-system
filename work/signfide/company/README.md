@@ -13,7 +13,11 @@ The central operating dependency is an agreement between Circularo and SignFide 
 
 The [REDA contribution commitments and performance schedule](reda-contribution-and-performance.md) adds the resource commitments, measurable outputs, customer outcomes, cost attribution, and review process needed to substantiate the proposed 40% interest. Circularo’s contribution includes technology and the agreed license/service on special favorable supplier terms intended to support SignFide’s US profitability. Actual commercial terms and performance targets remain to be agreed.
 
+The [internal open questions registry](open-questions.md) tracks unresolved performance remedies, exit rights, global brand ownership, the US territorial license, future expansion, and related company/contract issues. Joint development of the SignFide brand does not settle ownership of its trademarks or global rights. A possible structure with Circularo or a selected IP entity owning the brand and licensing US use to SignFide remains an open discussion proposal.
+
 ## Starting principles
+
+The [corporate structure and commercial model](corporate-structure-and-commercial-model.md) maps the proposed owners, Circularo, REDA’s operating team, the possible brand owner, approved US channel partners, and end customers. The user-specified route to market includes both direct SignFide sales and sales through approved US distributors or resellers; detailed channel contracts and tier permissions remain open.
 
 These are the founder-supplied basis for planning. They do not establish that formation, funding, accounts, or contracts have already been completed.
 
@@ -29,6 +33,7 @@ These are the founder-supplied basis for planning. They do not establish that fo
 | Starting capital | USD 10,000 total; contributor amounts and funding mechanics remain open |
 | Banking | US bank account for SignFide LLC |
 | Payments | Stripe setup for the business |
+| US sales routes | Direct end customers and approved US distributors/resellers |
 
 Use **SignFide LLC** for the intended company name and **Signfide** for the brand in prose. The final registered legal name and the exact Circularo contracting entity need confirmation. The lowercase `signfide` wordmark remains the selected visual identity.
 
@@ -55,12 +60,14 @@ These are open governance topics, not agreed rights or legal provisions.
 
 ## Circularo and SignFide commercial relationship
 
-The intended structure has two distinct contractual relationships:
+The intended structure has upstream technology supply, customer sales, and approved channel relationships:
 
 | Relationship | Intended purpose |
 | --- | --- |
 | Circularo → SignFide LLC | Authorize the resale and branding arrangement and establish special pricing, supply terms, and the operating obligations between the businesses |
 | SignFide LLC → Customer | Offer Signfide powered by Circularo under SignFide’s own agreed customer terms |
+| SignFide LLC → Approved US distributor/reseller | Authorize and supply the agreed channel offer under a distribution/reseller agreement |
+| Approved channel retail seller → End customer | Retail order, invoicing, and collection under the selected channel model, aligned with the agreed platform-use terms |
 
 SignFide’s customer terms and commitments need to be reconciled with the service scope and obligations agreed with Circularo. Permission to sell under SignFide’s terms does not yet define the underlying license, service commitments, or allocation of risk.
 
