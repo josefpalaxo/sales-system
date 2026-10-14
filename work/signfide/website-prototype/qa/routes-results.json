@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-14T21:42:01.899Z",
+  "timestamp": "2026-10-14T22:47:15.725Z",
   "browser": "155.0.8059.40",
   "results": [
     {
@@ -227,12 +227,62 @@
       "axeViolations": 0
     }
   ],
+  "externalNavigation": [
+    {
+      "route": "/about",
+      "href": "https://www.circularo.com/",
+      "label": "Visit Circularo’s website",
+      "validatedWithoutFetching": true
+    },
+    {
+      "route": "/about",
+      "href": "https://www.circularo.com/customers/abdulla-alawadi/",
+      "label": "Circularo’s law-firm customer story",
+      "validatedWithoutFetching": true
+    },
+    {
+      "route": "/about",
+      "href": "https://www.circularo.com/customers/dubai-courts/",
+      "label": "Circularo’s Dubai Courts customer story",
+      "validatedWithoutFetching": true
+    }
+  ],
+  "heritageAnchors": [
+    {
+      "width": 1440,
+      "top": 176.125,
+      "headerBottom": 139.59375,
+      "visible": true
+    },
+    {
+      "width": 768,
+      "top": 145.640625,
+      "headerBottom": 119.59375,
+      "visible": true
+    },
+    {
+      "width": 390,
+      "top": 145.578125,
+      "headerBottom": 133.1875,
+      "visible": true
+    },
+    {
+      "width": 320,
+      "top": 145.859375,
+      "headerBottom": 133.1875,
+      "visible": true
+    }
+  ],
   "browserErrors": [],
   "externalRequests": 0,
   "submissions": 0,
   "checks": [
     "direct loading and refresh",
     "all internal links and anchors",
+    "reviewed external labels and destinations without fetching",
+    "heritage hero and cross-route footer links",
+    "heritage anchor visibility at all four widths",
+    "ecosystem FAQ keyboard disclosure",
     "404 and recovery",
     "viewport overflow",
     "WCAG A/AA axe scan",

@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { join } from 'node:path';
 import { pages } from '../src/pages.mjs';
 import { layout } from '../src/layout.mjs';
+import { checkHtml, checkRuntimeSource } from './link-policy.mjs';
 
 export const root = fileURLToPath(new URL('../', import.meta.url));
 export async function build() {
@@ -28,9 +29,11 @@ export async function build() {
   // Fail the build for accidental external runtime dependencies or absent local assets.
   for (const [route, page] of Object.entries(pages)) {
     const html = await readFile(join(out, route, 'index.html'), 'utf8');
-    if (/https?:\/\//.test(html)) throw new Error(`External URL in generated route: ${route}`);
+    checkHtml(html, route);
     if (!page.title || !page.description) throw new Error(`Missing metadata: ${route}`);
   }
+  checkHtml(await readFile(join(out, '404.html'), 'utf8'), '/404');
+  for (const name of ['styles.css', 'app.js']) checkRuntimeSource(await readFile(join(out, 'assets', name), 'utf8'), name);
   console.log(`Built ${Object.keys(pages).length} routes with local fonts and assets → dist/`);
 }
 if (process.argv[1] === fileURLToPath(import.meta.url)) await build();

@@ -7,7 +7,7 @@
     "build": "node scripts/build.mjs",
     "dev": "node scripts/serve.mjs",
     "preview": "node scripts/serve.mjs",
-    "qa": "node scripts/qa.mjs"
+    "qa": "node scripts/check-link-policy.mjs && node scripts/qa.mjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",

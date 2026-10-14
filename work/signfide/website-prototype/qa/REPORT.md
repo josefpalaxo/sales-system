@@ -8,6 +8,27 @@ All eight routes passed at 1440, 768, 390, and 320px: 32 route/viewport checks, 
 
 ## Execution and evidence
 
+### Heritage update verification — 2026-10-14
+
+The Circularo heritage/service-model update retains all eight routes and the selected Good Faith system. Hosting copy incorporates Josef’s owner-reported confirmation of Microsoft Azure in the United States; dedicated-environment configuration and service assurances remain pending.
+
+The refreshed QA run checks:
+
+- Hero and footer endorsements, including the footer from a directly loaded Pricing route, reach `/about#powered-by-circularo`.
+- The heritage section and FAQ land below the sticky header at 1440, 768, 390, and 320px. A duplicated scroll offset found during visual review was corrected; section margins now add only 16px to the existing page scroll padding.
+- Three exact reviewed external anchors have accessible labels, visible external indicators, new-tab disclosure, and `noopener noreferrer`. They are not fetched or followed during local browser QA.
+- Native FAQ keyboard disclosure explains Circularo-branded components, the first-line/technical support split, and owner-reported US Azure hosting.
+- The build and link-policy fixtures permit reviewed anchors while rejecting external scripts, styles, images, font references, embeds, unexpected/altered URLs, and protocol-relative asset examples.
+- All earlier route, navigation, form, keyboard, history, reduced-motion, no-submission, and no-storage checks remain active. Zero external runtime requests is still required.
+
+Focused screenshots are in `qa/screenshots/heritage-home-{width}.png`, `heritage-about-{width}-viewport.png`, `heritage-faq-{width}.png`, and `heritage-hosting-{width}.png`, in addition to refreshed full-page screenshots. Capture uses reduced motion and waits for a rendered frame after resizing, avoiding unstable scroll/compositing captures. Actual navigation was also visually inspected in the in-app browser.
+
+The public sources were rechecked separately; [heritage evidence](../references/heritage-evidence.md) records their limited support. Published Circularo examples were not transferred into Signfide customer proof. Internal company/shareholder/RACI details and supplier terms are absent from the website.
+
+Isolated section captures temporarily hide floating navigation through a QA-only same-origin stylesheet supplied by the test runner; anchored viewport captures retain the actual header. The prototype's CSP was not changed.
+
+This implementation did not edit sibling company documents, original reference snapshots, the branch, or deployment settings. Publication and domain connection remain separate requests.
+
 Run from the project folder, with the preview server running:
 
 ```sh

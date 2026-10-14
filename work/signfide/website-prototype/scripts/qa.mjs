@@ -1,9 +1,10 @@
 import { chromium } from 'playwright-core';
 import AxeBuilder from '@axe-core/playwright';
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile, readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import assert from 'node:assert/strict';
 import { pages } from '../src/pages.mjs';
+import { externalLinks } from '../src/external-links.mjs';
 
 const root = resolve(import.meta.dirname, '..');
 const base = process.env.QA_URL || 'http://127.0.0.1:4173';
@@ -11,12 +12,21 @@ const homeOnly = process.argv.includes('--home');
 await mkdir(resolve(root, 'qa/screenshots'), { recursive: true });
 const context = await chromium.launchPersistentContext(resolve(root, '.cache/qa-chrome'), {
   executablePath: process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-  headless: true, viewport: { width: 1440, height: 1000 },
+  headless: true, reducedMotion: 'reduce', viewport: { width: 1440, height: 1000 },
   downloadsPath: resolve(root, '.cache/downloads'), args: ['--disable-crash-reporter']
 });
 const page = context.pages()[0];
+// Supply capture-only CSS at a same-origin URL; do not bypass or weaken the actual CSP.
+await context.route(base + '/__qa/capture.css', route => route.fulfill({ status: 200, contentType: 'text/css', body: readCaptureCss }));
+const readCaptureCss = await readFile(resolve(root, 'qa/capture.css'), 'utf8');
+async function captureSection(locator, path) {
+  const style = await page.addStyleTag({ url: base + '/__qa/capture.css' });
+  try { await locator.screenshot({ path }); }
+  finally { await style.evaluate(element => element.remove()); }
+}
 page.setDefaultTimeout(10000);
-const errors = [], requests = [], results = [];
+const errors = [], requests = [], results = [], externalNavigation = [], heritageAnchors = [];
+const reviewedExternal = new Map(Object.values(externalLinks).map(link => [link.url, link]));
 page.on('pageerror', error => errors.push(error.message));
 page.on('console', message => { if (message.type() === 'error') errors.push(message.text()); });
 page.on('requestfailed', request => errors.push(`${request.url()}: ${request.failure()?.errorText}`));
@@ -34,18 +44,55 @@ try {
     const slug = route === '/' ? 'home' : route.slice(1).replaceAll('/', '-');
     for (const width of [1440, 768, 390, 320]) {
       await page.setViewportSize({ width, height: width < 650 ? 844 : 1000 });
+      await page.evaluate(() => {
+        window.scrollTo({ top: 0, behavior: 'instant' });
+        return new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+      });
       const overflow = await page.evaluate(() => ({ doc: document.documentElement.scrollWidth, width: innerWidth }));
       assert.ok(overflow.doc <= overflow.width, `${route} overflow at ${width}: ${JSON.stringify(overflow)}`);
-      if (width !== 320 || route === '/') await page.screenshot({ path: resolve(root, `qa/screenshots/${slug}-${width}.png`), fullPage: true });
+      if (width !== 320 || ['/', '/about', '/security'].includes(route)) await page.screenshot({ path: resolve(root, `qa/screenshots/${slug}-${width}.png`), fullPage: true });
       if (route === '/' && [1440, 390].includes(width)) await page.screenshot({ path: resolve(root, `qa/screenshots/home-${width}-viewport.png`) });
       const accessibility = await new AxeBuilder({ page }).withTags(['wcag2a','wcag2aa','wcag21a','wcag21aa']).analyze();
       assert.deepEqual(accessibility.violations.map(v => ({ id: v.id, impact: v.impact, targets: v.nodes.map(n => n.target) })), [], `${route} accessibility at ${width}`);
       results.push({ route, width, response: 200, overflow: false, axeViolations: 0 });
+      // Isolated section captures hide floating chrome; anchored viewport captures below retain it.
+      if (route === '/') await captureSection(page.locator('.heritage-home'), resolve(root, `qa/screenshots/heritage-home-${width}.png`));
+      if (route === '/security') await captureSection(page.locator('#service-hosting'), resolve(root, `qa/screenshots/heritage-hosting-${width}.png`));
+      assert.equal(await page.locator('.site-footer .endorsement a').getAttribute('href'), '/about#powered-by-circularo');
+      if (route === '/about') {
+        await page.emulateMedia({ reducedMotion: 'reduce' });
+        await page.goto(base + '/about#powered-by-circularo');
+        await page.waitForFunction(() => {
+          const section = document.querySelector('#powered-by-circularo').getBoundingClientRect();
+          const header = document.querySelector('.site-top').getBoundingClientRect();
+          return section.top >= header.bottom && section.top < innerHeight;
+        });
+        await page.screenshot({ path: resolve(root, `qa/screenshots/heritage-about-${width}-viewport.png`) });
+        const anchor = await page.evaluate(() => ({ top: document.querySelector('#powered-by-circularo').getBoundingClientRect().top, headerBottom: document.querySelector('.site-top').getBoundingClientRect().bottom }));
+        heritageAnchors.push({ width, ...anchor, visible: true });
+        await page.goto(base + '/about#service-questions');
+        await page.waitForFunction(() => document.querySelector('#service-questions').getBoundingClientRect().top >= document.querySelector('.site-top').getBoundingClientRect().bottom);
+        await captureSection(page.locator('#service-questions'), resolve(root, `qa/screenshots/heritage-faq-${width}.png`));
+        const faqAxe = await new AxeBuilder({ page }).withTags(['wcag2a','wcag2aa','wcag21a','wcag21aa']).analyze();
+        assert.deepEqual(faqAxe.violations, [], 'FAQ accessibility');
+        await page.goto(base + route);
+      }
     }
     if (!homeOnly) {
-      const hrefs = await page.locator('a[href]').evaluateAll(elements => [...new Set(elements.map(a => a.getAttribute('href')))]);
-      for (const href of hrefs) {
+      const anchors = await page.locator('a[href]').all();
+      for (const anchor of anchors) {
+        const href = await anchor.getAttribute('href');
         const target = new URL(href, base + route);
+        if (target.origin !== base) {
+          const reviewed = reviewedExternal.get(href);
+          assert.ok(reviewed, `Unreviewed external anchor: ${href}`);
+          assert.equal(await anchor.getAttribute('aria-label'), `${reviewed.label} (external website, opens in a new tab)`);
+          assert.ok((await anchor.textContent()).includes(reviewed.label));
+          assert.equal(await anchor.getAttribute('target'), '_blank');
+          assert.equal(await anchor.getAttribute('rel'), 'noopener noreferrer');
+          externalNavigation.push({ route, href, label: reviewed.label, validatedWithoutFetching: true });
+          continue;
+        }
         assert.equal(target.origin, base, 'Local links only');
         const linked = await context.request.get(target.href);
         assert.equal(linked.status(), 200, `${route} → ${href}`);
@@ -62,7 +109,22 @@ try {
   await page.goto(base);
   const links = await page.locator('a[href]').evaluateAll(elements => [...new Set(elements.map(a => a.getAttribute('href')))]);
   const available = new Set(Object.keys(pages));
-  if (!homeOnly) for (const href of links) assert.ok(href.startsWith('#') || available.has(href.split('#')[0]), `Unknown link ${href}`);
+  if (!homeOnly) for (const href of links) assert.ok(href.startsWith('#') || available.has(href.split('#')[0]) || reviewedExternal.has(href), `Unknown link ${href}`);
+  if (!homeOnly) {
+    await page.locator('.hero-endorsement a').click();
+    await page.waitForURL(base + '/about#powered-by-circularo');
+    await page.goto(base + '/pricing');
+    await page.locator('.site-footer .endorsement a').click();
+    await page.waitForURL(base + '/about#powered-by-circularo');
+    await page.goto(base + '/about#service-questions');
+    const support = page.locator('#service-questions details').nth(1);
+    await support.locator('summary').focus();
+    await page.keyboard.press('Enter');
+    assert.equal(await support.getAttribute('open'), '');
+    assert.match(await support.innerText(), /first-line support/);
+    assert.match(await support.innerText(), /escalated to Circularo/);
+    await page.goto(base);
+  }
   await page.locator('.hero [data-open-demo]').click();
   // Native modal must contain keyboard focus in both directions.
   await page.keyboard.press('Shift+Tab');
@@ -165,6 +227,6 @@ try {
   assert.deepEqual(requests.filter(r => !r.url.startsWith(base)), []);
   assert.deepEqual(requests.filter(r => r.method !== 'GET'), []);
   assert.equal(await page.evaluate(() => localStorage.length + sessionStorage.length), 0);
-  await writeFile(resolve(root, `qa/${homeOnly ? 'homepage' : 'routes'}-results.json`), JSON.stringify({ timestamp: new Date().toISOString(), browser: context.browser()?.version(), results, browserErrors: unexpectedErrors, externalRequests: 0, submissions: 0, checks: ['direct loading and refresh','all internal links and anchors','404 and recovery','viewport overflow','WCAG A/AA axe scan','demo validation and local success','pricing enquiry validation and success','form data cleared','Escape and focus return','dialog keyboard wrapping','skip link','dropdown keyboard access','agreement stages and arrow keys','workflow tabs','evaluation checklist and reset','trust accordions','navigation and browser history','mobile menu and navigation','reduced motion','no browser storage'] }, null, 2));
+  await writeFile(resolve(root, `qa/${homeOnly ? 'homepage' : 'routes'}-results.json`), JSON.stringify({ timestamp: new Date().toISOString(), browser: context.browser()?.version(), results, externalNavigation, heritageAnchors, browserErrors: unexpectedErrors, externalRequests: 0, submissions: 0, checks: ['direct loading and refresh','all internal links and anchors','reviewed external labels and destinations without fetching','heritage hero and cross-route footer links','heritage anchor visibility at all four widths','ecosystem FAQ keyboard disclosure','404 and recovery','viewport overflow','WCAG A/AA axe scan','demo validation and local success','pricing enquiry validation and success','form data cleared','Escape and focus return','dialog keyboard wrapping','skip link','dropdown keyboard access','agreement stages and arrow keys','workflow tabs','evaluation checklist and reset','trust accordions','navigation and browser history','mobile menu and navigation','reduced motion','no browser storage'] }, null, 2));
   console.log(`PASS: ${results.length} route/viewport checks; keyboard, form, mobile menu, and local-only requests verified.`);
 } finally { await context.close(); }

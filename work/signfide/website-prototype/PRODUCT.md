@@ -20,6 +20,7 @@ This prototype tests presentation, information architecture, copy, and navigatio
 - Main tagline: Signing in faith.
 - Homepage headline: Legal agreements, signed with confidence.
 - Use “Powered by Circularo” as a secondary endorsement, particularly on About and Security & Trust.
+- Link hero and footer endorsements to `/about#powered-by-circularo`, keeping the Signfide identity primary.
 - Explain “faith” in the sense of good faith and authentic agreements, without religious imagery.
 - Use clear US English and concrete legal workflows. Avoid unverifiable superiority claims or generic promises.
 
@@ -33,8 +34,20 @@ This prototype tests presentation, information architecture, copy, and navigatio
 | `/features/document-workflows` | Show preparation, review, approval, signing, and record retrieval as the proposed experience. Present a legible visual sequence or interactive example. |
 | `/pricing` | A useful pricing enquiry page explaining the information needed for a quote: team size, signing volume, workflow needs. State that pricing is to be confirmed. No invented prices, plan entitlements, discounts, or unlimited-use promises. |
 | `/compare/docusign` | An evaluation guide organized around legal workflows, usability, migration, support, and total cost. Use buyer questions rather than unsupported winner/loser comparisons. Mark a feature matrix as pending verification if included. |
-| `/security` | Describe the trust questions a buyer should evaluate: identity, integrity, evidence, hosting, access, and retention. Keep actual assurance levels, certifications, regions, and legal statements pending confirmation. |
+| `/security` | Describe the trust questions a buyer should evaluate: identity, integrity, evidence, hosting, access, and retention. Explain owner-reported US Microsoft Azure hosting and Circularo’s planned platform operations role. Assurance, certification, exact configuration, and legal details remain pending. |
 | `/about` | Brand story, good-faith principle, proposed US legal focus, and Circularo relationship. Do not invent team members, addresses, customer numbers, company history, or contact details. |
+
+## Circularo foundation and service model
+
+The initial operating-model baseline is a Circularo-managed co-branded service, using applicable Circularo editions and an agreed configuration. Signfide is the planned US brand and commercial entity: it handles the customer relationship, onboarding, and first-line support. Circularo supplies and operates the underlying technology, maintains the software, and handles technical escalation.
+
+Josef confirmed in the active implementation chat on 2026-10-14 that the service is hosted on Microsoft Azure in the United States. Use that supplied location in this internal prototype. Record it as owner-reported evidence, not an independent infrastructure audit. This supersedes the handover's planned-only hosting wording. The dedicated-environment configuration, edition scope, readiness, charges, and service commitments remain unresolved; hosting location does not establish commercial availability or assurance.
+
+Applicable applications and integrations retain Circularo branding. No separately published Signfide app or integration ecosystem is included in the initial model. The final offer will list available components and their requirements; do not imply every Circularo capability is included.
+
+Use the existing About page for the anchored relationship explanation and the native-disclosure FAQ at `/about#service-questions`. Homepage content introduces the division of roles alongside the trust narrative. Product pages link to the explanation while keeping fictional examples clearly labelled. Do not expose internal operating-team names, RACI, ownership, capital, or supplier terms in generated pages.
+
+Heritage statements describe what Circularo publishes about its own experience. They do not establish Signfide customers, US legal suitability, inherited certifications, or results for the planned service. Only the reviewed official navigation URLs in `src/external-links.mjs` are permitted. Label them as external and opening in a new tab; load no external runtime assets. See [heritage evidence](references/heritage-evidence.md).
 
 ## Navigation
 
