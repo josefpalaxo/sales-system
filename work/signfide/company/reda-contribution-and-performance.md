@@ -12,9 +12,9 @@ The proposed business combines two contributions:
 - **Circularo:** the technology, the agreed license and managed service, and special supplier terms and favorable pricing intended to support SignFide’s commercial success in the United States. The actual scope and commercial terms belong in the Circularo–SignFide agreement.
 - **REDA:** an explicitly resourced and measurable US commercial operation that turns market access into qualified opportunities, paying customers, and a functioning customer lifecycle for SignFide.
 
-The founders’ stated expectation is that REDA’s contribution must substantiate its proposed **40% interest in SignFide LLC**. That assessment needs documented commitments, delivery evidence, commercial results, and an agreed treatment of shortfalls. Market reach alone is too broad to measure without specifying the access, people, work, and outcomes being contributed.
+The founders’ stated expectation is that REDA’s contribution must substantiate its proposed **33% interest in SignFide LLC**. That assessment needs documented commitments, delivery evidence, commercial results, and an agreed treatment of shortfalls. Market reach alone is too broad to measure without specifying the access, people, work, and outcomes being contributed.
 
-This schedule defines the discussion and measurement framework. It neither establishes the financial value of either contribution nor changes the 60/40 ownership proposal. Targets, costs, review dates, and any ownership-related consequences require express agreement.
+This schedule defines the discussion and measurement framework. It neither establishes the financial value of either contribution nor changes the 67/33 ownership proposal. Targets, costs, review dates, and any ownership-related consequences require express agreement.
 
 ## Separate contribution from paid work
 
@@ -29,7 +29,7 @@ For each REDA commitment, record who supplies the resource and who bears its cos
 | Customer operations | Capacity for onboarding, training, first-line support, account management, and renewals | Named coverage, working processes, and customer records |
 | Cash or other funded resources | Any REDA-funded cash, staff, campaigns, tools, or services, if proposed | Agreed amounts, dates, cost treatment, and proof of delivery |
 
-A resource register should identify, for every item: **named owner, capacity, delivery period, payer, compensation or reimbursement, approval, and replacement arrangements**. Work paid for by SignFide remains part of REDA’s operational responsibility where assigned, but its cost treatment must be visible when discussing the contribution supporting the 40% interest. It should not be counted again as an unfunded REDA contribution without a specific founder agreement.
+A resource register should identify, for every item: **named owner, capacity, delivery period, payer, compensation or reimbursement, approval, and replacement arrangements**. Work paid for by SignFide remains part of REDA’s operational responsibility where assigned, but its cost treatment must be visible when discussing the contribution supporting the 33% interest. It should not be counted again as an unfunded REDA contribution without a specific founder agreement.
 
 REDA’s staffing and spending commitments must be reconciled with SignFide’s starting capital and budget. Do not assume the initial USD 10,000 funds an otherwise unspecified commercial team or marketing program.
 
@@ -98,7 +98,7 @@ Treat these situations separately:
 | A Circularo dependency prevented agreed commercial execution | Record the affected activity and period, the technical action owner, and any mutually agreed target/timing adjustment |
 | Repeated material shortfalls or withdrawal of the committed team | Escalate to the founders and use the separately agreed company/cooperation provisions; protect customer continuity and access to company records |
 
-The founders must decide before signing how materiality, notice, corrective periods, persistent underperformance, and withdrawal affect the cooperation and the contribution supporting REDA’s 40% interest. Any mechanism concerning how the interest is issued, earned, retained, or transferred must be deliberately agreed and reflected in the appropriate company and contract documents. This schedule creates no automatic forfeiture, dilution, transfer, or other ownership change.
+The founders must decide before signing how materiality, notice, corrective periods, persistent underperformance, and withdrawal affect the cooperation and the contribution supporting REDA’s 33% interest. Any mechanism concerning how the interest is issued, earned, retained, or transferred must be deliberately agreed and reflected in the appropriate company and contract documents. This schedule creates no automatic forfeiture, dilution, transfer, or other ownership change.
 
 ## Founder decision sheet
 
@@ -109,7 +109,7 @@ The internal discussion should finish with explicit answers to these questions:
 3. **What access will become action?** Specific channels and a measurable initial introduction/opportunity plan.
 4. **What will be delivered?** Accepted launch milestones and the customer-operation standard.
 5. **What results are expected?** Initial targets for qualified pipeline, new paying customers, collections, retention, and economics, with defined periods.
-6. **What supports the 40% interest?** The agreed contribution and performance expectations, and their relationship to the ownership arrangements.
+6. **What supports the 33% interest?** The agreed contribution and performance expectations, and their relationship to the ownership arrangements.
 7. **What happens if commitments are not delivered?** Review authority, corrective process, continuity obligations, and separately agreed company/contract consequences.
 
 Until those fields are completed, the responsibilities can be discussed clearly, but the measurable contribution supporting the ownership proposal remains unfinished.

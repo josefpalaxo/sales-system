@@ -7,7 +7,7 @@ Basis: Josef’s company principles, the selected Option A operating model, and 
 
 ## Structure at a glance
 
-**SignFide LLC is the US commercial company and Signfide is the customer-facing brand.** JP Investment LLC holds the proposed 60% interest and REDA’s designated holder or holders hold the proposed 40%. REDA’s team operates the US commercial business for SignFide. Circularo supplies the technology and agreed license/service on special commercial terms and operates the platform under Option A.
+**SignFide LLC is the US commercial company and Signfide is the customer-facing brand.** JP Investment LLC holds the proposed 67% interest and REDA’s designated holder or holders hold the proposed 33%. REDA’s team operates the US commercial business for SignFide. Circularo supplies the technology and agreed license/service on special commercial terms and operates the platform under Option A.
 
 SignFide has two routes to market: direct end-customer sales and approved US channel sales. A channel partner is an independent commercial counterparty, not a SignFide subsidiary or shareholder by virtue of its appointment. An end customer purchases the agreed service/use rights; the model does not grant ownership in SignFide, its brand, or the underlying technology.
 
@@ -17,22 +17,22 @@ Global brand ownership and the US brand license remain open decisions. The discu
 
 ```mermaid
 flowchart TB
-    JP["JP Investment LLC"] -->|"60% interest — proposed"| SF["SignFide LLC · Delaware\nUS commercial company"]
-    RH["REDA designated equity holder or holders\nLegal identity to confirm"] -->|"40% interest — proposed"| SF
+    JP["JP Investment LLC"] -->|"67% interest — proposed"| SF["SignFide LLC · Delaware\nUS commercial company"]
+    RH["REDA designated equity holder or holders\nLegal identity to confirm"] -->|"33% interest — proposed"| SF
 ```
 
-The proposed interests total 100%. Voting, management, distributions, funding, transfers, performance conditions, and exit rights need their own agreed provisions. The 60/40 split is not a complete governance model.
+The proposed interests total 100%. Voting, management, distributions, funding, transfers, performance conditions, and exit rights need their own agreed provisions. The 67/33 split is not a complete governance model.
 
-Circularo is shown as the technology supplier, not as the direct 60% member. The relationship between Circularo and JP Investment has not been specified here. Ultimate ownership above JP Investment, Circularo, and REDA’s designated holders has not been supplied and must not be inferred.
+Circularo is shown as the technology supplier, not as the direct 67% member. The relationship between Circularo and JP Investment has not been specified here. Ultimate ownership above JP Investment, Circularo, and REDA’s designated holders has not been supplied and must not be inferred.
 
-REDA has two distinct roles: the contribution and rights of its designated equity holders, and the operating commitments of REDA’s commercial team. Holding 40% does not, in this proposal, automatically create a separate distributor margin, salary, commission, or global brand interest; any additional compensation or rights must be expressly agreed.
+REDA has two distinct roles: the contribution and rights of its designated equity holders, and the operating commitments of REDA’s commercial team. Holding 33% does not, in this proposal, automatically create a separate distributor margin, salary, commission, or global brand interest; any additional compensation or rights must be expressly agreed.
 
 ## Entity and role map
 
 | Entity or role | Purpose in the structure | Relationship to SignFide |
 | --- | --- | --- |
-| JP Investment LLC | Proposed majority investor/member | Proposed 60% membership interest; company-governance rights to agree |
-| REDA designated equity holder or holders | Proposed minority investor/member group | Proposed 40% interest; exact holders and contribution terms to confirm |
+| JP Investment LLC | Proposed majority investor/member | Proposed 67% membership interest; company-governance rights to agree |
+| REDA designated equity holder or holders | Proposed minority investor/member group | Proposed 33% interest; exact holders and contribution terms to confirm |
 | REDA commercial team | US market development, sales execution, channel management, and customer lifecycle | Performs agreed work for SignFide under the cooperation and contribution arrangements |
 | SignFide LLC | US contracting, selling, channel, billing, and customer-management entity | The joint company; approved US operator of the Signfide proposition |
 | Circularo contracting entity | Technology, license/service supply, platform operations, L2/L3 technical support | Supplier under the Circularo–SignFide agreement; exact legal entity to confirm |

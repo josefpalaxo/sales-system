@@ -64,7 +64,7 @@ REDA will:
 
 REDA will resource these activities with its own assigned staff or approved service providers. Any request for Circularo to perform a REDA-owned task requires an express agreement; technical consultation does not transfer delivery ownership. Staffing levels, performance targets, budgets, and time commitments remain to be agreed in the launch plan.
 
-The [REDA contribution and performance schedule](reda-contribution-and-performance.md) defines how to make this contribution measurable and assess it against the founders’ expectation supporting REDA’s proposed 40% interest. It separates REDA-funded contributions from SignFide-funded work and provides target definitions without inventing agreed quotas or ownership consequences.
+The [REDA contribution and performance schedule](reda-contribution-and-performance.md) defines how to make this contribution measurable and assess it against the founders’ expectation supporting REDA’s proposed 33% interest. It separates REDA-funded contributions from SignFide-funded work and provides target definitions without inventing agreed quotas or ownership consequences.
 
 “Own” in these obligations means responsibility for execution and upkeep. It does not assign personal ownership of the SignFide brand, customer relationships, materials, or accounts to REDA; ownership and access rights belong in the relevant company and commercial agreements.
 

@@ -5,13 +5,13 @@ Status: Draft for founder discussion
 Classification: Confidential  
 Evidence: Starting principles supplied by Josef in this conversation; implementation and execution status to be confirmed. Internal working material, non-canonical.
 
-SignFide LLC is intended to operate as a distinct US commercial business offering Signfide powered by Circularo under its own customer terms. The starting structure is a Delaware LLC owned 60% by JP Investment LLC and 40% by Reda’s team, with USD 10,000 in starting capital, a US bank account, and Stripe for payments.
+SignFide LLC is intended to operate as a distinct US commercial business offering Signfide powered by Circularo under its own customer terms. The starting structure is a Delaware LLC owned 67% by JP Investment LLC and 33% by Reda’s team, with USD 10,000 in starting capital, a US bank account, and Stripe for payments.
 
 Circularo provides the technology; REDA provides US sales capability, market reach, and execution of the commercial customer lifecycle through SignFide. SignFide is the dedicated jointly established company, brand, and US sales entity, rather than a separate third delivery team. The starting operating model is Option A, the Circularo-managed co-branded service.
 
 The central operating dependency is an agreement between Circularo and SignFide LLC covering resale rights and special commercial terms, aligned with the cooperation agreement with REDA. The [proposed responsibilities and RACI appendix](cooperation-responsibilities-and-raci.md) defines the intended Circularo/REDA working split, deliverables, handoffs, and decisions still needed before contract attachment. The [OmniTrust model](info.md) supplies the operating-model reference; Options B and C remain future alternatives subject to separate agreement.
 
-The [REDA contribution commitments and performance schedule](reda-contribution-and-performance.md) adds the resource commitments, measurable outputs, customer outcomes, cost attribution, and review process needed to substantiate the proposed 40% interest. Circularo’s contribution includes technology and the agreed license/service on special favorable supplier terms intended to support SignFide’s US profitability. Actual commercial terms and performance targets remain to be agreed.
+The [REDA contribution commitments and performance schedule](reda-contribution-and-performance.md) adds the resource commitments, measurable outputs, customer outcomes, cost attribution, and review process needed to substantiate the proposed 33% interest. Circularo’s contribution includes technology and the agreed license/service on special favorable supplier terms intended to support SignFide’s US profitability. Actual commercial terms and performance targets remain to be agreed.
 
 The [internal open questions registry](open-questions.md) tracks unresolved performance remedies, exit rights, global brand ownership, the US territorial license, future expansion, and related company/contract issues. Joint development of the SignFide brand does not settle ownership of its trademarks or global rights. A possible structure with Circularo or a selected IP entity owning the brand and licensing US use to SignFide remains an open discussion proposal.
 
@@ -25,7 +25,7 @@ These are the founder-supplied basis for planning. They do not establish that fo
 | --- | --- |
 | Company | SignFide LLC |
 | Jurisdiction | Delaware, United States |
-| Ownership | JP Investment LLC: 60%; Reda’s team: 40% |
+| Ownership | JP Investment LLC: 67%; Reda’s team: 33% |
 | Offering | Signfide powered by Circularo |
 | Customer terms | SignFide LLC will resell the offering under its own terms |
 | Circularo relationship | A contract between Circularo and SignFide LLC will authorize and govern the arrangement |
@@ -43,8 +43,8 @@ The working ownership split is:
 
 | Ownership group | Interest | Open detail |
 | --- | --- | --- |
-| JP Investment LLC | 60% | Confirm exact legal entity details and authorized representative |
-| Reda’s team | 40% | Identify the actual member or members, any holding entity, and allocation within the group |
+| JP Investment LLC | 67% | Confirm exact legal entity details and authorized representative |
+| Reda’s team | 33% | Identify the actual member or members, any holding entity, and allocation within the group |
 | Total | 100% | Confirm the documented ownership structure |
 
 The ownership split is separate from the decisions still needed about management, voting, profit distributions, spending authority, and who can bind SignFide LLC. Those arrangements should be documented explicitly rather than inferred from the percentages.
@@ -84,7 +84,7 @@ These are proposed agreement topics for the parties and their advisors. Special 
 
 ## Capital and financial operations
 
-USD 10,000 is the stated total starting capital. The founders still need to confirm who contributes it, in what amounts, when it is funded, and how contributions are documented. A 60/40 ownership split has not been treated as an agreed 60/40 cash contribution.
+USD 10,000 is the stated total starting capital. The founders still need to confirm who contributes it, in what amounts, when it is funded, and how contributions are documented. A 67/33 ownership split has not been treated as an agreed 67/33 cash contribution.
 
 The setup plan includes a US bank account and Stripe for SignFide LLC. Opening status, account administrators, authorized access, payout destination, and approval controls remain to be confirmed. Credentials, identity documents, and live banking or payment details must remain outside this repository.
 

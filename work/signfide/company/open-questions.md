@@ -8,7 +8,7 @@ Basis: Josef’s concerns about REDA performance, avoiding an indefinite commitm
 
 The founders need an arrangement that can succeed in the United States while preserving Circularo’s technology and future brand opportunities. The company ownership, REDA’s operating appointment, technology supply, brand license, and territory rights are separate decisions. A remedy in one agreement must not be assumed to resolve all the others.
 
-The starting company proposal remains JP Investment LLC 60% and REDA’s team 40%, with Option A for technology operations. No trademark owner, equity remedy, exclusivity, exit right, or worldwide entitlement is settled by this registry. “Developing the brand together” in earlier drafts describes cooperation; it does not establish joint trademark or global brand ownership.
+The starting company proposal remains JP Investment LLC 67% and REDA’s team 33%, with Option A for technology operations. No trademark owner, equity remedy, exclusivity, exit right, or worldwide entitlement is settled by this registry. “Developing the brand together” in earlier drafts describes cooperation; it does not establish joint trademark or global brand ownership.
 
 ## How to use the registry
 
@@ -23,7 +23,7 @@ The starting company proposal remains JP Investment LLC 60% and REDA’s team 40
 | ID | Priority | Open question | Proposed discussion lead | Status |
 | --- | --- | --- | --- | --- |
 | SF-OQ-001 | P0 | What happens if REDA does not supply the agreed team or achieve reasonable US results? | Josef and REDA commercial lead | Open |
-| SF-OQ-002 | P0 | How does REDA’s contribution relate to the issue, earning, retention, or transfer of its proposed 40% interest? | JP Investment representative, REDA, and company counsel | Open |
+| SF-OQ-002 | P0 | How does REDA’s contribution relate to the issue, earning, retention, or transfer of its proposed 33% interest? | JP Investment representative, REDA, and company counsel | Open |
 | SF-OQ-003 | P0 | How can Circularo end its supplier commitment, and how can JP Investment exit its company investment? | Circularo and JP Investment representatives with counsel | Open |
 | SF-OQ-004 | P0 | Who owns the SignFide trademark and global brand assets? | Circularo/IP representative, REDA, and trademark counsel | Open |
 | SF-OQ-005 | P0 | What US brand and distribution rights does SignFide receive, and on what conditions? | Circularo commercial/IP lead and REDA | Open |
@@ -64,13 +64,13 @@ The starting company proposal remains JP Investment LLC 60% and REDA’s team 40
 
 **Closure evidence:** Completed performance schedule and agreed shortfall/remedy provisions mapped to the affected agreements, including treatment of existing customers.
 
-## SF-OQ-002 REDA’s proposed 40 percent interest
+## SF-OQ-002 REDA’s proposed 33 percent interest
 
-**Question:** Is the 40% interest issued at the outset, earned over time or milestones, subject to an agreed repurchase mechanism, or structured another way?
+**Question:** Is the 33% interest issued at the outset, earned over time or milestones, subject to an agreed repurchase mechanism, or structured another way?
 
 Compare the alternatives with counsel, including treatment of delivered versus undelivered contribution, ordinary poor market outcomes versus material breach, departure of key people, valuation, payment timing, and tax/accounting implications. Do not assume a missed sales target permits confiscation or transfer of an interest.
 
-**Proposed discussion position:** Agree the contribution and downside mechanics before implementing the ownership arrangements. Identify who may exercise any right, who must approve it, how disputes are resolved, and how the payment is funded. The proposed 60/40 split itself remains unchanged unless the founders agree otherwise.
+**Proposed discussion position:** Agree the contribution and downside mechanics before implementing the ownership arrangements. Identify who may exercise any right, who must approve it, how disputes are resolved, and how the payment is funded. The proposed 67/33 split itself remains unchanged unless the founders agree otherwise.
 
 **Closure evidence:** Company documents and any related contribution/transfer provisions reconciled with the performance schedule. No numeric valuation, vesting period, or repurchase price is proposed here.
 
@@ -88,7 +88,7 @@ Compare the alternatives with counsel, including treatment of delivered versus u
 
 **Legal point to address:** Delaware’s default member-resignation rule can prevent withdrawal before dissolution unless the LLC agreement provides otherwise. A member exit must therefore be addressed expressly rather than inferred from a supplier termination clause. [Delaware section 18-603](https://delcode.delaware.gov/title6/c018/sc06/index.html).
 
-For voluntary dissolution, the statutory default uses more than two-thirds of profit interests unless the LLC agreement provides otherwise. JP Investment’s proposed 60% should not be treated as a guaranteed unilateral dissolution route. Court-ordered dissolution is a separate statutory process, not a pre-agreed commercial exit. [Delaware sections 18-801 and 18-802](https://delcode.delaware.gov/title6/c018/sc08/index.html).
+For voluntary dissolution, the statutory default uses more than two-thirds of profit interests unless the LLC agreement provides otherwise. A 67% profit interest would exceed that numerical threshold. Confirm that JP Investment’s proposed 67% ownership corresponds to the relevant profit interest and check the LLC agreement’s actual voting, consent, and reserved-matter provisions before relying on a unilateral route. Dissolution does not replace the separate supplier, license, investment-exit, and customer-continuity arrangements. [Delaware sections 18-801 and 18-802](https://delcode.delaware.gov/title6/c018/sc08/index.html).
 
 **Proposed discussion position:** Negotiate workable contractual and investment exit paths at the start, with funded valuation/payment mechanics and customer continuity. Specify whether termination of one relationship ends, changes, or leaves the others intact.
 
@@ -126,7 +126,7 @@ The quality-control provisions need actual implementation, not only contractual 
 
 **Question:** If SignFide expands beyond the US, does REDA participate automatically, have an option to participate, or require a separate agreement?
 
-**Proposed discussion position:** Reserve non-US development and licensing to the selected brand owner, subject to the final agreements and existing rights. Treat REDA’s proposed 40% as an interest in the US company, without an assumed interest in other ventures or the global brand portfolio. This boundary needs explicit agreement, not an inference from a company name or ownership percentage.
+**Proposed discussion position:** Reserve non-US development and licensing to the selected brand owner, subject to the final agreements and existing rights. Treat REDA’s proposed 33% as an interest in the US company, without an assumed interest in other ventures or the global brand portfolio. This boundary needs explicit agreement, not an inference from a company name or ownership percentage.
 
 Define how to classify a customer’s territory: contracting entity, headquarters, bill-to location, end-user locations, online inbound enquiries, referrals, multinational groups, and global contracts. Decide lead routing, permitted servicing, channel conflict, and any referral compensation separately. Expansion might use regional entities or a global provider; no structure is selected here.
 
@@ -166,7 +166,7 @@ Define how to classify a customer’s territory: contracting entity, headquarter
 
 ## Decision log
 
-No decisions recorded yet. For each decision, capture:
+2026-10-14 — Josef directed that the working ownership proposal be revised to **JP Investment LLC 67% and REDA’s designated holders 33%**. This internal direction updates the drafts; it does not settle the contribution/equity mechanisms in SF-OQ-002 or establish execution of the company arrangements. For each further decision, capture:
 
 | Field | Required record |
 | --- | --- |
