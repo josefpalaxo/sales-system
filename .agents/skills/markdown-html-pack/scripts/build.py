@@ -152,6 +152,45 @@ def order_documents(documents, config):
     return groups
 
 
+def render_navigation(documents, groups, mode):
+    def links(items):
+        return '<ul>' + ''.join(
+            f'<li><a class="document-link" data-document="{doc.identifier}" href="#{doc.identifier}" title="{escape(doc.name, quote=True)}">{escape(doc.label)}</a></li>'
+            for doc in items) + '</ul>' if items else ''
+
+    def disclosure(label, body, opened=False, folder=None):
+        path = f' data-folder="{escape(folder, quote=True)}"' if folder is not None else ''
+        return ('<details class="nav-group"' + path + (' open' if opened else '') + '><summary>'
+                + escape(label) + '</summary><div class="nav-children">' + body + '</div></details>')
+
+    if mode == 'groups':
+        return ''.join(disclosure(label, links(items), documents[0] in items) for label, items in groups)
+    if mode != 'folders':
+        raise ValueError('Navigation must be "folders" or "groups"')
+
+    trees = {}
+    for doc in documents:
+        node = trees.setdefault(doc.root, {'documents': [], 'children': {}})
+        for part in PurePosixPath(doc.name).parts[:-1]:
+            node = node['children'].setdefault(part, {'documents': [], 'children': {}})
+        node['documents'].append(doc)
+
+    def folder(label, node, path):
+        children = [folder(name, child, name if path == '.' else path + '/' + name)
+                    for name, child in sorted(node['children'].items(), key=lambda item: item[0].casefold())]
+        active = documents[0] in node['documents'] or any(active for _, active in children)
+        body = links(node['documents']) + ''.join(markup for markup, _ in children)
+        return disclosure(label + '/', body, active, path), active
+
+    result = []
+    for index, (root, node) in enumerate(trees.items(), 1):
+        label = root.name
+        if sum(candidate.name == label for candidate in trees) > 1:
+            label += f' · {index}'
+        result.append(folder(label, node, '.' if len(trees) == 1 else f'input-{index}')[0])
+    return ''.join(result)
+
+
 class Fragment(HTMLParser):
     def __init__(self, doc, ids, valid_ids, roots, exclude, warnings):
         super().__init__(convert_charrefs=False)
@@ -288,10 +327,7 @@ def build(args):
                         f'<div class="document-actions" data-js><button type="button" data-copy="{identifier}">Copy text</button>'
                         f'<button type="button" data-download="{identifier}">Download Markdown</button></div></div>'
                         + contents + '<div class="doc-body">' + rendered + '</div></article>')
-    navigation = []
-    for label, items in groups:
-        links = "".join(f'<li><a class="document-link" data-document="{doc.identifier}" href="#{doc.identifier}">{escape(doc.label)}</a></li>' for doc in items)
-        navigation.append('<section class="nav-group"><h2>' + escape(label) + '</h2><ul>' + links + '</ul></section>')
+    navigation = render_navigation(documents, groups, config.get('navigation', 'groups' if config.get('groups') else 'folders'))
     title = args.title if args.title is not None else config.get("title", roots[0].name + " — Documents")
     brand = args.brand if args.brand is not None else config.get("brand", "")
     subtitle = args.subtitle if args.subtitle is not None else config.get("subtitle", "Offline document reader")
@@ -306,7 +342,7 @@ def build(args):
     values = {"TITLE": escape(title, quote=True), "DESCRIPTION": escape(subtitle, quote=True), "BRAND": wordmark,
               "SUBTITLE": escape(subtitle), "COUNT": str(len(documents)), "NOTES": notes_html, "FOOTER": escape(footer),
               "CONTEXT": escape(str(len(documents)) + " documents" + (" · " + edition if edition else "")),
-              "NAVIGATION": "".join(navigation), "ARTICLES": "".join(articles), "SOURCE_DATA": safe_json(sources), "SETTINGS": safe_json({"title": title, "edition": edition})}
+              "NAVIGATION": navigation, "ARTICLES": "".join(articles), "SOURCE_DATA": safe_json(sources), "SETTINGS": safe_json({"title": title, "edition": edition})}
     template = (SKILL / "assets" / "template.html").read_text(encoding="utf-8")
     result = re.sub(r"__([A-Z_]+)__", lambda match: values[match[1]], template)
     output.parent.mkdir(parents=True, exist_ok=True)

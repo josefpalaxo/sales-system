@@ -1,5 +1,15 @@
 schema_version: 1
 fixtures:
+  - id: collapsible-repository-folders
+    type: behavior
+    prompt: Make an offline reader with a collapsible sidebar that mirrors the repository's nested folders and uses larger folder labels.
+    expected:
+      executable_check: test_folder_navigation_and_group_override
+      preserves_nested_folder_hierarchy: true
+      excluded_folders_visible: false
+      keyboard_expand_collapse: true
+      search_and_direct_links_expand_active_ancestors: true
+      retains_optional_curated_groups: true
   - id: brand-wordmark-home
     type: behavior
     prompt: Build a branded offline reader whose wordmark returns to the reader home file.

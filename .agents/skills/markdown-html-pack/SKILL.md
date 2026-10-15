@@ -35,12 +35,13 @@ For a recurring pack, save a JSON config beside its source files and pass `--con
 
 - `title`, `brand`, `subtitle`: plain text; branding defaults to neutral.
 - `edition`: plain text appended to the document count.
+- `navigation`: `folders` mirrors the selected sources' real folder hierarchy; `groups` uses the curated group labels below. Defaults to folders unless groups are configured. Set `navigation: "folders"` to retain a configured document inventory/order while browsing by real folders.
 - `footer`: plain text for audience/review instructions.
 - `notes`: a list of plain-text paragraphs under “About this edition”.
 - `include`, `exclude`: lists of glob patterns; combined with CLI patterns.
 - `groups`: ordered objects with `label` and `documents`. Each document has a relative `path`, optional `label`, `description`, and `id`. A configured list must cover exactly the selected files; the build fails if new files are unaccounted for. Relative paths must be unique across inputs when using groups.
 
-Without groups, documents are sorted by relative path, with README first. A label comes from the source's YAML title, first heading, or filename. Status, classification, evidence state and review date are displayed as supplied; missing metadata is not invented. Original UTF-8 Markdown, including frontmatter, is embedded for download. This means hidden frontmatter is also shared—check it along with the visible body.
+Without groups, documents are sorted by relative path, with README first. Navigation uses collapsible folders with larger labels and native keyboard controls. Root files live under the input folder, nested folders retain their hierarchy, and excluded/empty folders are absent. Curated groups are also collapsible. Only the initial document's ancestors start expanded; opening a document from search, a cross-link or a direct fragment expands its ancestors without closing other folders. Document titles remain readable; link tooltips show relative filenames. A label comes from the source's YAML title, first heading, or filename. Status, classification, evidence state and review date are displayed as supplied; missing metadata is not invented. Original UTF-8 Markdown, including frontmatter, is embedded for download. This means hidden frontmatter is also shared—check it along with the visible body.
 
 ## Mermaid diagrams
 
@@ -56,7 +57,7 @@ The reader embeds its styles and JavaScript. When a brand is configured, its wor
 
 An existing output produced by this generator is refreshed atomically in place. An unrelated existing file requires `--force`; inspect it before deciding to overwrite. Source Markdown is never edited. Preserve confidentiality markings, draft status, evidence qualifications, and open conflicts in the output; use title/subtitle/edition/footer notes for pack-wide qualifications where sources lack frontmatter. Conversion does not authorize publication, sending, committing, pushing, or changes to governed records.
 
-After a build, open the file and check navigation, the wordmark's return home from another document or search (including keyboard activation), a cross-document link, search, a source download, narrow-screen layout, and print view. The output must work without network access. Report any omitted assets or references, and give the user a clickable absolute output path. For generator changes, run the executable checks and review routing fixtures:
+After a build, open the file and check folder expansion/collapse with mouse and keyboard, the active document's ancestors after search/direct-fragment navigation, the wordmark's return home from another document or search (including keyboard activation), a cross-document link, search, a source download, narrow-screen layout, and print view. The output must work without network access. Report any omitted assets or references, and give the user a clickable absolute output path. For generator changes, run the executable checks and review routing fixtures:
 
 ```bash
 rtk proxy python3 .agents/skills/markdown-html-pack/evals/test_build.py
