@@ -1,0 +1,38 @@
+Category,SKU,Add-On,Currency,Price,Billing Unit
+Identity and Trust,CX-ADD-CERORG1,Organizational Signing & Sealing Certificate (AATL - I.CA),USD,550.0,Annual
+Identity and Trust,CX-ADD-CERUSR,Custom Employee Level Electronic Signing Certificate (500 signatures per year),USD,250.0,Annual
+Identity and Trust,CX-ADD-DESC,DESC eSeal Certificate (3-year),USD,4500.0,3-year
+Identity and Trust,CX-ADD-KYC-IDVERIFY1,Identomat ID Verification,USD,1.45,Per verification
+Identity and Trust,CX-ADD-KYC-LIVENESS1,Identomat Liveness Verification,USD,0.45,Per verification
+Identity and Trust,CX-ADD-NAFATH-VER,NAFATH Identity Verification,USD,1350.0,Annual
+Identity and Trust,CX-ADD-SAML,SAML 2.0 SSO,USD,1350.0,Annual
+Identity and Trust,CX-ADD-SMS,SMS Credits,USD,0.14,Credit
+Identity and Trust,CX-ADD-SMS-1,SMS 2FA / OTP,USD,24.0,Credit pack: 100
+Identity and Trust,CX-ADD-TSA-1,Trusted and Certified Timestamps,USD,88.0,"Credit pack: 1,000"
+Identity and Trust,CX-ADD-TSA-1,eIDAS Qualified Timestamp (I.CA),USD,29.0,Annual pack of 100 timestamps
+Identity and Trust,CX-ADD-TSA-2,Trusted and Certified Timestamps,USD,419.0,"Credit pack: 5,000"
+Identity and Trust,CX-ADD-TSA-2,eIDAS Qualified Timestamp (Datasure),USD,25.0,Annual pack of 100 timestamps
+Identity and Trust,CX-ADD-TSA-3,Trusted and Certified Timestamps,USD,792.0,"Credit pack: 10,000"
+Identity and Trust,CX-ADD-TSA-3,Trusted and Certified Timestamps (DESC),USD,88.0,Annual pack of 100 timestamps
+Identity and Trust,CX-ADD-UAEPASS1,UAE Pass Identity Verification,USD,850.0,Annual
+Identity and Trust,CX-ADD-UAEPASS2,UAE Pass Signing,USD,1850.0,Annual
+Branding and White Label,CX-ADD-BRANDING-PACK,Branded Experience Bundle,USD,960.0,Annual
+Branding and White Label,CX-ADD-CIBRAND,Custom Application Name,USD,1250.0,Annual
+Branding and White Label,CX-ADD-DOMAIN,Custom Domain,USD,950.0,Annual
+Branding and White Label,CX-ADD-EMAILID,Custom Email Identity,USD,1250.0,Annual
+Branding and White Label,CX-ADD-EMAILTXT,Custom Email Notifications,USD,1500.0,Annual
+Branding and White Label,CX-ADD-SKIN,Custom Branding and Styling,USD,550.0,Annual
+Document Management and Productivity,CX-ADD-AIDOC,AI Document Assistant,USD,1250.0,Annual
+Document Management and Productivity,CX-ADD-DMS,Document Management & Archiving,USD,1500.0,Annual
+Document Management and Productivity,CX-ADD-FREC,PDF Form Fields Recognition,USD,475.0,Annual
+Document Management and Productivity,CX-ADD-GSUITE,Google Workspace Integration,USD,0.0,Annual
+Document Management and Productivity,CX-ADD-MS365,Microsoft Office 365 Add-in,USD,0.0,Annual
+Document Management and Productivity,CX-ADD-MSAC,Sharepoint Connector,USD,1150.0,Annual
+Document Management and Productivity,CX-ADD-QUICK,Quick Document Processing,USD,2500.0,Annual
+Document Management and Productivity,CX-ADD-REPORTS,Advanced Reporting,USD,1500.0,Annual
+Document Management and Productivity,CX-ADD-SHAREPOINT,Circularo for SharePoint,USD,0.0,Annual
+Document Management and Productivity,CX-ADD-API,REST API for Custom Integrations,USD,1500.0,Annual
+Document Management and Productivity,CX-CDOC,Collabora Integration - cDocs,USD,30.0,Per user per year
+Workspace and Services,CX-ONETIME-ONBOARDING-X,Customer Onboarding & Consulting,USD,920.0,One-time
+Workspace and Services,CX-ADD-LIMIT80,Boost eSign Transaction Limit to 80 MB,USD,1500.0,Annual
+Additional Platform and Storage,CX-ADD-STG-100,Extra Archiving Storage,USD,53.0,100 GB

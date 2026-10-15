@@ -12,7 +12,12 @@ review_by: 2026-09-15
 sources:
   - ref: source:add-on-model-2026
     locator: "Add-On Model Overview / Scope; Scope (WHERE it applies)"
+record_role: derived
+master_id: master:add-on-model
+master_revision: 1
 relations:
+  derives_from:
+    - master:add-on-model
   based_on:
     - source:add-on-model-2026
   constrained_by:

@@ -3,6 +3,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:add-on-model",
         "source:add-on-model-2026",
         "add-on-model:types"
       ],
@@ -10,9 +11,16 @@
       "id": "add-on-model:commercial-rails",
       "kind": "add-on-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:add-on-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/add-ons/commercial-rails.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:add-on-model-2026",
           "type": "based_on"
@@ -23,7 +31,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:add-on-model-2026"
       ],
@@ -35,6 +43,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:add-on-model",
         "source:add-on-model-2026",
         "add-on-model:commercial-rails"
       ],
@@ -42,9 +51,16 @@
       "id": "add-on-model:types",
       "kind": "add-on-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:add-on-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/add-ons/add-on-types.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:add-on-model-2026",
           "type": "based_on"
@@ -55,7 +71,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:add-on-model-2026"
       ],
@@ -67,22 +83,30 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026"
       ],
       "domain": "shared",
       "id": "commercial-model:sales-layers",
       "kind": "commercial-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-model/sales-layers.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -94,6 +118,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:api-access"
       ],
@@ -101,9 +126,16 @@
       "id": "commercial-rule:add-on-plan-eligibility",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/add-on-plan-eligibility.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -114,7 +146,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -126,22 +158,30 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:add-on-model",
         "source:add-on-model-2026"
       ],
       "domain": "shared",
       "id": "commercial-rule:add-on-policy-flags",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:add-on-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/add-ons/add-on-policy-flags.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:add-on-model-2026",
           "type": "based_on"
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:add-on-model-2026"
       ],
@@ -153,6 +193,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:add-on-model",
         "source:add-on-model-2026",
         "add-on-model:commercial-rails",
         "commercial-rule:api-access"
@@ -161,9 +202,16 @@
       "id": "commercial-rule:add-on-principles",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:add-on-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/add-ons/add-on-principles.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:add-on-model-2026",
           "type": "based_on"
@@ -178,7 +226,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:add-on-model-2026"
       ],
@@ -190,6 +238,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:add-on-model",
         "source:add-on-model-2026",
         "conflict:add-on-workspace-scope"
       ],
@@ -197,9 +246,16 @@
       "id": "commercial-rule:add-on-scopes",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:add-on-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/add-ons/add-on-scopes.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:add-on-model-2026",
           "type": "based_on"
@@ -222,6 +278,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:automated-transactions",
         "commercial-rule:add-on-plan-eligibility"
@@ -230,9 +287,16 @@
       "id": "commercial-rule:api-access",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/api-access.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -247,7 +311,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -259,6 +323,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "decision:transaction-based-automation-entitlement"
       ],
@@ -266,9 +331,16 @@
       "id": "commercial-rule:automated-transactions",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/automated-transactions.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -279,7 +351,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -291,6 +363,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "subscription-model:user-based",
         "subscription-model:transaction-based"
@@ -299,9 +372,16 @@
       "id": "commercial-rule:bulk-signing",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/bulk-signing.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -316,7 +396,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -328,6 +408,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:automated-transactions"
       ],
@@ -335,9 +416,16 @@
       "id": "commercial-rule:manual-transactions",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/manual-transactions.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -348,7 +436,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -360,6 +448,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:api-access"
       ],
@@ -367,9 +456,16 @@
       "id": "commercial-rule:sandbox-environments",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/sandbox-environments.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -380,7 +476,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -392,6 +488,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:transactional-document-storage",
         "commercial-rule:automated-transactions"
@@ -400,9 +497,16 @@
       "id": "commercial-rule:subscription-inclusions-exclusions",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/subscription-inclusions-exclusions.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -417,7 +521,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -429,6 +533,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "subscription-model:user-based",
         "subscription-model:transaction-based"
@@ -437,9 +542,16 @@
       "id": "commercial-rule:subscription-plan-eligibility",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/subscription-plan-eligibility.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -454,7 +566,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -466,6 +578,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:user-transaction-allowances"
       ],
@@ -473,9 +586,16 @@
       "id": "commercial-rule:transaction-fair-use",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/transaction-fair-use.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -486,7 +606,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -498,6 +618,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "decision:transactional-document-storage-fair-use"
       ],
@@ -505,9 +626,16 @@
       "id": "commercial-rule:transactional-document-storage",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/transactional-document-storage.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -518,7 +646,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -530,6 +658,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "subscription-model:user-based",
         "commercial-rule:transaction-fair-use",
@@ -539,9 +668,16 @@
       "id": "commercial-rule:user-transaction-allowances",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/user-transaction-allowances.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -560,7 +696,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -572,6 +708,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "subscription-model:user-based"
       ],
@@ -579,9 +716,16 @@
       "id": "commercial-rule:user-types",
       "kind": "commercial-rule",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/commercial-rules/user-types.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -592,7 +736,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -604,15 +748,23 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026"
       ],
       "domain": "shared",
       "id": "company:circularo",
       "kind": "company",
       "last_reviewed": "2026-08-27",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/company/circularo.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -637,8 +789,11 @@
       "id": "conflict:add-on-workspace-scope",
       "kind": "conflict",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/conflicts/add-on-workspace-scope.md",
+      "record_role": null,
       "relations": [
         {
           "target": "source:add-on-model-2026",
@@ -665,8 +820,11 @@
       "id": "conflict:automated-transactions-inclusion",
       "kind": "conflict",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/conflicts/automated-transactions-inclusion.md",
+      "record_role": null,
       "relations": [
         {
           "target": "source:commercial-model-2026",
@@ -697,8 +855,11 @@
       "id": "conflict:transactional-document-storage-limits",
       "kind": "conflict",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/conflicts/transactional-document-storage-limits.md",
+      "record_role": null,
       "relations": [
         {
           "target": "source:commercial-model-2026",
@@ -722,6 +883,51 @@
     {
       "classification": "internal",
       "depends_on": [
+        "source:commercial-model-2026",
+        "source:add-on-model-2026",
+        "master:commercial-model",
+        "master:add-on-model"
+      ],
+      "domain": "shared",
+      "id": "decision:master-document-authority",
+      "kind": "decision",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "governance/decisions/master-document-authority.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:commercial-model-2026",
+          "type": "applies_to"
+        },
+        {
+          "target": "source:add-on-model-2026",
+          "type": "applies_to"
+        },
+        {
+          "target": "master:commercial-model",
+          "type": "applies_to"
+        },
+        {
+          "target": "master:add-on-model",
+          "type": "applies_to"
+        }
+      ],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Full Master Documents Govern Derived Structured Records",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
         "subscription-model:transaction-based",
         "commercial-rule:automated-transactions",
         "conflict:automated-transactions-inclusion"
@@ -730,8 +936,11 @@
       "id": "decision:transaction-based-automation-entitlement",
       "kind": "decision",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/decisions/transaction-based-automation-entitlement.md",
+      "record_role": null,
       "relations": [
         {
           "target": "subscription-model:transaction-based",
@@ -766,8 +975,11 @@
       "id": "decision:transactional-document-storage-fair-use",
       "kind": "decision",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/decisions/transactional-document-storage-fair-use.md",
+      "record_role": null,
       "relations": [
         {
           "target": "commercial-rule:transactional-document-storage",
@@ -791,15 +1003,23 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026"
       ],
       "domain": "shared",
       "id": "deck:trusted-execution-commercial-model",
       "kind": "slide-deck",
       "last_reviewed": "2026-08-27",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/assets/slides/commercial-model/circularo-trusted-execution-commercial-model.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -822,8 +1042,11 @@
       "id": "deck:unified-sovereign-trust-platform",
       "kind": "slide-deck",
       "last_reviewed": "2026-08-27",
+      "master_id": null,
+      "master_revision": null,
       "owner": "team:product-marketing",
       "path": "shared/assets/slides/unified-trust-platform/circularo-unified-sovereign-trust-platform.md",
+      "record_role": null,
       "relations": [],
       "review_by": "2027-02-23",
       "revision": null,
@@ -836,22 +1059,30 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026"
       ],
       "domain": "shared",
       "id": "edition-model:plan-edition-deployment",
       "kind": "edition-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/editions/plan-edition-deployment.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -863,6 +1094,665 @@
     {
       "classification": "internal",
       "depends_on": [
+        "conflict:add-on-workspace-scope"
+      ],
+      "domain": "shared",
+      "id": "master:add-on-model",
+      "kind": "master-document",
+      "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/Circularo Add-On Model and How it Works.md",
+      "record_role": "master",
+      "relations": [
+        {
+          "target": "conflict:add-on-workspace-scope",
+          "type": "constrained_by"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:add-on-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Circularo Add-On Model and How It Works",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:circularo-commercial-dictionary",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/Circularo Commercial Dictionary.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Commercial Dictionary",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "master:add-on-model"
+      ],
+      "domain": "shared",
+      "id": "master:commercial-model",
+      "kind": "master-document",
+      "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/Circularo Commercial Model.md",
+      "record_role": "master",
+      "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "related_to"
+        }
+      ],
+      "review_by": "2026-11-26",
+      "revision": 1,
+      "source_refs": [
+        "source:commercial-model-2026"
+      ],
+      "status": "approved",
+      "tags": [],
+      "title": "Circularo Commercial Model",
+      "topic": null
+    },
+    {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-internal-partner-price-book",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Internal Partner Price Book.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Internal Partner Price Book",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-deal-registration-guide",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Deal Registration Guide.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Deal Registration Guide",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-pricing-special-pricing-guide",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Pricing & Special Pricing Guide.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Pricing & Special Pricing Guide",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-pricing-strategy-architecture",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Pricing Strategy Architecture.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Pricing Strategy Architecture",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-program-faq",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program FAQ.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Program FAQ",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-program-guide",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Guide.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Program Guide",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-program-operations-guide",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Operations Guide.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Program Operations Guide",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-partner-program-policy",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Policy.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Partner Program Policy",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-circularo-saas-partner-sales-catalog",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Circularo SaaS Partner Sales Catalog.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo SaaS Partner Sales Catalog",
+      "topic": null
+    },
+    {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-pricing-book-lessons-learned",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/pricing-book/lessons-learned.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Pricing Workbook Implementation Notes",
+      "topic": null
+    },
+    {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-pricing-book-plan",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/pricing-book/plan.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Task: Build Circularo Internal Annual Pricing Workbook",
+      "topic": null
+    },
+    {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-pricing-book-technical-documentation",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/pricing-book/technical-documentation.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Internal Price Book \u2014 Technical Documentation",
+      "topic": null
+    },
+    {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-pricing-book-user-manual",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/pricing-book/user-manual.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Internal Price Book \u2014 End-User Manual",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
+      "id": "master:partner-management-selling-circularo-saas-as-a-partner",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "domains/partnerships/master-documents/partner-management/Selling Circularo SaaS as a Partner.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Selling Circularo SaaS as a Partner",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-api-licensing-faqs",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/API Licensing FAQs.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "API Licensing FAQ",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-api-licensing-principles",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/API Licensing Principles.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "API Licensing Principles",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-api-pricing-recommendations",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/API Pricing Recommendations.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "API Pricing Recommendations",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-circularo-positioning-framework",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/Circularo Positioning Framework.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Positioning Framework",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-circularo-sales-dos-and-do-nots",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/Circularo Sales DOs and DO NOTs.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Sales DOs and DO NOTs",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-selling-circularo-api-plans",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/Selling Circularo API Plans.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Selling API Plans",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-selling-circularo-saas",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/Selling Circularo  SaaS.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Selling Circularo SaaS",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-selling-sovereign-trust-solutions",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/Selling Sovereign Trust Solutions.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Selling Sovereign Trust Solutions",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-guidelines-why-api-is-sold-only-with-user-based-subscriptions",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/sales-guidelines/Why API is Sold Only with User-Based Subscriptions.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "reviewed",
+      "tags": [],
+      "title": "Why API is Sold Only with User-Based Subscriptions",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:sales-hub",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/Sales Hub.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Sales Hub",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "master:todo",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/master-documents/TODO.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Simplify API Pricing",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "master:add-on-model",
         "source:add-on-model-2026",
         "add-on-model:types",
         "add-on-model:commercial-rails"
@@ -871,9 +1761,16 @@
       "id": "message:add-on-type-explanations",
       "kind": "message",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:add-on-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/messaging/add-on-sales-explanations.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:add-on-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:add-on-model-2026",
           "type": "based_on"
@@ -888,7 +1785,7 @@
         }
       ],
       "review_by": "2027-02-24",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:add-on-model-2026"
       ],
@@ -904,11 +1801,14 @@
       "id": "source:add-on-model-2026",
       "kind": "source",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/source-register/add-on-model-2026.md",
+      "record_role": null,
       "relations": [],
       "review_by": "2026-11-26",
-      "revision": 2,
+      "revision": 3,
       "source_refs": [],
       "status": "approved",
       "tags": [],
@@ -922,11 +1822,14 @@
       "id": "source:commercial-model-2026",
       "kind": "source",
       "last_reviewed": "2026-08-28",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:cso",
       "path": "governance/source-register/commercial-model-2026.md",
+      "record_role": null,
       "relations": [],
       "review_by": "2026-11-26",
-      "revision": 3,
+      "revision": 4,
       "source_refs": [],
       "status": "approved",
       "tags": [],
@@ -940,8 +1843,11 @@
       "id": "source:repository-architecture-brief",
       "kind": "source",
       "last_reviewed": "2026-08-27",
+      "master_id": null,
+      "master_revision": null,
       "owner": "role:repository-steward",
       "path": "governance/source-register/repository-architecture-brief.md",
+      "record_role": null,
       "relations": [],
       "review_by": "2027-08-27",
       "revision": 1,
@@ -952,24 +1858,53 @@
       "topic": null
     },
     {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "source:sales-repo-canonical",
+      "kind": "source",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "governance/source-register/sales-repo-canonical.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [],
+      "status": "reviewed",
+      "tags": [],
+      "title": "Sales Repo Canonical Document Library",
+      "topic": null
+    },
+    {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026"
       ],
       "domain": "shared",
       "id": "subscription-model:dms-only",
       "kind": "subscription-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/subscription-models/dms-only.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -981,6 +1916,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-model:sales-layers"
       ],
@@ -988,9 +1924,16 @@
       "id": "subscription-model:structure",
       "kind": "subscription-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/subscriptions/subscription-structure.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -1001,7 +1944,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -1013,6 +1956,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "decision:transaction-based-automation-entitlement"
       ],
@@ -1020,9 +1964,16 @@
       "id": "subscription-model:transaction-based",
       "kind": "subscription-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/subscription-models/transaction-based.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -1033,7 +1984,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -1045,6 +1996,7 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026",
         "commercial-rule:user-transaction-allowances",
         "commercial-rule:automated-transactions",
@@ -1054,9 +2006,16 @@
       "id": "subscription-model:user-based",
       "kind": "subscription-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/subscription-models/user-based.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
@@ -1075,7 +2034,7 @@
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
@@ -1087,22 +2046,30 @@
     {
       "classification": "internal",
       "depends_on": [
+        "master:commercial-model",
         "source:commercial-model-2026"
       ],
       "domain": "shared",
       "id": "support-model:plans-and-services",
       "kind": "support-model",
       "last_reviewed": "2026-08-28",
+      "master_id": "master:commercial-model",
+      "master_revision": 1,
       "owner": "role:cso",
       "path": "shared/knowledge/commercial/support/support-and-services.md",
+      "record_role": "derived",
       "relations": [
+        {
+          "target": "master:commercial-model",
+          "type": "derives_from"
+        },
         {
           "target": "source:commercial-model-2026",
           "type": "based_on"
         }
       ],
       "review_by": "2026-11-26",
-      "revision": 1,
+      "revision": 2,
       "source_refs": [
         "source:commercial-model-2026"
       ],
