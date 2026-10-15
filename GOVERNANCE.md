@@ -13,6 +13,18 @@ The repository is canonical only for records that are:
 
 Git history records what changed. Approval metadata records whether the resulting content may be reused.
 
+## Master documents and derived records
+
+Active full master documents live under `shared/master-documents/` for cross-domain material and `domains/<domain>/master-documents/` for domain-specific material. A current approved master is the authoritative business definition for its stated scope. Draft masters remain drafts; placing a document in a master directory does not approve its contents or external use.
+
+Structured records provide smaller, agent-readable representations of a master. They carry `record_role: derived`, a `derives_from` relation, `master_id`, and the reconciled `master_revision`. Their own approvals and review dates remain necessary for reuse. An approved structured representation cannot independently supersede its governing master.
+
+Change the master first, increment its revision for semantic changes, review affected derived records, and update their master revision references after reconciliation. A revision mismatch blocks unqualified reuse of the affected representation. If a master and a derived record disagree, preserve and register the discrepancy; do not silently select a rule. An approved decision may authorize a change, but the affected master and representations must be reconciled before the new rule is reused.
+
+Historical snapshots preserve superseded evidence, not the active master. The source register identifies the active document and any retained historical snapshot. Existing conflicts still constrain the relevant passages of an otherwise approved master.
+
+Imported documents retain their source approval evidence and draft limitations. A migration/integrity review does not establish business approval, refresh a commercial review date, or authorize external sharing. Legacy `external` audience labels do not imply public classification. See [the master-document authority decision](governance/decisions/master-document-authority.md).
+
 ## Content lifecycle
 
 | Status | Meaning | Reuse |

@@ -33,6 +33,9 @@
       "enum": ["draft", "reviewed", "approved", "deprecated", "open", "resolved", "accepted-risk"]
     },
     "revision": {"type": "integer", "minimum": 1},
+    "record_role": {"enum": ["master", "derived"]},
+    "master_id": {"type": "string", "pattern": "^[a-z][a-z0-9-]*:[a-z0-9][a-z0-9-]*$"},
+    "master_revision": {"type": "integer", "minimum": 1},
     "classification": {"enum": ["public", "internal", "confidential", "restricted"]},
     "owner": {"type": "string", "minLength": 1},
     "last_reviewed": {"type": "string", "format": "date"},

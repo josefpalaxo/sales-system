@@ -5,7 +5,7 @@ kind: add-on-model
 domain: shared
 title: Add-On Types
 status: approved
-revision: 1
+revision: 2
 classification: internal
 owner: role:cso
 last_reviewed: 2026-08-28
@@ -13,7 +13,12 @@ review_by: 2026-11-26
 sources:
   - ref: source:add-on-model-2026
     locator: "Add-On Types"
+record_role: derived
+master_id: master:add-on-model
+master_revision: 1
 relations:
+  derives_from:
+    - master:add-on-model
   based_on:
     - source:add-on-model-2026
   constrained_by:

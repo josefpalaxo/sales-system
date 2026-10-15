@@ -13,11 +13,14 @@ Maintain this repository as a governed source of Circularo sales knowledge. Agen
 
 ## Canonicality
 
+- Active full master documents under `shared/master-documents/` and `domains/<domain>/master-documents/` are authoritative for their approved scope. Their status, review dates, and recorded conflicts still apply.
+- Structured records derived from a master are agent-readable representations, not a replacement authority. Maintain `derives_from`, `master_id`, and `master_revision`; reconcile differences with the owner instead of silently overriding a master or choosing an open conflict.
 - Only a current `approved` record is canonical for its stated scope.
 - `draft` and `reviewed` records may inform internal work only when visibly qualified.
 - Never turn `reported`, `inferred`, `hypothesis`, `unknown`, or `contradicted` content into a verified fact through repetition.
 - Never choose one side of an open blocking conflict.
 - Never copy a precise commercial rule, limit, price, or claim into another record. Reference its stable ID.
+- Preserved master documents and explicitly derived structured representations are the exception needed for this source/representation model. Edit the master first, then reconcile its derived records and revision references; do not create independent duplicate policies.
 - Records under `generated/` are derived and must not be edited manually.
 - Content under `work/` is non-canonical. For `work/m-capital/`, version only the original project documents and source files explicitly allowed by its local `.gitignore`; data, evidence, outputs, previews, dependencies and connection configuration remain local. This exception does not approve publication or change the tracking of other working projects.
 

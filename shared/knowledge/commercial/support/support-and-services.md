@@ -5,7 +5,7 @@ kind: support-model
 domain: shared
 title: Support Plans and Services
 status: approved
-revision: 1
+revision: 2
 classification: internal
 owner: role:cso
 last_reviewed: 2026-08-28
@@ -13,7 +13,12 @@ review_by: 2026-11-26
 sources:
   - ref: source:commercial-model-2026
     locator: "Part B / Support & Services"
+record_role: derived
+master_id: master:commercial-model
+master_revision: 1
 relations:
+  derives_from:
+    - master:commercial-model
   based_on:
     - source:commercial-model-2026
 spec:

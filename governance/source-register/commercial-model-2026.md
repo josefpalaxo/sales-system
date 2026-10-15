@@ -5,7 +5,7 @@ kind: source
 domain: shared
 title: Circularo Commercial Model
 status: approved
-revision: 3
+revision: 4
 classification: internal
 owner: role:cso
 last_reviewed: 2026-08-28
@@ -13,14 +13,16 @@ review_by: 2026-11-26
 sources: []
 relations: {}
 spec:
+  document: shared/master-documents/Circularo Commercial Model.md
+  master_id: master:commercial-model
   snapshot: sources/archived-snapshots/Circularo Commercial Model.md
   source_status: approved
-  authority: approved historical evidence; typed governed records are canonical for their stated scopes
-  migration_status: decomposed-canonical-records-primary
+  authority: active approved full master; structured commercial records are derived representations
+  migration_status: active-master-restored-2026-10-14
 ---
 
 # Circularo Commercial Model source
 
-This is the approved source snapshot for the commercial-model decomposition. Typed governed records under `shared/knowledge/commercial/` are now canonical for their stated scopes.
+The active [Circularo Commercial Model](<../../shared/master-documents/Circularo Commercial Model.md>) is the authoritative full master for its approved scope. Its existing 2026-08-28 content review remains in force; relocation does not refresh it.
 
-The snapshot remains approved historical evidence and provenance. Where a typed record and the snapshot differ, use the current approved typed record. Any remaining conflict record continues to constrain only its stated scope.
+Structured records under `shared/knowledge/commercial/` derive from that master and must remain reconciled with its revision. Preserve discrepancies and route them to the owner; do not silently override a master with a derived record. The archived snapshot is provenance. Existing conflict and decision records retain their stated scope. The differing sales-repo copy was preserved for comparison rather than substituted for the already approved sales-system revision.

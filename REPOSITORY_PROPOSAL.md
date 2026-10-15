@@ -9,6 +9,8 @@ scope: Accepted repository structure and governance; implementation initiated 20
 
 # Circularo Sales Repository Architecture Proposal
 
+> Authority update, 2026-10-14: the accepted implementation now keeps approved full master documents as the business authority, with structured records as derived representations. References below to typed records replacing full source documents are superseded by [GOVERNANCE.md](GOVERNANCE.md) and [the master-document authority decision](governance/decisions/master-document-authority.md). The remaining architecture context is retained for history.
+
 ## Executive recommendation
 
 Build a **layered, entity-backed documentation repository**, not a large library of sales documents and not a fully atomized knowledge graph.

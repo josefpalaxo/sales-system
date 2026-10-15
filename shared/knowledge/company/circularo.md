@@ -12,7 +12,12 @@ review_by: 2027-02-27
 sources:
   - ref: source:commercial-model-2026
     locator: "Document title and product examples"
+record_role: derived
+master_id: master:commercial-model
+master_revision: 1
 relations:
+  derives_from:
+    - master:commercial-model
   based_on:
     - source:commercial-model-2026
 spec:

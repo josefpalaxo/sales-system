@@ -1,0 +1,12 @@
+Plan,Variant Type,SKU,Display Name,Billing View,Billing Frequency,Transactions Annually,Price USD
+Start,Start,N/A,Start Plan,Annual billed yearly,Annual,60,72.00
+Pro,User-based,CP-REGU-SIGN-120,"Regular User (up to 120 Transactions)",Annual billed yearly,Annual,120,205.20
+Pro,User-based,CP-REGU-SIGN-UN,"Regular User (Unlimited Transactions)",Annual billed yearly,Annual,Unlimited,456.00
+Business,User-based,CB-REGU-SIGN-120,"Regular User (up to 120 Transactions)",Annual billed yearly,Annual,120,264.60
+Business,User-based,CB-REGU-SIGN-UN,"Regular User (Unlimited Transactions)",Annual billed yearly,Annual,Unlimited,588.00
+Business,User-based,CB-LITE-USR,"Lite User (Prepare Only, Sign Only, Read Only)",Annual billed yearly,Annual,Unlimited,300.00
+Business,Transaction-based,CB-ESIGN-UI-UN,"eSign Transaction (Unlimited Users)",Annual billed yearly,Annual,Unlimited,2.99
+Enterprise,User-based,CE-REGU-SIGN-120,"Regular User (up to 120 Transactions)",Annual billed yearly,Annual,120,367.20
+Enterprise,User-based,CE-REGU-SIGN-UN,"Regular User (Unlimited Transactions)",Annual billed yearly,Annual,Unlimited,816.00
+Enterprise,User-based,CX-LITE-USR,"Lite User (Prepare Only, Sign Only, Read Only)",Annual billed yearly,Annual,Unlimited,408.00
+Enterprise,Transaction-based,CE-ESIGN-UI-UN,"eSign Transaction (Unlimited Users)",Annual billed yearly,Annual,Unlimited,3.55
