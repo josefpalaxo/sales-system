@@ -45,6 +45,12 @@ Actual buy prices, cost allocation, service rates, technology remuneration, bill
 
 Implementation: SF-T-027 develops the actual-input model; SF-T-005/SF-T-011 reconcile supplier terms and SignFide pricing. Exact supply rights, approved channels, Option A service and exit protections remain in the [agreement principles](company/circularo-distribution-agreement.md).
 
+## SF-D-012 Wholesale financial-modeling assumption
+
+Date: 2026-10-14. Decision-maker: Josef, through his explicit repository instruction approving the working assumption in the [owning wholesale model](commercial/wholesale-pricing.md#working-assumption-and-approval).
+
+**Status: Approved for financial modeling; final wholesale prices and transfer-pricing methodology pending validation.** Use the approved markup on the agreed delivery cost base plus appropriate technology/IP remuneration when performing SF-T-027. This replaces the earlier illustrative markup assumption for modeling purposes; the actual cost base, technology/IP remuneration and final contractual prices still need validation/agreement. It refines SF-D-011 without changing the fixed buy-price principle or approving a tax method.
+
 ## Choices still proposed
 
 Global brand owner, exclusivity, entity/tax route, equity earning/remedies, supplier/public prices, exact ICP, quotas, migration priority, Phase 2 self-service details, launch date and gate acceptance remain in [OPEN-QUESTIONS](OPEN-QUESTIONS.md). Workspace approval does not adopt the supplied launch plan wholesale.

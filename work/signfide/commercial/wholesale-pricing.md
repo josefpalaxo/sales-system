@@ -6,6 +6,9 @@ status: draft
 owner: unassigned
 updated: "2026-10-14"
 classification: confidential
+modeling_status: "approved for financial modeling"
+modeling_approved_by: "Josef"
+modeling_approved_on: "2026-10-14"
 sources:
   - "../DECISIONS.md"
   - "../company/operating-model-options.md"
@@ -28,13 +31,15 @@ Josef has confirmed this internal commercial direction. Actual buy prices, cost 
 
 “Fixed” refers to the agreed unit price over its stated validity period. Total charges can vary with billable quantities, usage, add-ons and separately agreed scope. It does not mean an unlimited flat invoice or a perpetual price freeze.
 
-## Candidate calculation methodology
+## Working assumption and approval
 
-Evaluate two economic components: service delivery with appropriate remuneration, and remuneration for Circularo technology/IP. One possible internal calculation is:
+**Working assumption:** 20% markup on the agreed delivery cost base, plus appropriate technology/IP remuneration.
 
-**Buy price = defined platform delivery cost + service markup on the agreed eligible cost base + technology/IP remuneration.**
+**Status:** Approved for financial modeling; final wholesale prices and transfer-pricing methodology pending validation. Josef approved this scope on 2026-10-14; see SF-D-012 in [DECISIONS](../DECISIONS.md#sf-d-012-wholesale-financial-modeling-assumption). This replaces the earlier illustrative markup assumption.
 
-This is a candidate modeling approach, not an already accepted transfer-pricing method. A markup on hosting/support alone should not be assumed to remunerate the underlying software IP. Deliver one consolidated wholesale price to SignFide rather than requiring it to administer each internal cost component as a separate charge.
+**Modeled buy price = agreed delivery cost base × 1.20 + technology/IP remuneration.**
+
+Financial-modeling approval does not establish an accepted transfer-pricing method. A markup on hosting/support alone should not be assumed to remunerate the underlying software IP. Deliver one consolidated wholesale price to SignFide rather than requiring it to administer each internal cost component as a separate charge.
 
 ### Cost base to define
 
@@ -44,19 +49,19 @@ Agree cost pools, allocation drivers, capacity/volume assumptions, the markup-el
 
 ### Illustrative scenario only
 
-All amounts below are illustrative annual modeling inputs supplied in Josef's draft for one subscription. They are not actual Circularo costs, an approved price list, or a committed margin. The markup is a modeling assumption only.
+The example retains Josef's illustrative annual cost, technology/IP amount and selling revenue for one subscription, with the markup updated to the approved financial-modeling assumption. The remaining amounts are not actual Circularo costs, an approved price list, or a committed margin.
 
 | Component | Illustrative annual amount |
 | --- | --- |
 | Platform delivery cost | USD 100 |
-| Service markup, assumed 15% on that example cost base | USD 15 |
+| Service markup, 20% modeling assumption on that example cost base | USD 20 |
 | Technology/IP remuneration | USD 35 |
-| Consolidated SignFide buy price | USD 150 |
+| Consolidated SignFide buy price | USD 155 |
 | SignFide net direct selling revenue | USD 300 |
-| Selling revenue less buy price | USD 150 |
-| Spread as a share of selling revenue | 50% |
+| Selling revenue less buy price | USD 145 |
+| Spread as a share of selling revenue, rounded | 48.3% |
 
-The spread must also finance relevant payment, sales, acquisition, L1, onboarding and operating costs. It is not a guarantee of accounting gross profit, contribution margin or net profit. Determine accounting classifications with finance. No technology fee or service rate has been approved by this illustration.
+The spread must also finance relevant payment, sales, acquisition, L1, onboarding and operating costs. It is not a guarantee of accounting gross profit, contribution margin or net profit. Determine accounting classifications with finance. The markup is approved for modeling only; the illustrated technology/IP amount and final contractual prices remain unapproved.
 
 ## Direct and channel economics
 
@@ -91,4 +96,4 @@ Evaluate relevant independent distributor arrangements as comparables, reflectin
 
 ## Next work
 
-SF-T-027 in [TASKS](../TASKS.md) develops the cost-based model using actual inputs for the four editions and relevant API/add-ons, including direct and partner scenarios. SF-T-005/SF-T-011 connect the results to supplier terms and the US offer. SF-OQ-009 and SF-OQ-022 in [OPEN-QUESTIONS](../OPEN-QUESTIONS.md) retain the unresolved rates, review, billing and partner economics. SF-D-011 in [DECISIONS](../DECISIONS.md) records the approved-in-principle internal buy-price direction.
+SF-T-027 in [TASKS](../TASKS.md) develops the cost-based model using actual inputs for the four editions and relevant API/add-ons, including direct and partner scenarios, using the approved working assumption above. SF-T-005/SF-T-011 connect the results to supplier terms and the US offer. SF-OQ-009 and SF-OQ-022 in [OPEN-QUESTIONS](../OPEN-QUESTIONS.md) retain the unresolved final rates, review, billing and partner economics. SF-D-011 records the buy-price principle; SF-D-012 records the financial-modeling approval in [DECISIONS](../DECISIONS.md).
