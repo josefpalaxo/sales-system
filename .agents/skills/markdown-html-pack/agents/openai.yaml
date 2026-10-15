@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown HTML Pack"
+  short_description: "Build offline Markdown readers with static Mermaid diagrams"
+  default_prompt: "Use $markdown-html-pack to turn the selected Markdown files or folder into one offline HTML reader with static Mermaid diagrams, preserving source bytes, metadata and exclusions."
