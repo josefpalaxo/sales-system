@@ -26,6 +26,10 @@ rtk make validate
 
 The full validator reports 174 pre-existing, unrelated directory and Markdown-link failures: root tmp, a nested m-capital work directory, incomplete partner/investor paths, and dependency documentation under the Markdown HTML skill and slide-generator vendor tree. These are outside this migration's scope. The scoped migration check reports zero new errors in shared, domains, governance, sources, schemas, and scripts; it reports the current unrelated-error count separately. The full command output is saved in [repository-validation.txt](repository-validation.txt).
 
+## Clean main integration verification
+
+The migration was applied separately to a clean checkout based on origin/main, preserving main's existing investor-workspace governance and excluding unrelated work-branch changes. In that checkout, `rtk make validate` passes in full, generated catalogues are current, all seven master-dependency tests pass, and the migration integrity check reports 34 source files, 27 derived records, zero new errors, and zero unrelated errors. The 174-error output retained above is evidence from the original busy work checkout, not a failure of the main integration.
+
 ## Remaining business and dependency work
 
 Confirm current approval/review dates for the source-approved API licensing rationale. Review draft sales and partner documents, prices, and workbook before operational/external use. Resolve the existing Add-On Workspace-scope conflict. Separately migrate the catalogue inputs and any necessary quotation/design tooling, then adapt and validate the workbook rebuild workflow. No commercial rules were chosen to resolve these outstanding items during migration.
