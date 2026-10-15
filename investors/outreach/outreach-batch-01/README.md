@@ -6,7 +6,7 @@ classification: confidential
 canonical: false
 revision: 8
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-14
 review_owner: unassigned
 batch_id: outreach-batch-01
 batch_state: preserved
@@ -14,6 +14,7 @@ batch_state: preserved
 
 ## Change history
 
+- 2026-10-14 — Pointed partner navigation at the versioned workspace index; local-only research remains unversioned.
 - 2026-10-03 — Updated outreach location and/or Git handling at Josef's instruction; evidence and approval states retained.
 - 2026-10-02 — Preserved in outreach-batch-01 with its original transaction assumptions; this research is not a selection for the next mandate.
 - 2026-10-02 — Moved all partner research and outreach into the separate partners/market-entry workspace; investor deliverables preserved.
@@ -41,7 +42,7 @@ These are management-supplied research assumptions, not approved transaction ter
 
 Return to the [investor outreach index](../README.md) for subsequent batches.
 
-Partner research and outreach now live in the separate [partner workspace](../../../partners/market-entry-aus/README.md).
+Partner research and outreach now live in the separate [partner workspace](../../../partners/README.md), whose index identifies the local-only market-entry research files.
 
 ## Investor research package
 

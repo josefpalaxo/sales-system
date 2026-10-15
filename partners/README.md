@@ -7,7 +7,7 @@ title: Partner workspace
 status: draft
 classification: internal
 owner: null
-updated: 2026-10-02
+updated: 2026-10-14
 ---
 
 # Partner workspace
@@ -20,9 +20,9 @@ Manage each partner relationship in one folder within the sales-system repositor
 
 ## Market-entry research and outreach
 
-The local [Australia and US partner research package](market-entry-aus/README.md) covers 29 prospective organisations, their fit, synergies, qualification risks and LinkedIn profiles. It also contains [all 15 Australian LinkedIn introduction drafts](market-entry-aus/australian-partner-linkedin-introductions.md), [recommendations](market-entry-aus/market-entry-partner-summary.md) and [observations and lessons](market-entry-aus/market-entry-partner-research-log.md). Contact and research artifacts remain ignored by Git; preparation does not establish an active partnership or approve sending.
+The local Australia and US partner research package at `market-entry-aus/README.md` covers 29 prospective organisations, their fit, synergies, qualification risks and LinkedIn profiles. It also contains all 15 Australian LinkedIn introduction drafts at `market-entry-aus/australian-partner-linkedin-introductions.md`, recommendations at `market-entry-aus/market-entry-partner-summary.md` and observations and lessons at `market-entry-aus/market-entry-partner-research-log.md`. These paths identify local-only files that are absent from a fresh checkout. Contact and research artifacts remain ignored by Git; preparation does not establish an active partnership or approve sending.
 
-The [TechnologyOne prospect profile](market-entry-aus/technologyone/README.md) owns its partner metadata and links the detailed assessment. Investor research remains in the separate [investor workspace](../investors/outreach/README.md).
+The local TechnologyOne prospect profile at `market-entry-aus/technologyone/README.md` owns its partner metadata and links the detailed assessment. Investor research remains in the separate [investor workspace](../investors/outreach/README.md).
 
 ## Folder structure
 

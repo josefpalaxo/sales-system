@@ -6,12 +6,13 @@ classification: confidential
 canonical: false
 revision: 18
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-14
 owner: null
 ---
 
 ## Change history
 
+- 2026-10-14 — Pointed partner navigation at the versioned workspace index; local-only research remains unversioned.
 - 2026-10-03 — Updated outreach location and/or Git handling at Josef's instruction; evidence and approval states retained.
 - 2026-10-03 — Added adviser-focused batch 05: 30 firms, twelve detailed profiles, named contact routes and unsent introduction drafts; minority preferred, majority/control acceptable, amount/ownership flexible, founder secondary mandatory.
 - 2026-10-03 — Added the central contact register across every batch, with eight observed sent messages and saved conversations.
@@ -55,4 +56,4 @@ Add new suggestions to [batch 03](outreach-batch-03/README.md). Inclusion record
 
 All outreach research, contacts, saved conversations and derived outputs are confidential drafts versioned under Git at Josef's instruction on 2026-10-03. All outputs are drafts requiring owner review before external use.
 
-Common investor knowledge remains in the [master](../master/investor-materials-master.md). Partner research and outreach are separate in the [partner workspace](../../partners/market-entry-aus/README.md).
+Common investor knowledge remains in the [master](../master/investor-materials-master.md). Partner research and outreach are separate in the [partner workspace](../../partners/README.md), whose index identifies the local-only market-entry research files.
