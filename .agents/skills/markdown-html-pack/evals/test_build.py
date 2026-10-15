@@ -164,7 +164,9 @@ class BuildTests(unittest.TestCase):
         self.assertEqual(set(inspected.folders), {".", "company", "company/nested", "product"})
         sources = json.loads(inspected.data["source-data"])
         nested = next(id for id, s in sources.items() if s["name"] == "company/nested/brief.md")
-        self.assertEqual(inspected.link_folders[nested], [".", "company", "company/nested"])
+        self.assertEqual(inspected.link_folders[nested], ["company", "company/nested"])
+        home = next(id for id, s in sources.items() if s["name"] == "README.md")
+        self.assertEqual(inspected.link_folders[home], ["."])
         browser_check = GENERATOR.parent.parent / "evals/check_navigation.mjs"
         result = subprocess.run(["node", str(browser_check), str(self.output)], capture_output=True, text=True)
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)

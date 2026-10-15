@@ -187,7 +187,12 @@ def render_navigation(documents, groups, mode):
         label = root.name
         if sum(candidate.name == label for candidate in trees) > 1:
             label += f' · {index}'
-        result.append(folder(label, node, '.' if len(trees) == 1 else f'input-{index}')[0])
+        if len(trees) == 1:
+            if node['documents']:
+                result.append(disclosure(label + '/', links(node['documents']), documents[0] in node['documents'], '.'))
+            result.extend(folder(name, child, name)[0] for name, child in sorted(node['children'].items(), key=lambda item: item[0].casefold()))
+        else:
+            result.append(folder(label, node, f'input-{index}')[0])
     return ''.join(result)
 
 
