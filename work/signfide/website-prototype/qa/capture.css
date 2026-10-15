@@ -1,0 +1,2 @@
+/* Used only by intercepted local QA captures, never copied into the website build. */
+.site-top, .skip-link { visibility: hidden !important; }

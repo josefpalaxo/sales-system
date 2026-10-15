@@ -9,6 +9,7 @@ from pathlib import Path
 import subprocess
 import sys
 from tempfile import TemporaryDirectory
+from urllib.parse import unquote, urlsplit
 import unittest
 import re
 import xml.etree.ElementTree as ET
@@ -21,6 +22,8 @@ class Inspect(HTMLParser):
     def __init__(self, html):
         super().__init__()
         self.ids, self.links, self.assets, self.data, self.scripts = [], [], [], {}, []
+        self.wordmarks = []
+        self.folders, self.folder_stack, self.link_folders = [], [], {}
         self.current_script = None
         self.feed(html)
 
@@ -30,6 +33,14 @@ class Inspect(HTMLParser):
             self.ids.append(attrs["id"])
         if tag == "a":
             self.links.append(attrs.get("href", ""))
+            if attrs.get("data-document"):
+                self.link_folders[attrs["data-document"]] = [p for p in self.folder_stack if p is not None]
+        if tag == "details":
+            self.folder_stack.append(attrs.get("data-folder"))
+            if "data-folder" in attrs:
+                self.folders.append(attrs["data-folder"])
+        if "wordmark" in attrs.get("class", "").split():
+            self.wordmarks.append((tag, attrs))
         if tag in {"img", "script", "link", "iframe", "video", "audio"}:
             self.assets.extend(attrs[k] for k in ("src", "href") if k in attrs)
         if tag == "script":
@@ -41,6 +52,8 @@ class Inspect(HTMLParser):
             self.data[self.current_script] = self.data.get(self.current_script, "") + data
 
     def handle_endtag(self, tag):
+        if tag == "details":
+            self.folder_stack.pop()
         if tag == "script":
             self.current_script = None
 
@@ -139,6 +152,55 @@ class BuildTests(unittest.TestCase):
         inspected = Inspect(self.output.read_text())
         self.assertEqual(len(json.loads(inspected.data["source-data"])), 1)
         self.assertEqual(json.loads(inspected.data["pack-settings"])["title"], "Chosen")
+
+    def test_folder_navigation_and_group_override(self):
+        self.source("README.md", "# Home\n\n[Deep](company/nested/brief.md)\n")
+        self.source("company/README.md", "# Company\n")
+        self.source("company/nested/brief.md", "# Nested brief\n\nUniqueNavigatorTerm\n")
+        self.source("product/README.md", "# Product\n")
+        self.source("private/notes.md", "Excluded\n")
+        self.run_build("--exclude", "private/**", "--brand", "Example")
+        inspected = Inspect(self.output.read_text())
+        self.assertEqual(set(inspected.folders), {".", "company", "company/nested", "product"})
+        sources = json.loads(inspected.data["source-data"])
+        nested = next(id for id, s in sources.items() if s["name"] == "company/nested/brief.md")
+        self.assertEqual(inspected.link_folders[nested], ["company", "company/nested"])
+        home = next(id for id, s in sources.items() if s["name"] == "README.md")
+        self.assertEqual(inspected.link_folders[home], ["."])
+        browser_check = GENERATOR.parent.parent / "evals/check_navigation.mjs"
+        result = subprocess.run(["node", str(browser_check), str(self.output)], capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        config = Path(self.temp.name) / "config.json"
+        settings = {"groups": [{"label": "Curated", "documents": [{"path": source["name"]} for source in sources.values()]}]}
+        config.write_text(json.dumps(settings))
+        self.run_build("--config", str(config), "--exclude", "private/**")
+        inspected = Inspect(self.output.read_text())
+        self.assertEqual(inspected.folders, [])
+        self.assertIn('<summary>Curated</summary>', self.output.read_text())
+        settings["navigation"] = "folders"
+        config.write_text(json.dumps(settings))
+        self.run_build("--config", str(config), "--exclude", "private/**")
+        self.assertEqual(set(Inspect(self.output.read_text()).folders), {".", "company", "company/nested", "product"})
+        settings["navigation"] = "invalid"
+        config.write_text(json.dumps(settings))
+        before = self.output.read_bytes()
+        self.run_build("--config", str(config), "--exclude", "private/**", success=False)
+        self.assertEqual(self.output.read_bytes(), before)
+
+    def test_brand_home_link_is_portable_and_optional(self):
+        self.source("README.md", "# Home\n")
+        self.output = Path(self.temp.name) / 'Reader #1 résumé & "notes".html'
+        self.run_build("--brand", 'Example & "Team"')
+        inspected = Inspect(self.output.read_text())
+        self.assertEqual(len(inspected.wordmarks), 1)
+        tag, attrs = inspected.wordmarks[0]
+        self.assertEqual(tag, "a")
+        self.assertEqual(attrs["aria-label"], 'Example & "Team" — Home')
+        home = urlsplit(attrs["href"])
+        self.assertFalse(home.scheme or home.netloc or home.query or home.fragment)
+        self.assertEqual(unquote(home.path), self.output.name)
+        self.run_build()
+        self.assertEqual(Inspect(self.output.read_text()).wordmarks, [])
 
     def test_presentation_and_source_are_not_template_code(self):
         raw = "# Literal\n\n__TITLE__\n</script><script>alert('source')</script>\n"

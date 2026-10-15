@@ -1,5 +1,35 @@
 schema_version: 1
 fixtures:
+  - id: reader-toolbar-and-focused-reading
+    type: behavior
+    prompt: Clean up the reader header, make root documents a peer section, and let users hide the sidebar while reading.
+    expected:
+      executable_check: test_folder_navigation_and_group_override
+      collapsing_root_documents_keeps_other_folders_visible: true
+      pack_actions_grouped_in_header: true
+      source_status_not_duplicated_in_visible_context: true
+      sidebar_toggle_preserves_current_document: true
+      keyboard_search_restores_navigation: true
+      responsive_controls_and_print_work_without_network: true
+  - id: collapsible-repository-folders
+    type: behavior
+    prompt: Make an offline reader with a collapsible sidebar that mirrors the repository's nested folders and uses larger folder labels.
+    expected:
+      executable_check: test_folder_navigation_and_group_override
+      preserves_nested_folder_hierarchy: true
+      excluded_folders_visible: false
+      keyboard_expand_collapse: true
+      search_and_direct_links_expand_active_ancestors: true
+      retains_optional_curated_groups: true
+  - id: brand-wordmark-home
+    type: behavior
+    prompt: Build a branded offline reader whose wordmark returns to the reader home file.
+    expected:
+      executable_check: test_brand_home_link_is_portable_and_optional
+      relative_output_filename_link: true
+      document_fragment_on_home_link: false
+      keyboard_accessible: true
+      restores_initial_view_and_clears_search: true
   - id: trigger-folder-reader
     type: trigger
     prompt: Make these Markdown drafts into one HTML file my team can browse offline.
