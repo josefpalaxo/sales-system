@@ -14,7 +14,7 @@ import re
 import shutil
 import subprocess
 from tempfile import NamedTemporaryFile
-from urllib.parse import unquote, urlsplit
+from urllib.parse import quote, unquote, urlsplit
 
 import diagrams
 
@@ -301,7 +301,9 @@ def build(args):
     notes_html = "".join("<p>" + escape(note) + "</p>" for note in notes)
     if exclude:
         notes_html += '<p>Exclusion patterns:</p><ul>' + ''.join('<li>' + escape(pattern) + '</li>' for pattern in exclude) + '</ul>'
-    values = {"TITLE": escape(title, quote=True), "DESCRIPTION": escape(subtitle, quote=True), "BRAND": '<span class="wordmark">' + escape(brand) + '</span>' if brand else "",
+    home_url = escape(quote(output.name, safe=""), quote=True)
+    wordmark = f'<a class="wordmark" href="{home_url}" aria-label="{escape(brand + " — Home", quote=True)}">{escape(brand)}</a>' if brand else ""
+    values = {"TITLE": escape(title, quote=True), "DESCRIPTION": escape(subtitle, quote=True), "BRAND": wordmark,
               "SUBTITLE": escape(subtitle), "COUNT": str(len(documents)), "NOTES": notes_html, "FOOTER": escape(footer),
               "CONTEXT": escape(str(len(documents)) + " documents" + (" · " + edition if edition else "")),
               "NAVIGATION": "".join(navigation), "ARTICLES": "".join(articles), "SOURCE_DATA": safe_json(sources), "SETTINGS": safe_json({"title": title, "edition": edition})}

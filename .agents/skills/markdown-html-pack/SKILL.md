@@ -52,11 +52,11 @@ An unsupported or invalid diagram fails the entire build with its source path, d
 
 ## Output and verification
 
-The reader embeds its styles and JavaScript. It rewrites links between included Markdown files and headings; omitted or unresolved local references remain visibly marked. Local PNG, JPEG, GIF and WebP images within input scope are embedded unless excluded. Remote or unsupported images are marked, without fetching them. Source HTML and unsafe URL schemes do not execute. External web links need a connection.
+The reader embeds its styles and JavaScript. When a brand is configured, its wordmark is a keyboard-accessible home link to the output HTML filename, without a document fragment. Opening it restores the initial document and clears search/read-all state. The relative link keeps the reader portable. It rewrites links between included Markdown files and headings; omitted or unresolved local references remain visibly marked. Local PNG, JPEG, GIF and WebP images within input scope are embedded unless excluded. Remote or unsupported images are marked, without fetching them. Source HTML and unsafe URL schemes do not execute. External web links need a connection.
 
 An existing output produced by this generator is refreshed atomically in place. An unrelated existing file requires `--force`; inspect it before deciding to overwrite. Source Markdown is never edited. Preserve confidentiality markings, draft status, evidence qualifications, and open conflicts in the output; use title/subtitle/edition/footer notes for pack-wide qualifications where sources lack frontmatter. Conversion does not authorize publication, sending, committing, pushing, or changes to governed records.
 
-After a build, open the file and check navigation, a cross-document link, search, a source download, narrow-screen layout, and print view. The output must work without network access. Report any omitted assets or references, and give the user a clickable absolute output path. For generator changes, run the executable checks and review routing fixtures:
+After a build, open the file and check navigation, the wordmark's return home from another document or search (including keyboard activation), a cross-document link, search, a source download, narrow-screen layout, and print view. The output must work without network access. Report any omitted assets or references, and give the user a clickable absolute output path. For generator changes, run the executable checks and review routing fixtures:
 
 ```bash
 rtk proxy python3 .agents/skills/markdown-html-pack/evals/test_build.py

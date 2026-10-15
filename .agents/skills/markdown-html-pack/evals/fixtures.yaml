@@ -1,5 +1,14 @@
 schema_version: 1
 fixtures:
+  - id: brand-wordmark-home
+    type: behavior
+    prompt: Build a branded offline reader whose wordmark returns to the reader home file.
+    expected:
+      executable_check: test_brand_home_link_is_portable_and_optional
+      relative_output_filename_link: true
+      document_fragment_on_home_link: false
+      keyboard_accessible: true
+      restores_initial_view_and_clears_search: true
   - id: trigger-folder-reader
     type: trigger
     prompt: Make these Markdown drafts into one HTML file my team can browse offline.

@@ -9,6 +9,7 @@ from pathlib import Path
 import subprocess
 import sys
 from tempfile import TemporaryDirectory
+from urllib.parse import unquote, urlsplit
 import unittest
 import re
 import xml.etree.ElementTree as ET
@@ -21,6 +22,7 @@ class Inspect(HTMLParser):
     def __init__(self, html):
         super().__init__()
         self.ids, self.links, self.assets, self.data, self.scripts = [], [], [], {}, []
+        self.wordmarks = []
         self.current_script = None
         self.feed(html)
 
@@ -30,6 +32,8 @@ class Inspect(HTMLParser):
             self.ids.append(attrs["id"])
         if tag == "a":
             self.links.append(attrs.get("href", ""))
+        if "wordmark" in attrs.get("class", "").split():
+            self.wordmarks.append((tag, attrs))
         if tag in {"img", "script", "link", "iframe", "video", "audio"}:
             self.assets.extend(attrs[k] for k in ("src", "href") if k in attrs)
         if tag == "script":
@@ -139,6 +143,21 @@ class BuildTests(unittest.TestCase):
         inspected = Inspect(self.output.read_text())
         self.assertEqual(len(json.loads(inspected.data["source-data"])), 1)
         self.assertEqual(json.loads(inspected.data["pack-settings"])["title"], "Chosen")
+
+    def test_brand_home_link_is_portable_and_optional(self):
+        self.source("README.md", "# Home\n")
+        self.output = Path(self.temp.name) / 'Reader #1 résumé & "notes".html'
+        self.run_build("--brand", 'Example & "Team"')
+        inspected = Inspect(self.output.read_text())
+        self.assertEqual(len(inspected.wordmarks), 1)
+        tag, attrs = inspected.wordmarks[0]
+        self.assertEqual(tag, "a")
+        self.assertEqual(attrs["aria-label"], 'Example & "Team" — Home')
+        home = urlsplit(attrs["href"])
+        self.assertFalse(home.scheme or home.netloc or home.query or home.fragment)
+        self.assertEqual(unquote(home.path), self.output.name)
+        self.run_build()
+        self.assertEqual(Inspect(self.output.read_text()).wordmarks, [])
 
     def test_presentation_and_source_are_not_template_code(self):
         raw = "# Literal\n\n__TITLE__\n</script><script>alert('source')</script>\n"
