@@ -1,0 +1,24 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+
+# Raw evidence and sensitive relationship material remain local.
+**/local/
+investors/*/contacts-private.*
+investors/*/correspondence/*
+!investors/*/correspondence/README.md
+sources/internal/raw/
+sources/external/raw/
+
+# Derived previews and temporary output.
+**/previews/
+**/tmp/

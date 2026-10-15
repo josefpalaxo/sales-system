@@ -47,6 +47,5 @@ The narrative combines current platform concepts with forward-looking strategy. 
 
 ## Main sources
 
-- `work/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md`
+- `work/circularo-narrative/sources/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md`
 - `.agents/skills/circularo-slides/`
-

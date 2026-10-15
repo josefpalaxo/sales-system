@@ -1,0 +1,36 @@
+{
+  "pptx": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-qpKrF0/validated/circularo-strategic-partnership-investment-deck.pptx",
+  "build": "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/strategic-investor-deck/.build-qpKrF0",
+  "sha256": "6d2c0765ac47db3bfd0cdc79de41b3bde41109bf490e7d1833e5d9bc3f9e83bf",
+  "slides": 12,
+  "sourceSystem": "/Users/josefneumann/Projects/ai-workspace/sales-system/slides-projects/circularo-slide-generator",
+  "layoutIds": [
+    "investor-cover",
+    "investor-snapshot",
+    "signature-service-stack",
+    "signature-editorial-split",
+    "process",
+    "signature-ribbon-journey",
+    "architecture",
+    "investor-market-table",
+    "investor-product-proof",
+    "investor-arr-ambition",
+    "signature-editorial-split",
+    "signature-close"
+  ],
+  "visibleReviewSlides": [
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "nativeTableSlides": [
+    8
+  ],
+  "visualReview": "pending"
+}

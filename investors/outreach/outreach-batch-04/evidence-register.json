@@ -1,0 +1,809 @@
+{
+  "batch_id": "outreach-batch-04",
+  "status": "draft",
+  "classification": "confidential",
+  "canonical": false,
+  "checked": "2026-10-03",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "K1 strategy and headquarters",
+      "url": "https://k1.com/",
+      "scope": "Small-cap AI-enabled enterprise technology; Manhattan Beach headquarters.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S02",
+      "title": "K1 team",
+      "url": "https://k1.com/team/",
+      "scope": "Current team membership and official outbound profile links. Titles also checked in authenticated profiles.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S03",
+      "title": "K1 operating approach",
+      "url": "https://k1.com/our-approach/",
+      "scope": "Single-office strategy and operating support; no applicable cheque policy established.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S04",
+      "title": "K1 Certify and Chrome River transaction",
+      "url": "https://k1.com/certify-and-chrome-river-join-forces-in-transaction-valued-at-over-1-billion/",
+      "scope": "2019 majority ownership with founder/existing-holder minority retention; founder cash proceeds not disclosed here.",
+      "method": "historical official announcement",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S05",
+      "title": "Arrowroot approach",
+      "url": "https://www.arrowrootcapital.com/approach",
+      "scope": "Minority/majority; equity/debt; initial USD 10m–100m+ checks.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S06",
+      "title": "Arrowroot offices",
+      "url": "https://www.arrowrootcapital.com/contact",
+      "scope": "LA office in Marina del Rey; firm also has Miami office.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S07",
+      "title": "Arrowroot team",
+      "url": "https://www.arrowrootcapital.com/team",
+      "scope": "Thomas Oh is Partner, with sourcing and transaction responsibilities.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S08",
+      "title": "Arrowroot company profile",
+      "url": "https://www.linkedin.com/company/arrowroot-capital",
+      "scope": "Firm's description explicitly includes primary and secondary transactions.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S09",
+      "title": "Marlin approach",
+      "url": "https://www.marlinequity.com/about/",
+      "scope": "Software/technology, mid/lower-mid-market and operating resources; Hermosa Beach office.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S10",
+      "title": "Marlin Skuid transaction",
+      "url": "https://www.marlinequity.com/news/marlin-completes-the-acquisition-of-skuid/",
+      "scope": "Completed majority recapitalisation/growth investment on 2019-04-16; shareholder-liquidity remit.",
+      "method": "historical official announcement",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S11",
+      "title": "Ryan Laurin biography",
+      "url": "https://www.marlinequity.com/team/ryan-laurin/",
+      "scope": "Managing Director, Los Angeles; deal origination/qualification.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S12",
+      "title": "Peter Chung biography",
+      "url": "https://www.marlinequity.com/team/peter-chung/",
+      "scope": "Managing Director, Los Angeles; investment execution.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S13",
+      "title": "March approach",
+      "url": "https://marchcp.com/about/",
+      "scope": "Technology growth strategy and founder affiliation with Montgomery Summit; Summit is held in spring.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S14",
+      "title": "Jed Leidheiser biography",
+      "url": "https://marchcp.com/team_member/jed-leidheiser/",
+      "scope": "Partner and cybersecurity investment lead.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S15",
+      "title": "Jamie Montgomery biography",
+      "url": "https://marchcp.com/team_member/jamie-montgomery/",
+      "scope": "Co-founder/managing partner; enterprise investing and Montgomery Summit founder.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S16",
+      "title": "March company profile",
+      "url": "https://www.linkedin.com/company/march-capital",
+      "scope": "Venture growth; enterprise/cloud/data focus; Santa Monica office.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S17",
+      "title": "Dylan Pearce biography",
+      "url": "https://www.greycroft.com/team/dylan-pearce/",
+      "scope": "LA Partner; software/internet, Rocket.Chat and Together AI; LA office at 821 Traction Ave.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S18",
+      "title": "Greycroft company profile",
+      "url": "https://www.linkedin.com/company/greycroft-partners",
+      "scope": "Company locator and seed-to-growth description, carried from batch 03 check dated 2026-10-02.",
+      "method": "prior first-party LinkedIn check",
+      "checked": "2026-10-02",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S19",
+      "title": "Composition approach and team",
+      "url": "https://www.compositioncap.com/home.html",
+      "scope": "Primary/secondary, minority/majority, USD 8m+ ARR, workflow automation; current co-founders; footer notes Kayne fund sub-adviser role.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S20",
+      "title": "Composition company profile",
+      "url": "https://www.linkedin.com/company/composition-capital",
+      "scope": "LA growth-investor company identity; distinct from similarly named Netherlands/Hong Kong manager.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S21",
+      "title": "Diversis criteria",
+      "url": "https://www.diversis.com/about/",
+      "scope": "USD 50m–300m+ equity; operational control; presence in North America, Western Europe or Australasia.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S22",
+      "title": "Diversis team",
+      "url": "https://www.diversis.com/?post_type=team",
+      "scope": "Ron Nayot managing partner, Joseph Lok principal and Adlib director.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S23",
+      "title": "Diversis portfolio",
+      "url": "https://www.diversis.com/?items=rfi-group&post_type=diversis_portfolio",
+      "scope": "Portfolio page includes Adlib document/content/process automation and 2021 buyout description.",
+      "method": "official portfolio page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S24",
+      "title": "Diversis company profile",
+      "url": "https://www.linkedin.com/company/diversis-capital",
+      "scope": "Century City address; legacy up-to-USD-200m wording conflicts with current website criteria. Website used for current cheque screen.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S25",
+      "title": "Clearlake strategy",
+      "url": "https://clearlake.com/",
+      "scope": "Integrated private equity/credit strategy and flexible capital.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S26",
+      "title": "Quest acquisition of Anetac",
+      "url": "https://clearlake.com/news/clearlake-backed-quest-software-acquires-anetac-to-advance-identity-security-for-the-agentic-ai-era/",
+      "scope": "2026-06-17 identity-security acquisition; Paul Huber identified as Partner and Managing Director.",
+      "method": "official announcement",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S27",
+      "title": "Clearlake company profile",
+      "url": "https://www.linkedin.com/company/clearlake-capital-group-lp",
+      "scope": "Santa Monica headquarters and company locator; no cheque-size inference.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S28",
+      "title": "Upfront company profile",
+      "url": "https://www.linkedin.com/company/upfront-ventures",
+      "scope": "LA firm, early/growth scope, enterprise/AI/cybersecurity themes. Website/team could not be read through public web tool; Kobie's current role read in authenticated profile.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S29",
+      "title": "Bonfire investment criteria",
+      "url": "https://www.bonfirevc.com/investment-criteria",
+      "scope": "USD 2m–6m initial seed checks; AI-native B2B; US-entity eligibility.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S30",
+      "title": "Bonfire team and office",
+      "url": "https://www.bonfirevc.com/team",
+      "scope": "Current team; Brentwood address at 11611 San Vicente Blvd.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S31",
+      "title": "Mark Mullen biography",
+      "url": "https://www.bonfirevc.com/team/mark-mullen",
+      "scope": "Co-founder; B2B/vertical AI focus and prior cross-border M&A background.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S32",
+      "title": "Jennifer Richard biography",
+      "url": "https://www.bonfirevc.com/team/jennifer-richard",
+      "scope": "Principal; vertical AI/operational software; LA based.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S33",
+      "title": "Los Angeles Tech Week calendar",
+      "url": "https://www.tech-week.com/calendar/la?track=home-page",
+      "scope": "Official 2026 LA calendar lists October 12–18. Outside October 5–11; use only if trip overlaps.",
+      "method": "official organiser calendar",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S34",
+      "title": "K1 contact and office",
+      "url": "https://k1.com/contact-us/",
+      "scope": "875 Manhattan Beach Blvd, Manhattan Beach.",
+      "method": "current official page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S35",
+      "title": "Marlin company profile",
+      "url": "https://www.linkedin.com/company/marlin-equity-partners",
+      "scope": "Company locator, Hermosa Beach identity.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S36",
+      "title": "Bonfire company profile",
+      "url": "https://www.linkedin.com/company/bonfireventures",
+      "scope": "Company locator and Brentwood identity.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P01",
+      "title": "Hasan Askari professional profile",
+      "url": "https://www.linkedin.com/in/hasan-askari-19512019/",
+      "scope": "Authenticated header: Managing Partner, Manhattan Beach, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P02",
+      "title": "Ron Cano professional profile",
+      "url": "https://www.linkedin.com/in/ron-cano-4314264/",
+      "scope": "Authenticated header: Managing Partner, El Segundo, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P03",
+      "title": "Thomas Oh professional profile",
+      "url": "https://www.linkedin.com/in/thomasoh52/",
+      "scope": "Authenticated header: Partner, Los Angeles metro, 2nd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P04",
+      "title": "Ryan Laurin professional profile",
+      "url": "https://www.linkedin.com/in/ryanlaurin/",
+      "scope": "Authenticated header: Managing Director, Los Angeles metro, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P05",
+      "title": "Peter Chung professional profile",
+      "url": "https://www.linkedin.com/in/petergchung/",
+      "scope": "Authenticated header: Managing Director, Hermosa Beach, 2nd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P06",
+      "title": "Jed Leidheiser professional profile",
+      "url": "https://www.linkedin.com/in/jedleidheiser/",
+      "scope": "Authenticated header: Partner, Los Angeles, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P07",
+      "title": "Jamie Montgomery professional profile",
+      "url": "https://www.linkedin.com/in/jamiemontgomery/",
+      "scope": "Authenticated header: Co-Founder and Managing Partner, Santa Monica, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P08",
+      "title": "Dylan Pearce professional profile",
+      "url": "https://www.linkedin.com/in/pearcedylan/",
+      "scope": "Authenticated header: Partner, Los Angeles, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P09",
+      "title": "Nishita Cummings professional profile",
+      "url": "https://www.linkedin.com/in/nishita-cummings/",
+      "scope": "Authenticated header: Co-Founder and Managing Partner, Los Angeles, 2nd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P10",
+      "title": "Leon Chen professional profile",
+      "url": "https://www.linkedin.com/in/leon-chen-063b29a/",
+      "scope": "Authenticated header: Co-Founder and Managing Partner, Los Angeles metro, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P11",
+      "title": "Ron Nayot professional profile",
+      "url": "https://www.linkedin.com/in/ron-nayot-a0b7b967/",
+      "scope": "Authenticated header: Co-Founder and Managing Partner, Los Angeles metro, 2nd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P12",
+      "title": "Joseph Lok professional profile",
+      "url": "https://www.linkedin.com/in/josephlok/",
+      "scope": "Authenticated header: Principal, Los Angeles, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P13",
+      "title": "Paul Huber professional profile",
+      "url": "https://www.linkedin.com/in/paulcampbellhuber/",
+      "scope": "Authenticated header: Partner and Managing Director, Los Angeles metro, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P14",
+      "title": "Kobie Fuller professional profile",
+      "url": "https://www.linkedin.com/in/kobiefuller/",
+      "scope": "Authenticated header: General Partner, Los Angeles metro, 2nd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P15",
+      "title": "Mark Mullen professional profile",
+      "url": "https://www.linkedin.com/in/mamullen/",
+      "scope": "Authenticated header: Co-Founder, Los Angeles, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "L-P16",
+      "title": "Jennifer Richard professional profile",
+      "url": "https://www.linkedin.com/in/richardjennifer/",
+      "scope": "Authenticated header: Principal, Los Angeles, 3rd degree relative to Josef. No mutual introducer or availability confirmed.",
+      "method": "authenticated LinkedIn header read through built-in browser",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S37",
+      "title": "Jim Andelman professional profile",
+      "url": "https://www.linkedin.com/in/jimandelman",
+      "scope": "Public profile places Jim in Santa Barbara; not treated as an LA-resident meeting lead.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "S38",
+      "title": "Tyler Churchill professional profile",
+      "url": "https://www.linkedin.com/in/tylerchurchill",
+      "scope": "Public profile location is Greater Seattle despite LA firm experience; not treated as an LA-resident meeting lead.",
+      "method": "first-party LinkedIn public indexed page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW01",
+      "title": "The Official a16z Tech Week Kickoff by HSBC and Fenwick",
+      "url": "https://www.tech-week.com/calendar/la/events/the-official-a16z-tech-week-kickoff-by-hsbc-and-fenwick-bd4905fd-1223-4b6d-8285-65a3e771333f",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Select group; RSVP route shown; acceptance unconfirmed.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW02",
+      "title": "Adobe & Greycroft Present: Who owns creativity now?",
+      "url": "https://www.tech-week.com/calendar/la/events/adobe-and-greycroft-present-who-owns-creativity-now-1bb02469-314d-4a5e-8326-1aca0e64a07f",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Creative-company agenda; Adobe has document/signing overlap. End time not published on checked calendar page.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW03",
+      "title": "J.P. Morgan Software Leaders & Investors Forum",
+      "url": "https://www.tech-week.com/calendar/la/events/j-p-morgan-software-leaders-and-investors-forum-b251842b-05ff-4261-83cd-4cc7add51fd9",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Private; confirmed RSVP required. Partiful shows 35 total spots, not 35 remaining. Full location gated by sign-in.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW04",
+      "title": "Rise and Rally: Pickleball with Catalyze + Bonfire Ventures",
+      "url": "https://www.tech-week.com/calendar/la/events/rise-and-rally-pickleball-with-catalyze-bonfire-ventures-94ffeda7-35cc-4c81-a2ca-de8fe2555be4",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Limited space; seed VC remit, not demonstrated secondary appetite. Registration description includes communications consent.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW05",
+      "title": "AI-Native Services Summit with Fika and Emergence",
+      "url": "https://www.tech-week.com/calendar/la/events/ai-native-services-summit-with-fika-and-emergence-40258c8e-1a1f-4451-bd26-d4ab4a72c326",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Rolling approval. Services model focus; Circularo must not be presented as an AI-native services business without evidence. Starts when Visa ends; choose one.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW06",
+      "title": "Coffee, Cards & Commerce in an Agentic World with Visa",
+      "url": "https://www.tech-week.com/calendar/la/events/coffee-cards-and-commerce-in-an-agentic-world-with-visa-eac60239-fb0a-436e-8d42-d94440d5c390",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Operating and fintech network; investment vehicle, ticket and founder-secondary appetite unconfirmed. No individual speakers named.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW07",
+      "title": "VC Liquidity Happy Hour with Turbine",
+      "url": "https://www.tech-week.com/calendar/la/events/vc-liquidity-happy-hour-with-turbine-d2c4ed69-9765-4978-9fb6-bb2aac5b34b8",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Turbine offers lending against GP/LP fund positions; this is not evidence of founder-share purchase capacity. Overlaps Adobe event whose end time is unknown.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW08",
+      "title": "Responsible AI as a Value Driver: How to Make Trustworthy AI Attractive to Investors",
+      "url": "https://www.tech-week.com/calendar/la/events/responsible-ai-as-a-value-driver-how-to-make-trustworthy-ai-attractive-to-invest-41947c13-e79d-4d7e-bd70-2996b680058e",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Panel 15:00–16:00; networking 16:00–17:00. Departure time unknown; named investors not published in checked description.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW09",
+      "title": "GP & FO Happy Hour, hosted by Fidelity & 3i Members",
+      "url": "https://www.tech-week.com/calendar/la/events/gp-and-fo-happy-hour-hosted-by-fidelity-and-3i-members-2ca6d411-490b-485c-88f9-c0306e10f05d",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Private; approval/admission unconfirmed. Fidelity Private Shares is an equity management platform; the name does not establish a Fidelity investment mandate.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW10",
+      "title": "Founder Golden Hour w/ Fin, Fireworks, Vanta",
+      "url": "https://www.tech-week.com/calendar/la/events/founder-golden-hour-w-fin-fireworks-vanta-ab491a8d-da36-4f0c-9859-2cc891025ea3",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Limited, non-transferable RSVP; no +1. Conflicts with the entire useful JPM forum window; select one.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW11",
+      "title": "VCPE & FAMILY OFFICES Happy Hour",
+      "url": "https://www.tech-week.com/calendar/la/events/vcpe-and-family-offices-happy-hour-3c1a89e7-2ede-4804-9279-06f7d41ef3a3",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Open timing conflict: header 16:00–18:00; description check-in 15:00 and close 17:00. Approval required, venue supplied after approval. Named decision-makers not established.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "contradicted",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW12",
+      "title": "a16z Perennial - Founders Financial Future Collective",
+      "url": "https://www.tech-week.com/calendar/la/events/a16z-perennial-founders-financial-future-collective-a1fc8c3d-7c47-4a31-86bb-6c324c26f8c5",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Description concerns structuring/protecting/growing wealth; no founder-secondary buyer mandate evidenced. Conflicts with Adobe/Turbine.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW13",
+      "title": "a16z Speedrun Startup Culture Brunch: Advisors+Angels",
+      "url": "https://www.tech-week.com/calendar/la/events/a16z-speedrun-startup-culture-brunch-advisors-angels-4b986665-d4d5-46fd-b194-6073f36bbf44",
+      "scope": "Published event date/time, neighborhood, hosts, agenda and access conditions. Seats limited to active early-stage advisors and angels. Do not assume founder status alone qualifies; culture/talent agenda.",
+      "method": "official individual Tech Week event page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW00",
+      "title": "Fundraising and Investing track",
+      "url": "https://www.tech-week.com/calendar/la/tracks/fundraising-investing",
+      "scope": "Event discovery track; do not infer ticket size or founder liquidity from track membership.",
+      "method": "official track and browser UI",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-P01",
+      "title": "JPM forum registration and expanded panel agenda",
+      "url": "https://partiful.com/e/DHqXbqHKRVCOE4S2otq7",
+      "scope": "PT 17:45–20:30; confirmed RSVP, restricted full location; 35 total capacity, not availability. Named panel: Alok Chanani, Ryan Alshak, Avery Rosin (Waveline; former Lead Edge per organiser) and Solomon Hailu (March).",
+      "method": "browser visible UI; expanded Meet the Panelists",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-B01",
+      "title": "Dana Settle official biography",
+      "url": "https://www.greycroft.com/team/dana-settle/",
+      "scope": "Greycroft Co-Founder and Managing Partner, LA. No deal interest or event attendance guarantee.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-B02",
+      "title": "Jake Saper official biography",
+      "url": "https://www.emcap.com/people/jake-saper",
+      "scope": "Emergence General Partner; enterprise/agentic software investment focus; official LinkedIn locator.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-B03",
+      "title": "Solomon Hailu official biography",
+      "url": "https://marchcp.com/team_member/solomon-hailu/",
+      "scope": "March Partner, AI applications, vertical software and fintech; secondary appetite unconfirmed.",
+      "method": "current official biography",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-B04",
+      "title": "Turbine liquidity product",
+      "url": "https://www.turbine.co/",
+      "scope": "Lending against VC GP/LP fund positions. Not evidence of founder-share purchase capacity.",
+      "method": "current official website",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-B05",
+      "title": "Adobe Acrobat for business",
+      "url": "https://www.adobe.com/acrobat/business.html",
+      "scope": "Document and signing product overlap; strategic complementarity or buyer interest is not established.",
+      "method": "current official product page",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-C01",
+      "title": "David Popowitz LinkedIn profile",
+      "url": "https://www.linkedin.com/in/popowitz/",
+      "scope": "Displayed role/location and 2nd degree. Listed speaker; event uses VP Corporate Development. Profile checked directly; public search label SignalFire is inconsistent with current header. Event attendance is separately organiser-reported.",
+      "method": "authenticated profile header; read only",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-C02",
+      "title": "Dana Settle LinkedIn profile",
+      "url": "https://www.linkedin.com/in/dana-settle-8b18/",
+      "scope": "Displayed role/location and 3rd degree. Listed speaker; official Greycroft biography corroborates role. Event attendance is separately organiser-reported.",
+      "method": "authenticated profile header; read only",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-C03",
+      "title": "Solomon Hailu LinkedIn profile",
+      "url": "https://www.linkedin.com/in/solomonhailu/",
+      "scope": "Displayed role/location and 3rd degree. Listed panelist on expanded Partiful agenda; current official March biography corroborates role. Event attendance is separately organiser-reported.",
+      "method": "authenticated profile header; read only",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-C04",
+      "title": "Avery Rosin LinkedIn profile",
+      "url": "https://www.linkedin.com/in/averyrosin/",
+      "scope": "Displayed role/location and 2nd degree. UNRESOLVED AFFILIATION: event names Founder & Managing Partner, Waveline Capital; current authenticated LinkedIn header says Partner, Lead Edge Capital. Address him by name and confirm vehicle; do not resolve by assumption. Event attendance is separately organiser-reported.",
+      "method": "authenticated profile header; read only",
+      "checked": "2026-10-03",
+      "evidence_state": "contradicted",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-C05",
+      "title": "Jake Saper LinkedIn profile",
+      "url": "https://www.linkedin.com/in/jakesaper/",
+      "scope": "Displayed role/location and 2nd degree. Named keynote speaker, not an LA resident assumption. Official bio links this profile. Event attendance is separately organiser-reported.",
+      "method": "authenticated profile header; read only",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    },
+    {
+      "id": "TW-C06",
+      "title": "Arteen Arabshahi LinkedIn profile",
+      "url": "https://www.linkedin.com/in/arteeninla/",
+      "scope": "Displayed role/location and 3rd degree. Named moderator. Profile header does not establish LA residence; event is in Culver City. Event attendance is separately organiser-reported.",
+      "method": "authenticated profile header; read only",
+      "checked": "2026-10-03",
+      "evidence_state": "reported",
+      "approval_state": "unreviewed"
+    }
+  ]
+}

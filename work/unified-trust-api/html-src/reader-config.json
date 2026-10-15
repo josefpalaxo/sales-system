@@ -1,0 +1,105 @@
+{
+  "title": "Unified Trust API",
+  "brand": "Circularo",
+  "subtitle": "Team draft pack · 6 October 2026",
+  "edition": "Internal drafts",
+  "footer": "Editable working drafts for Circularo team review. Confirm capabilities and commercial wording before external publication. Downloaded Markdown preserves the original text and metadata.",
+  "notes": [
+    "Internal drafts for review and production. The same source files are selected for the Repomix bundle.",
+    "References to omitted files are retained as provenance. Their contents are not embedded here. Governed records in the parent repository are also outside this edition.",
+    "Use the commercial correction note for the latest drafting basis. The older records remain pending reconciliation."
+  ],
+  "exclude": [
+    "26.1.0 - API Changelog.md",
+    "slack-message.md",
+    "unified-trust-api.json"
+  ],
+  "groups": [
+    {
+      "label": "Start here",
+      "documents": [
+        {
+          "path": "README.md",
+          "label": "Folder guide",
+          "description": "The file map, review priorities and six deliverables.",
+          "id": "doc-guide"
+        }
+      ]
+    },
+    {
+      "label": "Story and pitch",
+      "documents": [
+        {
+          "path": "positioning.md",
+          "label": "Positioning",
+          "description": "The proposition, messages and differentiation.",
+          "id": "doc-positioning"
+        },
+        {
+          "path": "sales-brief.md",
+          "label": "Sales brief",
+          "description": "Buyer value, use cases, discovery and objections.",
+          "id": "doc-sales-brief"
+        },
+        {
+          "path": "pitch.md",
+          "label": "Pitch and slide storyline",
+          "description": "Spoken pitches and the eight-slide deck script.",
+          "id": "doc-pitch"
+        }
+      ]
+    },
+    {
+      "label": "Customer materials",
+      "documents": [
+        {
+          "path": "proposal-copy.md",
+          "label": "Proposal copy",
+          "description": "Introduction, benefits and corrected API deployment structure.",
+          "id": "doc-proposal-copy"
+        },
+        {
+          "path": "landing-page-copy.md",
+          "label": "Landing page copy",
+          "description": "The proposed web copy, FAQs and calls to action.",
+          "id": "doc-landing-page-copy"
+        },
+        {
+          "path": "linkedin-posts.md",
+          "label": "LinkedIn posts",
+          "description": "Five company-page posts to edit and finalize.",
+          "id": "doc-linkedin-posts"
+        },
+        {
+          "path": "blog-article.md",
+          "label": "Blog article",
+          "description": "The full article introducing trust orchestration.",
+          "id": "doc-blog-article"
+        }
+      ]
+    },
+    {
+      "label": "Review and handoff",
+      "documents": [
+        {
+          "path": "landing-page-handoff.md",
+          "label": "Web handoff",
+          "description": "Page structure, metadata and visual direction.",
+          "id": "doc-landing-page-handoff"
+        },
+        {
+          "path": "commercial-review.md",
+          "label": "Commercial correction",
+          "description": "The latest correction and records requiring reconciliation.",
+          "id": "doc-commercial-review"
+        },
+        {
+          "path": "evidence-and-review.md",
+          "label": "Evidence and review",
+          "description": "Claim support, source gaps and accountable reviews.",
+          "id": "doc-evidence-and-review"
+        }
+      ]
+    }
+  ]
+}

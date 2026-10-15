@@ -41,6 +41,8 @@ The internal-review workbook is now implemented under outputs/investor-analysis,
 
 ## Confirmed business safeguards
 
+Subproject exception approved 2026-09-27: `invoice-analysis/` includes issuer 8 alongside 2/3/5, with Circularo Digital remaining outside the group and its downstream billing kept separate. Its local instructions and scope contract supersede the historical three-issuer scope below only within that subproject. Previous frozen datasets and issued outputs retain their original scope and are not to be overwritten. See `invoice-analysis/README.md` and the dated entry in `analysis-decisions.md`.
+
 - Include issuers 2 (International), 3 (current Europe), and 5 (MENA) only; exclude issuer 4, issuer 8 and all other issuers. International is the parent per Josef.
 - Exclude true intercompany transactions using a reviewed identity map. Circularo Digital is an external reseller, not part of the group. Partner 231 is eligible as a billed reseller for issuers 2/3/5 even though issuer company 8 is excluded. Names or presence in res_company do not prove ownership.
 - Confirmed intercompany commercial partner IDs are 8, 9, 10, 11 and 663; Josef explicitly confirmed old Europe (10) and PALAXO AUSTRALIA (663). Use invoice_analysis.approved_transaction_scope and order_scope.approved_transaction_scope, not the earlier intermediate ownership-review labels. Other unconfirmed identities remain review exceptions.

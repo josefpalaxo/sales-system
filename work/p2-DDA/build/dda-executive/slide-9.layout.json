@@ -1,0 +1,958 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/dka63m",
+    "id": "dka63m",
+    "slide": 9,
+    "layoutId": "b087c412-fdbc-484b-9782-d478f7bc87a0",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f0af1378-5120-4d62-86df-5e0f2fee1cf4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b087c412-fdbc-484b-9782-d478f7bc87a0",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f0af1378-5120-4d62-86df-5e0f2fee1cf4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f0af1378-5120-4d62-86df-5e0f2fee1cf4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/d8fa5sra",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "8f280c46-fdb4-4666-8195-06e78733c129",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vqdc7uts",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4bypc7",
+      "id": "3",
+      "name": "eyebrow",
+      "bbox": [
+        104,
+        28,
+        1060,
+        33
+      ],
+      "geometry": "rect",
+      "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 5",
+      "textPreview": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 5",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 5"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 5",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 5",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gfud4bu",
+      "id": "4",
+      "name": "title",
+      "bbox": [
+        48,
+        96,
+        1184,
+        126
+      ],
+      "geometry": "rect",
+      "text": "Additional commercial value and charges",
+      "textPreview": "Additional commercial value and charges",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "fontSize": 46,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Additional commercial value and charges"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Additional commercial value and charges",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Additional commercial value and charges",
+              "fontSize": 46,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/1o32lo3q",
+      "id": "5",
+      "bbox": [
+        48,
+        248,
+        1184,
+        324
+      ],
+      "text": "Item | Commercial proposition | Treatment\nEnterprise package | Most agreed feature add-ons included | ~AED 20K/entity/year indicative value\nSupport above 10K | 12.5% versus 25% standard rate | 50% lower rate on the same fee base\nNew-entity onboarding | AED 20,000 once per new entity | Existing entities exempt\nSpecialist modules | KYC, DESC eSeal Certificates,\nCollaboration & DMS, AI Services | Purchased separately",
+      "textPreview": "Item | Commercial proposition | Treatment | Enterprise package | Most agreed feature add-ons included | ~AED 20K/entity/year indicative v...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            48,
+            248,
+            265,
+            64.8
+          ],
+          "text": "Item",
+          "textPreview": "Item",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Item",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Item",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            313,
+            248,
+            474,
+            64.8
+          ],
+          "text": "Commercial proposition",
+          "textPreview": "Commercial proposition",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Commercial proposition",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Commercial proposition",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            787,
+            248,
+            445,
+            64.8
+          ],
+          "text": "Treatment",
+          "textPreview": "Treatment",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Treatment",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Treatment",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            48,
+            312.8,
+            265,
+            64.8
+          ],
+          "text": "Enterprise package",
+          "textPreview": "Enterprise package",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Enterprise package",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Enterprise package",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            313,
+            312.8,
+            474,
+            64.8
+          ],
+          "text": "Most agreed feature add-ons included",
+          "textPreview": "Most agreed feature add-ons included",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Most agreed feature add-ons included",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Most agreed feature add-ons included",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            787,
+            312.8,
+            445,
+            64.8
+          ],
+          "text": "~AED 20K/entity/year indicative value",
+          "textPreview": "~AED 20K/entity/year indicative value",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "~AED 20K/entity/year indicative value",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "~AED 20K/entity/year indicative value",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            48,
+            377.6,
+            265,
+            64.8
+          ],
+          "text": "Support above 10K",
+          "textPreview": "Support above 10K",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Support above 10K",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Support above 10K",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            313,
+            377.6,
+            474,
+            64.8
+          ],
+          "text": "12.5% versus 25% standard rate",
+          "textPreview": "12.5% versus 25% standard rate",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "12.5% versus 25% standard rate",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "12.5% versus 25% standard rate",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            787,
+            377.6,
+            445,
+            64.8
+          ],
+          "text": "50% lower rate on the same fee base",
+          "textPreview": "50% lower rate on the same fee base",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50% lower rate on the same fee base",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50% lower rate on the same fee base",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            48,
+            442.4,
+            265,
+            64.8
+          ],
+          "text": "New-entity onboarding",
+          "textPreview": "New-entity onboarding",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "New-entity onboarding",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "New-entity onboarding",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            313,
+            442.4,
+            474,
+            64.8
+          ],
+          "text": "AED 20,000 once per new entity",
+          "textPreview": "AED 20,000 once per new entity",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "AED 20,000 once per new entity",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "AED 20,000 once per new entity",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            787,
+            442.4,
+            445,
+            64.8
+          ],
+          "text": "Existing entities exempt",
+          "textPreview": "Existing entities exempt",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Existing entities exempt",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Existing entities exempt",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            48,
+            507.2,
+            265,
+            64.8
+          ],
+          "text": "Specialist modules",
+          "textPreview": "Specialist modules",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Specialist modules",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Specialist modules",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            313,
+            507.2,
+            474,
+            64.8
+          ],
+          "text": "KYC, DESC eSeal Certificates,\nCollaboration & DMS, AI Services",
+          "textPreview": "KYC, DESC eSeal Certificates, | Collaboration & DMS, AI Services",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "KYC, DESC eSeal Certificates,",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "KYC, DESC eSeal Certificates,",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "Collaboration & DMS, AI Services",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Collaboration & DMS, AI Services",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            787,
+            507.2,
+            445,
+            64.8
+          ],
+          "text": "Purchased separately",
+          "textPreview": "Purchased separately",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Purchased separately",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Purchased separately",
+                  "fontSize": 23,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jedcbeto",
+      "id": "6",
+      "name": "qualification",
+      "bbox": [
+        48,
+        622,
+        1184,
+        64
+      ],
+      "geometry": "rect",
+      "text": "These additional benefits are outside the subscription-savings total.\n12.5% support applies strictly above 10K; the exact 10K model uses 14%.",
+      "textPreview": "These additional benefits are outside the subscription-savings total. | 12.5% support applies strictly above 10K; the exact 10K model use...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#344054",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "These additional benefits are outside the subscription-savings total."
+          },
+          {
+            "index": 2,
+            "text": "12.5% support applies strictly above 10K; the exact 10K model uses 14%."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "These additional benefits are outside the subscription-savings total.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#344054",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "These additional benefits are outside the subscription-savings total.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#344054",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "12.5% support applies strictly above 10K; the exact 10K model uses 14%.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#344054",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12.5% support applies strictly above 10K; the exact 10K model uses 14%.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#344054",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

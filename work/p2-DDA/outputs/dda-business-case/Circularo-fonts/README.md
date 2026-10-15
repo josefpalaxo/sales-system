@@ -1,0 +1,1 @@
+The PowerPoint uses Circularo's Spartan Bold and Mulish Regular/Bold fonts. Copies are provided here because these fonts were not found in the local font inventory. Install them before presenting or editing in PowerPoint to preserve the intended typography. No system fonts have been installed or modified.

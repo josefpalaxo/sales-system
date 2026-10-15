@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "inspected_at": "2026-10-01",
+  "source_repository": "sales-system",
+  "local_checkout_at_inspection": "/Users/josefneumann/Projects/ai-workspace/sales-system",
+  "git_revision": "9f93b8655c12db967626f188bf90d2b70073c37d",
+  "setup_brief": {
+    "path": "setup.md",
+    "sha256": "3d53df42bd367e9495a7c8b590790836cff006590f9f372854176539e3532134",
+    "authority": "setup mandate and reported strategic direction only"
+  },
+  "records": [
+    {
+      "id": "conflict:add-on-workspace-scope",
+      "path": "governance/conflicts/add-on-workspace-scope.md",
+      "status": "open",
+      "revision": "not recorded",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-09-15",
+      "sources": [
+        "source:add-on-model-2026",
+        "source:add-on-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:add-on-model-2026"
+        ]
+      ],
+      "sha256": "7a9796388e1308161697131533de3139e10e317f40719f0f9833abde79f69717"
+    },
+    {
+      "id": "conflict:automated-transactions-inclusion",
+      "path": "governance/conflicts/automated-transactions-inclusion.md",
+      "status": "resolved",
+      "revision": "not recorded",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026",
+        "source:commercial-model-2026",
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ],
+        [
+          "related_to",
+          "decision:transaction-based-automation-entitlement"
+        ]
+      ],
+      "sha256": "459b0868e3c7a9a749cd36152a8d4cc4468a4e3fe2a26b0d9af5105cdf6c4518"
+    },
+    {
+      "id": "conflict:transactional-document-storage-limits",
+      "path": "governance/conflicts/transactional-document-storage-limits.md",
+      "status": "resolved",
+      "revision": "not recorded",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026",
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ],
+        [
+          "related_to",
+          "decision:transactional-document-storage-fair-use"
+        ]
+      ],
+      "sha256": "8f81993cabf48659e9e9ebb84589038abcb1d8555c1734cb3833a15f0e0e4cc7"
+    },
+    {
+      "id": "decision:transaction-based-automation-entitlement",
+      "path": "governance/decisions/transaction-based-automation-entitlement.md",
+      "status": "approved",
+      "revision": "1",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "applies_to",
+          "subscription-model:transaction-based"
+        ],
+        [
+          "applies_to",
+          "commercial-rule:automated-transactions"
+        ],
+        [
+          "applies_to",
+          "conflict:automated-transactions-inclusion"
+        ]
+      ],
+      "sha256": "a962fd7caebad427dab6a2e3b3e0f03f659fb4d30603480cda2acb0e47070448"
+    },
+    {
+      "id": "decision:transactional-document-storage-fair-use",
+      "path": "governance/decisions/transactional-document-storage-fair-use.md",
+      "status": "approved",
+      "revision": "1",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "applies_to",
+          "commercial-rule:transactional-document-storage"
+        ],
+        [
+          "applies_to",
+          "conflict:transactional-document-storage-limits"
+        ]
+      ],
+      "sha256": "ff65aa5a807fe5ab0839f491308057676d4f55528691670fb73a96c84eb1ac51"
+    },
+    {
+      "id": "source:commercial-model-2026",
+      "path": "governance/source-register/commercial-model-2026.md",
+      "status": "approved",
+      "revision": "3",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [],
+      "relations": [],
+      "sha256": "fd150868a08e39e39b16a3ab82d9a5d50c7413c038d9bd237a9585b93a2fa210"
+    },
+    {
+      "id": "deck:unified-sovereign-trust-platform",
+      "path": "shared/assets/slides/unified-trust-platform/circularo-unified-sovereign-trust-platform.md",
+      "status": "draft",
+      "revision": "not recorded",
+      "classification": "internal",
+      "owner": "team:product-marketing",
+      "last_reviewed": "2026-08-27",
+      "review_by": "2027-02-23",
+      "sources": [],
+      "relations": [],
+      "sha256": "b9d7022b2d3672576ec09ceb80a4e9a4ccafbd2e003b4c201966b3e4030abbce"
+    },
+    {
+      "id": "commercial-rule:add-on-scopes",
+      "path": "shared/knowledge/commercial/add-ons/add-on-scopes.md",
+      "status": "reviewed",
+      "revision": "not recorded",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-09-15",
+      "sources": [
+        "source:add-on-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:add-on-model-2026"
+        ],
+        [
+          "constrained_by",
+          "conflict:add-on-workspace-scope"
+        ]
+      ],
+      "sha256": "3c5a85ffa31e4607b1f4db71ad4d7121570d7f30081550f4eb886f3e102b55fb"
+    },
+    {
+      "id": "commercial-model:sales-layers",
+      "path": "shared/knowledge/commercial/commercial-model/sales-layers.md",
+      "status": "approved",
+      "revision": "1",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ]
+      ],
+      "sha256": "b7bb4d0b0ddd3c368da5b101a09efad371f82cc67bdc784dea66a4cd2dd3d17b"
+    },
+    {
+      "id": "commercial-rule:api-access",
+      "path": "shared/knowledge/commercial/commercial-rules/api-access.md",
+      "status": "approved",
+      "revision": "1",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ],
+        [
+          "constrained_by",
+          "commercial-rule:automated-transactions"
+        ],
+        [
+          "constrained_by",
+          "commercial-rule:add-on-plan-eligibility"
+        ]
+      ],
+      "sha256": "c907159a7208e0d05cf6259bcc3a075a710295206c16d6909957b164ee5f5aa0"
+    },
+    {
+      "id": "edition-model:plan-edition-deployment",
+      "path": "shared/knowledge/commercial/editions/plan-edition-deployment.md",
+      "status": "approved",
+      "revision": "1",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ]
+      ],
+      "sha256": "155119c82fbaa8b725b640bf6a096455a022ea04791e9e88fe8206f63eea776b"
+    },
+    {
+      "id": "subscription-model:structure",
+      "path": "shared/knowledge/commercial/subscriptions/subscription-structure.md",
+      "status": "approved",
+      "revision": "1",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ],
+        [
+          "related_to",
+          "commercial-model:sales-layers"
+        ]
+      ],
+      "sha256": "6feb1c2ef806f83de5b0b9e99b7fe5358f817db8bd60ea157aa1a0e53fd7d0f7"
+    },
+    {
+      "id": "company:circularo",
+      "path": "shared/knowledge/company/circularo.md",
+      "status": "reviewed",
+      "revision": "not recorded",
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-27",
+      "review_by": "2027-02-27",
+      "sources": [
+        "source:commercial-model-2026"
+      ],
+      "relations": [
+        [
+          "based_on",
+          "source:commercial-model-2026"
+        ]
+      ],
+      "sha256": "c429a86d6a8561eac97c2f07d570e81f8fce10144d36b1839c417fd4d457f664"
+    }
+  ]
+}

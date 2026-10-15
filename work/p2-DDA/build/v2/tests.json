@@ -1,0 +1,1182 @@
+[
+  {
+    "label": "Current source users unchanged",
+    "actual": 1310,
+    "expected": 1310
+  },
+  {
+    "label": "Current subscriptions unchanged",
+    "actual": 1929169.75,
+    "expected": 1929169.75
+  },
+  {
+    "label": "Current cohort savings unchanged",
+    "actual": 383369.75,
+    "expected": 383369.75
+  },
+  {
+    "label": "Year 1 existing growth seats",
+    "actual": 262,
+    "expected": 262
+  },
+  {
+    "label": "Summary growth row",
+    "actual": 262,
+    "expected": 262
+  },
+  {
+    "label": "Adoption table growth row",
+    "actual": 262,
+    "expected": 262
+  },
+  {
+    "label": "Other target after growth",
+    "actual": 3507,
+    "expected": 3507
+  },
+  {
+    "label": "Survey minimum unchanged",
+    "actual": 4921,
+    "expected": 4921
+  },
+  {
+    "label": "Survey illustration unchanged",
+    "actual": 10558.5,
+    "expected": 10558.5
+  },
+  {
+    "label": "Entity scope unchanged",
+    "actual": 92,
+    "expected": 92
+  },
+  {
+    "label": "Raw entity rows unchanged",
+    "actual": 93,
+    "expected": 93
+  },
+  {
+    "label": "10000 Year 1 existing",
+    "actual": 1572,
+    "expected": 1572
+  },
+  {
+    "label": "10000 Year 1 survey",
+    "actual": 4921,
+    "expected": 4921
+  },
+  {
+    "label": "10000 Year 1 other",
+    "actual": 3507,
+    "expected": 3507
+  },
+  {
+    "label": "10000 Year 1 paid",
+    "actual": 10000,
+    "expected": 10000
+  },
+  {
+    "label": "10000 Year 1 base",
+    "actual": 27177603.7,
+    "expected": 27177603.7
+  },
+  {
+    "label": "10000 Year 1 central",
+    "actual": 11800000,
+    "expected": 11800000
+  },
+  {
+    "label": "10000 Year 1 saving",
+    "actual": 15377603.7,
+    "expected": 15377603.7
+  },
+  {
+    "label": "10000 Year 1 support",
+    "actual": 1652000.0000000002,
+    "expected": 1652000.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 1",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 2 existing",
+    "actual": 1651,
+    "expected": 1651
+  },
+  {
+    "label": "10000 Year 2 survey",
+    "actual": 5167,
+    "expected": 5167
+  },
+  {
+    "label": "10000 Year 2 other",
+    "actual": 3682,
+    "expected": 3682
+  },
+  {
+    "label": "10000 Year 2 paid",
+    "actual": 10500,
+    "expected": 10500
+  },
+  {
+    "label": "10000 Year 2 base",
+    "actual": 28535892.94446565,
+    "expected": 28535892.94446565
+  },
+  {
+    "label": "10000 Year 2 central",
+    "actual": 12390000,
+    "expected": 12390000
+  },
+  {
+    "label": "10000 Year 2 saving",
+    "actual": 16145892.944465648,
+    "expected": 16145892.944465648
+  },
+  {
+    "label": "10000 Year 2 support",
+    "actual": 1734600.0000000002,
+    "expected": 1734600.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 2",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 3 existing",
+    "actual": 1734,
+    "expected": 1734
+  },
+  {
+    "label": "10000 Year 3 survey",
+    "actual": 5425,
+    "expected": 5425
+  },
+  {
+    "label": "10000 Year 3 other",
+    "actual": 3866,
+    "expected": 3866
+  },
+  {
+    "label": "10000 Year 3 paid",
+    "actual": 11025,
+    "expected": 11025
+  },
+  {
+    "label": "10000 Year 3 base",
+    "actual": 29962022.783587787,
+    "expected": 29962022.783587787
+  },
+  {
+    "label": "10000 Year 3 central",
+    "actual": 13009500,
+    "expected": 13009500
+  },
+  {
+    "label": "10000 Year 3 saving",
+    "actual": 16952522.783587787,
+    "expected": 16952522.783587787
+  },
+  {
+    "label": "10000 Year 3 support",
+    "actual": 1821330.0000000002,
+    "expected": 1821330.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 3",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 4 existing",
+    "actual": 1821,
+    "expected": 1821
+  },
+  {
+    "label": "10000 Year 4 survey",
+    "actual": 5696,
+    "expected": 5696
+  },
+  {
+    "label": "10000 Year 4 other",
+    "actual": 4059,
+    "expected": 4059
+  },
+  {
+    "label": "10000 Year 4 paid",
+    "actual": 11576,
+    "expected": 11576
+  },
+  {
+    "label": "10000 Year 4 base",
+    "actual": 31458943.217366412,
+    "expected": 31458943.217366412
+  },
+  {
+    "label": "10000 Year 4 central",
+    "actual": 13659680,
+    "expected": 13659680
+  },
+  {
+    "label": "10000 Year 4 saving",
+    "actual": 17799263.217366412,
+    "expected": 17799263.217366412
+  },
+  {
+    "label": "10000 Year 4 support",
+    "actual": 1912355.2000000002,
+    "expected": 1912355.2000000002
+  },
+  {
+    "label": "10000 locked unit price year 4",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 5 existing",
+    "actual": 1912,
+    "expected": 1912
+  },
+  {
+    "label": "10000 Year 5 survey",
+    "actual": 5981,
+    "expected": 5981
+  },
+  {
+    "label": "10000 Year 5 other",
+    "actual": 4262,
+    "expected": 4262
+  },
+  {
+    "label": "10000 Year 5 paid",
+    "actual": 12155,
+    "expected": 12155
+  },
+  {
+    "label": "10000 Year 5 base",
+    "actual": 33032554.245801527,
+    "expected": 33032554.245801527
+  },
+  {
+    "label": "10000 Year 5 central",
+    "actual": 14342900,
+    "expected": 14342900
+  },
+  {
+    "label": "10000 Year 5 saving",
+    "actual": 18689654.245801527,
+    "expected": 18689654.245801527
+  },
+  {
+    "label": "10000 Year 5 support",
+    "actual": 2008006.0000000002,
+    "expected": 2008006.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 5",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 annual reconciliation",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "10000 five-year subscription",
+    "actual": 65202080,
+    "expected": 65202080
+  },
+  {
+    "label": "10000 five-year savings",
+    "actual": 84964936.89122137,
+    "expected": 84964936.89122137
+  },
+  {
+    "label": "10000 summary annual savings",
+    "actual": 15377603.7,
+    "expected": 15377603.7
+  },
+  {
+    "label": "10000 summary five-year savings",
+    "actual": 84964936.89122137,
+    "expected": 84964936.89122137
+  },
+  {
+    "label": "10000 allocated Year 1 users",
+    "actual": 10000,
+    "expected": 10000
+  },
+  {
+    "label": "8000 Year 1 existing",
+    "actual": 1572,
+    "expected": 1572
+  },
+  {
+    "label": "8000 Year 1 survey",
+    "actual": 4921,
+    "expected": 4921
+  },
+  {
+    "label": "8000 Year 1 other",
+    "actual": 1507,
+    "expected": 1507
+  },
+  {
+    "label": "8000 Year 1 paid",
+    "actual": 8000,
+    "expected": 8000
+  },
+  {
+    "label": "8000 Year 1 base",
+    "actual": 21277603.7,
+    "expected": 21277603.7
+  },
+  {
+    "label": "8000 Year 1 central",
+    "actual": 10619999.999999998,
+    "expected": 10620000
+  },
+  {
+    "label": "8000 Year 1 saving",
+    "actual": 10657603.700000001,
+    "expected": 10657603.7
+  },
+  {
+    "label": "8000 Year 1 support",
+    "actual": 1699199.9999999998,
+    "expected": 1699200
+  },
+  {
+    "label": "8000 locked unit price year 1",
+    "actual": 1327.4999999999998,
+    "expected": 1327.5
+  },
+  {
+    "label": "8000 Year 2 existing",
+    "actual": 1651,
+    "expected": 1651
+  },
+  {
+    "label": "8000 Year 2 survey",
+    "actual": 5167,
+    "expected": 5167
+  },
+  {
+    "label": "8000 Year 2 other",
+    "actual": 1582,
+    "expected": 1582
+  },
+  {
+    "label": "8000 Year 2 paid",
+    "actual": 8400,
+    "expected": 8400
+  },
+  {
+    "label": "8000 Year 2 base",
+    "actual": 22340892.94446565,
+    "expected": 22340892.94446565
+  },
+  {
+    "label": "8000 Year 2 central",
+    "actual": 11150999.999999998,
+    "expected": 11151000
+  },
+  {
+    "label": "8000 Year 2 saving",
+    "actual": 11189892.94446565,
+    "expected": 11189892.944465648
+  },
+  {
+    "label": "8000 Year 2 support",
+    "actual": 1784159.9999999998,
+    "expected": 1784160
+  },
+  {
+    "label": "8000 locked unit price year 2",
+    "actual": 1327.4999999999998,
+    "expected": 1327.5
+  },
+  {
+    "label": "8000 Year 3 existing",
+    "actual": 1734,
+    "expected": 1734
+  },
+  {
+    "label": "8000 Year 3 survey",
+    "actual": 5425,
+    "expected": 5425
+  },
+  {
+    "label": "8000 Year 3 other",
+    "actual": 1661,
+    "expected": 1661
+  },
+  {
+    "label": "8000 Year 3 paid",
+    "actual": 8820,
+    "expected": 8820
+  },
+  {
+    "label": "8000 Year 3 base",
+    "actual": 23457272.783587787,
+    "expected": 23457272.783587787
+  },
+  {
+    "label": "8000 Year 3 central",
+    "actual": 11708549.999999998,
+    "expected": 11708550
+  },
+  {
+    "label": "8000 Year 3 saving",
+    "actual": 11748722.78358779,
+    "expected": 11748722.783587787
+  },
+  {
+    "label": "8000 Year 3 support",
+    "actual": 1873367.9999999998,
+    "expected": 1873368
+  },
+  {
+    "label": "8000 locked unit price year 3",
+    "actual": 1327.4999999999998,
+    "expected": 1327.5
+  },
+  {
+    "label": "8000 Year 4 existing",
+    "actual": 1821,
+    "expected": 1821
+  },
+  {
+    "label": "8000 Year 4 survey",
+    "actual": 5696,
+    "expected": 5696
+  },
+  {
+    "label": "8000 Year 4 other",
+    "actual": 1744,
+    "expected": 1744
+  },
+  {
+    "label": "8000 Year 4 paid",
+    "actual": 9261,
+    "expected": 9261
+  },
+  {
+    "label": "8000 Year 4 base",
+    "actual": 24629693.217366412,
+    "expected": 24629693.217366412
+  },
+  {
+    "label": "8000 Year 4 central",
+    "actual": 12293977.499999998,
+    "expected": 12293977.5
+  },
+  {
+    "label": "8000 Year 4 saving",
+    "actual": 12335715.717366414,
+    "expected": 12335715.717366412
+  },
+  {
+    "label": "8000 Year 4 support",
+    "actual": 1967036.3999999997,
+    "expected": 1967036.4000000001
+  },
+  {
+    "label": "8000 locked unit price year 4",
+    "actual": 1327.4999999999998,
+    "expected": 1327.5
+  },
+  {
+    "label": "8000 Year 5 existing",
+    "actual": 1912,
+    "expected": 1912
+  },
+  {
+    "label": "8000 Year 5 survey",
+    "actual": 5981,
+    "expected": 5981
+  },
+  {
+    "label": "8000 Year 5 other",
+    "actual": 1831,
+    "expected": 1831
+  },
+  {
+    "label": "8000 Year 5 paid",
+    "actual": 9724,
+    "expected": 9724
+  },
+  {
+    "label": "8000 Year 5 base",
+    "actual": 25861104.245801527,
+    "expected": 25861104.245801527
+  },
+  {
+    "label": "8000 Year 5 central",
+    "actual": 12908609.999999998,
+    "expected": 12908610
+  },
+  {
+    "label": "8000 Year 5 saving",
+    "actual": 12952494.245801529,
+    "expected": 12952494.245801527
+  },
+  {
+    "label": "8000 Year 5 support",
+    "actual": 2065377.5999999999,
+    "expected": 2065377.6
+  },
+  {
+    "label": "8000 locked unit price year 5",
+    "actual": 1327.4999999999998,
+    "expected": 1327.5
+  },
+  {
+    "label": "8000 annual reconciliation",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "8000 five-year subscription",
+    "actual": 58682137.49999999,
+    "expected": 58682137.5
+  },
+  {
+    "label": "8000 five-year savings",
+    "actual": 58884429.39122138,
+    "expected": 58884429.391221374
+  },
+  {
+    "label": "8000 summary annual savings",
+    "actual": 10657603.700000001,
+    "expected": 10657603.7
+  },
+  {
+    "label": "8000 summary five-year savings",
+    "actual": 58884429.39122138,
+    "expected": 58884429.391221374
+  },
+  {
+    "label": "8000 allocated Year 1 users",
+    "actual": 8000,
+    "expected": 8000
+  },
+  {
+    "label": "5000 Year 1 existing",
+    "actual": 1572,
+    "expected": 1572
+  },
+  {
+    "label": "5000 Year 1 survey",
+    "actual": 3428,
+    "expected": 3428
+  },
+  {
+    "label": "5000 Year 1 other",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "5000 Year 1 paid",
+    "actual": 5000,
+    "expected": 5000
+  },
+  {
+    "label": "5000 Year 1 base",
+    "actual": 12427603.7,
+    "expected": 12427603.7
+  },
+  {
+    "label": "5000 Year 1 central",
+    "actual": 7375000,
+    "expected": 7375000
+  },
+  {
+    "label": "5000 Year 1 saving",
+    "actual": 5052603.699999999,
+    "expected": 5052603.699999999
+  },
+  {
+    "label": "5000 Year 1 support",
+    "actual": 1327500,
+    "expected": 1327500
+  },
+  {
+    "label": "5000 locked unit price year 1",
+    "actual": 1475,
+    "expected": 1475
+  },
+  {
+    "label": "5000 Year 2 existing",
+    "actual": 1651,
+    "expected": 1651
+  },
+  {
+    "label": "5000 Year 2 survey",
+    "actual": 3599,
+    "expected": 3599
+  },
+  {
+    "label": "5000 Year 2 other",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "5000 Year 2 paid",
+    "actual": 5250,
+    "expected": 5250
+  },
+  {
+    "label": "5000 Year 2 base",
+    "actual": 13048392.944465648,
+    "expected": 13048392.944465648
+  },
+  {
+    "label": "5000 Year 2 central",
+    "actual": 7743750,
+    "expected": 7743750
+  },
+  {
+    "label": "5000 Year 2 saving",
+    "actual": 5304642.944465648,
+    "expected": 5304642.944465648
+  },
+  {
+    "label": "5000 Year 2 support",
+    "actual": 1393875,
+    "expected": 1393875
+  },
+  {
+    "label": "5000 locked unit price year 2",
+    "actual": 1475,
+    "expected": 1475
+  },
+  {
+    "label": "5000 Year 3 existing",
+    "actual": 1734,
+    "expected": 1734
+  },
+  {
+    "label": "5000 Year 3 survey",
+    "actual": 3779,
+    "expected": 3779
+  },
+  {
+    "label": "5000 Year 3 other",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "5000 Year 3 paid",
+    "actual": 5513,
+    "expected": 5513
+  },
+  {
+    "label": "5000 Year 3 base",
+    "actual": 13701622.783587787,
+    "expected": 13701622.783587787
+  },
+  {
+    "label": "5000 Year 3 central",
+    "actual": 8131675,
+    "expected": 8131675
+  },
+  {
+    "label": "5000 Year 3 saving",
+    "actual": 5569947.783587787,
+    "expected": 5569947.783587787
+  },
+  {
+    "label": "5000 Year 3 support",
+    "actual": 1463701.5,
+    "expected": 1463701.5
+  },
+  {
+    "label": "5000 locked unit price year 3",
+    "actual": 1475,
+    "expected": 1475
+  },
+  {
+    "label": "5000 Year 4 existing",
+    "actual": 1821,
+    "expected": 1821
+  },
+  {
+    "label": "5000 Year 4 survey",
+    "actual": 3968,
+    "expected": 3968
+  },
+  {
+    "label": "5000 Year 4 other",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "5000 Year 4 paid",
+    "actual": 5789,
+    "expected": 5789
+  },
+  {
+    "label": "5000 Year 4 base",
+    "actual": 14387293.217366412,
+    "expected": 14387293.217366412
+  },
+  {
+    "label": "5000 Year 4 central",
+    "actual": 8538775,
+    "expected": 8538775
+  },
+  {
+    "label": "5000 Year 4 saving",
+    "actual": 5848518.217366412,
+    "expected": 5848518.217366412
+  },
+  {
+    "label": "5000 Year 4 support",
+    "actual": 1536979.5,
+    "expected": 1536979.5
+  },
+  {
+    "label": "5000 locked unit price year 4",
+    "actual": 1475,
+    "expected": 1475
+  },
+  {
+    "label": "5000 Year 5 existing",
+    "actual": 1912,
+    "expected": 1912
+  },
+  {
+    "label": "5000 Year 5 survey",
+    "actual": 4166,
+    "expected": 4166
+  },
+  {
+    "label": "5000 Year 5 other",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "5000 Year 5 paid",
+    "actual": 6078,
+    "expected": 6078
+  },
+  {
+    "label": "5000 Year 5 base",
+    "actual": 15105404.245801527,
+    "expected": 15105404.245801527
+  },
+  {
+    "label": "5000 Year 5 central",
+    "actual": 8965050,
+    "expected": 8965050
+  },
+  {
+    "label": "5000 Year 5 saving",
+    "actual": 6140354.245801527,
+    "expected": 6140354.245801527
+  },
+  {
+    "label": "5000 Year 5 support",
+    "actual": 1613709,
+    "expected": 1613709
+  },
+  {
+    "label": "5000 locked unit price year 5",
+    "actual": 1475,
+    "expected": 1475
+  },
+  {
+    "label": "5000 annual reconciliation",
+    "actual": 9.313225746154785e-10,
+    "expected": 0
+  },
+  {
+    "label": "5000 five-year subscription",
+    "actual": 40754250,
+    "expected": 40754250
+  },
+  {
+    "label": "5000 five-year savings",
+    "actual": 27916066.891221374,
+    "expected": 27916066.891221374
+  },
+  {
+    "label": "5000 summary annual savings",
+    "actual": 5052603.7,
+    "expected": 5052603.699999999
+  },
+  {
+    "label": "5000 summary five-year savings",
+    "actual": 27916066.891221374,
+    "expected": 27916066.891221374
+  },
+  {
+    "label": "5000 allocated Year 1 users",
+    "actual": 5000,
+    "expected": 5000
+  },
+  {
+    "label": "Illustration caps after existing growth",
+    "actual": 8428,
+    "expected": 8428
+  },
+  {
+    "label": "Illustration residual",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "Zero-growth restores original annual saving",
+    "actual": 15764669.75,
+    "expected": 15764669.75
+  },
+  {
+    "label": "Zero-growth five-year price",
+    "actual": 59000000,
+    "expected": 59000000
+  },
+  {
+    "label": "Zero-growth restores other seats",
+    "actual": 3769,
+    "expected": 3769
+  },
+  {
+    "label": "No additional adoption retains existing growth",
+    "actual": 1572,
+    "expected": 1572
+  },
+  {
+    "label": "No new adoption keeps commitment payable",
+    "actual": 11800000,
+    "expected": 11800000
+  },
+  {
+    "label": "Unused seats visible",
+    "actual": 8428,
+    "expected": 8428
+  },
+  {
+    "label": "Unused capacity reconciliation",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "Year 5 baseline escalation",
+    "actual": 37178430.820452526,
+    "expected": 37178430.820452526
+  },
+  {
+    "label": "Central unit price lock",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "Five-year escalated savings reconcile",
+    "actual": 94708670.86944357,
+    "expected": 94708670.86944357
+  },
+  {
+    "label": "Matched new respondent savings",
+    "actual": 62000,
+    "expected": 62000
+  },
+  {
+    "label": "Matched cost replaces 100 list seats",
+    "actual": 27062603.7,
+    "expected": 27062603.7
+  },
+  {
+    "label": "Matched ABC reconciliation",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "Over-allocation exposed",
+    "actual": "Over capacity",
+    "expected": "Over capacity"
+  },
+  {
+    "label": "Over-allocation invalidates savings",
+    "actual": "n.a.",
+    "expected": "n.a."
+  },
+  {
+    "label": "Missing comparable cost",
+    "actual": "n.a.",
+    "expected": "n.a."
+  },
+  {
+    "label": "Zero comparable cost allowed",
+    "actual": -118000,
+    "expected": -118000
+  },
+  {
+    "label": "Existing respondent excluded",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "Duplicate respondents excluded",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "10000 Year 1 existing",
+    "actual": 1572,
+    "expected": 1572
+  },
+  {
+    "label": "10000 Year 1 survey",
+    "actual": 4921,
+    "expected": 4921
+  },
+  {
+    "label": "10000 Year 1 other",
+    "actual": 3507,
+    "expected": 3507
+  },
+  {
+    "label": "10000 Year 1 paid",
+    "actual": 10000,
+    "expected": 10000
+  },
+  {
+    "label": "10000 Year 1 base",
+    "actual": 27177603.7,
+    "expected": 27177603.7
+  },
+  {
+    "label": "10000 Year 1 central",
+    "actual": 11800000,
+    "expected": 11800000
+  },
+  {
+    "label": "10000 Year 1 saving",
+    "actual": 15377603.7,
+    "expected": 15377603.7
+  },
+  {
+    "label": "10000 Year 1 support",
+    "actual": 1652000.0000000002,
+    "expected": 1652000.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 1",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 2 existing",
+    "actual": 1651,
+    "expected": 1651
+  },
+  {
+    "label": "10000 Year 2 survey",
+    "actual": 5167,
+    "expected": 5167
+  },
+  {
+    "label": "10000 Year 2 other",
+    "actual": 3682,
+    "expected": 3682
+  },
+  {
+    "label": "10000 Year 2 paid",
+    "actual": 10500,
+    "expected": 10500
+  },
+  {
+    "label": "10000 Year 2 base",
+    "actual": 28535892.94446565,
+    "expected": 28535892.94446565
+  },
+  {
+    "label": "10000 Year 2 central",
+    "actual": 12390000,
+    "expected": 12390000
+  },
+  {
+    "label": "10000 Year 2 saving",
+    "actual": 16145892.944465648,
+    "expected": 16145892.944465648
+  },
+  {
+    "label": "10000 Year 2 support",
+    "actual": 1734600.0000000002,
+    "expected": 1734600.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 2",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 3 existing",
+    "actual": 1734,
+    "expected": 1734
+  },
+  {
+    "label": "10000 Year 3 survey",
+    "actual": 5425,
+    "expected": 5425
+  },
+  {
+    "label": "10000 Year 3 other",
+    "actual": 3866,
+    "expected": 3866
+  },
+  {
+    "label": "10000 Year 3 paid",
+    "actual": 11025,
+    "expected": 11025
+  },
+  {
+    "label": "10000 Year 3 base",
+    "actual": 29962022.783587787,
+    "expected": 29962022.783587787
+  },
+  {
+    "label": "10000 Year 3 central",
+    "actual": 13009500,
+    "expected": 13009500
+  },
+  {
+    "label": "10000 Year 3 saving",
+    "actual": 16952522.783587787,
+    "expected": 16952522.783587787
+  },
+  {
+    "label": "10000 Year 3 support",
+    "actual": 1821330.0000000002,
+    "expected": 1821330.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 3",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 4 existing",
+    "actual": 1821,
+    "expected": 1821
+  },
+  {
+    "label": "10000 Year 4 survey",
+    "actual": 5696,
+    "expected": 5696
+  },
+  {
+    "label": "10000 Year 4 other",
+    "actual": 4059,
+    "expected": 4059
+  },
+  {
+    "label": "10000 Year 4 paid",
+    "actual": 11576,
+    "expected": 11576
+  },
+  {
+    "label": "10000 Year 4 base",
+    "actual": 31458943.217366412,
+    "expected": 31458943.217366412
+  },
+  {
+    "label": "10000 Year 4 central",
+    "actual": 13659680,
+    "expected": 13659680
+  },
+  {
+    "label": "10000 Year 4 saving",
+    "actual": 17799263.217366412,
+    "expected": 17799263.217366412
+  },
+  {
+    "label": "10000 Year 4 support",
+    "actual": 1912355.2000000002,
+    "expected": 1912355.2000000002
+  },
+  {
+    "label": "10000 locked unit price year 4",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 Year 5 existing",
+    "actual": 1912,
+    "expected": 1912
+  },
+  {
+    "label": "10000 Year 5 survey",
+    "actual": 5981,
+    "expected": 5981
+  },
+  {
+    "label": "10000 Year 5 other",
+    "actual": 4262,
+    "expected": 4262
+  },
+  {
+    "label": "10000 Year 5 paid",
+    "actual": 12155,
+    "expected": 12155
+  },
+  {
+    "label": "10000 Year 5 base",
+    "actual": 33032554.245801527,
+    "expected": 33032554.245801527
+  },
+  {
+    "label": "10000 Year 5 central",
+    "actual": 14342900,
+    "expected": 14342900
+  },
+  {
+    "label": "10000 Year 5 saving",
+    "actual": 18689654.245801527,
+    "expected": 18689654.245801527
+  },
+  {
+    "label": "10000 Year 5 support",
+    "actual": 2008006.0000000002,
+    "expected": 2008006.0000000002
+  },
+  {
+    "label": "10000 locked unit price year 5",
+    "actual": 1180,
+    "expected": 1180
+  },
+  {
+    "label": "10000 annual reconciliation",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "label": "10000 five-year subscription",
+    "actual": 65202080,
+    "expected": 65202080
+  },
+  {
+    "label": "10000 five-year savings",
+    "actual": 84964936.89122137,
+    "expected": 84964936.89122137
+  },
+  {
+    "label": "10000 summary annual savings",
+    "actual": 15377603.7,
+    "expected": 15377603.7
+  },
+  {
+    "label": "10000 summary five-year savings",
+    "actual": 84964936.89122137,
+    "expected": 84964936.89122137
+  },
+  {
+    "label": "10000 allocated Year 1 users",
+    "actual": 10000,
+    "expected": 10000
+  }
+]

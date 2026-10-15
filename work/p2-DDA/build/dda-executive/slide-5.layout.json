@@ -1,0 +1,1767 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/5yfnew",
+    "id": "5yfnew",
+    "slide": 5,
+    "layoutId": "b087c412-fdbc-484b-9782-d478f7bc87a0",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "f0af1378-5120-4d62-86df-5e0f2fee1cf4",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Mulish",
+      "Spartan"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b087c412-fdbc-484b-9782-d478f7bc87a0",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "f0af1378-5120-4d62-86df-5e0f2fee1cf4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "f0af1378-5120-4d62-86df-5e0f2fee1cf4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/5k3u5k32",
+      "id": "1",
+      "bbox": [
+        48,
+        24,
+        40,
+        40
+      ],
+      "alt": "Circularo symbol",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "asset": {
+        "assetId": "cd1808f9-ce82-40a6-a2b0-fd98322a4267",
+        "contentType": "image/png",
+        "byteLength": 2211
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72po7u5c",
+      "id": "2",
+      "name": "page-number",
+      "bbox": [
+        1184,
+        676,
+        48,
+        20
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Mulish",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Mulish",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 14,
+              "typeface": "Mulish",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hgnypor",
+      "id": "3",
+      "name": "eyebrow",
+      "bbox": [
+        104,
+        28,
+        1060,
+        33
+      ],
+      "geometry": "rect",
+      "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 1",
+      "textPreview": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 1",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#7000FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 1",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#7000FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DDA MANAGEMENT DISCUSSION / OPTIONAL DETAIL 1",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#7000FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5g765kn6",
+      "id": "4",
+      "name": "title",
+      "bbox": [
+        48,
+        96,
+        1184,
+        126
+      ],
+      "geometry": "rect",
+      "text": "Savings against current customer prices",
+      "textPreview": "Savings against current customer prices",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "fontSize": 46,
+        "typeface": "Spartan",
+        "color": "#1D0090",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Savings against current customer prices"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Savings against current customer prices",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Spartan",
+            "color": "#1D0090",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Savings against current customer prices",
+              "fontSize": 46,
+              "typeface": "Spartan",
+              "color": "#1D0090",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfy5wf6l",
+      "id": "5",
+      "name": "basis",
+      "bbox": [
+        48,
+        180,
+        1180,
+        40
+      ],
+      "geometry": "rect",
+      "text": "Today’s 1,310 users, allocated the central AED 1,180 rate",
+      "textPreview": "Today’s 1,310 users, allocated the central AED 1,180 rate",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Mulish",
+        "color": "#3D3D3D",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Today’s 1,310 users, allocated the central AED 1,180 rate"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Today’s 1,310 users, allocated the central AED 1,180 rate",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Mulish",
+            "color": "#3D3D3D",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Today’s 1,310 users, allocated the central AED 1,180 rate",
+              "fontSize": 26,
+              "typeface": "Mulish",
+              "color": "#3D3D3D",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/qlkr6dgz",
+      "id": "6",
+      "bbox": [
+        48,
+        230,
+        1184,
+        315
+      ],
+      "text": "Customer / project | Users | Current AED/user | Saving AED/year\nDDA VIP project | 50 | 1,850.94 | 33,547.00\nDigital Dubai Authority | 100 | 2,212.50 | 103,250.00\nDubai Culture & Arts | 25 | 2,212.48 | 25,812.00\nDubai Electronic Security Center | 60 | 2,507.50 | 79,650.00\nPCFC | 25 | 2,159.43 | 24,485.75\nRoads and Transport Authority | 1,000 | 1,245.00 | 65,000.00\nHis Highness the Rulers Court | 50 | 2,212.50 | 51,625.00\nTotal | 1,310 | 1,472.65 weighted | 383,369.75",
+      "textPreview": "Customer / project | Users | Current AED/user | Saving AED/year | DDA VIP project | 50 | 1,850.94 | 33,547.00 | Digital Dubai Authority |...",
+      "rows": 9,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            48,
+            230,
+            475,
+            35
+          ],
+          "text": "Customer / project",
+          "textPreview": "Customer / project",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Customer / project",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Customer / project",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            523,
+            230,
+            105,
+            35
+          ],
+          "text": "Users",
+          "textPreview": "Users",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Users",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Users",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            628,
+            230,
+            245,
+            35
+          ],
+          "text": "Current AED/user",
+          "textPreview": "Current AED/user",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Current AED/user",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Current AED/user",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            873,
+            230,
+            359,
+            35
+          ],
+          "text": "Saving AED/year",
+          "textPreview": "Saving AED/year",
+          "fillColor": "#1D0090",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Saving AED/year",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#FFFFFF",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Saving AED/year",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#FFFFFF",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            48,
+            265,
+            475,
+            35
+          ],
+          "text": "DDA VIP project",
+          "textPreview": "DDA VIP project",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "DDA VIP project",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "DDA VIP project",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            523,
+            265,
+            105,
+            35
+          ],
+          "text": "50",
+          "textPreview": "50",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            628,
+            265,
+            245,
+            35
+          ],
+          "text": "1,850.94",
+          "textPreview": "1,850.94",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,850.94",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,850.94",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            873,
+            265,
+            359,
+            35
+          ],
+          "text": "33,547.00",
+          "textPreview": "33,547.00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "33,547.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "33,547.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            48,
+            300,
+            475,
+            35
+          ],
+          "text": "Digital Dubai Authority",
+          "textPreview": "Digital Dubai Authority",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Digital Dubai Authority",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Digital Dubai Authority",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            523,
+            300,
+            105,
+            35
+          ],
+          "text": "100",
+          "textPreview": "100",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "100",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "100",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            628,
+            300,
+            245,
+            35
+          ],
+          "text": "2,212.50",
+          "textPreview": "2,212.50",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,212.50",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,212.50",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            873,
+            300,
+            359,
+            35
+          ],
+          "text": "103,250.00",
+          "textPreview": "103,250.00",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "103,250.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "103,250.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            48,
+            335,
+            475,
+            35
+          ],
+          "text": "Dubai Culture & Arts",
+          "textPreview": "Dubai Culture & Arts",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dubai Culture & Arts",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dubai Culture & Arts",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            523,
+            335,
+            105,
+            35
+          ],
+          "text": "25",
+          "textPreview": "25",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "25",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "25",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            628,
+            335,
+            245,
+            35
+          ],
+          "text": "2,212.48",
+          "textPreview": "2,212.48",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,212.48",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,212.48",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            873,
+            335,
+            359,
+            35
+          ],
+          "text": "25,812.00",
+          "textPreview": "25,812.00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "25,812.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "25,812.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            48,
+            370,
+            475,
+            35
+          ],
+          "text": "Dubai Electronic Security Center",
+          "textPreview": "Dubai Electronic Security Center",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Dubai Electronic Security Center",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Dubai Electronic Security Center",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            523,
+            370,
+            105,
+            35
+          ],
+          "text": "60",
+          "textPreview": "60",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "60",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "60",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            628,
+            370,
+            245,
+            35
+          ],
+          "text": "2,507.50",
+          "textPreview": "2,507.50",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,507.50",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,507.50",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            873,
+            370,
+            359,
+            35
+          ],
+          "text": "79,650.00",
+          "textPreview": "79,650.00",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "79,650.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "79,650.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            48,
+            405,
+            475,
+            35
+          ],
+          "text": "PCFC",
+          "textPreview": "PCFC",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "PCFC",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "PCFC",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            523,
+            405,
+            105,
+            35
+          ],
+          "text": "25",
+          "textPreview": "25",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "25",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "25",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            628,
+            405,
+            245,
+            35
+          ],
+          "text": "2,159.43",
+          "textPreview": "2,159.43",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,159.43",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,159.43",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 6,
+          "column": 4,
+          "bbox": [
+            873,
+            405,
+            359,
+            35
+          ],
+          "text": "24,485.75",
+          "textPreview": "24,485.75",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "24,485.75",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "24,485.75",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 7,
+          "column": 1,
+          "bbox": [
+            48,
+            440,
+            475,
+            35
+          ],
+          "text": "Roads and Transport Authority",
+          "textPreview": "Roads and Transport Authority",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Roads and Transport Authority",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Roads and Transport Authority",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 26,
+          "row": 7,
+          "column": 2,
+          "bbox": [
+            523,
+            440,
+            105,
+            35
+          ],
+          "text": "1,000",
+          "textPreview": "1,000",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,000",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,000",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 27,
+          "row": 7,
+          "column": 3,
+          "bbox": [
+            628,
+            440,
+            245,
+            35
+          ],
+          "text": "1,245.00",
+          "textPreview": "1,245.00",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,245.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,245.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 28,
+          "row": 7,
+          "column": 4,
+          "bbox": [
+            873,
+            440,
+            359,
+            35
+          ],
+          "text": "65,000.00",
+          "textPreview": "65,000.00",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "65,000.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "65,000.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 29,
+          "row": 8,
+          "column": 1,
+          "bbox": [
+            48,
+            475,
+            475,
+            35
+          ],
+          "text": "His Highness the Rulers Court",
+          "textPreview": "His Highness the Rulers Court",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "His Highness the Rulers Court",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "His Highness the Rulers Court",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 30,
+          "row": 8,
+          "column": 2,
+          "bbox": [
+            523,
+            475,
+            105,
+            35
+          ],
+          "text": "50",
+          "textPreview": "50",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "50",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "50",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 31,
+          "row": 8,
+          "column": 3,
+          "bbox": [
+            628,
+            475,
+            245,
+            35
+          ],
+          "text": "2,212.50",
+          "textPreview": "2,212.50",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2,212.50",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2,212.50",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 32,
+          "row": 8,
+          "column": 4,
+          "bbox": [
+            873,
+            475,
+            359,
+            35
+          ],
+          "text": "51,625.00",
+          "textPreview": "51,625.00",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "51,625.00",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "51,625.00",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "row": 9,
+          "column": 1,
+          "bbox": [
+            48,
+            510,
+            475,
+            35
+          ],
+          "text": "Total",
+          "textPreview": "Total",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Total",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "bold": true,
+                "alignment": "left"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Total",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "bold": true,
+                  "alignment": "left"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "row": 9,
+          "column": 2,
+          "bbox": [
+            523,
+            510,
+            105,
+            35
+          ],
+          "text": "1,310",
+          "textPreview": "1,310",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,310",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,310",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 35,
+          "row": 9,
+          "column": 3,
+          "bbox": [
+            628,
+            510,
+            245,
+            35
+          ],
+          "text": "1,472.65 weighted",
+          "textPreview": "1,472.65 weighted",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1,472.65 weighted",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1,472.65 weighted",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "row": 9,
+          "column": 4,
+          "bbox": [
+            873,
+            510,
+            359,
+            35
+          ],
+          "text": "383,369.75",
+          "textPreview": "383,369.75",
+          "fillColor": "#F5EDFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "383,369.75",
+              "resolvedTextStyle": {
+                "fontSize": 22,
+                "typeface": "Mulish",
+                "color": "#3D3D3D",
+                "bold": true,
+                "alignment": "right"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "383,369.75",
+                  "fontSize": 22,
+                  "typeface": "Mulish",
+                  "color": "#3D3D3D",
+                  "bold": true,
+                  "alignment": "right"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idwnupov",
+      "id": "7",
+      "name": "qualification",
+      "bbox": [
+        48,
+        622,
+        1184,
+        64
+      ],
+      "geometry": "rect",
+      "text": "Actual baseline: AED 1,929,169.75. Current-user saving: AED 383,369.75 (19.87%).\nWith 50% Year 1 growth: AED 575,054.63 saving. Support separate.",
+      "textPreview": "Actual baseline: AED 1,929,169.75. Current-user saving: AED 383,369.75 (19.87%). | With 50% Year 1 growth: AED 575,054.63 saving. Support...",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Mulish",
+        "color": "#344054",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Actual baseline: AED 1,929,169.75. Current-user saving: AED 383,369.75 (19.87%)."
+          },
+          {
+            "index": 2,
+            "text": "With 50% Year 1 growth: AED 575,054.63 saving. Support separate."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Actual baseline: AED 1,929,169.75. Current-user saving: AED 383,369.75 (19.87%).",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#344054",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Actual baseline: AED 1,929,169.75. Current-user saving: AED 383,369.75 (19.87%).",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#344054",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "With 50% Year 1 growth: AED 575,054.63 saving. Support separate.",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Mulish",
+            "color": "#344054",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "With 50% Year 1 growth: AED 575,054.63 saving. Support separate.",
+              "fontSize": 22,
+              "typeface": "Mulish",
+              "color": "#344054",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

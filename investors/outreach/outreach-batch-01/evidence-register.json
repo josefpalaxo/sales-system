@@ -1,0 +1,2056 @@
+{
+  "as_of": "2026-10-02",
+  "status": "draft",
+  "classification": "confidential",
+  "sources": [
+    {
+      "title": "Private Equity | Mubadala",
+      "url": "https://www.mubadala.com/en/what-we-do/private-equity",
+      "candidate_ids": [
+        "C003"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S003",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Shorooq",
+      "url": "https://www.shorooq.com/",
+      "candidate_ids": [
+        "C014"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S013",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Our Businesses - Gulf Capital",
+      "url": "https://www.gulfcapital.com/our-businesses",
+      "candidate_ids": [
+        "C015"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S015",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Saudi Telecom Company (A Saudi Joint Stock Company)",
+      "url": "https://www.stc.com.sa/content/dam/stc/stc-annual-report-2024/assets/img/pdfs/consolidated-financial-statements.pdf",
+      "candidate_ids": [
+        "C016"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S020",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Technology Sector - Digital Innovation & Tech Hubs | Dubai Holding",
+      "url": "https://www.dubaiholding.com/en/our-business/sectors/technology",
+      "candidate_ids": [
+        "C007"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S023",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "ICMSpecial",
+      "url": "https://www.adq.ae/cdn-assets/documents/681852e525bf426c0136a36a-adq-gmtn-base-prospectus-april-2025.pdf",
+      "candidate_ids": [
+        "C006"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S029",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Investment Corporation of Dubai and its Subsidiaries",
+      "url": "https://icd.gov.ae/wp-content/uploads/2024/12/ICD_Consolidated_FS_YE_2024_Signed.pdf",
+      "candidate_ids": [
+        "C008"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S030",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Principal Investments |",
+      "url": "https://www.alnowais.com/our-businness/our-investment-portfolio/",
+      "candidate_ids": [
+        "C012"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S033",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Consolidated Financial Statements  Year ended 31 December 2023",
+      "url": "https://www.majidalfuttaim.com/docs/default-source/reports/maf-holding-consolidated-annual-report-and-accounts-fy-20233a18608c005643078b9e11b343860557.pdf?sfvrsn=2b4e23dc_2",
+      "candidate_ids": [
+        "C009"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S037",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "ServiceNow Ventures: Investing in AI Innovators for Enterprise Transformation",
+      "url": "https://www.servicenow.com/company/ventures.html",
+      "candidate_ids": [
+        "C027"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery source; investment appetite not inferred",
+      "id": "S041",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Project Overview Deck - For Review",
+      "url": "https://salesforceventures.com/wp-content/uploads/2025/05/Salesforce-Ventures-FAQ.pdf",
+      "candidate_ids": [
+        "C028"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery source; investment appetite not inferred",
+      "id": "S045",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Ping Identity Company Overview",
+      "url": "https://www.pingidentity.com/en/company.html",
+      "candidate_ids": [
+        "C031"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery source; investment appetite not inferred",
+      "id": "S053",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Omantel Group – Investor Presentation",
+      "url": "https://www.omantel.om/wcm/connect/fc017be1-5455-4642-bdaa-e0a0e8669b5e/2195648_Omantel%2BRoadshow%2BIP%2BJune-23_vf%2B%28Website%29.pdf?MOD=AJPERES",
+      "candidate_ids": [
+        "C024"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery source; investment appetite not inferred",
+      "id": "S070",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "02 COMPANY OVERVIEW",
+      "url": "https://zain.com/SR2024/wp-content/uploads/ZAIN-SR-2024-EN-chapter-02.pdf",
+      "candidate_ids": [
+        "C022"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery source; investment appetite not inferred",
+      "id": "S072",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Investor Relations | IBM",
+      "url": "https://www.ibm.com/investor",
+      "candidate_ids": [
+        "C040"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S085",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Fortinet Sharpens Business Focus on Core Growth Areas to Extend Leadership Position and Drive Continued Innovation in Cybersecurity",
+      "url": "https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2023/fortinet-sharpens-business-focus-on-core-growth-areas-to-extend-leadership-and-drive-innovation",
+      "candidate_ids": [
+        "C039"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S088",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Investor Relations - SailPoint, Inc.",
+      "url": "https://investor.sailpoint.com/",
+      "candidate_ids": [
+        "C046"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S096",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "The Hyland Global",
+      "url": "https://site-cdn.hyland.com/www/af58f1f9d0/hyland-global-partners-program-guide-june-2025.pdf?sc_lang=fr",
+      "candidate_ids": [
+        "C047"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S104",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Databricks Ventures | Databricks",
+      "url": "https://www.databricks.com/databricks-ventures",
+      "candidate_ids": [
+        "C045"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S105",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "About Palantir",
+      "url": "https://www.palantir.com/about/",
+      "candidate_ids": [
+        "C043"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S107",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Docusign Inc. - Investor Relations",
+      "url": "https://investor.docusign.com/",
+      "candidate_ids": [
+        "C034"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S117",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "title": "Press Contacts",
+      "url": "https://www.adobe.com/content/dam/cc/in/about-adobe/newsroom/pdfs/archive/AdobeMicrosoftandLinkedInjoinforcestoaccelerateaccountbasedexperience.pdf",
+      "candidate_ids": [
+        "C035"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Discovery evidence",
+      "id": "S119",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S122",
+      "title": "OVHcloud presents its strategic plan, Shaping the Future, and new financial targets for FY2026",
+      "url": "https://corporate.ovhcloud.com/en-sg/newsroom/news/investor-day-shaping-future/",
+      "candidate_ids": [
+        "C066"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S124",
+      "title": "About us - The company at a glance | IONOS",
+      "url": "https://www.ionos.com/about",
+      "candidate_ids": [
+        "C065"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S131",
+      "title": "Deutsche Telekom strengthens its commitment to the defense sector – T.Capital makes strategic investment in Quantum Systems | Deutsche Telekom",
+      "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2025/12/telekom-acquires-stake-in-quantum-systems",
+      "candidate_ids": [
+        "C059"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S134",
+      "title": "Tinexta: We shape the future | Tinexta Group",
+      "url": "https://tinexta.com/en",
+      "candidate_ids": [
+        "C053"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S135",
+      "title": "News | SwissID",
+      "url": "https://www.swisssign.com/swissid/en/news/detail-page~newsID%3D4d63518b-967d-4941-bc5a-c7193123df46~.html",
+      "candidate_ids": [
+        "C056"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S136",
+      "title": "About IDnow: Where Trust Powers Identity",
+      "url": "https://idnow.io/about-idnow/",
+      "candidate_ids": [
+        "C054"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S138",
+      "title": "Vision, purpose, values, strategy and goals | Swisscom",
+      "url": "https://www.swisscom.ch/en/about/company/purpose-vision-values-and-goals.html",
+      "candidate_ids": [
+        "C055"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S149",
+      "title": "our strategy",
+      "url": "https://acc.investors.soprasteria.com/en/overview/strategy.html",
+      "candidate_ids": [
+        "C070"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S150",
+      "title": "Acquisitions | About - Dassault Systèmes",
+      "url": "https://www.3ds.com/about/company/acquisitions",
+      "candidate_ids": [
+        "C071"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S151",
+      "title": "About us | Who we are and what we do | Visma",
+      "url": "https://www.visma.com/who-we-are",
+      "candidate_ids": [
+        "C072"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S157",
+      "title": "Advania.com - Growth Strategy",
+      "url": "https://www.advania.com/about-us/our-markets/growth-strategy/",
+      "candidate_ids": [
+        "C064"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S163",
+      "title": "Governance | IDEMIA",
+      "url": "https://www.idemia.com/governance",
+      "candidate_ids": [
+        "C061"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S164",
+      "title": "WithSecure doubles down on the European Way in cybersecurity | WithSecure Press Release",
+      "url": "https://www.withsecure.com/en/resources-hub/press-releases/european-way/",
+      "candidate_ids": [
+        "C063"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S169",
+      "title": "Fujitsu Group",
+      "url": "https://www.fujitsu.com/global/documents/about/ir/library/integratedrep/IntegratedReport2020-all.pdf",
+      "candidate_ids": [
+        "C083"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S171",
+      "title": "Investor Day : Investor Relations : Hitachi Global",
+      "url": "https://www.hitachi.com/en/ir/library/irday/",
+      "candidate_ids": [
+        "C084"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S173",
+      "title": "Message from the President: Integrated Report 2022 | NEC",
+      "url": "https://www.nec.com/en/global/ir/library/annual/2022/management/index.html",
+      "candidate_ids": [
+        "C082"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S174",
+      "title": "CEO's New Year Message for 2026 | NTT DATA Group",
+      "url": "https://www.nttdata.com/global/en/news/press-release/2026/january/010500",
+      "candidate_ids": [
+        "C081"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S183",
+      "title": "smartTrade Announces Strategic Investment from TA Alongside CEO and Management | News & Insights | TA",
+      "url": "https://www.ta.com/news/smarttrade-announces-strategic-investment-from-ta-alongside-ceo-and-management/",
+      "candidate_ids": [
+        "C092"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S184",
+      "title": "Tech Mahindra Announces the Acquisition of Avant Techno Solutions",
+      "url": "https://www.techmahindra.com/insights/press-releases/tech-mahindra-announces-the-acquisition-of-avant-techno-solutions/",
+      "candidate_ids": [
+        "C090"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S189",
+      "title": "Acquisitions | SAP Investor Relations",
+      "url": "https://www.sap.com/investors/en/resources/acquisitions.html",
+      "candidate_ids": [
+        "C074"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S195",
+      "title": "Acquisitions | TeamViewer",
+      "url": "https://www.teamviewer.com/en-au/special/acquisitions/",
+      "candidate_ids": [
+        "C073"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S197",
+      "title": "Singtel Innov8 :: About Us",
+      "url": "https://innov8.singtel.com/about-us.html",
+      "candidate_ids": [
+        "C085"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S199",
+      "title": "Our Investment Case | ST Engineering",
+      "url": "https://www.stengg.com/en/investor-relations/our-investment-case",
+      "candidate_ids": [
+        "C086"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S200",
+      "title": "KDDI Open Innovation Fund | KDDI Open Innovation Program | KDDI株式会社",
+      "url": "https://www.kddi.com/ventures/koif/",
+      "candidate_ids": [
+        "C088"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S204",
+      "title": "Temasek Announces Plans to Expand Presence in the Middle East - Temasek",
+      "url": "https://www.temasek.com.sg/en/news-and-resources/news-room/news/2026/temasek-announces-plans-to-expand-presence-in-the-middle-east",
+      "candidate_ids": [
+        "C087"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S209",
+      "title": "About — Arrowroot Capital",
+      "url": "https://www.arrowrootcapital.com/approach",
+      "candidate_ids": [
+        "C100"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S211",
+      "title": "Strategic Growth Capital Solutions - Level Equity",
+      "url": "https://www.levelequity.com/our-business/",
+      "candidate_ids": [
+        "C099"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S214",
+      "title": "PSG Equity 2025 Year in Review",
+      "url": "https://updates.psgequity.com/2025-year-in-review/",
+      "candidate_ids": [
+        "C097"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S215",
+      "title": "PowerPoint Presentation",
+      "url": "https://www.levelequity.com/wp-content/uploads/Level-Equity-One-Pager_Q3-2023.pdf",
+      "candidate_ids": [
+        "C099"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S219",
+      "title": "Our acquisition process | WiseTech Global",
+      "url": "https://wisetechglobal.com/what-we-do/our-acquisition-process/",
+      "candidate_ids": [
+        "C077"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S220",
+      "title": "About us | Data#3",
+      "url": "https://www.data3.com/about/",
+      "candidate_ids": [
+        "C078"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S222",
+      "title": "Macquarie Capital | Macquarie Group",
+      "url": "https://www.macquarie.com/is/en/about/company/macquarie-capital.html",
+      "candidate_ids": [
+        "C079"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S227",
+      "title": "Investments | Francisco Partners",
+      "url": "https://www.franciscopartners.com/investments",
+      "candidate_ids": [
+        "C096"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S229",
+      "title": "Insight Partners | We Scale Ambition at Every Stage",
+      "url": "https://www.insightpartners.com/",
+      "candidate_ids": [
+        "C095"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S232",
+      "title": "2024 Year in Review: Summit Partners Portfolio Companies Complete 100+ Acquisitions",
+      "url": "https://www.summitpartners.com/news/2024-year-in-review-summit-partners-portfolio-companies-complete-acquisitions",
+      "candidate_ids": [
+        "C093"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S233",
+      "title": "Our Story | General Atlantic",
+      "url": "https://www.generalatlantic.com/our-story/",
+      "candidate_ids": [
+        "C094"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S236",
+      "title": "Signicat strengthens market position with NFC… - Signicat",
+      "url": "https://www.signicat.com/press-releases/signicat-acquires-inverid",
+      "candidate_ids": [
+        "C051"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S237",
+      "title": "Investcorp Takes Strategic Stake in Metra, Expanding into the GCC’s High Growth IT Distribution Market - Investcorp",
+      "url": "https://www.investcorp.com/investcorp-takes-strategic-stake-in-metra-expanding-into-the-gccs-high-growth-it-distribution-market/",
+      "candidate_ids": [
+        "C025"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official discovery evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S241",
+      "title": "Al Ghurair — official website",
+      "url": "https://al-ghurair.com",
+      "candidate_ids": [
+        "C011"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S242",
+      "title": "Hg — official website",
+      "url": "https://hgcapital.com",
+      "candidate_ids": [
+        "C091"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S243",
+      "title": "Aramco Ventures — official website",
+      "url": "https://aramcoventures.com",
+      "candidate_ids": [
+        "C020"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S246",
+      "title": "Box — official website",
+      "url": "https://box.com",
+      "candidate_ids": [
+        "C048"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S247",
+      "title": "International Holding Company — official website",
+      "url": "https://ihcuae.com",
+      "candidate_ids": [
+        "C005"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S248",
+      "title": "Al-Futtaim Group — official website",
+      "url": "https://alfuttaim.com",
+      "candidate_ids": [
+        "C010"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S249",
+      "title": "Bundesdruckerei Group / D-Trust — official website",
+      "url": "https://bundesdruckerei.de",
+      "candidate_ids": [
+        "C057"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S250",
+      "title": "Atos / Eviden — official website",
+      "url": "https://atos.net",
+      "candidate_ids": [
+        "C062"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S252",
+      "title": "Automation Anywhere — official website",
+      "url": "https://automationanywhere.com",
+      "candidate_ids": [
+        "C050"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S253",
+      "title": "Telefónica / Telefónica Ventures — official website",
+      "url": "https://telefonica.com",
+      "candidate_ids": [
+        "C068"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S254",
+      "title": "Microsoft / M12 — official website",
+      "url": "https://m12.vc",
+      "candidate_ids": [
+        "C026"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S255",
+      "title": "NVIDIA / NVentures — official website",
+      "url": "https://nventures.ai",
+      "candidate_ids": [
+        "C044"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S256",
+      "title": "Oracle — official website",
+      "url": "https://oracle.com",
+      "candidate_ids": [
+        "C042"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S257",
+      "title": "Workday Ventures — official website",
+      "url": "https://ventures.workday.com",
+      "candidate_ids": [
+        "C029"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S258",
+      "title": "Amazon / AWS — official website",
+      "url": "https://aws.amazon.com",
+      "candidate_ids": [
+        "C041"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S259",
+      "title": "Tata Communications — official website",
+      "url": "https://tatacommunications.com",
+      "candidate_ids": [
+        "C089"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S260",
+      "title": "Palo Alto Networks — official website",
+      "url": "https://paloaltonetworks.com",
+      "candidate_ids": [
+        "C037"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S261",
+      "title": "Accenture / Accenture Ventures — official website",
+      "url": "https://accenture.com",
+      "candidate_ids": [
+        "C075"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S262",
+      "title": "TechnologyOne — official website",
+      "url": "https://technologyonecorp.com",
+      "candidate_ids": [
+        "C076"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S263",
+      "title": "Potentia Capital — official website",
+      "url": "https://potentiacap.com",
+      "candidate_ids": [
+        "C080"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S265",
+      "title": "Waha Capital — official website",
+      "url": "https://wahacapital.com",
+      "candidate_ids": [
+        "C013"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S266",
+      "title": "CrowdStrike — official website",
+      "url": "https://crowdstrike.com",
+      "candidate_ids": [
+        "C038"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S268",
+      "title": "Capgemini — official website",
+      "url": "https://capgemini.com",
+      "candidate_ids": [
+        "C069"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Official website read",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S271",
+      "title": "Huskeys & Okta: Redefining Network Edge Security | Okta Ventures",
+      "url": "https://www.okta.com/en-gb/blog/company-and-culture/founders-in-focus-itai-gafni-ceo-of-huskeys/",
+      "candidate_ids": [
+        "C030"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S293",
+      "title": "Orange Ventures",
+      "url": "https://ventures.orange.com/",
+      "candidate_ids": [
+        "C067"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S294",
+      "title": "Orange renforce son écosystème d'innovation en investissant dans la start-up française de health-tech Biolevate - Newsroom Groupe Orange",
+      "url": "https://newsroom.orange.com/orange-strengthens-its-life-sciences-innovation-ecosystem-with-investment-in-french-health-tech-start-up-biolevate-500233/?didomi=&lang=fra",
+      "candidate_ids": [
+        "C067"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S302",
+      "title": "Our Teams - Beyon",
+      "url": "https://www.beyon.com/our-teams/",
+      "candidate_ids": [
+        "C023"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S338",
+      "title": "B2B Software Investors - Meet the Team at Five Elms Capital",
+      "url": "https://www.fiveelms.com/team/",
+      "candidate_ids": [
+        "C098"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S341",
+      "title": "The Leading Sovereign Cloud in Saudi Arabia | SITE Cloud",
+      "url": "https://cloud.site.sa/en",
+      "candidate_ids": [
+        "C018"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S356",
+      "title": "Entrust Leadership | Entrust",
+      "url": "https://www.entrust.com/company/leadership",
+      "candidate_ids": [
+        "C032"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S361",
+      "title": "Our Team of Growth Capital Investors - Level Equity",
+      "url": "https://www.levelequity.com/our-people/",
+      "candidate_ids": [
+        "C099"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S369",
+      "title": "e& (etisalat and ) | Global technology group | Senior Management",
+      "url": "https://www.eand.com/en/whoweare/senior-management.html",
+      "candidate_ids": [
+        "C001"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S378",
+      "title": "Tinexta: Diamo forma al futuro | Gruppo Tinexta",
+      "url": "https://tinexta.com/it-IT/-/",
+      "candidate_ids": [
+        "C053"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S389",
+      "title": "People | Cisco Investments",
+      "url": "https://www.ciscoinvestments.com/team",
+      "candidate_ids": [
+        "C036"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S391",
+      "title": "2025 Year in Review",
+      "url": "https://www.ciscoinvestments.com/posts/2025-year-in-review",
+      "candidate_ids": [
+        "C036"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S392",
+      "title": "Noah Yago | Cisco Investments",
+      "url": "https://www.ciscoinvestments.com/team/noah-yago",
+      "candidate_ids": [
+        "C036"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S393",
+      "title": "About Namirial | Trust Service Provider | Namirial.com",
+      "url": "https://www.namirial.com/en/company/about/",
+      "candidate_ids": [
+        "C052"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Full official page read; chronology conflict with S869 remains open"
+    },
+    {
+      "id": "S402",
+      "title": "About G42",
+      "url": "https://www.g42.ai/about",
+      "candidate_ids": [
+        "C002"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Leadership/investment evidence",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S417",
+      "title": "UiPath Founder Daniel Dines Unveils The Work That Remains | UiPath",
+      "url": "https://www.uipath.com/newsroom/daniel-dines-book-the-work-that-remains",
+      "candidate_ids": [
+        "C049"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S450",
+      "title": "G+D Ventures - investing in TrustTech | G+D",
+      "url": "https://www.gi-de.com/en/ventures",
+      "candidate_ids": [
+        "C058"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S459",
+      "title": "stc group | Executive Management",
+      "url": "https://www.stc.com/en/investors/governance/executive-management.html",
+      "candidate_ids": [
+        "C016"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S489",
+      "title": "Executive Management",
+      "url": "https://elm.sa/en/investor-relations/corporate-governance/Pages/executive-management.aspx",
+      "candidate_ids": [
+        "C017"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed result only; full-page retrieval failed"
+    },
+    {
+      "id": "S493",
+      "title": "About G42",
+      "url": "https://g42.ai/about",
+      "candidate_ids": [
+        "C002"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S502",
+      "title": "Presentazione standard di PowerPoint",
+      "url": "https://tinexta.com/-/media/tinexta/data/media/files/docs/InvestorRelations/Presentazioni_Finanziarie/2025/ENG/CMD_Presentation_060325_ENG.pdf",
+      "candidate_ids": [
+        "C053"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S513",
+      "title": "Corporate Leadership | OneSpan",
+      "url": "https://www.onespan.com/about/leadership",
+      "candidate_ids": [
+        "C033"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S562",
+      "title": "Max Pellegrini | Namirial.com",
+      "url": "https://www.namirial.com/en/author/m-pellegrini/",
+      "candidate_ids": [
+        "C052"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S564",
+      "title": "Über uns - Signicat",
+      "url": "https://www.signicat.com/de/uber-uns",
+      "candidate_ids": [
+        "C051"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S579",
+      "title": "Global Cybersecurity Forum",
+      "url": "https://gcforum.org/en/speakers/95fd2cc5-3c86-48f1-991c-1c7b90dfeda1/",
+      "candidate_ids": [
+        "C018"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Role/identity evidence — source quality requires review",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S625",
+      "title": "UiPath Acquires Peak to Launch Vertically Specialized Agents | UiPath",
+      "url": "https://www.uipath.com/newsroom/uipath-acquires-peak-to-launch-vertically-specialized-agents",
+      "candidate_ids": [
+        "C049"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S656",
+      "title": "Elm Completes Full Acquisition of Thiqah to Drive Growth and Integration",
+      "url": "https://elm.sa/en/media-center/news/Pages/Elm-Completes-Full-Acquisition-of-Thiqah-to-Drive-Growth-and-Integration.aspx",
+      "candidate_ids": [
+        "C017"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Indexed result only; full-page retrieval failed"
+    },
+    {
+      "id": "S668",
+      "title": "Founders in Focus: David Goldschlag of Aembit",
+      "url": "https://www.okta.com/en-nl/blog/company-and-culture/founders-in-focus-david-goldschlag-of-aembit/",
+      "candidate_ids": [
+        "C030"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S679",
+      "title": "Five Elms Capital - Partnering with Software Companies People Love",
+      "url": "https://www.fiveelms.com/",
+      "candidate_ids": [
+        "C098"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S680",
+      "title": "Five Elms Capital Raises $1.1 Billion Fund VI to Back High-Growth Software Companies - Five Elms Capital",
+      "url": "https://www.fiveelms.com/five-elms-capital-raises-1-1-billion-fund-vi-to-back-high-growth-software-companies/",
+      "candidate_ids": [
+        "C098"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S703",
+      "title": "Beyon Annual Report 2024",
+      "url": "https://beyon.com/wp-content/uploads/2025/03/Final-English-Beyon-AR2024.pdf",
+      "candidate_ids": [
+        "C023"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S723",
+      "title": "Entrust Completes Acquisition of Onfido | Entrust",
+      "url": "https://www.entrust.com/es/resources/learn/entrust-completes-acquisition-of-onfido",
+      "candidate_ids": [
+        "C032"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S760",
+      "title": "Thales Acquires Imperva, a Global Leader in Cybersecurity - Press Release",
+      "url": "https://cpl.thalesgroup.com/about-us/newsroom/thales-acquires-imperva-global-leader-in-cybersecurity-press-release",
+      "candidate_ids": [
+        "C060"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S790",
+      "title": "G+D Ventures | TrustTech Trends | 2025",
+      "url": "https://www.gi-de.com/corporate/Group/Ventures/GD-Ventures-Trend-Radar-2025.pdf",
+      "candidate_ids": [
+        "C058"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Indexed official source; full-page reading not completed"
+    },
+    {
+      "id": "S796",
+      "title": "e& (etisalat and ) | Global technology group | e& enterprise forms a joint venture",
+      "url": "https://www.eand.com/en/news/09-12-2022-eand-enterprise-forms-joint-venture-with-bespin-global.html",
+      "candidate_ids": [
+        "C001"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Full official page read"
+    },
+    {
+      "id": "S869",
+      "title": "Namirial and Signaturit: What’s Changing",
+      "url": "https://www.namirial.com/en/company/namirial-signaturit/",
+      "candidate_ids": [
+        "C052"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Investment/transaction discovery",
+      "review_status": "Full official page read"
+    },
+    {
+      "url": "https://www.namirial.com/en/news/namirial-introduces-agentic-ai-trust-services/",
+      "title": "Namirial introduces Agentic Trust Services",
+      "candidate_ids": [
+        "C052"
+      ],
+      "event_date": "2025-12-17",
+      "note": "Official strategic direction; does not establish Circularo feature maturity.",
+      "id": "A001",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.trustcloud.ai/press/trustcloud-raises-15m-in-strategic-funding-led-by-servicenow/",
+      "title": "TrustCloud strategic funding led by ServiceNow",
+      "candidate_ids": [
+        "C027",
+        "C036"
+      ],
+      "event_date": "2025-05-20",
+      "note": "US$15m total funding round; individual cheques and secondary allocation not disclosed.",
+      "id": "A002",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.ahnlab.com/jp/contents/content-center/35713",
+      "title": "AhnLab and SITE launch Rakeen",
+      "candidate_ids": [
+        "C018"
+      ],
+      "event_date": "2024-10-21",
+      "note": "SITE Ventures 10% subscription and Saudi JV; primary share subscription, not founder secondary.",
+      "id": "A003",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2024/strategy-and-kpis.html",
+      "title": "stc 2024 strategy and KPIs",
+      "candidate_ids": [
+        "C016"
+      ],
+      "event_date": null,
+      "note": "Annual report discusses corporate investment fund for early-stage startups.",
+      "id": "A004",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.crunchbase.com/organization/signicat",
+      "title": "Signicat Crunchbase record",
+      "candidate_ids": [
+        "C051"
+      ],
+      "event_date": null,
+      "note": "Authenticated browser read corroborates Nordic Capital ownership and company LinkedIn. Funding raised is not investment capacity.",
+      "id": "A005",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.onespan.com/about/news/onespan-completes-acquisition-build38",
+      "title": "OneSpan completes Build38 acquisition",
+      "candidate_ids": [
+        "C033"
+      ],
+      "event_date": "2026-03-02",
+      "note": "Completion announced March 2; filing reports close February 27, 2026. Control acquisition, not minority secondary.",
+      "id": "A006",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.signicat.com/about",
+      "title": "Signicat company and management",
+      "candidate_ids": [
+        "C051"
+      ],
+      "event_date": null,
+      "note": "Official management page names CEO Asger Hattel and strategy lead Atul Randev.",
+      "id": "A007",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://cpl.thalesgroup.com/leadership",
+      "title": "Thales Cybersecurity Products leadership",
+      "candidate_ids": [
+        "C060"
+      ],
+      "event_date": null,
+      "note": "Official current role provenance for Eva Rudin and Danny de Vreeze.",
+      "id": "A008",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "url": "https://www.linkedin.com/company/technology-control-co-/about/",
+      "title": "Technology Control Company LinkedIn About",
+      "candidate_ids": [
+        "C019"
+      ],
+      "event_date": null,
+      "note": "Authenticated read identifies www.tcc-ict.com. tcc-ksa.com is an engineering consultancy and tcc.com.sa is a different business.",
+      "id": "A009",
+      "accessed_at": "2026-10-02",
+      "scope": "Claim-specific source",
+      "review_status": "Official source or authenticated page read; see note"
+    },
+    {
+      "id": "B001",
+      "title": "Ilya Kiykov LinkedIn profile",
+      "url": "https://www.linkedin.com/in/ilya-kiykov-a0171311/",
+      "candidate_ids": [
+        "C001"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B002",
+      "title": "Peng Xiao LinkedIn profile",
+      "url": "https://www.linkedin.com/in/reachpeng/",
+      "candidate_ids": [
+        "C002"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B003",
+      "title": "Mansoor Al Mansoori LinkedIn profile",
+      "url": "https://www.linkedin.com/in/mansoor-almansoori-265abb32/",
+      "candidate_ids": [
+        "C002"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Official page says CEO G42 International; LinkedIn still says Group COO. Preserve discrepancy."
+    },
+    {
+      "id": "B004",
+      "title": "Motaz Al-Angari LinkedIn profile",
+      "url": "https://www.linkedin.com/in/motaz-al-angari-07174820/",
+      "candidate_ids": [
+        "C016"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B005",
+      "title": "Riyadh Muawad LinkedIn profile",
+      "url": "https://www.linkedin.com/in/riyadhmuawad/",
+      "candidate_ids": [
+        "C016"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B006",
+      "title": "Mohammad bin Abdulaziz Alomair LinkedIn profile",
+      "url": "https://www.linkedin.com/in/alomair/",
+      "candidate_ids": [
+        "C017"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B007",
+      "title": "Alameen Alhazmi LinkedIn profile",
+      "url": "https://www.linkedin.com/in/alameen-alhazmi-664ab31/",
+      "candidate_ids": [
+        "C017"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Official page says Group Chief, Integrated Solutions; LinkedIn says Chief Integrated Solutions Officer."
+    },
+    {
+      "id": "B009",
+      "title": "Shaikh Mohamed bin Khalifa Al Khalifa LinkedIn profile",
+      "url": "https://www.linkedin.com/in/moalkhalifa/",
+      "candidate_ids": [
+        "C023"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B010",
+      "title": "Andrew Kvålseth LinkedIn profile",
+      "url": "https://www.linkedin.com/in/andrew-kv%C3%A5lseth-b5515917/",
+      "candidate_ids": [
+        "C023"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B011",
+      "title": "Gina Mastantuono LinkedIn profile",
+      "url": "https://www.linkedin.com/in/gina-mastantuono/",
+      "candidate_ids": [
+        "C027"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B012",
+      "title": "Austin Arensberg LinkedIn profile",
+      "url": "https://www.linkedin.com/in/austinarensberg/",
+      "candidate_ids": [
+        "C030"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B013",
+      "title": "Tony Ball (Anthony Ball) LinkedIn profile",
+      "url": "https://www.linkedin.com/in/anthony-ball-889391/",
+      "candidate_ids": [
+        "C032"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B014",
+      "title": "Victor Limongelli LinkedIn profile",
+      "url": "https://www.linkedin.com/in/victorlimongelli/",
+      "candidate_ids": [
+        "C033"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B015",
+      "title": "Noah Yago LinkedIn profile",
+      "url": "https://www.linkedin.com/in/noahyago/",
+      "candidate_ids": [
+        "C036"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B016",
+      "title": "Derek Idemoto LinkedIn profile",
+      "url": "https://www.linkedin.com/in/derekidemoto/",
+      "candidate_ids": [
+        "C036"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B017",
+      "title": "Daniel Dines LinkedIn profile",
+      "url": "https://www.linkedin.com/in/danieldines/",
+      "candidate_ids": [
+        "C049"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B018",
+      "title": "Asger Hattel LinkedIn profile",
+      "url": "https://www.linkedin.com/in/asger-hattel-878813/",
+      "candidate_ids": [
+        "C051"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B019",
+      "title": "Atul Koul Randev LinkedIn profile",
+      "url": "https://www.linkedin.com/in/atul-randev/",
+      "candidate_ids": [
+        "C051"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B020",
+      "title": "Max Pellegrini LinkedIn profile",
+      "url": "https://www.linkedin.com/in/maxpellegrini/",
+      "candidate_ids": [
+        "C052"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B021",
+      "title": "Danilo Cattaneo LinkedIn profile",
+      "url": "https://www.linkedin.com/in/danilocattaneo/",
+      "candidate_ids": [
+        "C053"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B022",
+      "title": "Michael Hochholzer LinkedIn profile",
+      "url": "https://www.linkedin.com/in/michael-hochholzer-450a22/",
+      "candidate_ids": [
+        "C058"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B023",
+      "title": "Assaf Shamia LinkedIn profile",
+      "url": "https://www.linkedin.com/in/assafshamia/",
+      "candidate_ids": [
+        "C058"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Official page says Managing Director; LinkedIn says Investment Partner."
+    },
+    {
+      "id": "B024",
+      "title": "Eva Rudin LinkedIn profile",
+      "url": "https://www.linkedin.com/in/eva-rudin-909a6713/",
+      "candidate_ids": [
+        "C060"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B025",
+      "title": "Danny de Vreeze LinkedIn profile",
+      "url": "https://www.linkedin.com/in/dannydevreeze/",
+      "candidate_ids": [
+        "C060"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B026",
+      "title": "Jerome Berger LinkedIn profile",
+      "url": "https://www.linkedin.com/in/jerome-berger-a221a7168/",
+      "candidate_ids": [
+        "C067"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B027",
+      "title": "Ryan Mandl LinkedIn profile",
+      "url": "https://www.linkedin.com/in/ryanmandl/",
+      "candidate_ids": [
+        "C098"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B028",
+      "title": "Will Lynn LinkedIn profile",
+      "url": "https://www.linkedin.com/in/willlynn/",
+      "candidate_ids": [
+        "C098"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Official team page says Director of Business Development; LinkedIn headline says Corporate Strategy."
+    },
+    {
+      "id": "B029",
+      "title": "Ben Levin (Benjamin Levin) LinkedIn profile",
+      "url": "https://www.linkedin.com/in/benjamin-levin-a3116/",
+      "candidate_ids": [
+        "C099"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B030",
+      "title": "Sarah Sommer LinkedIn profile",
+      "url": "https://www.linkedin.com/in/sarah-sommer-14b61227/",
+      "candidate_ids": [
+        "C099"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "id": "B031",
+      "title": "Philip Kirk LinkedIn profile",
+      "url": "https://www.linkedin.com/in/philipjkirk/",
+      "candidate_ids": [
+        "C045"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Professional identity and visible profile headline; mutual connections are potential routes only",
+      "review_status": "Authenticated browser page read",
+      "note": "Public role observed; exact transaction authority not established"
+    },
+    {
+      "title": "MGX | LinkedIn",
+      "url": "https://www.linkedin.com/company/mgxai",
+      "candidate_ids": [
+        "C004"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Public discovery evidence; no investment appetite inferred",
+      "id": "S006",
+      "review_status": "Indexed LinkedIn business identity; no applicable transaction mandate verified"
+    },
+    {
+      "id": "A010",
+      "url": "https://www.linkedin.com/company/ooredoo-group/",
+      "title": "Ooredoo Group LinkedIn",
+      "candidate_ids": [
+        "C021"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Business identity and telecom channel context",
+      "review_status": "Indexed LinkedIn company source; official homepage retrieval timed out"
+    },
+    {
+      "id": "D001",
+      "title": "e& LinkedIn company About",
+      "url": "https://www.linkedin.com/company/eandgroup/about/",
+      "candidate_ids": [
+        "C001"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Abu Dhabi, UAE"
+    },
+    {
+      "id": "D002",
+      "title": "G42 LinkedIn company About",
+      "url": "https://www.linkedin.com/company/g42ai/about/",
+      "candidate_ids": [
+        "C002"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Abu Dhabi, UAE"
+    },
+    {
+      "id": "D003",
+      "title": "stc Group LinkedIn company About",
+      "url": "https://www.linkedin.com/company/stc/about/",
+      "candidate_ids": [
+        "C016"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Riyadh, Saudi Arabia"
+    },
+    {
+      "id": "D004",
+      "title": "Elm LinkedIn company About",
+      "url": "https://www.linkedin.com/company/elm/about/",
+      "candidate_ids": [
+        "C017"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Riyadh, Saudi Arabia"
+    },
+    {
+      "id": "D005",
+      "title": "SITE LinkedIn company About",
+      "url": "https://www.linkedin.com/company/sitesaudi/about/",
+      "candidate_ids": [
+        "C018"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Riyadh (Al Nakheel), Saudi Arabia"
+    },
+    {
+      "id": "D006",
+      "title": "Beyon LinkedIn company About",
+      "url": "https://www.linkedin.com/company/beyon-bh/about/",
+      "candidate_ids": [
+        "C023"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Hamala, Bahrain"
+    },
+    {
+      "id": "D007",
+      "title": "ServiceNow / ServiceNow Ventures LinkedIn company About",
+      "url": "https://www.linkedin.com/company/servicenow/about/",
+      "candidate_ids": [
+        "C027"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Santa Clara, California, US"
+    },
+    {
+      "id": "D008",
+      "title": "Okta Ventures LinkedIn company About",
+      "url": "https://www.linkedin.com/company/okta-inc-/about/",
+      "candidate_ids": [
+        "C030"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "San Francisco, California, US"
+    },
+    {
+      "id": "D009",
+      "title": "Entrust LinkedIn company About",
+      "url": "https://www.linkedin.com/company/entrust/about/",
+      "candidate_ids": [
+        "C032"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Minneapolis, Minnesota, US (company-listed headquarters)"
+    },
+    {
+      "id": "D010",
+      "title": "OneSpan LinkedIn company About",
+      "url": "https://www.linkedin.com/company/onespan/about/",
+      "candidate_ids": [
+        "C033"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Boston, Massachusetts, US"
+    },
+    {
+      "id": "D011",
+      "title": "Cisco Investments LinkedIn company About",
+      "url": "https://www.linkedin.com/company/cisco-investments/about/",
+      "candidate_ids": [
+        "C036"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "San Jose, California, US (Cisco Investments)"
+    },
+    {
+      "id": "D012",
+      "title": "UiPath LinkedIn company About",
+      "url": "https://www.linkedin.com/company/uipath/about/",
+      "candidate_ids": [
+        "C049"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "New York, New York, US"
+    },
+    {
+      "id": "D013",
+      "title": "Signicat LinkedIn company About",
+      "url": "https://www.linkedin.com/company/signicat/about/",
+      "candidate_ids": [
+        "C051"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Trondheim, Norway (company-profile location; headquarters field not displayed)"
+    },
+    {
+      "id": "D014",
+      "title": "Namirial LinkedIn company About",
+      "url": "https://www.linkedin.com/company/namirial/about/",
+      "candidate_ids": [
+        "C052"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Senigallia, Ancona, Italy"
+    },
+    {
+      "id": "D015",
+      "title": "Tinexta / Tinexta Trust LinkedIn company About",
+      "url": "https://www.linkedin.com/company/tinexta/about/",
+      "candidate_ids": [
+        "C053"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "D016",
+      "title": "Giesecke+Devrient LinkedIn company About",
+      "url": "https://www.linkedin.com/company/giesecke-devrient/about/",
+      "candidate_ids": [
+        "C058"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Munich, Germany (G+D parent)"
+    },
+    {
+      "id": "D017",
+      "title": "Thales LinkedIn company About",
+      "url": "https://www.linkedin.com/company/thales/about/",
+      "candidate_ids": [
+        "C060"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Meudon, France (Thales parent)"
+    },
+    {
+      "id": "D018",
+      "title": "Orange / Orange Ventures LinkedIn company About",
+      "url": "https://www.linkedin.com/company/orange/about/",
+      "candidate_ids": [
+        "C067"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Issy-les-Moulineaux, France (Orange parent)"
+    },
+    {
+      "id": "D019",
+      "title": "Five Elms Capital LinkedIn company About",
+      "url": "https://www.linkedin.com/company/five-elms-capital/about/",
+      "candidate_ids": [
+        "C098"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "Kansas City, Missouri, US"
+    },
+    {
+      "id": "D020",
+      "title": "Level Equity LinkedIn company About",
+      "url": "https://www.linkedin.com/company/level-equity/about/",
+      "candidate_ids": [
+        "C099"
+      ],
+      "accessed_at": "2026-10-02",
+      "scope": "Company identity and self-reported headquarters/location only; not legal investment entity or investment authority",
+      "review_status": "Authenticated company page read",
+      "location": "New York, New York, US"
+    }
+  ]
+}
