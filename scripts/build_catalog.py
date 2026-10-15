@@ -46,6 +46,9 @@ def render() -> tuple[str, str]:
             {
                 "id": record.id,
                 "kind": metadata.get("kind", ""),
+                "record_role": metadata.get("record_role") or None,
+                "master_id": metadata.get("master_id") or None,
+                "master_revision": int(metadata["master_revision"]) if metadata.get("master_revision", "").isdigit() else None,
                 "domain": metadata.get("domain", ""),
                 "topic": record.topic or None,
                 "tags": list(record.tags),

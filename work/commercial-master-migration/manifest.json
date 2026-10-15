@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "source_root": "/Users/josefneumann/Projects/ai-workspace/sales-repo/canonical",
+  "excluded": [
+    ".DS_Store",
+    "__pycache__/**"
+  ],
+  "entries": [
+    {
+      "relative": "Circularo Commercial Dictionary.md",
+      "sha256": "7f0bc64d33ec02b4acb80c527b1fd0e4bc029122645a3810752fb42bfb85de03",
+      "size": 5318,
+      "destination": "shared/master-documents/Circularo Commercial Dictionary.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "Circularo Commercial Model.md",
+      "sha256": "b4099531f4bbccae17bec1019e8b6e0684b17cedf4f8f0e901ae58214c554e53",
+      "size": 32680,
+      "destination": "shared/master-documents/Circularo Commercial Model.md",
+      "disposition": "Existing approved sales-system v1.9 retained; exact sales-repo original preserved as historical comparison",
+      "original_copy": "sources/archived-snapshots/sales-repo-commercial-model-original.md"
+    },
+    {
+      "relative": "Sales Hub.md",
+      "sha256": "044948b26307e45814e10793b0a5e5326676d0bee13395e6b1e3ac66564f1721",
+      "size": 7397,
+      "destination": "shared/master-documents/Sales Hub.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "TODO.md",
+      "sha256": "7d51da20a7128cc21fd9d67f2728054de9a8a3582f32b072d877787377bdfd05",
+      "size": 1329,
+      "destination": "shared/master-documents/TODO.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Internal Partner Price Book.md",
+      "sha256": "57b106d1a97c78ac45eabd391fe05ee63db951d657164274a1bdef4e10573d7c",
+      "size": 18223,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Internal Partner Price Book.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Deal Registration Guide.md",
+      "sha256": "1d6f3c0b51799a2b5c52fbdfb09b84a87d432ef0b4331208e1d4ae91be4b3d69",
+      "size": 7667,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Deal Registration Guide.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Pricing & Special Pricing Guide.md",
+      "sha256": "6fde5c1077623290cb604cc7a2cd0d375e0cb6fcd5c8eb5ac0ab9d1e91ff8505",
+      "size": 9267,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Pricing & Special Pricing Guide.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Pricing Strategy Architecture.md",
+      "sha256": "cbcd3d71feae6f7c3e66214caeb1cbc9a1d5a99d745d33e88e462dbfd818e00a",
+      "size": 13120,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Pricing Strategy Architecture.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Program FAQ.md",
+      "sha256": "11296ac62008da3bc4ce3ebeb16a744fb14fc5b0c0db7ad6146aec64a02f8ab1",
+      "size": 11446,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Program FAQ.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Program Guide.md",
+      "sha256": "e78801466715f1c67d15cb992a119982835874f581639aa399b46a76272dec93",
+      "size": 6797,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Guide.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Program Operations Guide.md",
+      "sha256": "e9436aab391882e42eb14b56a0e0060d6a186736de8a10cbf31700ac8ebf2a76",
+      "size": 8942,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Operations Guide.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo Partner Program Policy.md",
+      "sha256": "5510e26aaeb0b55267196d13223f181ffe792ec71a8ffa033aa75b15ca21c064",
+      "size": 14645,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Policy.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Circularo SaaS Partner Sales Catalog.md",
+      "sha256": "2bfe22fe81edddec35bf801d9f0e1a2191c95efdfea3ac081571dbc7672c006e",
+      "size": 22505,
+      "destination": "domains/partnerships/master-documents/partner-management/Circularo SaaS Partner Sales Catalog.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/README.md",
+      "sha256": "29f1eaf1cf64dc7dc3289f8bbdacf8a6a391ec7944cb6e82dc6a53b5f524228d",
+      "size": 10828,
+      "destination": "domains/partnerships/master-documents/partner-management/README.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/Selling Circularo SaaS as a Partner.md",
+      "sha256": "cd5cfb132fd2f2e4123cf616d73444105aabb9ef8d55cd265f228d562a19605d",
+      "size": 7625,
+      "destination": "domains/partnerships/master-documents/partner-management/Selling Circularo SaaS as a Partner.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/partner-facing-addon-pricelist-saas.csv",
+      "sha256": "ad17196d3be398a5baef0df0901957e80fa2d9177ffbddf7084086c315d403f1",
+      "size": 3405,
+      "destination": "domains/partnerships/master-documents/partner-management/partner-facing-addon-pricelist-saas.csv",
+      "disposition": "Copied without content changes; legacy build dependencies remain explicit"
+    },
+    {
+      "relative": "partner-management/partner-facing-price-list-saas.csv",
+      "sha256": "dd7eaeaca797ec6181590553f7899bb75ec9f15aaa0c6f3179231377d52e54bf",
+      "size": 1369,
+      "destination": "domains/partnerships/master-documents/partner-management/partner-facing-price-list-saas.csv",
+      "disposition": "Copied without content changes; legacy build dependencies remain explicit"
+    },
+    {
+      "relative": "partner-management/pricing-book/Circularo_Internal_Annual_Price_Book.xlsx",
+      "sha256": "f8b5554e6f2d22efd0a059e986a79d1e2d12828a05e0ae8101563ca267fe59f6",
+      "size": 92040,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/Circularo_Internal_Annual_Price_Book.xlsx",
+      "disposition": "Binary retained exactly; draft generated workbook, not approved pricing"
+    },
+    {
+      "relative": "partner-management/pricing-book/README.md",
+      "sha256": "437968b17e5f92b11a1baeaa62dc90cf788c365c35deec20ed7b21b0f729dbfb",
+      "size": 1908,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/README.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/pricing-book/build_price_book.py",
+      "sha256": "1416707c5fbac62241230b64037c873d2247d186e3b7b9af7529ebedb82c11bf",
+      "size": 45792,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/build_price_book.py",
+      "disposition": "Copied without content changes; legacy build dependencies remain explicit"
+    },
+    {
+      "relative": "partner-management/pricing-book/lessons-learned.md",
+      "sha256": "a12e92b4d3f3a36397e7b8ee54e56395034c1b9a7f7c9a7821e8e2af88e0b140",
+      "size": 2390,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/lessons-learned.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/pricing-book/plan.md",
+      "sha256": "c0031ec0a59efd50ceffcbccf031ea4d77165b40585ea3e5595364eea85e7e12",
+      "size": 16624,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/plan.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/pricing-book/technical-documentation.md",
+      "sha256": "8744c1cd9b8afd845293f9adaa4e577a14e1af17e62ca93ab2120ecc22102e54",
+      "size": 13649,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/technical-documentation.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "partner-management/pricing-book/user-manual.md",
+      "sha256": "74f2a7e7eff2965b88d8923c33c53d3c7b94800a63c0a9bc6f243fcf69f37e1f",
+      "size": 9660,
+      "destination": "domains/partnerships/master-documents/partner-management/pricing-book/user-manual.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/API Licensing FAQs.md",
+      "sha256": "a571a29fc66dc320600896b144500b036c38dd1344061ea6a1d1b1f50785afc7",
+      "size": 7573,
+      "destination": "shared/master-documents/sales-guidelines/API Licensing FAQs.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/API Licensing Principles.md",
+      "sha256": "66b3eff42ea2b7d955c198864c2c322865d7e38e21b00b28c0cae490556687ba",
+      "size": 6732,
+      "destination": "shared/master-documents/sales-guidelines/API Licensing Principles.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/API Pricing Recommendations.md",
+      "sha256": "a5c8275ed01d143d298933918b13849e607b38557ba0f32334ca472c95e81bb4",
+      "size": 7919,
+      "destination": "shared/master-documents/sales-guidelines/API Pricing Recommendations.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/Circularo Positioning Framework.md",
+      "sha256": "4094f08d21438bb24d30ba8c384f7c5a7e38cda003f62a0c286bf5884191c520",
+      "size": 3437,
+      "destination": "shared/master-documents/sales-guidelines/Circularo Positioning Framework.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/Circularo Sales DOs and DO NOTs.md",
+      "sha256": "ff35972ae6327a94e9c263661eef009b32ce6dc82a0163ed50dca27335bf25ed",
+      "size": 16138,
+      "destination": "shared/master-documents/sales-guidelines/Circularo Sales DOs and DO NOTs.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/README.md",
+      "sha256": "a2cf2a6557ecaf49b63802b2d74555abb28e573c543e7fbc5d24dc6100669d04",
+      "size": 2360,
+      "destination": "shared/master-documents/sales-guidelines/README.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/Selling Circularo  SaaS.md",
+      "sha256": "7a824c07c8130a5801521e919ff2d17767b2f89136d84d1822e09cf677728150",
+      "size": 5395,
+      "destination": "shared/master-documents/sales-guidelines/Selling Circularo  SaaS.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/Selling Circularo API Plans.md",
+      "sha256": "4c6f07165e288f8c5010ac1d50037ec9ddbc5c5570c08e265e6c8845d46167ec",
+      "size": 6125,
+      "destination": "shared/master-documents/sales-guidelines/Selling Circularo API Plans.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/Selling Sovereign Trust Solutions.md",
+      "sha256": "4b80317a0f4a26871fe24bf0bbf42cce2504cb43e91f945c011c354019cf771c",
+      "size": 6394,
+      "destination": "shared/master-documents/sales-guidelines/Selling Sovereign Trust Solutions.md",
+      "disposition": "Draft preserved; metadata and local links normalized"
+    },
+    {
+      "relative": "sales-guidelines/Why API is Sold Only with User-Based Subscriptions.md",
+      "sha256": "07bff5d98ddd545805be5e8e5e69290db15f01b5e6cfa585d17d3cf7201a8770",
+      "size": 4087,
+      "destination": "shared/master-documents/sales-guidelines/Why API is Sold Only with User-Based Subscriptions.md",
+      "disposition": "Source approval retained as provenance; reviewed pending confirmation of dates"
+    },
+    {
+      "source": "sources/archived-snapshots/Circularo Commercial Model.md",
+      "sha256": "7bbd98cdbf813cd5cdb0841519f6d0292b8cf83b079c832f32ff84dbb6c556ff",
+      "destination": "shared/master-documents/Circularo Commercial Model.md",
+      "disposition": "Approved master restored to active location; commercial body preserved apart from local links and conflict notice"
+    },
+    {
+      "source": "sources/archived-snapshots/Circularo Add-On Model and How it Works.md",
+      "sha256": "618799d4165edd2c75e040539af3d0ce3fccdf880547ea3facba5fc2b3e5efb6",
+      "destination": "shared/master-documents/Circularo Add-On Model and How it Works.md",
+      "disposition": "Approved master restored to active location; commercial body preserved apart from local links and conflict notice"
+    }
+  ],
+  "pending_dependencies": [
+    {
+      "source": "partner-management/README.md",
+      "reference": "../../wip/qtn-calculator/"
+    },
+    {
+      "source": "partner-management/pricing-book/technical-documentation.md",
+      "reference": "../../../catalog/unified-catalog/unified-pricing-book.csv"
+    }
+  ]
+}

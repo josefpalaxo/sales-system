@@ -46,6 +46,40 @@ def load_owner_ids(path: Path) -> set[str]:
     return owners
 
 
+def validate_master_dependencies(records) -> list[str]:
+    """Prevent structured representations from silently drifting past a master."""
+    errors: list[str] = []
+    by_id = {record.id: record for record in records}
+    for record in records:
+        metadata = record.metadata
+        role = metadata.get("record_role", "")
+        if role not in {"", "master", "derived"}:
+            errors.append(f"{record.path.relative_to(ROOT)}: invalid record_role '{role}'")
+        if role == "master" and metadata.get("kind") != "master-document":
+            errors.append(f"{record.path.relative_to(ROOT)}: master role requires master-document kind")
+        if role != "derived":
+            continue
+        relative = record.path.relative_to(ROOT)
+        master_id = metadata.get("master_id", "")
+        revision = metadata.get("master_revision", "")
+        if not master_id or not revision.isdigit() or int(revision) < 1:
+            errors.append(f"{relative}: derived records require master_id and positive master_revision")
+            continue
+        if ("derives_from", master_id) not in record.relations:
+            errors.append(f"{relative}: master_id must also appear in derives_from")
+        master = by_id.get(master_id)
+        if master is None:
+            errors.append(f"{relative}: unresolved master_id '{master_id}'")
+            continue
+        if master.metadata.get("record_role") != "master" or master.metadata.get("kind") != "master-document":
+            errors.append(f"{relative}: governing master must be a master-document with master role")
+        if revision != master.metadata.get("revision"):
+            errors.append(f"{relative}: master revision mismatch; reconcile against {master_id}")
+        if metadata.get("status") == "approved" and master.metadata.get("status") != "approved":
+            errors.append(f"{relative}: approved representation requires an approved governing master")
+    return errors
+
+
 def validate() -> list[str]:
     errors: list[str] = []
     try:
@@ -142,6 +176,8 @@ def validate() -> list[str]:
                 errors.append(
                     f"{relative}: slide-deck record requires same-basename PPTX '{deck_path.name}'"
                 )
+
+    errors.extend(validate_master_dependencies(records))
 
     known_ids = set(by_id)
     for record in records:

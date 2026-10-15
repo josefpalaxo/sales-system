@@ -7,11 +7,13 @@ Read `GOVERNANCE.md`, the relevant domain README, and any upstream records refer
 ## Add or change a record
 
 1. Identify the one authoritative record for the concept.
+   For a concept defined by an active master document, edit that master first and reconcile its derived representations. Preserve the master's approval boundaries and recorded conflicts; do not change policy only in a structured record.
 2. Create or update typed Markdown with the common metadata envelope.
 3. Use stable IDs in relations; do not copy upstream facts.
 4. Add source locators and preserve evidence state.
 5. Check reverse dependencies in `generated/dependency-graph.json`.
 6. Update affected consumers or document why no change is required.
+   Derived records must identify their governing master through `derives_from`, `master_id`, and `master_revision`. Advance the referenced revision only after the representation has been reconciled with that master.
 7. Run:
 
    ```bash

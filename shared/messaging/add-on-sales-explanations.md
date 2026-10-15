@@ -5,7 +5,7 @@ kind: message
 domain: shared
 title: Sales Explanations for Add-On Types
 status: approved
-revision: 1
+revision: 2
 classification: internal
 owner: role:cso
 last_reviewed: 2026-08-28
@@ -13,7 +13,12 @@ review_by: 2027-02-24
 sources:
   - ref: source:add-on-model-2026
     locator: "Sales-ready explanations"
+record_role: derived
+master_id: master:add-on-model
+master_revision: 1
 relations:
+  derives_from:
+    - master:add-on-model
   based_on:
     - source:add-on-model-2026
   constrained_by:

@@ -13,7 +13,12 @@ review_by: 2026-11-25
 sources:
   - ref: source:commercial-model-2026
     locator: "Commercial-model source and the latest WIP deck selected during repository migration"
+record_role: derived
+master_id: master:commercial-model
+master_revision: 1
 relations:
+  derives_from:
+    - master:commercial-model
   based_on:
     - source:commercial-model-2026
 spec:

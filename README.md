@@ -14,6 +14,8 @@ Governed binary artifacts live in topic folders under `shared/assets/` or `domai
 
 Agents and humans must treat only current, approved records as canonical. Draft, reviewed, expired, or conflicted material must remain visibly qualified.
 
+Full active master documents are the business authority for their approved scopes. Smaller structured records are derived representations for agent use. Start with the [master document library](shared/master-documents/README.md), including the Commercial Model and Add-On Model; use the [partner document library](domains/partnerships/master-documents/README.md) for the imported partner program, pricing, and enablement material.
+
 ## Start here
 
 1. Read [GOVERNANCE.md](GOVERNANCE.md).
@@ -23,16 +25,16 @@ Agents and humans must treat only current, approved records as canonical. Draft,
 
 ## Current state
 
-This is the initial repository foundation. It includes:
+The repository includes:
 
 - shared and domain-extensible information architecture;
 - governance, ownership, lifecycle, evidence, and conflict rules;
-- a source register and archived input snapshots;
+- active master documents, a source register, and historical input snapshots;
 - initial records for the known commercial-model conflicts;
 - deterministic structural validation and a generated catalogue; and
-- initial domain definitions for direct sales and partnerships, without replicated content scaffolding.
+- domain definitions for direct sales and partnerships, with imported partner-program documents retaining their draft limitations.
 
-The commercial model has not yet been fully decomposed into plans, editions, add-ons, and entitlement records.
+The Commercial Model and Add-On Model remain active full master documents. Structured commercial records support agent use and track the master revisions they represent. Importing the remaining sales-repo documents does not approve draft prices, programs, or external content. See the [migration report](work/commercial-master-migration/README.md) for coverage, differences, and dependencies still to migrate.
 
 ## Key documents
 

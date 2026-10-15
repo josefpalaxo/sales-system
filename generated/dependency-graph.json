@@ -1,83 +1,102 @@
 {
   "dependencies": {
     "add-on-model:commercial-rails": [
+      "master:add-on-model",
       "source:add-on-model-2026",
       "add-on-model:types"
     ],
     "add-on-model:types": [
+      "master:add-on-model",
       "source:add-on-model-2026",
       "add-on-model:commercial-rails"
     ],
     "commercial-model:sales-layers": [
+      "master:commercial-model",
       "source:commercial-model-2026"
     ],
     "commercial-rule:add-on-plan-eligibility": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:api-access"
     ],
     "commercial-rule:add-on-policy-flags": [
+      "master:add-on-model",
       "source:add-on-model-2026"
     ],
     "commercial-rule:add-on-principles": [
+      "master:add-on-model",
       "source:add-on-model-2026",
       "add-on-model:commercial-rails",
       "commercial-rule:api-access"
     ],
     "commercial-rule:add-on-scopes": [
+      "master:add-on-model",
       "source:add-on-model-2026",
       "conflict:add-on-workspace-scope"
     ],
     "commercial-rule:api-access": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:automated-transactions",
       "commercial-rule:add-on-plan-eligibility"
     ],
     "commercial-rule:automated-transactions": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "decision:transaction-based-automation-entitlement"
     ],
     "commercial-rule:bulk-signing": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "subscription-model:user-based",
       "subscription-model:transaction-based"
     ],
     "commercial-rule:manual-transactions": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:automated-transactions"
     ],
     "commercial-rule:sandbox-environments": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:api-access"
     ],
     "commercial-rule:subscription-inclusions-exclusions": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:transactional-document-storage",
       "commercial-rule:automated-transactions"
     ],
     "commercial-rule:subscription-plan-eligibility": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "subscription-model:user-based",
       "subscription-model:transaction-based"
     ],
     "commercial-rule:transaction-fair-use": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:user-transaction-allowances"
     ],
     "commercial-rule:transactional-document-storage": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "decision:transactional-document-storage-fair-use"
     ],
     "commercial-rule:user-transaction-allowances": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "subscription-model:user-based",
       "commercial-rule:transaction-fair-use",
       "commercial-rule:automated-transactions"
     ],
     "commercial-rule:user-types": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "subscription-model:user-based"
     ],
     "company:circularo": [
+      "master:commercial-model",
       "source:commercial-model-2026"
     ],
     "conflict:add-on-workspace-scope": [
@@ -91,6 +110,12 @@
       "source:commercial-model-2026",
       "decision:transactional-document-storage-fair-use"
     ],
+    "decision:master-document-authority": [
+      "source:commercial-model-2026",
+      "source:add-on-model-2026",
+      "master:commercial-model",
+      "master:add-on-model"
+    ],
     "decision:transaction-based-automation-entitlement": [
       "subscription-model:transaction-based",
       "commercial-rule:automated-transactions",
@@ -101,13 +126,48 @@
       "conflict:transactional-document-storage-limits"
     ],
     "deck:trusted-execution-commercial-model": [
+      "master:commercial-model",
       "source:commercial-model-2026"
     ],
     "deck:unified-sovereign-trust-platform": [],
     "edition-model:plan-edition-deployment": [
+      "master:commercial-model",
       "source:commercial-model-2026"
     ],
+    "master:add-on-model": [
+      "conflict:add-on-workspace-scope"
+    ],
+    "master:circularo-commercial-dictionary": [],
+    "master:commercial-model": [
+      "master:add-on-model"
+    ],
+    "master:partner-management-circularo-internal-partner-price-book": [],
+    "master:partner-management-circularo-partner-deal-registration-guide": [],
+    "master:partner-management-circularo-partner-pricing-special-pricing-guide": [],
+    "master:partner-management-circularo-partner-pricing-strategy-architecture": [],
+    "master:partner-management-circularo-partner-program-faq": [],
+    "master:partner-management-circularo-partner-program-guide": [],
+    "master:partner-management-circularo-partner-program-operations-guide": [],
+    "master:partner-management-circularo-partner-program-policy": [],
+    "master:partner-management-circularo-saas-partner-sales-catalog": [],
+    "master:partner-management-pricing-book-lessons-learned": [],
+    "master:partner-management-pricing-book-plan": [],
+    "master:partner-management-pricing-book-technical-documentation": [],
+    "master:partner-management-pricing-book-user-manual": [],
+    "master:partner-management-selling-circularo-saas-as-a-partner": [],
+    "master:sales-guidelines-api-licensing-faqs": [],
+    "master:sales-guidelines-api-licensing-principles": [],
+    "master:sales-guidelines-api-pricing-recommendations": [],
+    "master:sales-guidelines-circularo-positioning-framework": [],
+    "master:sales-guidelines-circularo-sales-dos-and-do-nots": [],
+    "master:sales-guidelines-selling-circularo-api-plans": [],
+    "master:sales-guidelines-selling-circularo-saas": [],
+    "master:sales-guidelines-selling-sovereign-trust-solutions": [],
+    "master:sales-guidelines-why-api-is-sold-only-with-user-based-subscriptions": [],
+    "master:sales-hub": [],
+    "master:todo": [],
     "message:add-on-type-explanations": [
+      "master:add-on-model",
       "source:add-on-model-2026",
       "add-on-model:types",
       "add-on-model:commercial-rails"
@@ -115,24 +175,30 @@
     "source:add-on-model-2026": [],
     "source:commercial-model-2026": [],
     "source:repository-architecture-brief": [],
+    "source:sales-repo-canonical": [],
     "subscription-model:dms-only": [
+      "master:commercial-model",
       "source:commercial-model-2026"
     ],
     "subscription-model:structure": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-model:sales-layers"
     ],
     "subscription-model:transaction-based": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "decision:transaction-based-automation-entitlement"
     ],
     "subscription-model:user-based": [
+      "master:commercial-model",
       "source:commercial-model-2026",
       "commercial-rule:user-transaction-allowances",
       "commercial-rule:automated-transactions",
       "commercial-rule:subscription-plan-eligibility"
     ],
     "support-model:plans-and-services": [
+      "master:commercial-model",
       "source:commercial-model-2026"
     ]
   },
@@ -249,6 +315,10 @@
       {
         "target": "commercial-rule:add-on-scopes",
         "type": "constrains"
+      },
+      {
+        "target": "master:add-on-model",
+        "type": "constrains"
       }
     ],
     "conflict:automated-transactions-inclusion": [
@@ -287,7 +357,135 @@
         "type": "supports"
       }
     ],
+    "master:add-on-model": [
+      {
+        "target": "decision:master-document-authority",
+        "type": "applied_by"
+      },
+      {
+        "target": "add-on-model:commercial-rails",
+        "type": "derived_by"
+      },
+      {
+        "target": "add-on-model:types",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:add-on-policy-flags",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:add-on-principles",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:add-on-scopes",
+        "type": "derived_by"
+      },
+      {
+        "target": "message:add-on-type-explanations",
+        "type": "derived_by"
+      },
+      {
+        "target": "master:commercial-model",
+        "type": "related_to"
+      }
+    ],
+    "master:commercial-model": [
+      {
+        "target": "decision:master-document-authority",
+        "type": "applied_by"
+      },
+      {
+        "target": "commercial-model:sales-layers",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:add-on-plan-eligibility",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:api-access",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:automated-transactions",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:bulk-signing",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:manual-transactions",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:sandbox-environments",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:subscription-inclusions-exclusions",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:subscription-plan-eligibility",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:transaction-fair-use",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:transactional-document-storage",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:user-transaction-allowances",
+        "type": "derived_by"
+      },
+      {
+        "target": "commercial-rule:user-types",
+        "type": "derived_by"
+      },
+      {
+        "target": "company:circularo",
+        "type": "derived_by"
+      },
+      {
+        "target": "deck:trusted-execution-commercial-model",
+        "type": "derived_by"
+      },
+      {
+        "target": "edition-model:plan-edition-deployment",
+        "type": "derived_by"
+      },
+      {
+        "target": "subscription-model:dms-only",
+        "type": "derived_by"
+      },
+      {
+        "target": "subscription-model:structure",
+        "type": "derived_by"
+      },
+      {
+        "target": "subscription-model:transaction-based",
+        "type": "derived_by"
+      },
+      {
+        "target": "subscription-model:user-based",
+        "type": "derived_by"
+      },
+      {
+        "target": "support-model:plans-and-services",
+        "type": "derived_by"
+      }
+    ],
     "source:add-on-model-2026": [
+      {
+        "target": "decision:master-document-authority",
+        "type": "applied_by"
+      },
       {
         "target": "add-on-model:commercial-rails",
         "type": "supports"
@@ -318,6 +516,10 @@
       }
     ],
     "source:commercial-model-2026": [
+      {
+        "target": "decision:master-document-authority",
+        "type": "applied_by"
+      },
       {
         "target": "commercial-model:sales-layers",
         "type": "supports"
@@ -489,7 +691,8 @@
       "subscription-model:user-based"
     ],
     "conflict:add-on-workspace-scope": [
-      "commercial-rule:add-on-scopes"
+      "commercial-rule:add-on-scopes",
+      "master:add-on-model"
     ],
     "conflict:automated-transactions-inclusion": [
       "decision:transaction-based-automation-entitlement"
@@ -506,6 +709,40 @@
       "commercial-rule:transactional-document-storage",
       "conflict:transactional-document-storage-limits"
     ],
+    "master:add-on-model": [
+      "add-on-model:commercial-rails",
+      "add-on-model:types",
+      "commercial-rule:add-on-policy-flags",
+      "commercial-rule:add-on-principles",
+      "commercial-rule:add-on-scopes",
+      "decision:master-document-authority",
+      "master:commercial-model",
+      "message:add-on-type-explanations"
+    ],
+    "master:commercial-model": [
+      "commercial-model:sales-layers",
+      "commercial-rule:add-on-plan-eligibility",
+      "commercial-rule:api-access",
+      "commercial-rule:automated-transactions",
+      "commercial-rule:bulk-signing",
+      "commercial-rule:manual-transactions",
+      "commercial-rule:sandbox-environments",
+      "commercial-rule:subscription-inclusions-exclusions",
+      "commercial-rule:subscription-plan-eligibility",
+      "commercial-rule:transaction-fair-use",
+      "commercial-rule:transactional-document-storage",
+      "commercial-rule:user-transaction-allowances",
+      "commercial-rule:user-types",
+      "company:circularo",
+      "decision:master-document-authority",
+      "deck:trusted-execution-commercial-model",
+      "edition-model:plan-edition-deployment",
+      "subscription-model:dms-only",
+      "subscription-model:structure",
+      "subscription-model:transaction-based",
+      "subscription-model:user-based",
+      "support-model:plans-and-services"
+    ],
     "source:add-on-model-2026": [
       "add-on-model:commercial-rails",
       "add-on-model:types",
@@ -513,6 +750,7 @@
       "commercial-rule:add-on-principles",
       "commercial-rule:add-on-scopes",
       "conflict:add-on-workspace-scope",
+      "decision:master-document-authority",
       "message:add-on-type-explanations"
     ],
     "source:commercial-model-2026": [
@@ -532,6 +770,7 @@
       "company:circularo",
       "conflict:automated-transactions-inclusion",
       "conflict:transactional-document-storage-limits",
+      "decision:master-document-authority",
       "deck:trusted-execution-commercial-model",
       "edition-model:plan-edition-deployment",
       "subscription-model:dms-only",
