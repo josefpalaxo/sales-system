@@ -13,7 +13,10 @@ from pathlib import Path, PurePosixPath
 import re
 import shutil
 import subprocess
+from tempfile import NamedTemporaryFile
 from urllib.parse import unquote, urlsplit
+
+import diagrams
 
 SKILL = Path(__file__).resolve().parent.parent
 MARKER = '<meta name="generator" content="markdown-html-pack">'
@@ -53,6 +56,36 @@ def literal_raw_nodes(value):
     if isinstance(value, list):
         return [literal_raw_nodes(item) for item in value]
     return value
+
+
+def extract_diagrams(ast, doc, jobs):
+    """Replace only Pandoc Mermaid code blocks, after neutralizing source HTML."""
+    heading, number, cursor = doc.name, 0, 0
+    normalized = doc.markdown.replace('\r\n', '\n').replace('\r', '\n')
+
+    def walk(value):
+        nonlocal heading, number, cursor
+        if isinstance(value, dict):
+            if value.get('t') == 'Header':
+                heading = meta_text({'t': 'MetaInlines', 'c': value['c'][2]})
+            if value.get('t') == 'CodeBlock' and 'mermaid' in [c.lower() for c in value['c'][0][1]]:
+                number += 1
+                source = value['c'][1]
+                position = normalized.find(source, cursor)
+                line = normalized.count('\n', 0, position) + 1 if position >= 0 else None
+                cursor = position + len(source) if position >= 0 else cursor
+                location = f'{doc.path}: diagram {number}' + (f' (line {line})' if line else '')
+                diagrams.check_source(source, location)
+                index = len(jobs)
+                jobs.append({'source': source, 'location': location,
+                             'caption': f'{heading} — diagram {number}'})
+                return {'t': 'RawBlock', 'c': ['html', f'<span data-pack-diagram="{index}"></span>']}
+            return {key: walk(item) for key, item in value.items()}
+        if isinstance(value, list):
+            return [walk(item) for item in value]
+        return value
+
+    return walk(ast)
 
 
 @dataclass
@@ -215,7 +248,7 @@ def build(args):
         raise ValueError("Local Pandoc is required; the output itself has no runtime dependencies")
     groups = order_documents(documents, config)
     documents = [doc for _, items in groups for doc in items]
-    identifiers = set()
+    identifiers, diagram_jobs = set(), []
     for doc in documents:
         doc.markdown = doc.path.read_bytes().decode("utf-8")
         ast = json.loads(subprocess.run([pandoc, "--from=gfm+yaml_metadata_block-raw_html", "--to=json"], input=doc.markdown, text=True, capture_output=True, check=True).stdout)
@@ -224,7 +257,8 @@ def build(args):
         review = meta_text(metadata.get("review_due")) or meta_text(metadata.get("review_date"))
         if review:
             doc.status += (" · " if doc.status else "") + "Review: " + review
-        doc.raw_html = subprocess.run([pandoc, "--from=json", "--to=html5", "--wrap=none"], input=json.dumps(literal_raw_nodes(ast)), text=True, capture_output=True, check=True).stdout
+        safe_ast = extract_diagrams(literal_raw_nodes(ast), doc, diagram_jobs)
+        doc.raw_html = subprocess.run([pandoc, "--from=json", "--to=html5", "--wrap=none"], input=json.dumps(safe_ast), text=True, capture_output=True, check=True).stdout
         first_heading = re.search(r"<h[1-6][^>]*>(.*?)</h[1-6]>", doc.raw_html, re.S)
         heading_label = unescape(re.sub(r"<[^>]+>", "", first_heading[1])) if first_heading else ""
         doc.label = doc.label or meta_text(metadata.get("title")) or heading_label or Path(doc.name).stem
@@ -233,6 +267,7 @@ def build(args):
         if not re.fullmatch(r"[a-zA-Z][a-zA-Z0-9_-]*", doc.identifier) or doc.identifier in identifiers:
             raise ValueError("Document IDs must be unique simple identifiers: " + doc.identifier)
         identifiers.add(doc.identifier)
+    figures = diagrams.render(diagram_jobs)
     ids = {doc.path: doc.identifier for doc in documents}
     valid_ids = set(identifiers)
     for doc in documents:
@@ -242,6 +277,7 @@ def build(args):
         renderer = Fragment(doc, ids, valid_ids, roots, exclude, warnings)
         renderer.feed(doc.raw_html)
         rendered = "".join(renderer.parts)
+        rendered = re.sub(r'<span data-pack-diagram="(\d+)"></span>', lambda match: figures[int(match[1])], rendered)
         headings = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', rendered, flags=re.S)
         toc = "".join(f'<li><a href="#{identifier}">{title}</a></li>' for identifier, title in headings)
         contents = '<details class="section-contents"><summary>On this page</summary><ul>' + toc + '</ul></details>' if toc else ""
@@ -272,12 +308,16 @@ def build(args):
     template = (SKILL / "assets" / "template.html").read_text(encoding="utf-8")
     result = re.sub(r"__([A-Z_]+)__", lambda match: values[match[1]], template)
     output.parent.mkdir(parents=True, exist_ok=True)
-    temporary = output.with_suffix(".html.tmp")
+    temporary = None
     try:
-        temporary.write_text(result, encoding="utf-8")
+        with NamedTemporaryFile(mode='w', encoding='utf-8', dir=output.parent,
+                                prefix='.' + output.name + '-', suffix='.tmp', delete=False) as handle:
+            temporary = Path(handle.name)
+            handle.write(result)
         temporary.replace(output)
     finally:
-        temporary.unlink(missing_ok=True)
+        if temporary:
+            temporary.unlink(missing_ok=True)
     print(f"Built {output}: {len(documents)} documents, {output.stat().st_size:,} bytes. No external assets.")
     if warnings:
         print(f"Marked {len(warnings)} omitted or unresolved references:")

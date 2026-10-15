@@ -10,6 +10,8 @@ import subprocess
 import sys
 from tempfile import TemporaryDirectory
 import unittest
+import re
+import xml.etree.ElementTree as ET
 
 GENERATOR = Path(__file__).resolve().parent.parent / "scripts/build.py"
 PIXEL = base64.b64decode("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+aL1sAAAAASUVORK5CYII=")
@@ -145,6 +147,103 @@ class BuildTests(unittest.TestCase):
         inspected = Inspect(self.output.read_text())
         self.assertEqual(len(inspected.scripts), 3)
         self.assertEqual(next(iter(json.loads(inspected.data["source-data"]).values()))["markdown"], raw)
+
+    def test_multiple_mermaid_types_links_and_exact_source(self):
+        raw = ('\ufeff---\r\nstatus: draft\r\nclassification: confidential\r\n---\r\n'
+               '# Diagrams\r\n\r\n[Other](other.md#details)\r\n\r\n'
+               '## Ownership\r\n\r\n```mermaid\r\nflowchart TB\r\n'
+               'accTitle: Proposed ownership\r\naccDescr: Two owners supply the company.\r\n'
+               'A["First owner\\nProposed"] -->|67%| B[Company]\r\n```\r\n\r\n'
+               '```mermaid\r\ngraph LR\r\nA[Start] --> B[Finish]\r\n```\r\n\r\n'
+               '```mermaid\r\nsequenceDiagram\r\nparticipant A as Seller\r\n'
+               'participant B as Buyer\r\nA->>B: Draft offer\r\nB-->>A: Review\r\n```\r\n')
+        path = self.source('diagrams.md', raw)
+        self.source('other.md', '# Other\n\n## Details\n\n[Back](diagrams.md#ownership)\n')
+        self.run_build()
+        html = self.output.read_text()
+        inspected = Inspect(html)
+        sources = json.loads(inspected.data['source-data'])
+        source = next(s for s in sources.values() if s['name'] == 'diagrams.md')
+        self.assertEqual(source['markdown'].encode('utf-8'), path.read_bytes())
+        self.assertEqual(source['sha256'], sha256(path.read_bytes()).hexdigest())
+        self.assertEqual(len(inspected.assets), 3)
+        all_ids = []
+        for asset in inspected.assets:
+            self.assertTrue(asset.startswith('data:image/svg+xml;base64,'))
+            svg = ET.fromstring(base64.b64decode(asset.split(',', 1)[1]))
+            self.assertGreater(float(svg.get('width')), 0)
+            self.assertIn('viewBox', svg.attrib)
+            svg_ids = [e.get('id') for e in svg.iter() if e.get('id')]
+            all_ids.extend(svg_ids)
+            for element in svg.iter():
+                self.assertNotIn(element.tag.split('}')[-1], {'script', 'foreignObject', 'a', 'image'})
+                for value in element.attrib.values():
+                    for ref in re.findall(r'url\(#([^)]*)\)', value):
+                        self.assertIn(ref, svg_ids)
+            self.assertTrue(any(e.tag.endswith('text') for e in svg.iter()))
+        self.assertEqual(len(all_ids), len(set(all_ids)))
+        self.assertEqual(len(inspected.scripts), 3)
+        self.assertEqual(html.count('<summary>Inspect Mermaid source</summary>'), 3)
+        self.assertIn('Two owners supply the company.', html)
+        self.assertIn('data-diagram-copy', html)
+        self.assertNotRegex(html, r'<(?:script|link)[^>]+(?:src|href)=')
+        self.assertNotRegex(html, r'@import|url\(https?://')
+        for link in inspected.links:
+            if link.startswith('#'):
+                self.assertIn(link[1:], inspected.ids)
+
+    def test_invalid_mermaid_diagnostics_and_atomic_preservation(self):
+        path = self.source('broken.md', '# Working\n')
+        self.run_build()
+        previous = self.output.read_bytes()
+        path.write_text('# Broken\n\n## Diagram\n\n```mermaid\nflowchart TB\nA[unclosed\n```\n')
+        result = self.run_build(success=False)
+        self.assertIn(str(path), result.stderr)
+        self.assertIn('diagram 1 (line 6)', result.stderr)
+        self.assertIn('Parse error', result.stderr)
+        self.assertEqual(self.output.read_bytes(), previous)
+        self.assertEqual(list(self.output.parent.glob('*.tmp')), [])
+
+    def test_mermaid_security_inputs_fail_closed(self):
+        self.source('source.md', '# Safe\n')
+        self.run_build()
+        previous = self.output.read_bytes()
+        payloads = [
+            '%%{init: {"securityLevel":"loose"}}%%\nflowchart TB\nA-->B',
+            '---\nconfig:\n  securityLevel: loose\n---\nflowchart TB\nA-->B',
+            'flowchart TB\nA["<img src=https://example.com/pixel>"]',
+            'flowchart TB\nA["<script>alert(1)</script>"]',
+            'flowchart TB\nA["&lt;img src=x&gt;"]',
+            'flowchart TB\nA["#60;img src=x#62;"]',
+            'flowchart TB\nA-->B\nclick A "https://example.com"',
+            'flowchart TB\nA-->B\nclick A callback',
+            'sequenceDiagram\nparticipant A\nlink A: Visit @ https://example.com',
+            'flowchart TB\nA-->B\nclassDef default fill:url(https://example.com/pixel)',
+            'flowchart TB\nA@{ img: "https://example.com/pixel" }',
+            'flowchart TB\nA["javascript:alert(1)"]',
+            'pie\n"Unsupported": 10',
+        ]
+        for payload in payloads:
+            with self.subTest(payload=payload):
+                self.source('source.md', '# Source\n\n```mermaid\n' + payload + '\n```\n')
+                result = self.run_build(success=False)
+                self.assertIn('source.md: diagram 1', result.stderr)
+                self.assertEqual(self.output.read_bytes(), previous)
+
+    def test_svg_sanitizer_rejects_active_or_remote_output(self):
+        sys.path.insert(0, str(GENERATOR.parent))
+        from diagrams import sanitize_svg
+        payloads = [
+            '<script>alert(1)</script>', '<foreignObject><div>HTML</div></foreignObject>',
+            '<image href="https://example.com/pixel"/>',
+            '<path onload="alert(1)"/>', '<a href="https://example.com">link</a>',
+            '<style>@import "https://example.com/font";</style>',
+            '<path fill="url(https://example.com/pixel)"/>',
+            '<path marker-end="url(#missing)"/>', '<g id="same"/><g id="same"/>',
+        ]
+        for payload in payloads:
+            with self.subTest(payload=payload), self.assertRaises(ValueError):
+                sanitize_svg('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">' + payload + '</svg>', 'test')
 
 
 if __name__ == "__main__":

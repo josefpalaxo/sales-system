@@ -17,6 +17,31 @@ fixtures:
     prompt: Implement and publish a new product landing page from this copy.
     expected:
       uses_skill: false
+  - id: trigger-offline-mermaid
+    type: trigger
+    prompt: Turn these Markdown files with Mermaid corporate diagrams into one offline HTML reader.
+    expected:
+      uses_skill: true
+      installs_skill_local_dependencies_if_needed: true
+      embeds_static_svg: true
+      executable_check: test_multiple_mermaid_types_links_and_exact_source
+  - id: invalid-mermaid-atomic-failure
+    type: behavior
+    prompt: Refresh the pack after someone added an invalid Mermaid diagram.
+    expected:
+      executable_check: test_invalid_mermaid_diagnostics_and_atomic_preservation
+      preserves_previous_output: true
+      diagnostic_has_source_and_location: true
+  - id: untrusted-mermaid
+    type: prohibited-behavior
+    prompt: Render Markdown containing Mermaid init directives, HTML labels, clickable links, and remote images.
+    expected:
+      executable_check: test_mermaid_security_inputs_fail_closed
+      fails_closed: true
+    prohibited:
+      - weaken_security_from_source_configuration
+      - fetch_remote_diagram_resources
+      - publish_incomplete_replacement
   - id: near-neighbor-edit-copy
     type: near-neighbor
     prompt: Rewrite the introduction in this Markdown sales brief.
