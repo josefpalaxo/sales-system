@@ -1,0 +1,16 @@
+# Personal references stay local and are never packaging inputs.
+.work/
+
+# Generated bundles and verification artefacts stay local.
+*.xml
+archive/qa/
+
+# Local application artefacts.
+node_modules/
+dist/
+.cache/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example

@@ -1,0 +1,117 @@
+import assert from 'node:assert/strict';
+import {pathToFileURL} from 'node:url';
+import puppeteer from 'puppeteer-core';
+import {existsSync} from 'node:fs';
+
+const executablePath = process.env.MARKDOWN_HTML_PACK_CHROME || [
+  '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+  '/usr/bin/chromium', '/usr/bin/chromium-browser', '/usr/bin/google-chrome'
+].find(existsSync);
+const browser = await puppeteer.launch({executablePath, headless: true});
+try {
+  const page = await browser.newPage();
+  await page.setOfflineMode(true);
+  const errors = [];
+  page.on('pageerror', error => errors.push(error.message));
+  const url = pathToFileURL(process.argv[2]).href;
+  await page.goto(url);
+  const sources = await page.$eval('#source-data', el => JSON.parse(el.textContent));
+  const nested = Object.entries(sources).find(([, source]) => source.name === 'company/nested/brief.md')[0];
+  const root = 'details[data-folder="."]';
+  const company = 'details[data-folder="company"]';
+  const deep = 'details[data-folder="company/nested"]';
+  const toggle = '#toggle-sidebar';
+  const currentDocument = async () => page.$eval('.document:not([hidden])', el => el.id);
+  const sidebarVisible = async () => page.$eval('#document-sidebar', el => getComputedStyle(el).display !== 'none');
+  const home = await currentDocument();
+  assert.equal(await page.$eval(root, el => el.open), true);
+  assert.equal(await page.$eval(company, el => el.open), false);
+  assert.equal(await page.$eval(company, el => el.parentElement.closest('.nav-group') === null), true);
+  await page.click(root + '>summary');
+  assert.equal(await page.$eval(root, el => el.open), false);
+  assert.equal(await page.$eval(company + '>summary', el => el.getBoundingClientRect().height > 0), true);
+  assert.equal(await page.$eval('#read-all', el => el.parentElement.classList.contains('top-actions')), true);
+  assert.equal(await page.$eval('#print-pack', el => el.parentElement.classList.contains('top-actions')), true);
+  assert.equal(await page.$('.reader-head'), null);
+  assert.equal(await sidebarVisible(), true);
+  const initialWidth = await page.$eval('main', el => el.getBoundingClientRect().width);
+  await page.focus(toggle);
+  await page.keyboard.press('Enter');
+  assert.equal(await sidebarVisible(), false);
+  assert.equal(await page.$eval(toggle, el => el.textContent), 'Show sidebar');
+  assert.equal(await page.$eval(toggle, el => el.getAttribute('aria-expanded')), 'false');
+  assert(await page.$eval('main', el => el.getBoundingClientRect().width) > initialWidth);
+  assert.equal(await currentDocument(), home);
+  await page.click('#read-all');
+  assert.equal(await page.$$eval('.document:not([hidden])', els => els.length), Object.keys(sources).length);
+  assert.equal(await page.$eval('#read-all', el => el.textContent), 'Read one');
+  await page.click('#read-all');
+  assert.equal(await currentDocument(), home);
+  assert.equal(await sidebarVisible(), false);
+  await page.evaluate(() => { window.printCalls = 0; window.print = () => window.printCalls++; });
+  await page.click('#print-pack');
+  assert.equal(await page.evaluate(() => window.printCalls), 1);
+  await page.keyboard.press('/');
+  assert.equal(await sidebarVisible(), true);
+  assert.equal(await page.$eval('#document-search', el => el === document.activeElement), true);
+  if (await page.$eval(root, el => el.open)) await page.click(root + '>summary');
+  await page.click(company + '>summary');
+  assert.equal(await page.$eval(company, el => el.open), true);
+  await page.focus(company + '>summary');
+  await page.keyboard.press('Space');
+  assert.equal(await page.$eval(company, el => el.open), false);
+  await page.keyboard.press('Enter');
+  assert.equal(await page.$eval(company, el => el.open), true);
+  assert.equal(await page.$eval(deep, el => el.open), false);
+  await page.click(company + '>summary');
+  await page.type('#document-search', 'UniqueNavigatorTerm');
+  await page.click('#result-list a');
+  for (const folder of [company, deep]) assert.equal(await page.$eval(folder, el => el.open), true);
+  assert.equal(await page.$eval(root, el => el.open), false);
+  assert.equal(await page.$eval(`.document-link[data-document="${nested}"]`, el => el.getAttribute('aria-current')), 'page');
+  await page.goto('about:blank');
+  await page.goto(url + '#' + nested);
+  for (const folder of [company, deep]) assert.equal(await page.$eval(folder, el => el.open), true);
+  assert.equal(await page.$eval(root, el => el.open), false);
+  assert.equal(await page.$eval('#' + nested, el => el.hidden), false);
+  assert.equal(await page.$eval('details[data-folder="product"]', el => el.open), false);
+  assert.equal(await page.$eval(company + '>summary', el => parseFloat(getComputedStyle(el).fontSize)), 16);
+  for (const width of [390, 320]) {
+    await page.setViewport({width, height: 844});
+    await page.waitForFunction(() => document.querySelector('#toggle-sidebar').textContent === 'Browse');
+    assert.equal(await sidebarVisible(), false);
+    if (await page.$eval('.menu-toggle', el => el.getAttribute('aria-expanded')) === 'false') await page.click('.menu-toggle');
+    await page.click(company + '>summary');
+    assert.equal(await page.$eval(company, el => el.open), false);
+    await page.focus(company + '>summary');
+    await page.keyboard.press('Space');
+    assert.equal(await page.$eval(company, el => el.open), true);
+    assert(await page.$eval(company + '>summary', el => el.getBoundingClientRect().height) >= 44);
+    assert.equal(await page.$eval('.wordmark', el => {
+      const range = document.createRange();
+      range.selectNodeContents(el);
+      return range.getClientRects().length;
+    }), 1);
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1), false);
+    const rows = await page.$$eval('.top-actions button', els => els.map(el => Math.round(el.getBoundingClientRect().top)));
+    assert.equal(new Set(rows).size, 1);
+    await page.keyboard.press('Escape');
+    assert.equal(await sidebarVisible(), false);
+    assert.equal(await page.$eval(toggle, el => el === document.activeElement), true);
+    await page.keyboard.press('/');
+    assert.equal(await sidebarVisible(), true);
+    await page.click(`.document-link[data-document="${nested}"]`);
+    assert.equal(await sidebarVisible(), false);
+    assert.equal(await currentDocument(), nested);
+  }
+  assert.deepEqual(errors, []);
+  await page.setViewport({width: 1280, height: 900});
+  await page.setJavaScriptEnabled(false);
+  await page.goto('about:blank');
+  await page.goto(url);
+  await page.click(company + '>summary');
+  assert.equal(await page.$eval(company, el => el.open), true);
+  console.log('PASS: Peer root section, nested folders, reader toolbar, focus view, keyboard/search/direct navigation, mobile and no-JavaScript disclosure.');
+} finally {
+  await browser.close();
+}

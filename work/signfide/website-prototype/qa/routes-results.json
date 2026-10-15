@@ -1,0 +1,305 @@
+{
+  "timestamp": "2026-10-14T22:47:15.725Z",
+  "browser": "155.0.8059.40",
+  "results": [
+    {
+      "route": "/solutions/law-firms",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/solutions/law-firms",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/solutions/law-firms",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/solutions/law-firms",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/electronic-signatures",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/electronic-signatures",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/electronic-signatures",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/electronic-signatures",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/document-workflows",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/document-workflows",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/document-workflows",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/features/document-workflows",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/pricing",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/pricing",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/pricing",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/pricing",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/compare/docusign",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/compare/docusign",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/compare/docusign",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/compare/docusign",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/security",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/security",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/security",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/security",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/about",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/about",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/about",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/about",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "response": 200,
+      "overflow": false,
+      "axeViolations": 0
+    }
+  ],
+  "externalNavigation": [
+    {
+      "route": "/about",
+      "href": "https://www.circularo.com/",
+      "label": "Visit Circularo’s website",
+      "validatedWithoutFetching": true
+    },
+    {
+      "route": "/about",
+      "href": "https://www.circularo.com/customers/abdulla-alawadi/",
+      "label": "Circularo’s law-firm customer story",
+      "validatedWithoutFetching": true
+    },
+    {
+      "route": "/about",
+      "href": "https://www.circularo.com/customers/dubai-courts/",
+      "label": "Circularo’s Dubai Courts customer story",
+      "validatedWithoutFetching": true
+    }
+  ],
+  "heritageAnchors": [
+    {
+      "width": 1440,
+      "top": 176.125,
+      "headerBottom": 139.59375,
+      "visible": true
+    },
+    {
+      "width": 768,
+      "top": 145.640625,
+      "headerBottom": 119.59375,
+      "visible": true
+    },
+    {
+      "width": 390,
+      "top": 145.578125,
+      "headerBottom": 133.1875,
+      "visible": true
+    },
+    {
+      "width": 320,
+      "top": 145.859375,
+      "headerBottom": 133.1875,
+      "visible": true
+    }
+  ],
+  "browserErrors": [],
+  "externalRequests": 0,
+  "submissions": 0,
+  "checks": [
+    "direct loading and refresh",
+    "all internal links and anchors",
+    "reviewed external labels and destinations without fetching",
+    "heritage hero and cross-route footer links",
+    "heritage anchor visibility at all four widths",
+    "ecosystem FAQ keyboard disclosure",
+    "404 and recovery",
+    "viewport overflow",
+    "WCAG A/AA axe scan",
+    "demo validation and local success",
+    "pricing enquiry validation and success",
+    "form data cleared",
+    "Escape and focus return",
+    "dialog keyboard wrapping",
+    "skip link",
+    "dropdown keyboard access",
+    "agreement stages and arrow keys",
+    "workflow tabs",
+    "evaluation checklist and reset",
+    "trust accordions",
+    "navigation and browser history",
+    "mobile menu and navigation",
+    "reduced motion",
+    "no browser storage"
+  ]
+}
