@@ -28,7 +28,7 @@ The parties will start from existing Circularo editions and an agreed co-branded
 
 Existing Circularo mobile applications, marketplace applications, and integrations remain part of the Circularo-branded ecosystem where applicable. REDA will explain this to customers and reflect it accurately in SignFide materials. Option A does not include a separately published SignFide app or integration ecosystem.
 
-The source model identifies an existing Circularo Stripe capability. Circularo will validate and enable the agreed platform-side capability for the chosen configuration. REDA will define and operate SignFide’s checkout, merchant-account administration, payment communication, and commercial subscription journey. The platform integration does not itself create that journey or establish the status of SignFide’s Stripe account.
+The [operating model options](operating-model-options.md) records the reported existing Circularo Stripe capability and its validation requirement. Circularo will validate and enable the agreed platform-side capability for the chosen configuration. REDA will define and operate SignFide’s checkout, merchant-account administration, payment communication, and commercial subscription journey. The platform integration does not itself create that journey or establish the status of SignFide’s Stripe account.
 
 No trial, self-service signup, automation, integration, or commercial allowance is promised merely because it appears in a workflow below. The launch scope and end-to-end flow must be confirmed and tested first.
 
@@ -160,9 +160,9 @@ Before adoption, counsel should reconcile the proposed approval and delegation a
 | --- | --- | --- | --- |
 | A — Circularo-managed co-branded service | REDA operates for SignFide | Circularo operates the platform and its existing branded ecosystem | Starting model in this draft |
 | B — SignFide-managed co-branded service | REDA continues to operate for SignFide | SignFide must resource hosting, deployment, operations, and its own publishing through an expressly assigned and qualified team; Circularo supplies technology, releases, and agreed L2/L3 support | Written revised scope, RACI, budget, service arrangements, and readiness acceptance |
-| C — Complete white label | REDA continues to operate for SignFide under the agreed company remit | SignFide assumes the full visible product identity, operations, and distribution; Circularo supplies the underlying technology and agreed technical support | Written agreement on the source model’s additional commercial conditions, branding rights, operating resources, and replacement RACI |
+| C — Complete white label | REDA continues to operate for SignFide under the agreed company remit | SignFide assumes the full visible product identity, operations, and distribution; Circularo supplies the underlying technology and agreed technical support | Written agreement on additional commercial conditions, branding rights, operating resources, and replacement RACI |
 
-The Option C minimum-commitment concept and other model conditions remain in the [source model, Option C](info.md); they require their own negotiated terms before implementation. Joint establishment of SignFide does not by itself activate white-label rights or move the operating model to B or C.
+The [SignFide operating model options](operating-model-options.md) gives the full descriptions, comparison, proposed B/C responsibility boundaries, and activation requirements. Option C requires an upfront annual minimum consumption commitment to Circularo, with the amount and mechanics to be negotiated before implementation. Joint establishment of SignFide does not by itself activate white-label rights or move the operating model to B or C.
 
 ## Items to complete before contract attachment
 
@@ -174,4 +174,4 @@ The Option C minimum-commitment concept and other model conditions remain in the
 6. Support and operating schedule, response/communication expectations, launch milestones, business reporting, targets, and budget.
 7. Data responsibilities, security communication, customer-facing legal terms, intellectual property/account ownership, retention, and exit arrangements.
 
-Once agreed, the contract version should replace drafting placeholders with named owners and approved schedules. Changes to the operating model or RACI require the parties’ documented agreement; the source model remains reference material rather than an additional executed obligation.
+Once agreed, the contract version should replace drafting placeholders with named owners and approved schedules. Changes to the operating model or RACI require the parties’ documented agreement; the operating model options remain a discussion reference rather than an additional executed obligation.

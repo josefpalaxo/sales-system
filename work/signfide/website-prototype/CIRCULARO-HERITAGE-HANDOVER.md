@@ -24,7 +24,7 @@ Circularo’s track record supports confidence in the technology. SignFide must 
 
 ## Governing service model
 
-Use the [SignFide cooperation responsibilities and RACI draft](../company/cooperation-responsibilities-and-raci.md), especially “Initial service model,” as the internal operating-model reference. Read the [source partnership model](../company/info.md) if more context is needed. Both remain working documents, not evidence that the service is already live.
+Use the [SignFide cooperation responsibilities and RACI draft](../company/cooperation-responsibilities-and-raci.md), especially “Initial service model,” as the internal Option A delivery reference. Read the [SignFide operating model options](../company/operating-model-options.md) for the complete A/B/C comparison, ecosystem responsibilities, and transition conditions. Both remain working documents, not evidence that the service is already live.
 
 Preserve these distinctions in the website:
 
