@@ -1,3 +1,16 @@
+---
+id: signfide:website-prototype-product
+title: "Signfide website prototype"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "references/website-strategy-source.md"
+  - "../company/cooperation-responsibilities-and-raci.md"
+---
+
 # Signfide website prototype
 
 ## Platform

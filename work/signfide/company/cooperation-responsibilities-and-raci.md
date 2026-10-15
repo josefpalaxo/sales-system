@@ -1,3 +1,16 @@
+---
+id: signfide:company-cooperation-responsibilities-and-raci
+title: "SignFide cooperation responsibilities and RACI"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "operating-model-options.md"
+  - "../DECISIONS.md"
+---
+
 # SignFide cooperation responsibilities and RACI
 
 Date: 2026-10-14  
@@ -12,7 +25,7 @@ The initial service is **Signfide — Powered by Circularo**, using **Option A: 
 
 This appendix proposes the working obligations, deliverables, and handoffs between the Circularo and REDA teams. SignFide is the entity on whose behalf the commercial work is performed, not a third operating team to which unresolved work can be assigned.
 
-Global brand ownership, territorial rights, performance remedies, and exit mechanisms remain open in the [internal questions registry](open-questions.md). References to joint brand development in this appendix do not assign trademark ownership or worldwide rights to SignFide LLC or REDA. These questions must be resolved in the relevant agreements before the affected rights are granted.
+Global brand ownership, territorial rights, performance remedies, and exit mechanisms remain open in the [internal questions registry](../OPEN-QUESTIONS.md). References to joint brand development in this appendix do not assign trademark ownership or worldwide rights to SignFide LLC or REDA. These questions must be resolved in the relevant agreements before the affected rights are granted.
 
 ## Parties and authority
 
@@ -29,6 +42,8 @@ The parties will start from existing Circularo editions and an agreed co-branded
 Existing Circularo mobile applications, marketplace applications, and integrations remain part of the Circularo-branded ecosystem where applicable. REDA will explain this to customers and reflect it accurately in SignFide materials. Option A does not include a separately published SignFide app or integration ecosystem.
 
 The [operating model options](operating-model-options.md) records the reported existing Circularo Stripe capability and its validation requirement. Circularo will validate and enable the agreed platform-side capability for the chosen configuration. REDA will define and operate SignFide’s checkout, merchant-account administration, payment communication, and commercial subscription journey. The platform integration does not itself create that journey or establish the status of SignFide’s Stripe account.
+
+The [operations strategy](../operations/README.md) specifies reuse of multi-company Odoo for SignFide quotations, invoices and financial subscriptions, Stripe/banking for payment transactions, Circularo for service entitlements/usage and Zoho Desk for support tickets. Start with sales-assisted Odoo Quote-to-Cash and an assisted provisioning handoff where needed; self-service is a later extension. References to platform subscriptions below mean underlying service provisioning, not a competing financial-subscription ledger. These system assignments do not change REDA/Circularo operational accountability or company signing/finance authority.
 
 No trial, self-service signup, automation, integration, or commercial allowance is promised merely because it appears in a workflow below. The launch scope and end-to-end flow must be confirmed and tested first.
 

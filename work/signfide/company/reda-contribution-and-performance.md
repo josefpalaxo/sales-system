@@ -1,3 +1,16 @@
+---
+id: signfide:company-reda-contribution-and-performance
+title: "REDA contribution commitments and performance schedule"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "cooperation-responsibilities-and-raci.md"
+  - "../DECISIONS.md"
+---
+
 # REDA contribution commitments and performance schedule
 
 Date: 2026-10-14  

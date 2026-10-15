@@ -1,3 +1,16 @@
+---
+id: signfide:website-prototype-design
+title: "Signfide design direction"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../brand/README.md"
+  - "references/a-wordmark-reference.png"
+---
+
 # Signfide design direction
 
 ## Chosen identity

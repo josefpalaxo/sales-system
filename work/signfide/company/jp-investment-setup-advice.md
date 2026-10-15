@@ -1,3 +1,14 @@
+---
+id: signfide:company-jp-investment-setup-advice
+title: "JP Investment setup advice"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources: []
+---
+
 # JP Investment setup advice
 
 Date: 2026-10-14  

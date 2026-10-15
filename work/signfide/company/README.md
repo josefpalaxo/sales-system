@@ -1,3 +1,15 @@
+---
+id: signfide:company-readme
+title: "SignFide company setup and operating model brief"
+kind: overview
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../DECISIONS.md"
+---
+
 # SignFide company setup and operating model brief
 
 Date: 2026-10-14  
@@ -13,7 +25,9 @@ The central operating dependency is an agreement between Circularo and SignFide 
 
 The [REDA contribution commitments and performance schedule](reda-contribution-and-performance.md) adds the resource commitments, measurable outputs, customer outcomes, cost attribution, and review process needed to substantiate the proposed 33% interest. Circularo’s contribution includes technology and the agreed license/service on special favorable supplier terms intended to support SignFide’s US profitability. Actual commercial terms and performance targets remain to be agreed.
 
-The [internal open questions registry](open-questions.md) tracks unresolved performance remedies, exit rights, global brand ownership, the US territorial license, future expansion, and related company/contract issues. Joint development of the SignFide brand does not settle ownership of its trademarks or global rights. A possible structure with Circularo or a selected IP entity owning the brand and licensing US use to SignFide remains an open discussion proposal.
+The [distribution and services agreement principles](circularo-distribution-agreement.md) describe the proposed principal agreement and three schedules. The owning [wholesale buy-price model](../commercial/wholesale-pricing.md) starts SignFide's sales economics from its agreed buy price rather than a retail-price discount. The internal pricing principle is recorded in SF-D-011; actual prices and contract terms remain open.
+
+The [internal open questions registry](../OPEN-QUESTIONS.md) tracks unresolved performance remedies, exit rights, global brand ownership, the US territorial license, future expansion, and related company/contract issues. Joint development of the SignFide brand does not settle ownership of its trademarks or global rights. A possible structure with Circularo or a selected IP entity owning the brand and licensing US use to SignFide remains an open discussion proposal.
 
 ## Starting principles
 
@@ -90,7 +104,7 @@ The setup plan includes a US bank account and Stripe for SignFide LLC. Opening s
 
 Prepare an initial operating budget against the USD 10,000, with approved allocations and a clear process for any further funding. Establish who handles bookkeeping, reconciliation, customer billing, Circularo payments, refunds, payment disputes, and tax/accounting coordination. No payment or account setup is authorized or performed by this brief.
 
-## RACI scope for the next working session
+## Operational RACI and company approvals
 
 The [proposed appendix](cooperation-responsibilities-and-raci.md) now assigns operational activities between the Circularo team and REDA’s team under Option A, with one accountable owner per activity. REDA carries out the commercial work for SignFide. SignFide’s company approvals and the internal split between JP Investment LLC, Reda’s team, and management must be resolved separately where needed.
 
@@ -112,11 +126,6 @@ Review the proposed RACI with both teams and replace role descriptions with name
 
 ## Immediate decisions to resolve
 
-1. Confirm formation status, legal entity names, ownership holders, and management representatives.
-2. Confirm the USD 10,000 funding contributions and initial spending authority.
-3. Name the commercial and legal contacts who will develop the Circularo–SignFide agreement and its special terms.
-4. Identify the actual launch offer and service configuration the agreement must support.
-5. Name Circularo and REDA participants for the RACI session, especially sales, delivery, support, security, and finance, and identify SignFide’s authorized company approvers.
-6. Confirm the bank/Stripe setup owner and account-control arrangements.
+The root [open questions registry](../OPEN-QUESTIONS.md) owns unresolved choices. Formation/legal parties, funding, supplier terms, launch scope, RACI contacts and bank/Stripe authority are coordinated through SF-T-002 through SF-T-007 and SF-T-013 through SF-T-019 in the single [task backlog](../TASKS.md). This brief defines the company model rather than a second action list.
 
 This brief is the starting point for company and operating-model discussions. Formation documents, ownership agreements, commercial terms, and the RACI remain separate deliverables requiring the relevant parties’ agreement.

@@ -1,3 +1,16 @@
+---
+id: signfide:website-prototype-qa-report
+title: "Signfide prototype QA"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../README.md"
+  - "routes-results.json"
+---
+
 # Signfide prototype QA
 
 Verified 2026-10-14. Local prototype in the existing parent repository on branch `work`.

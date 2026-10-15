@@ -1,3 +1,16 @@
+---
+id: signfide:company-corporate-structure-and-commercial-model
+title: "SignFide corporate structure and commercial model"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "README.md"
+  - "../DECISIONS.md"
+---
+
 # SignFide corporate structure and commercial model
 
 Date: 2026-10-14  
@@ -128,6 +141,8 @@ This structure does not appoint Circularo as the direct retail contracting party
 
 In commercial planning, SignFide’s direct route has the direct selling price and its upstream/service/operating costs. Its channel route uses the agreed wholesale receipt and those costs. A reseller’s commercial margin depends on its resale proceeds, purchase terms, and own costs; a distributor’s margin depends on its supply and onward-sale terms. No numerical prices, margin guarantees, commissions, tax treatment, or accounting revenue recognition are established here.
 
+The [wholesale buy-price model](../commercial/wholesale-pricing.md) owns the fixed SignFide buy-price foundation for those calculations; the [distribution agreement principles](circularo-distribution-agreement.md) describe the upstream contractual framework. Supplier pricing is independent of SignFide's actual retail/channel selling proceeds.
+
 Stripe does not automatically collect every channel end-customer payment for SignFide. Under the proposed resale model, each retail seller has its own agreed collection arrangements. Any centralized checkout, agency collection, split-payment, or payment-on-behalf-of model needs an expressly approved design and contractual allocation.
 
 Partner pricing, discounting, territory, and direct/channel competition rules require US legal review before adoption. The FTC notes that resale-price requirements can be treated differently under federal and state law; this document sets no mandatory resale price or price-coordination policy. [FTC supply-chain guidance](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/dealings-supply-chain/manufacturer-imposed-requirements).
@@ -156,7 +171,7 @@ Channel delegation must leave no customer without support. SignFide/REDA remains
 - Keep subscription, end-customer entitlement, seller, and renewal records traceable in authorized systems. Give each party only the access its role requires.
 - Define customer continuity and handover when a partner loses approval or exits, without assuming customer contracts or data can be moved automatically.
 
-The detailed policies and commercial rights remain to be approved. The [open questions registry](open-questions.md) tracks the channel decisions alongside ownership, brand, performance, and exit protections.
+The detailed policies and commercial rights remain to be approved. The [open questions registry](../OPEN-QUESTIONS.md) tracks the channel decisions alongside ownership, brand, performance, and exit protections.
 
 ## Agreements and schedules needed
 

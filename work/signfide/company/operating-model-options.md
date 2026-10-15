@@ -1,3 +1,16 @@
+---
+id: signfide:company-operating-model-options
+title: "SignFide operating model options and responsibilities"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../DECISIONS.md"
+  - "cooperation-responsibilities-and-raci.md"
+---
+
 # SignFide operating model options and responsibilities
 
 Date: 2026-10-14  
@@ -15,7 +28,7 @@ REDA supplies US sales capability, market reach, and execution of the complete c
 
 SignFide is not a third delivery team. Under B or C, obligations assigned to SignFide require named, funded personnel or approved providers. REDA’s commercial team does not acquire infrastructure expertise merely through the selection of an option. Technical operations must be explicitly assigned before a transition.
 
-Operational responsibility for the Signfide proposition does not settle trademark title, global rights, territorial exclusivity, or ownership of new IP. Those decisions remain in the [open questions registry](open-questions.md). Selecting B or C does not change the proposed equity split or grant rights outside the agreed US territory.
+Operational responsibility for the Signfide proposition does not settle trademark title, global rights, territorial exclusivity, or ownership of new IP. Those decisions remain in the [open questions registry](../OPEN-QUESTIONS.md). Selecting B or C does not change the proposed equity split or grant rights outside the agreed US territory.
 
 ## Comparison of the three options
 
@@ -84,7 +97,7 @@ Circularo provides the confirmed technology scope, software releases, agreed tec
 
 ## Customer journey and payment integration
 
-The inherited planning basis reports an existing Circularo Stripe capability. Circularo must validate the applicable capability and configuration for SignFide before it is promised or used. REDA remains responsible for SignFide’s merchant administration, customer-facing checkout, billing communication, and operational coordination with authorized finance resources. An integration alone does not create a working commercial journey or confirm an active Stripe account.
+Josef's operations direction reuses Circularo's existing Odoo, Stripe and product-led capabilities. Start SignFide with sales-assisted Odoo quotations/invoices and Stripe or bank payment; configure the SignFide company/payment arrangements and coordinate underlying Circularo provisioning. Self-service checkout and automated activation are later extensions. REDA retains commercial execution with authorized finance resources. The [operations strategy](../operations/README.md#business-data-ownership) owns system-of-record boundaries and sequencing: financial subscriptions/billing belong in Odoo, service entitlements/usage in Circularo, and payment transactions in Stripe/banking.
 
 The launch design must address each of the following, even under Option A:
 
@@ -143,4 +156,4 @@ There is no automatic migration date, volume threshold, price, exclusivity, or w
 
 This is the standalone SignFide reference for Options A, B, and C, including the common commercial/customer responsibilities, ecosystem treatment, payment integration, operational workload, and Option C minimum-commitment concept. It adapts the legacy OmniTrust model to the dedicated SignFide venture; the legacy file is historical background rather than a dependency for interpreting these options.
 
-Read the [Option A cooperation appendix](cooperation-responsibilities-and-raci.md) for detailed current team handoffs, the [corporate model](corporate-structure-and-commercial-model.md) for entity/channel structure, the [contribution schedule](reda-contribution-and-performance.md) for REDA’s measurable commitments, and the [registry](open-questions.md) for unresolved rights and founder decisions. These are discussion drafts; executed agreements will determine actual obligations.
+Read the [Option A cooperation appendix](cooperation-responsibilities-and-raci.md) for detailed current team handoffs, the [corporate model](corporate-structure-and-commercial-model.md) for entity/channel structure, the [contribution schedule](reda-contribution-and-performance.md) for REDA’s measurable commitments, and the [registry](../OPEN-QUESTIONS.md) for unresolved rights and founder decisions. These are discussion drafts; executed agreements will determine actual obligations.

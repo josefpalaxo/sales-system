@@ -1,8 +1,23 @@
+---
+id: signfide:brand-concept-history
+title: "Signfide — branding and visual options"
+kind: working-document
+status: deprecated
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../archive/internal-brand-strategy-source.md"
+  - "README.md"
+---
+
 # Signfide — branding and visual options
+
+> Concept history. Use [the current brand overview](README.md) for the selected Good Faith wordmark-only identity. Unselected boards below are retained for reference, not as competing instructions.
 
 Prepared 2026-10-14. Internal concepts for selection. The user prefers the Good Faith palette and alternative A below; the final identity remains in development.
 
-Based on the [internal brand brief](../Signfide_Internal_Brand_Strategy.md), the user's navy-and-teal identity reference, and the confirmed main motto and tagline: **Signing in faith**.
+Based on the [internal brand brief](../archive/internal-brand-strategy-source.md), the user's navy-and-teal identity reference, and the confirmed main motto and tagline: **Signing in faith**.
 
 All three options position Signfide as a modern legal agreement brand. “Faith” expresses good faith and authentic agreements. The main tagline stays consistent; website headlines serve as supporting copy. Use “Powered by Circularo” as a secondary endorsement on company and trust materials.
 
@@ -16,7 +31,7 @@ All three options position Signfide as a modern legal agreement brand. “Faith�
 
 ## 01 — Continuous Trust
 
-![Continuous Trust concept board](01-continuous-trust.png)
+![Continuous Trust concept board](../assets/brand/01-continuous-trust.png)
 
 An evolution of the supplied reference. A diagonal, open S symbol represents continuity between preparation, signing, and the agreement record. A strong lowercase sans-serif wordmark keeps the identity approachable.
 
@@ -33,7 +48,7 @@ Applications: an ivory website with teal actions, a navy app icon, restrained ag
 
 ## 02 — Good Faith
 
-![Good Faith concept board](02-good-faith.png)
+![Good Faith concept board](../assets/brand/02-good-faith.png)
 
 A warmer interpretation of the brand. An open signature loop pairs with a contemporary serif wordmark, connecting the idea of good faith to the human act of making an agreement. Parchment and oxblood establish a distinctive visual tone.
 
@@ -54,13 +69,13 @@ Created 2026-10-14 to explore replacements for the original tilted loop while re
 
 | Alternative | Preview | Design intent |
 | --- | --- | --- |
-| A — Wordmark | [View board](good-faith-alternatives/a-wordmark.png) | Serif wordmark without a separate symbol; a serif s serves as the app icon. User's preferred alternative. |
-| B — Signature S | [View board](good-faith-alternatives/b-signature-s.png) | Open handwritten S paired with the serif wordmark. |
-| C — Open Loop | [View board](good-faith-alternatives/c-open-loop.png) | Softer calligraphic open loop paired with the wordmark. |
+| A — Wordmark | [View board](../assets/brand/good-faith-alternatives/a-wordmark.png) | Serif wordmark without a separate symbol; a serif s serves as the app icon. User's preferred alternative. |
+| B — Signature S | [View board](../assets/brand/good-faith-alternatives/b-signature-s.png) | Open handwritten S paired with the serif wordmark. |
+| C — Open Loop | [View board](../assets/brand/good-faith-alternatives/c-open-loop.png) | Softer calligraphic open loop paired with the wordmark. |
 
 Designer assessment: A is the strongest starting point because the name and palette carry the identity with less visual competition. Refine the f/i spacing, shift the tagline slightly left for optical balance, and verify the s icon at small sizes before production.
 
-These are raster concept studies generated with the built-in image_gen tool, not final logo masters. Exact lettering, flat color values, and vector assets remain to be developed. [Full generation prompts](good-faith-alternatives/generation-prompts.txt).
+These are raster concept studies generated with the built-in image_gen tool, not final logo masters. Exact lettering, flat color values, and vector assets remain to be developed. [Full generation prompts](../assets/brand/good-faith-alternatives/generation-prompts.txt).
 
 ### Two-letter app-icon explorations
 
@@ -68,16 +83,16 @@ Prepared 2026-10-14. Four concepts explore SF, Sf, and sf monograms in the selec
 
 | Concept | Preview | Assessment |
 | --- | --- | --- |
-| A — SF Classic | [View board](app-icon-explorations/a-sf-classic.png) | Clear capital letters; straightforward, but less distinctive. |
-| B — Sf Character | [View board](app-icon-explorations/b-sf-mixed-case.png) | Warm mixed-case pairing; a good balance of readability and wordmark continuity. |
-| C — sf Ligature | [View board](app-icon-explorations/c-sf-ligature.png) | Designer's preferred direction: a connected lowercase form with a close relationship to the selected wordmark. |
-| D — SF Interlock | [View board](app-icon-explorations/d-sf-interlock.png) | More formal overlapping capitals; the join becomes crowded on reduction. |
+| A — SF Classic | [View board](../assets/brand/app-icon-explorations/a-sf-classic.png) | Clear capital letters; straightforward, but less distinctive. |
+| B — Sf Character | [View board](../assets/brand/app-icon-explorations/b-sf-mixed-case.png) | Warm mixed-case pairing; a good balance of readability and wordmark continuity. |
+| C — sf Ligature | [View board](../assets/brand/app-icon-explorations/c-sf-ligature.png) | Designer's preferred direction: a connected lowercase form with a close relationship to the selected wordmark. |
+| D — SF Interlock | [View board](../assets/brand/app-icon-explorations/d-sf-interlock.png) | More formal overlapping capitals; the join becomes crowded on reduction. |
 
-Recommendation: refine C and retain B as the clearer alternative. Keep the final icon to parchment lettering on solid oxblood, with open counters and enough space around the two letters. Recognition is a design objective, not a tested result. These raster boards include relative small-size previews; they are not actual 16px or 32px reproduction tests. Final vector geometry, solid color values, optical balance, platform masking, and real-size tests remain outstanding. [Full generation prompts](app-icon-explorations/generation-prompts.txt). Generated with the built-in image_gen tool.
+Recommendation: refine C and retain B as the clearer alternative. Keep the final icon to parchment lettering on solid oxblood, with open counters and enough space around the two letters. Recognition is a design objective, not a tested result. These raster boards include relative small-size previews; they are not actual 16px or 32px reproduction tests. Final vector geometry, solid color values, optical balance, platform masking, and real-size tests remain outstanding. [Full generation prompts](../assets/brand/app-icon-explorations/generation-prompts.txt). Generated with the built-in image_gen tool.
 
 ## 03 — Clear Signal
 
-![Clear Signal concept board](03-clear-signal.png)
+![Clear Signal concept board](../assets/brand/03-clear-signal.png)
 
 A minimal identity centred on clarity and forward movement. An abstract geometric alignment symbol accompanies a bold lowercase wordmark. Carbon and paper provide restraint; signal lime adds a recognisable digital accent.
 

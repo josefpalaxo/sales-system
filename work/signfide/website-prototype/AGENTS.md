@@ -1,3 +1,17 @@
+---
+id: signfide:website-prototype-agents
+title: "Signfide website prototype instructions"
+kind: instructions
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../AGENTS.md"
+  - "PRODUCT.md"
+  - "DESIGN.md"
+---
+
 # Signfide website prototype instructions
 
 ## Scope and handling
@@ -23,7 +37,7 @@ Choose the simplest maintainable implementation that supports eight direct-loada
 
 Implement the homepage and common shell, inspect and refine them, then complete the remaining routes. Use one coherent system across pages while varying layouts for their content. Do not stop at an isolated hero, a static image, a collection of empty routes, or a plan.
 
-Content can be drafted to complete the website, but unverified launch facts must remain visibly qualified or omitted. Maintain a concise `LAUNCH-QUESTIONS.md` inside this folder for facts requiring owner confirmation. Do not research or select commercial commitments on the owner's behalf.
+Content can be drafted to complete the website, but unverified launch facts must remain visibly qualified or omitted. Record unresolved choices in the single project register at [OPEN-QUESTIONS](../OPEN-QUESTIONS.md). Keep `LAUNCH-QUESTIONS.md` as a concise navigation view to those stable IDs, not another live registry. Follow the parent SignFide YAML metadata conventions for first-party Markdown. Do not research or select commercial commitments on the owner's behalf.
 
 ## Completion
 

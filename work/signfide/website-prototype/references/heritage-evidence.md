@@ -1,3 +1,15 @@
+---
+id: signfide:website-prototype-references-heritage-evidence
+title: "Circularo heritage evidence and hosting clarification"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../CIRCULARO-HERITAGE-HANDOVER.md"
+---
+
 # Circularo heritage evidence and hosting clarification
 
 Reviewed 2026-10-14. Internal working evidence for the local prototype; non-canonical and not publication approval. Original instruction-pack reference snapshots are unchanged.

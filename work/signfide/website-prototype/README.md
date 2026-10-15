@@ -1,3 +1,17 @@
+---
+id: signfide:website-prototype-readme
+title: "Signfide website prototype"
+kind: overview
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "PRODUCT.md"
+  - "DESIGN.md"
+  - "qa/REPORT.md"
+---
+
 # Signfide website prototype
 
 Local implementation completed 2026-10-14. Internal, non-canonical working material.

@@ -1,4 +1,17 @@
+---
+id: signfide:archive-website-strategy-source
+title: "US Website Strategy & Content"
+kind: source-snapshot
+status: deprecated
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources: []
+---
+
 # US Website Strategy & Content
+
+> Historical source. The current [marketing brief](../marketing/README.md), [brand direction](../brand/README.md), and [local prototype](../website-prototype/README.md) supersede older implementation recommendations. Source recommendations do not establish available features, prices, or approved claims. The source body is retained below.
 
 **Brand:** Signfide  
  **Tagline:** Signing in faith.  

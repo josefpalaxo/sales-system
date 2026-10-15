@@ -1,3 +1,15 @@
+---
+id: signfide:website-prototype-references-website-strategy-source
+title: "US Website Strategy & Content"
+kind: source-snapshot
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../../archive/website-strategy-source.md"
+---
+
 # US Website Strategy & Content
 
 **Brand:** Signfide  

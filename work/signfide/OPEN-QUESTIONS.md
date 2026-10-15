@@ -1,10 +1,24 @@
-# SignFide internal open questions registry
+---
+id: signfide:open-questions
+title: "SignFide open questions and risks"
+kind: register
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "company/cooperation-responsibilities-and-raci.md"
+  - "company/reda-contribution-and-performance.md"
+  - "archive/launch-plan-source.md"
+---
+
+# SignFide open questions and risks
 
 Opened: 2026-10-14  
 Last reviewed: 2026-10-14  
 Status: Internal discussion register; all questions below remain open  
 Classification: Confidential  
-Basis: Josef’s concerns about REDA performance, avoiding an indefinite commitment, and preserving global brand options; the [company brief](README.md), [RACI](cooperation-responsibilities-and-raci.md), and [contribution schedule](reda-contribution-and-performance.md).
+Basis: Josef’s concerns about REDA performance, avoiding an indefinite commitment, and preserving global brand options; the [company brief](company/README.md), [RACI](company/cooperation-responsibilities-and-raci.md), and [contribution schedule](company/reda-contribution-and-performance.md).
 
 The founders need an arrangement that can succeed in the United States while preserving Circularo’s technology and future brand opportunities. The company ownership, REDA’s operating appointment, technology supply, brand license, and territory rights are separate decisions. A remedy in one agreement must not be assumed to resolve all the others.
 
@@ -45,6 +59,24 @@ The starting company proposal remains JP Investment LLC 67% and REDA’s team 33
 | SF-OQ-021 | P1 | How will direct sales and channel partners share leads, named accounts, renewals, and conflict resolution? | REDA direct-sales and channel leads | Open |
 | SF-OQ-022 | P0 | What are the wholesale terms, partner economics, credit exposure, and compliant resale-pricing policies? | Commercial and finance leads with US counsel | Open |
 | SF-OQ-023 | P1 | How are channel support, customer records, and continuity handled if a partner loses approval or exits? | REDA channel/service leads with privacy/legal input | Open |
+| SF-OQ-024 | P1 | Is migration P0 for the pilot or P1 after it, and what transfer scope is actually supported? | Product and REDA commercial leads | Open |
+| SF-OQ-025 | P1 | What final production identity, icon, pronunciation and message treatment are approved? | Brand lead and authorized management | Open |
+| SF-OQ-026 | P1 | Which ICP, use cases and discovery/recruitment targets are accepted? | REDA commercial and management | Open |
+| SF-OQ-027 | P2 | How should SignFide extend initial Odoo sales-assisted selling into synchronized self-service? | REDA commercial and Circularo product | Open |
+| SF-OQ-028 | P1 | Which actual capabilities, evidence/retention behavior, integrations and hosting configuration are accepted? | Circularo product/security with REDA | Open |
+| SF-OQ-029 | P1 | What kickoff, pilot thresholds and stage-gate acceptance evidence are approved? | Authorized SignFide management | Open |
+| SF-OQ-030 | P0 | What legal/tax/entity route and professional review are needed for SignFide and JP Investment? | Founders with US/UAE advisers | Open |
+| SF-OQ-031 | P1 | Which channel type should launch first, within the confirmed direct-plus-approved-partner direction? | REDA channel and management | Open |
+| SF-OQ-032 | P1 | Which offer, price/allowance experiments and like-for-like comparison claims are accepted? | Commercial and finance with Circularo | Open |
+| SF-OQ-033 | P1 | What SignFide Odoo company/accounting, bank/merchant configuration and finance controls are needed? | Finance and authorized management | Open |
+| SF-OQ-034 | P1 | Which SignFide CRM, data access, reporting and REDA review arrangements should be selected? | Management, REDA and finance | Open |
+| SF-OQ-035 | P1 | Which legal/privacy/security statements, controls and incident obligations are approved for the actual service? | Counsel, Circularo security and REDA | Open |
+| SF-OQ-036 | P1 | What actual contact/booking, consent, outreach and data-handling journey is authorized? | REDA marketing with privacy/legal leads | Open |
+| SF-OQ-037 | P1 | What support coverage, onboarding capacity and escalation/service commitments can be delivered? | REDA customer lead and Circularo service lead | Open |
+| SF-OQ-038 | P2 | Which product changes, core/configuration boundaries and AI/data safeguards are accepted? | Circularo product/security and management | Open |
+| SF-OQ-039 | P1 | Who approves publication, final copy/legal pages, domain control and deployment? | Authorized SignFide management | Open |
+| SF-OQ-040 | P1 | Which customer proof, images and heritage statements have scoped evidence and permissions? | REDA marketing and rights/privacy leads | Open |
+| SF-OQ-041 | P2 | Should SignFide adopt Circularo freemium when available, for which audiences and under what packaging? | REDA commercial and Circularo product | Open |
 
 ## SF-OQ-001 REDA underperformance
 
@@ -54,7 +86,7 @@ The starting company proposal remains JP Investment LLC 67% and REDA’s team 33
 
 **Decisions required:**
 
-- Agree named resources, capacity, accepted launch deliverables, qualification rules, and commercial targets using the [contribution schedule](reda-contribution-and-performance.md).
+- Agree named resources, capacity, accepted launch deliverables, qualification rules, and commercial targets using the [contribution schedule](company/reda-contribution-and-performance.md).
 - Distinguish failure to deliver committed work from disappointing results despite agreed execution, and from delays caused by Circularo or other dependencies.
 - Define review periods, material shortfall, notice, corrective action, evidence, and a decision process that cannot remain unresolved indefinitely.
 - Decide the available commercial responses: replacement of personnel, replacement of REDA as commercial operator, loss of any conditional exclusivity, non-renewal, or termination of the relevant appointment/license.
@@ -140,7 +172,7 @@ Define how to classify a customer’s territory: contracting entity, headquarter
 | --- | --- | --- |
 | SF-OQ-007 | A nominal majority may not settle reserved matters, conflicts, or operational deadlock. Circularo’s supplier interests and JP Investment’s shareholder interests may differ. | Draft decision/approval thresholds, conflict handling for supplier/IP transactions, escalation, and an agreed deadlock resolution path. Identify the real decision-makers. |
 | SF-OQ-008 | An unclear staffing/funding model can exhaust capital or turn the supposed contribution into company-funded work without explicit agreement. | Complete the resource/cost register, initial budget, future funding choices, approval limits, and consequences of a funding refusal. No unlimited funding commitment is presumed. |
-| SF-OQ-009 | Permanent special pricing can constrain Circularo; unpredictable withdrawal can undermine SignFide and REDA’s investment. | Agree scope, duration, performance conditions if any, review process, notice, treatment of existing customers, cost changes, and financial reporting. Use a separate negotiated schedule. |
+| SF-OQ-009 | The fixed buy-price principle is confirmed internally (SF-D-011), while validity periods and review/exit mechanics remain open. | Agree price-list scope, duration, proposed review/billing mechanics, notice, existing-subscription protection and exceptions using the [wholesale model](commercial/wholesale-pricing.md). Fixed unit prices are independent of SignFide retail discounts; actual costs/rates are not yet approved. |
 | SF-OQ-010 | Trademark title, logo/copy/software rights, domains, social handles, and admin access can end up with different owners or individual staff. | Inventory existing creators, rights, registrants, funding, licenses, and access. Agree assignments/licenses and company or IP-owner administration as appropriate. Distinguish legal ownership from day-to-day access. |
 | SF-OQ-011 | A breakdown can strand customers, payments, access, or records. Brand ownership alone does not move contracts or permit unrestricted data transfer. | Agree service continuity, renewal authority, notices, lawful/contractual migration, customer choices where required, access/export, retention, and transition funding. Resolve with commercial and privacy/legal leads. |
 | SF-OQ-012 | REDA may promise services, assurances, refunds, or liability terms beyond Circularo’s supply commitments; Circularo failures can also create customer exposure. | Align customer and supplier terms; agree signing controls, incident/dispute ownership, allocation of liability, indemnity and insurance topics, limits, and treatment of unauthorized commitments. |
@@ -151,12 +183,53 @@ Define how to classify a customer’s territory: contracting entity, headquarter
 | SF-OQ-017 | Separate documents can contradict each other or leave a remedy stranded in the wrong agreement. | Reconcile the LLC agreement, REDA cooperation/contribution schedule, technology/reseller agreement, brand license, service/data schedules, and customer terms. Define precedence and any cross-default/termination effects expressly. |
 | SF-OQ-018 | Signing or launch can occur while performance, title, territory, or customer handoffs remain unresolved. | Maintain a go/no-go checklist with the unresolved questions, authorized approver, accepted evidence, actual date, and any expressly approved exception. P0 items should not be treated as waived through silence. |
 | SF-OQ-019 | A distributor appointment may be mistaken for unlimited onward resale, brand sublicensing, territory, or exclusivity. | Select one-tier/two-tier permissions, approval criteria, authorized products/territory, brand flow-downs, and the actual approval authority. Appointments and sub-appointments must be documented. |
-| SF-OQ-020 | A partner retail order may leave the underlying platform-use/data relationship unclear, or a payment flow may name a different seller. | Complete the contract/invoice/collection map for each route in the [commercial structure](corporate-structure-and-commercial-model.md), including any separate end-user service terms and refund/tax responsibilities. |
+| SF-OQ-020 | A partner retail order may leave the underlying platform-use/data relationship unclear, or a payment flow may name a different seller. | Complete the contract/invoice/collection map for each route in the [commercial structure](company/corporate-structure-and-commercial-model.md), including any separate end-user service terms and refund/tax responsibilities. |
 | SF-OQ-021 | Direct sales can conflict with partner-led opportunities, including online inbound leads and renewals. | Agree registration, attribution, named-account routing, renewal rights, escalation, and the scope of any protection. Do not infer permanent customer ownership from an introduction. |
-| SF-OQ-022 | Unclear wholesale/retail economics, partner non-payment, refunds, or pricing restrictions can create financial and legal exposure. | Agree supply/payment terms, credit controls, discount authority, collection model, and treatment of unpaid/contested orders. Have counsel review any resale-pricing or territory policy; no partner margins or fixed resale prices are assumed. |
+| SF-OQ-022 | Buy-price independence is the confirmed internal direction; actual supplier/partner prices, credit, refunds and billable-unit rules remain open. | Develop the [wholesale model](commercial/wholesale-pricing.md), define quantities/usage, active-paid status, payment/credit and refund rules, and price direct/channel routes from SignFide's buy cost. Partner margins and resale terms remain separate; have counsel review relevant pricing/territory policies. |
 | SF-OQ-023 | A customer may lose support, renewal access, or records when a distributor/reseller exits. | Define the support chain, authorized system access, entitlement/order records, customer notices, lawful transition, outstanding payments, and continuity funding before partner activation. |
 
-## Suggested order for the founder discussion
+## Registry scope
+
+The original SF-OQ-001 through SF-OQ-023 remain unchanged in identity and open status. The additional project-wide issues below consolidate product, marketing, operations and website gaps. Their listed leads remain proposals. The single action backlog is [TASKS](TASKS.md); a question entry is not another task assignment.
+
+## Project-wide questions and closure evidence
+
+| ID | Exposure or conflict | Required closure evidence |
+| --- | --- | --- |
+| SF-OQ-024 | The archived brand strategy labels migration P0; the supplied launch source labels it P1. A switching promise may depend on unsupported imports or unstaffed assistance. | Explicit priority decision; supported template/user/workflow/record scope, exclusions, cost, owner and successful transfer/export tests. See [product strategy](product/README.md). |
+| SF-OQ-025 | Selected Good Faith identity is clear, but raster references and provisional font wordmark are not production masters; final app icon is unselected. | Accepted lettering/vector/monochrome masters, small-size/contrast tests, pronunciation and endorsement/message rules. Brand clearance remains SF-OQ-004. |
+| SF-OQ-026 | Firm size, practice priorities, interviews and design-partner targets are hypotheses rather than agreed performance quotas. | Discovery evidence, selected wedge/use cases, approved numerical targets/definitions, staffing, budget and timing in [research](research/README.md). |
+| SF-OQ-027 | Sales-assisted Odoo Quote-to-Cash is the selected initial route (SF-D-010); later self-service must preserve Odoo billing ownership and Circularo entitlements. | Phase 2 trial/checkout/self-upgrade, activation, renewal/change/cancellation mapping and synchronization design. The initial route does not wait for this extension. See [Operations](operations/README.md). |
+| SF-OQ-028 | Circularo availability and a prototype illustration do not establish inclusion in SignFide; reported US Azure hosting does not settle service configuration/readiness. | Actual edition/component inventory, signing/identity methods, evidence/time/integrity/export/retention/deletion, permissions and accessibility tests; confirmed hosting/access/subprocessors and applicable ecosystem requirements. |
+| SF-OQ-029 | Relative dates and pilot counts could be mistaken for approved commitments or launch authority. | Named gate approver, actual approved D0, criteria, evidence, pilot thresholds and exception process; recorded go/no-go. Recruitment proposals remain in [research](research/README.md); pilot thresholds require their own decision, rather than becoming product scope. |
+| SF-OQ-030 | Neither the proposed Delaware entity nor upstream holding route proves appropriate tax/registration treatment or completed formation. | Scoped professional comparison and actual party/entity details, registrations, reporting obligations and authorized route/formation decisions; no filings presumed done. |
+| SF-OQ-031 | The supplied plan suggests referral/design partners first and later full resale; that sequencing has not been accepted. | Explicit launch channel choice, permitted tiers, appointment authority and readiness, aligned with SF-OQ-019 through SF-OQ-023 and the direct-sales route. |
+| SF-OQ-032 | Price experiments, free-recipient concept, package names, savings and allowances could become unsupported customer promises. | Signed upstream economics, viable cost/usage model, approved offer, current comparable evidence and reviewed claims; no inherited historical benchmark treated as current. |
+| SF-OQ-033 | SignFide will reuse shared multi-company Odoo, but its legal company, accounting, USD offer, payment connections and permissions need implementation. | SignFide company setup, quotations/orders/invoices, financial subscriptions, Stripe/US bank arrangements, reconciliation and separate reporting; appropriate tax/accounting configuration, budget/funding and refund/dispute controls. This is the immediate implementation priority SF-T-015, not a new billing-platform selection. |
+| SF-OQ-034 | CRM selection remains independent from Circularo's current Pipedrive; shared or separate Pipedrive and another suitable CRM remain options. | Selected SignFide CRM with lead/opportunity ownership, company access, Odoo/customer-reference mapping, sales/partner pipelines and reporting; agreed resource/outcome definitions and review cadence. |
+| SF-OQ-035 | E-sign document exceptions, confidentiality/privacy requirements, data roles, security evidence and incident decisions may be unclear. | Relevant counsel/security review of actual jurisdictions/workflows, terms/privacy/DPA, controls, retention, processors, incident/notification roles and approved assurance wording. No blanket certification/validity claim. |
+| SF-OQ-036 | Prototype forms have no destination; live campaigns introduce contact, consent and personal-data handling requirements. | Approved real contact/booking/CRM endpoint and response owner; reviewed outreach/consent, retention and handling; tested customer flow before replacing local disclosures. |
+| SF-OQ-037 | Reuse of Zoho Desk and the L1 REDA / L2 Circularo / L3 engineering split are the selected direction; SignFide setup and staffing remain to implement. | Dedicated branding/channels, authorized ticket visibility and access, case/escalation ownership, named coverage, SLA tracking and agreed actual service levels, including partner fallback. |
+| SF-OQ-038 | A separate product fork or unbounded AI promise could create unsupported maintenance, confidentiality and ownership obligations. | Agreed shared-core/configuration/change scope, funding/ownership/support; for AI, approved processors, training use, location, retention, accuracy and human oversight. Resolve before offering relevant capabilities. |
+| SF-OQ-039 | A working local site or Git push could be mistaken for publication authorization. | Final approved content/assets/claims/legal pages, actual service/contact flow, domain control, deployment scope, QA and explicit named publication instruction. |
+| SF-OQ-040 | Circularo customer stories, stock/concept visuals or early pilot feedback may be presented as SignFide proof without evidence/permission. | Attributed scoped heritage wording; actual authorized screenshots, quotes and customer names/logos with written permission and no transferred certifications/results. |
+| SF-OQ-041 | Circularo's planned freemium offering and SignFide's adoption are different decisions. A future platform release does not itself determine the US offer. | Adoption decision covering audiences, edition/plan mapping and commercial implications when Circularo's offering is available. See [product strategy](product/README.md#q1-2027-freemium-target); track evaluation as SF-T-026. |
+
+## Launch risk coverage
+
+| Source-plan exposure | Owning question IDs |
+| --- | --- |
+| REDA contribution not delivered while equity remains | SF-OQ-001, SF-OQ-002, SF-OQ-013 |
+| Global brand/control unintentionally transferred | SF-OQ-004, SF-OQ-005, SF-OQ-006, SF-OQ-010 |
+| Indefinite or unworkable supplier commitments | SF-OQ-003, SF-OQ-009, SF-OQ-017 |
+| Holding/entity/tax missteps | SF-OQ-030 |
+| Security/privacy/confidentiality or unsuitable signing claims | SF-OQ-028, SF-OQ-035, SF-OQ-038 |
+| Weak differentiation, expensive acquisition or invalid comparison | SF-OQ-026, SF-OQ-032, SF-OQ-034 |
+| Channel conflict and customer discontinuity | SF-OQ-019 through SF-OQ-023, SF-OQ-031 |
+| Capital shortfall or unclear paid contribution | SF-OQ-008, SF-OQ-033 |
+| Product fragmentation | SF-OQ-014, SF-OQ-038 |
+
+## Founder discussion sequence
 
 1. Settle the intended global brand owner and the US venture’s boundaries: SF-OQ-004 to SF-OQ-006, with the asset inventory in SF-OQ-010.
 2. Agree REDA’s contribution, performance review, and consequences: SF-OQ-001 and SF-OQ-002.
@@ -164,9 +237,9 @@ Define how to classify a customer’s territory: contracting entity, headquarter
 4. Resolve decision authority, funding, special terms, and key-person/transfer protections: SF-OQ-007 to SF-OQ-009 and SF-OQ-013.
 5. Have counsel reconcile the chosen structure and documents before the final signing/launch decisions: SF-OQ-012, SF-OQ-014, SF-OQ-016 to SF-OQ-018.
 
-## Decision log
+## Recording decisions and closure
 
-2026-10-14 — Josef directed that the working ownership proposal be revised to **JP Investment LLC 67% and REDA’s designated holders 33%**. This internal direction updates the drafts; it does not settle the contribution/equity mechanisms in SF-OQ-002 or establish execution of the company arrangements. For each further decision, capture:
+Record decisions once in [DECISIONS.md](DECISIONS.md), including SF-D-001 for the internal 67/33 ownership direction. That direction does not settle the contribution/equity mechanisms in SF-OQ-002 or establish execution of the company arrangements. For each further decision, capture:
 
 | Field | Required record |
 | --- | --- |

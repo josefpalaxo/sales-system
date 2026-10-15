@@ -1,4 +1,17 @@
+---
+id: signfide:archive-internal-brand-strategy-source
+title: "SIGNFIDE"
+kind: source-snapshot
+status: deprecated
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources: []
+---
+
 # SIGNFIDE
+
+> Historical source. Current visual identity is defined in [the brand overview](../brand/README.md). The navy/teal palette and optional symbol below are superseded. Product, pricing and market recommendations remain proposals; see the [master plan](../MASTER-PLAN.md) and [open questions](../OPEN-QUESTIONS.md) for current working treatment. The source body is retained below.
 
 Internal Brand & Go-to-Market Brief | October 2026 | Confidential
 

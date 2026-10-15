@@ -1,3 +1,16 @@
+---
+id: signfide:website-prototype-circularo-heritage-handover
+title: "Circularo heritage and service model website handover"
+kind: working-document
+status: draft
+owner: unassigned
+updated: "2026-10-14"
+classification: confidential
+sources:
+  - "../company/cooperation-responsibilities-and-raci.md"
+  - "../company/operating-model-options.md"
+---
+
 # Circularo heritage and service model website handover
 
 Prepared: 2026-10-14  
