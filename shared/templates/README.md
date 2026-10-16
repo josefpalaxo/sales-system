@@ -1,6 +1,5 @@
-# Shared templates
+# Templates
 
-Domain-neutral, fact-free artifact structures belong here. Domain-specific templates belong under `domains/<domain>/templates/`.
+[Investor relationship template](investor-relationship/README.md) provides an optional starting structure. Adapt it to the actual relationship and add files only when useful content exists.
 
-Templates must not embed live customer data or unsupported claims as defaults.
-
+Templates define structure and drafting prompts. They do not establish facts, approve wording or require empty scaffolding. Reusable facts belong in the shared topic library.

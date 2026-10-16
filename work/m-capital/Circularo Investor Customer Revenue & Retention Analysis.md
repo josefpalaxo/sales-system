@@ -43,7 +43,7 @@ Use these to establish where reliable:
 - subscription/contract dates;
 - billing periods;
 - commercial terms;
-- partners/channels;
+- relationships/partners/channels;
 - renewal context.
 
 Do NOT attempt to reconstruct historical state from unreliable Sales Order change logs.

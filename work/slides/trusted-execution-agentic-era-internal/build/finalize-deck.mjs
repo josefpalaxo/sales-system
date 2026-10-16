@@ -8,7 +8,7 @@ const RUNTIME_PYTHON = process.env.RUNTIME_PYTHON;
 if (!SKILL_DIR || !RUNTIME_PYTHON) throw new Error("SKILL_DIR and RUNTIME_PYTHON are required");
 
 const candidatePath = path.join(TASK, "build/candidate.pptx");
-const finalPath = path.join(TASK, "output/trusted-execution-agentic-era-internal.pptx");
+const finalPath = path.join(TASK, "work/local-output/trusted-execution-agentic-era-internal.pptx");
 const stagingDir = path.join(TASK, "build/finalizer");
 await fs.mkdir(stagingDir, { recursive: true });
 await fs.mkdir(path.dirname(finalPath), { recursive: true });

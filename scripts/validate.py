@@ -7,8 +7,9 @@ from datetime import date
 from pathlib import Path
 import re
 import sys
+from urllib.parse import unquote, urlsplit
 
-from repo_records import ID_PATTERN, REQUIRED_KEYS, ROOT, load_records
+from repo_records import ID_PATTERN, REQUIRED_KEYS, ROOT, historical_path, load_records, repository_files
 
 
 ALLOWED_RECORD_STATUSES = {"draft", "reviewed", "approved", "deprecated"}
@@ -16,6 +17,7 @@ ALLOWED_CONFLICT_STATUSES = {"open", "resolved", "accepted-risk"}
 ALLOWED_CLASSIFICATIONS = {"public", "internal", "confidential", "restricted"}
 DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 MARKDOWN_LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
+MARKDOWN_REFERENCE_PATTERN = re.compile(r"^ {0,3}\[[^\]\n]+\]:\s*(<[^>]+>|\S+)", re.M)
 TOPIC_PATTERN = re.compile(r"^[a-z][a-z0-9-]*$")
 
 
@@ -97,6 +99,8 @@ def validate() -> list[str]:
     for record in records:
         relative = record.path.relative_to(ROOT)
         metadata = record.metadata
+        if metadata.get("schema_version") != "1":
+            errors.append(f"{relative}: schema_version must be 1")
         missing = sorted(REQUIRED_KEYS - metadata.keys())
         if missing:
             errors.append(f"{relative}: missing required keys: {', '.join(missing)}")
@@ -126,11 +130,18 @@ def validate() -> list[str]:
             errors.append(f"{relative}: unregistered domain '{domain}'")
 
         owner = metadata.get("owner", "")
-        if owner and owner not in owners:
+        draft_unknown = status == "draft"
+        if owner and owner not in owners and not (draft_unknown and owner in {"null", "unassigned"}):
             errors.append(f"{relative}: unregistered owner '{owner}'")
+        if not owner or (not draft_unknown and owner in {"null", "unassigned"}):
+            errors.append(f"{relative}: accountable owner is required outside draft status")
 
         for field in ("last_reviewed", "review_by"):
             value = metadata.get(field, "")
+            if draft_unknown and value in {"null", "unassigned"}:
+                continue
+            if not value:
+                errors.append(f"{relative}: {field} is required; use null only for unknown draft dates")
             if value and not DATE_PATTERN.fullmatch(value):
                 errors.append(f"{relative}: {field} must use YYYY-MM-DD")
             elif value:
@@ -162,10 +173,7 @@ def validate() -> list[str]:
             elif not TOPIC_PATTERN.fullmatch(topic):
                 errors.append(f"{relative}: invalid topic slug '{topic}'")
 
-            if domain == "shared":
-                slides_root = ROOT / "shared" / "assets" / "slides"
-            else:
-                slides_root = ROOT / "domains" / domain / "assets" / "slides"
+            slides_root = ROOT / "shared" / "assets" / "slides"
             expected_parent = slides_root / topic
             if record.path.parent != expected_parent:
                 expected = expected_parent.relative_to(ROOT)
@@ -189,16 +197,14 @@ def validate() -> list[str]:
             if source_ref not in known_ids:
                 errors.append(f"{relative}: unresolved source ref '{source_ref}'")
 
-    forbidden_work_dirs = [ROOT / "tmp", ROOT / "temp", ROOT / ".work"]
-    for path in forbidden_work_dirs:
-        if path.exists():
-            errors.append(f"{path.relative_to(ROOT)}: use the single root work/ directory")
-    for path in ROOT.rglob("work"):
-        if path.is_dir() and path != ROOT / "work" and ".git" not in path.parts:
-            errors.append(f"{path.relative_to(ROOT)}: nested work directories are not allowed")
+    files = repository_files()
+    retired_roots = {"domains", "partners", "investors", "slides-projects", "output", "tmp", "temp", ".work"}
+    for path in files:
+        relative = path.relative_to(ROOT)
+        if relative.parts[0] in retired_roots:
+            errors.append(f"{relative}: use shared/, relationships/ or work/ rather than a retired root")
 
     slide_roots = [ROOT / "shared" / "assets" / "slides"]
-    slide_roots.extend((ROOT / "domains").glob("*/assets/slides"))
     for slide_root in slide_roots:
         if not slide_root.exists():
             continue
@@ -209,21 +215,28 @@ def validate() -> list[str]:
                     f"{deck_path.relative_to(ROOT)}: missing same-basename governed record '{record_path.name}'"
                 )
 
-    for markdown_path in ROOT.rglob("*.md"):
-        if ".git" in markdown_path.parts or "work" in markdown_path.parts:
+    for markdown_path in files:
+        relative = markdown_path.relative_to(ROOT)
+        if markdown_path.suffix != ".md" or relative.parts[0] == "work":
             continue
-        if "sources" in markdown_path.parts and "archived-snapshots" in markdown_path.parts:
+        if historical_path(markdown_path):
             continue
         text = markdown_path.read_text(encoding="utf-8")
-        for raw_target in MARKDOWN_LINK_PATTERN.findall(text):
+        text = re.sub(r"```.*?```", "", text, flags=re.S)
+        text = re.sub(r"`[^`\n]*`", "", text)
+        targets = MARKDOWN_LINK_PATTERN.findall(text) + MARKDOWN_REFERENCE_PATTERN.findall(text)
+        for raw_target in targets:
             target = raw_target.strip().strip("<>")
-            if target.startswith(("http://", "https://", "mailto:", "#")):
+            parsed = urlsplit(target)
+            if parsed.scheme or target.startswith("#"):
                 continue
-            target_path = target.split("#", 1)[0]
+            target_path = unquote(parsed.path)
             if not target_path:
                 continue
             resolved = (markdown_path.parent / target_path).resolve()
-            if not resolved.exists():
+            if not resolved.is_relative_to(ROOT):
+                errors.append(f"{markdown_path.relative_to(ROOT)}: local link escapes repository '{target}'")
+            elif not resolved.exists():
                 errors.append(
                     f"{markdown_path.relative_to(ROOT)}: unresolved Markdown link '{target}'"
                 )

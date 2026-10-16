@@ -32,8 +32,8 @@ Use this deck for internal strategic alignment, leadership discussions, narrativ
 
 ## Source
 
-- `work/circularo-narrative/sources/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md`
+- `shared/messaging/circularo-narrative/sources/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md`
 
 ## Deliverable
 
-- `output/circularo-strategic-evolution-positioning.pptx`
+- `work/local-output/circularo-strategic-evolution-positioning.pptx`

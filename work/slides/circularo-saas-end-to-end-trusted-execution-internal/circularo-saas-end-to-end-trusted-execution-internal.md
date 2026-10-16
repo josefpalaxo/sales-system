@@ -34,8 +34,8 @@ Current product, integration, compliance, and AI claims must be validated agains
 
 ## Source
 
-- `work/circularo-narrative/sources/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md`
+- `shared/messaging/circularo-narrative/sources/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md`
 
 ## Deliverable
 
-- `output/circularo-saas-end-to-end-trusted-execution-internal.pptx`
+- `work/local-output/circularo-saas-end-to-end-trusted-execution-internal.pptx`

@@ -37,8 +37,8 @@ Product, compliance, jurisdiction-specific, and future agentic claims must remai
 
 ## Source
 
-- `work/circularo-narrative/sources/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md`
+- `shared/messaging/circularo-narrative/sources/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md`
 
 ## Deliverable
 
-- `output/circularo-strategic-narratives-internal.pptx`
+- `work/local-output/circularo-strategic-narratives-internal.pptx`

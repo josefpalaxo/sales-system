@@ -7,9 +7,9 @@ Supports the [executive positioning brief](executive-positioning.md). This mater
 
 The requested [original idea](../ideas/Trusted%20Execution%20for%20the%20Agentic%20Era.md) supplies the strategic themes: continuous evidence, institutional authority, trusted records and governed action. Its broad present-tense claims are not a product specification.
 
-The requested [consolidated agentic narrative](../circularo-narrative/narratives/04-circularo-trusted-execution-for-the-agentic-era.md) explicitly identifies agent controls as forward-looking requirements. Its distinctions between preparation and approval, routed actions and bypass, requests and confirmed execution, and records and factual truth are preserved in the brief.
+The requested [consolidated agentic narrative](../../shared/messaging/circularo-narrative/narratives/04-circularo-trusted-execution-for-the-agentic-era.md) explicitly identifies agent controls as forward-looking requirements. Its distinctions between preparation and approval, routed actions and bypass, requests and confirmed execution, and records and factual truth are preserved in the brief.
 
-The supporting [strategic narrative](../circularo-narrative/narratives/02-circularo-strategic-narrative.md), [government narrative](../circularo-narrative/narratives/03-circularo-government-sovereign-trust-orchestration-pitch.md) and [consolidation review](../circularo-narrative/review/consolidation-review.md) are also internal drafts. They support the proposed category and customer framing, not verified capability or customer proof.
+The supporting [strategic narrative](../../shared/messaging/circularo-narrative/narratives/02-circularo-strategic-narrative.md), [government narrative](../../shared/messaging/circularo-narrative/narratives/03-circularo-government-sovereign-trust-orchestration-pitch.md) and [consolidation review](../../shared/messaging/circularo-narrative/review/consolidation-review.md) are also internal drafts. They support the proposed category and customer framing, not verified capability or customer proof.
 
 ## Official government evidence
 

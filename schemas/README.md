@@ -1,7 +1,11 @@
-# Schemas
+# Record schemas and validation
 
-Canonical records are Markdown with YAML frontmatter. [`common.schema.json`](common.schema.json) documents the shared envelope using JSON Schema Draft 2020-12.
+Maintained reusable records are Markdown with YAML frontmatter. [The common envelope](common.schema.json) records identity, scope, status, confidentiality, accountability, reviews, sources and relations. Supporting READMEs need no envelope; imported READMEs that already own IDs retain their records.
 
-The dependency-free validator currently enforces the essential envelope, lifecycle values, unique IDs, owner registration, date syntax, reference resolution, one-way typed relationship fields, single working directory, and generated catalogue freshness. For slide-deck records it also enforces same-basename Markdown/PPTX pairs and checks that singular `topic` metadata mirrors the topic folder. Entity-specific JSON Schemas should be added as each entity type becomes operational.
+Unknown draft owners and review dates may be explicit null/unassigned. These values do not count as review or approval evidence. Reviewed and approved records require registered owners and real review dates. Stable legacy `domain` values describe sales scope without requiring physical domain folders.
 
-For master documents and derived representations it also checks the master kind/role, an explicit `derives_from` relation matching `master_id`, a positive reconciled `master_revision`, and current revision agreement. An approved representation requires an approved governing master. The generated catalogue includes these fields for consumers. Run `rtk proxy python3 -B scripts/test_master_dependencies.py` for the focused behavior checks.
+Full masters and explicit structured representations live with their subjects. Masters carry `record_role: master`; representations retain `master_id`, `master_revision` and `derives_from`. Approval and revision agreement are enforced.
+
+The validator checks reusable records, registered IDs and relations, master dependencies, topic paths and deck companions, active Markdown links and retired roots. It respects Git exclusions, skips historical source links and project scratch, and validates exported snapshots without requiring Git metadata. Relationship records remain outside the reusable catalogue; investor provenance and state checks run from the root validation target.
+
+Run `rtk make catalog` after record changes and `rtk make validate`. Focused regression tests cover master dependencies, draft versus approved metadata, exported snapshots and local dependency exclusions.

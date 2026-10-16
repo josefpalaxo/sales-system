@@ -24,7 +24,7 @@ const OUTPUT_PPTX = path.join(OUTPUT, "about-circularo.pptx");
 const SOURCES = [
   "work/ideas/About Circularo.md",
   "work/p1/decks/00-circularo-company.md",
-  "shared/knowledge/company/circularo.md",
+  "shared/company/circularo.md",
   ".agents/skills/circularo-slides/references/brand-system.md",
 ];
 const QUALIFICATION = "Working external narrative. Corporate proof, certifications, locations, customer references, and quantified outcomes are not asserted.";

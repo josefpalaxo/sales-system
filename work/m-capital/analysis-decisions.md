@@ -92,7 +92,7 @@ Source of agreed scope: Josef's instructions in this task.
 - All nine affected rendered ranges were reviewed. Saved XLSX verified: nine sheets, Annual Forecast present, Customers table extended to column N, four validation rules, seven frozen panes, correctly linked/styled annual chart, and no cached formula errors. Native Excel recalculation was not exercised.
 - The spreadsheet skill guided preservation, annual input/build separation, recalculation and visual/export checks. No fresh ClickHouse queries, database mutations or full investor analysis were performed in this revision.
 - Implemented sql/00_discovery, 10_sources, 20_models, 30_analysis, 40_validation and 90_cleanup, plus evidence/. Existing scripts/, sample-data/, previews/ and outputs/ remain in place. SQL/evidence folders are intentionally empty until authorized implementation. Existing evidence JSON paths were preserved.
-- Added local AGENTS.md (Codex's recognized instructions filename), covering scope, read order, agreed semantics, authorization gates, data safety, folder responsibilities and verification. No duplicate PROJECT.md, output/ directory or files outside work/m-capital were created by this work.
+- Added local AGENTS.md (Codex's recognized instructions filename), covering scope, read order, agreed semantics, authorization gates, data safety, folder responsibilities and verification. No duplicate PROJECT.md, work/local-output/ directory or files outside work/m-capital were created by this work.
 
 ## September 6 source selection approved (2026-09-25)
 

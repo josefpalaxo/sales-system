@@ -254,7 +254,7 @@ outputs/
 
 The listed directories were created at Josef's request on 2026-09-24. SQL and evidence now contain the implemented frozen-source and financial-foundation models, validation scripts and run manifests. See sql/90_cleanup/object-inventory.md for deployed objects and superseded views. Downstream analytical and workbook completion must be checked separately. Add further directories only when needed. Local AGENTS.md gives folder-specific agent instructions.
 
-Keep existing evidence at its stable path; the `evidence/` directory is for new run evidence when needed. `scripts/` owns extraction/validation/workbook generation. `outputs/` is the existing delivery location; do not create a competing `output/` tree.
+Keep existing evidence at its stable path; the `evidence/` directory is for new run evidence when needed. `scripts/` owns extraction/validation/workbook generation. `outputs/` is the existing delivery location; do not create a competing `work/local-output/` tree.
 
 ## Annual forecast and customer-value model contract
 

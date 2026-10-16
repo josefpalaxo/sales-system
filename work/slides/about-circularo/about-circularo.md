@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [about-circularo.pptx](output/about-circularo.pptx)
+- PowerPoint: [about-circularo.pptx](work/local-output/about-circularo.pptx)
 - Slides: 15
 - Audience: investors, enterprise and government leaders, technology partners, channel partners, and implementation partners
 - Use: external company and platform overview, subject to normal human approval
@@ -43,4 +43,4 @@ The deck intentionally avoids unapproved claims about company location, tenure, 
 
 - `work/ideas/About Circularo.md`
 - `work/p1/decks/00-circularo-company.md`
-- `shared/knowledge/company/circularo.md`
+- `shared/company/circularo.md`

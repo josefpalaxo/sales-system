@@ -1,11 +1,19 @@
-# Shared context
+# Reusable sales library
 
-Shared records apply across two or more sales domains.
+Use one maintained home per subject. A document's status and evidence determine how it may be used; its folder does not grant approval.
 
-- `knowledge/` owns company, product, commercial, market, competition, and proof facts.
-- `master-documents/` holds active full business definitions and cross-domain sales guidance; approved masters govern their derived structured representations.
-- `messaging/` owns approved cross-domain positioning and narratives.
-- `templates/` owns reusable domain-neutral artifact structures.
-- `assets/` owns governed reusable binary artifacts whose purpose spans two or more sales domains.
+| Area | Contents |
+| --- | --- |
+| [Company](company/README.md) | Corporate context, strategy, finance and fundraising drafts |
+| [Product](product/README.md) | Product context and explicitly qualified roadmap and architecture material |
+| [Commercial](commercial/README.md) | Full commercial masters, their structured representations, and partner pricing |
+| [Messaging](messaging/README.md) | Company narrative, terminology, pitches and reusable sales packs |
+| [Playbooks](playbooks/README.md) | Selling guidance, partner programs and investor preparation |
+| [Market](market/README.md) | Market research and competitive analysis |
+| [Proof](proof/README.md) | Customer, deployment and traction evidence, including verification gaps |
+| [Templates](templates/README.md) | Reusable starting structures |
+| [Assets](assets/README.md) | Maintained presentations and other reusable deliverables |
 
-Do not place a record here merely because its owner is central. If its meaning applies only to one sales motion, keep it in that domain.
+Direct sales and partnerships are audiences and sales motions, not separate copies of the library. Use `domain`, tags and relations for discovery where useful. Full masters live with their subject; `record_role`, stable ID and approval metadata express their authority.
+
+Add a folder when real content needs it. Keep small subjects in one document until a split helps readers or consumers. Supporting READMEs need no record envelope; maintained knowledge and sales materials do.

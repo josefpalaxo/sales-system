@@ -1,9 +1,15 @@
-# Working directory
+# Work
 
-This is the repository's only non-canonical working directory.
+Projects, experiments, preparation and local output live here. Work remains non-canonical whether or not its sources are versioned.
 
-Use it temporarily for drafts, generated account/deal output, transformation intermediates, and local review material. Versioning does not make this material canonical.
+Keep each project together with a short README when useful: purpose, current state, editable sources, output and next decisions. Add folders when content exists; there is no required project scaffold.
 
-`m-capital/` has a reviewed source-only Git allowlist; see [its README](m-capital/README.md). Original project documents and source files may be versioned, while customer data, detailed evidence and generated artifacts remain local. This exception does not change existing tracking of other working projects.
+Reusable results move to `shared/` with provenance and an explicit status. Relationship context belongs in `relationships/`. Moving a draft into either area does not approve it. The [Circularo narrative](../shared/messaging/circularo-narrative/README.md), [API sales pack](../shared/messaging/unified-trust-api/README.md) and [competitive analysis](../shared/market/competition/README.md) now have reusable homes.
 
-Do not cite material here as approved knowledge. Promote durable learning by extracting the smallest reusable claim or pattern into a canonical record with provenance and normal review.
+Source files and selected deliverables may be versioned where permitted. Dependencies, caches, render previews and temporary build directories remain local. Existing project allowlists and confidentiality rules still apply, especially [M-Capital](m-capital/README.md).
+
+- `slides/` — presentation source projects and local builds; decks require separate content review and visual QA before promotion.
+- `slide-tooling/` — relocated slide-generator workspace and audit; the existing nested generator checkout remains local tooling.
+- `investor-research/` — research awaiting reconciliation into shared context.
+- `local-output/` and `local-scratch/` — preserved local output formerly at repository root.
+- [Repository restructure](repository-restructure/README.md) — migration map and validation evidence.

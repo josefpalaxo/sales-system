@@ -134,6 +134,52 @@
       "master:commercial-model",
       "source:commercial-model-2026"
     ],
+    "investor-master:business-business-model": [],
+    "investor-master:business-go-to-market": [],
+    "investor-master:business-pricing-and-commercial-model": [],
+    "investor-master:business-products-and-deployment-models": [],
+    "investor-master:company-company-history": [],
+    "investor-master:company-company-snapshot": [],
+    "investor-master:company-founders-and-team": [],
+    "investor-master:company-ownership-and-funding-history": [],
+    "investor-master:data-quality": [],
+    "investor-master:executive-index": [],
+    "investor-master:financials-arr-analysis": [],
+    "investor-master:financials-forecasts": [],
+    "investor-master:financials-historical-financials": [],
+    "investor-master:financials-revenue-quality": [],
+    "investor-master:financials-valuation-context": [],
+    "investor-master:market-competitive-landscape": [],
+    "investor-master:market-gcc-opportunity": [],
+    "investor-master:market-industry-trends": [],
+    "investor-master:market-market-opportunity": [],
+    "investor-master:product-agentic-trusted-execution": [],
+    "investor-master:product-edoc": [],
+    "investor-master:product-next-generation-architecture": [],
+    "investor-master:product-product-positioning": [],
+    "investor-master:product-product-roadmap": [],
+    "investor-master:product-trusted-records": [],
+    "investor-master:risks-due-diligence-issues": [],
+    "investor-master:risks-investor-questions": [],
+    "investor-master:risks-risks-and-mitigation": [],
+    "investor-master:strategy-agentic-future-thesis": [],
+    "investor-master:strategy-current-investor-narrative": [],
+    "investor-master:strategy-growth-strategy": [],
+    "investor-master:strategy-investment-thesis": [],
+    "investor-master:strategy-investor-context": [],
+    "investor-master:strategy-sovereign-platform-thesis": [],
+    "investor-master:strategy-sovereign-shared-services": [],
+    "investor-master:strategy-strategic-partnership-thesis": [],
+    "investor-master:strategy-strategic-vision": [],
+    "investor-master:traction-case-studies": [],
+    "investor-master:traction-customers": [],
+    "investor-master:traction-key-metrics": [],
+    "investor-master:traction-sovereign-deployments": [],
+    "investor-master:traction-strategic-partnerships": [],
+    "investor-master:transaction-long-term-exit-and-ipo": [],
+    "investor-master:transaction-strategic-investment-opportunity": [],
+    "investor-master:transaction-transaction-structure": [],
+    "investor-master:transaction-use-of-strategic-partner": [],
     "master:add-on-model": [
       "conflict:add-on-workspace-scope"
     ],
@@ -152,14 +198,17 @@
     "master:partner-management-circularo-saas-partner-sales-catalog": [],
     "master:partner-management-pricing-book-lessons-learned": [],
     "master:partner-management-pricing-book-plan": [],
+    "master:partner-management-pricing-book-readme": [],
     "master:partner-management-pricing-book-technical-documentation": [],
     "master:partner-management-pricing-book-user-manual": [],
+    "master:partner-management-readme": [],
     "master:partner-management-selling-circularo-saas-as-a-partner": [],
     "master:sales-guidelines-api-licensing-faqs": [],
     "master:sales-guidelines-api-licensing-principles": [],
     "master:sales-guidelines-api-pricing-recommendations": [],
     "master:sales-guidelines-circularo-positioning-framework": [],
     "master:sales-guidelines-circularo-sales-dos-and-do-nots": [],
+    "master:sales-guidelines-readme": [],
     "master:sales-guidelines-selling-circularo-api-plans": [],
     "master:sales-guidelines-selling-circularo-saas": [],
     "master:sales-guidelines-selling-sovereign-trust-solutions": [],
@@ -172,10 +221,96 @@
       "add-on-model:types",
       "add-on-model:commercial-rails"
     ],
+    "messaging:messaging-circularo-narrative-dictionary-circularo-vocabulary": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-dictionary-observations-and-recommendations": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-dictionary-phrase-library": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-dictionary-source-map": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-dictionary-usage-guidance": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-explainers-circularo-narrative-evolution": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-explainers-circularo-trust-orchestration": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-narratives-01-about-circularo": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-narratives-02-circularo-strategic-narrative": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-narratives-03-circularo-government-sovereign-trust-orchestration-pitch": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-narratives-04-circularo-trusted-execution-for-the-agentic-era": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-circularo-narrative-review-consolidation-review": [
+      "source:circularo-narrative-working-set"
+    ],
+    "messaging:messaging-unified-trust-api-blog-article": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-commercial-review": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-evidence-and-review": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-landing-page-copy": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-landing-page-handoff": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-linkedin-posts": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-pitch": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-positioning": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-proposal-copy": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-sales-brief": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "messaging:messaging-unified-trust-api-slack-message": [
+      "source:unified-trust-api-working-pack"
+    ],
+    "reference:market-competition-30-09-2026-circularo-competitive-positioning-master": [],
+    "reference:market-competition-circularo-competitive-positioning-master": [],
+    "reference:market-competition-circularo-executive-competitive-summary": [],
+    "reference:market-competition-circularo-omnitrust-us-positioning-against-docusign": [],
+    "reference:market-competition-review-executive-summary-editorial-notes": [],
+    "reference:playbooks-investors-governance": [],
+    "reference:templates-investor-relationship-contacts": [],
+    "reference:templates-investor-relationship-interaction-log": [],
+    "reference:templates-investor-relationship-investor-profile": [],
+    "reference:templates-investor-relationship-meeting-prep": [],
+    "reference:templates-investor-relationship-next-actions": [],
+    "reference:templates-investor-relationship-opportunity-map": [],
+    "reference:templates-investor-relationship-questions-and-objections": [],
+    "reference:templates-investor-relationship-strategic-fit": [],
     "source:add-on-model-2026": [],
+    "source:circularo-narrative-working-set": [],
     "source:commercial-model-2026": [],
+    "source:investor-workspace-mandate": [],
     "source:repository-architecture-brief": [],
     "source:sales-repo-canonical": [],
+    "source:unified-trust-api-working-pack": [],
     "subscription-model:dms-only": [
       "master:commercial-model",
       "source:commercial-model-2026"
@@ -515,6 +650,56 @@
         "type": "supports"
       }
     ],
+    "source:circularo-narrative-working-set": [
+      {
+        "target": "messaging:messaging-circularo-narrative-dictionary-circularo-vocabulary",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-dictionary-observations-and-recommendations",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-dictionary-phrase-library",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-dictionary-source-map",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-dictionary-usage-guidance",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-explainers-circularo-narrative-evolution",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-explainers-circularo-trust-orchestration",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-narratives-01-about-circularo",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-narratives-02-circularo-strategic-narrative",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-narratives-03-circularo-government-sovereign-trust-orchestration-pitch",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-narratives-04-circularo-trusted-execution-for-the-agentic-era",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-circularo-narrative-review-consolidation-review",
+        "type": "supports"
+      }
+    ],
     "source:commercial-model-2026": [
       {
         "target": "decision:master-document-authority",
@@ -610,6 +795,52 @@
       },
       {
         "target": "support-model:plans-and-services",
+        "type": "supports"
+      }
+    ],
+    "source:unified-trust-api-working-pack": [
+      {
+        "target": "messaging:messaging-unified-trust-api-blog-article",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-commercial-review",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-evidence-and-review",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-landing-page-copy",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-landing-page-handoff",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-linkedin-posts",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-pitch",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-positioning",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-proposal-copy",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-sales-brief",
+        "type": "supports"
+      },
+      {
+        "target": "messaging:messaging-unified-trust-api-slack-message",
         "type": "supports"
       }
     ],
@@ -753,6 +984,20 @@
       "decision:master-document-authority",
       "message:add-on-type-explanations"
     ],
+    "source:circularo-narrative-working-set": [
+      "messaging:messaging-circularo-narrative-dictionary-circularo-vocabulary",
+      "messaging:messaging-circularo-narrative-dictionary-observations-and-recommendations",
+      "messaging:messaging-circularo-narrative-dictionary-phrase-library",
+      "messaging:messaging-circularo-narrative-dictionary-source-map",
+      "messaging:messaging-circularo-narrative-dictionary-usage-guidance",
+      "messaging:messaging-circularo-narrative-explainers-circularo-narrative-evolution",
+      "messaging:messaging-circularo-narrative-explainers-circularo-trust-orchestration",
+      "messaging:messaging-circularo-narrative-narratives-01-about-circularo",
+      "messaging:messaging-circularo-narrative-narratives-02-circularo-strategic-narrative",
+      "messaging:messaging-circularo-narrative-narratives-03-circularo-government-sovereign-trust-orchestration-pitch",
+      "messaging:messaging-circularo-narrative-narratives-04-circularo-trusted-execution-for-the-agentic-era",
+      "messaging:messaging-circularo-narrative-review-consolidation-review"
+    ],
     "source:commercial-model-2026": [
       "commercial-model:sales-layers",
       "commercial-rule:add-on-plan-eligibility",
@@ -778,6 +1023,19 @@
       "subscription-model:transaction-based",
       "subscription-model:user-based",
       "support-model:plans-and-services"
+    ],
+    "source:unified-trust-api-working-pack": [
+      "messaging:messaging-unified-trust-api-blog-article",
+      "messaging:messaging-unified-trust-api-commercial-review",
+      "messaging:messaging-unified-trust-api-evidence-and-review",
+      "messaging:messaging-unified-trust-api-landing-page-copy",
+      "messaging:messaging-unified-trust-api-landing-page-handoff",
+      "messaging:messaging-unified-trust-api-linkedin-posts",
+      "messaging:messaging-unified-trust-api-pitch",
+      "messaging:messaging-unified-trust-api-positioning",
+      "messaging:messaging-unified-trust-api-proposal-copy",
+      "messaging:messaging-unified-trust-api-sales-brief",
+      "messaging:messaging-unified-trust-api-slack-message"
     ],
     "subscription-model:transaction-based": [
       "commercial-rule:bulk-signing",

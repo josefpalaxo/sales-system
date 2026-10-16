@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [circularo-sovereign-trust-shared-services.pptx](output/circularo-sovereign-trust-shared-services.pptx)
+- PowerPoint: [circularo-sovereign-trust-shared-services.pptx](work/local-output/circularo-sovereign-trust-shared-services.pptx)
 - Slides: 15
 - Audience: digital-government authorities, ministries, national identity and cybersecurity authorities, government-cloud operators, national technology operators, and shared-services sponsors
 - Use: internal shared-infrastructure narrative and multi-stakeholder architecture discovery

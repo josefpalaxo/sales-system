@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [agentic-trusted-execution-partner-enablement.pptx](output/agentic-trusted-execution-partner-enablement.pptx)
+- PowerPoint: [agentic-trusted-execution-partner-enablement.pptx](work/local-output/agentic-trusted-execution-partner-enablement.pptx)
 - Slides: 14
 - Audience: Circularo teams, technology partners, implementation partners, and channel partners
 - Use: internal and approved partner enablement

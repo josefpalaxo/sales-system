@@ -1,30 +1,13 @@
 # Repository storage and versioning
 
-Apply these rules when the current repository is the Circularo sales system.
+Apply these rules in the Circularo sales repository.
 
-## Route by lifecycle
+- Author and inspect decks under `work/slides/<task>/`. Permitted sources and selected deliverables may be versioned; dependencies, caches and render previews stay local.
+- Keep maintained reusable decks at `shared/assets/slides/<topic>/<stable-name>.pptx` for every sales motion, including partner enablement. The same-basename Markdown record owns status, classification, audience, sources and approval boundaries.
+- Set one singular `topic` matching the single folder below `assets/slides/`. Keep `domain` as sales-scope metadata; use tags and typed stable-ID relations for secondary associations. Do not create nested topic paths or a `domains/` tree.
+- Put organization-specific material in the relevant `relationships/` workspace or working project, subject to its handling rules. Do not promote raw account data as a reusable asset.
+- Before drafting from company messaging, use `shared/messaging/circularo-narrative/README.md` and inspect its draft status and claim boundaries. Approved facts and commercial records retain their authority.
 
-- Put source extracts, build scripts, renders, montages, inspection output, and other temporary material under `work/slides/<task>/`. This is the repository's only working tree and is ignored by Git.
-- Put a durable deck that applies across sales domains under `shared/assets/slides/<topic-path>/`.
-- Put a durable domain-specific deck under `domains/<domain>/assets/slides/<topic-path>/`.
-- Keep each committed `<stable-name>.pptx` beside a governed `<stable-name>.md` record. Use the same basename and declare `domain` plus an ordered `topics` list that mirrors the topic folders.
-- Treat the ordered `topics` list as the primary hierarchy, from broadest to narrowest. Express secondary associations as stable-ID relations rather than copying the deck into another topic.
-- Do not promote account-specific working output, personal data, raw customer material, or restricted content into the repository.
+Normal revisions replace the stable PPTX; Git history preserves earlier versions. Create another file only for a distinct durable audience, purpose, language or legal-scope variant. An approved semantic change increments the companion revision.
 
-## Use stable filenames
-
-Update the existing PPTX at its stable path for normal revisions. Git history is the version history.
-
-Do not create filenames containing revision markers such as `v2`, `v3`, `final`, `final-final`, dates, or initials unless the user explicitly asks for a frozen historical edition. Increment the companion record's `revision` when an approved deck changes semantically.
-
-Create a separate deck only when it is a durable variant with a different audience, purpose, language, legal scope, or sales domain. Name that distinction directly, for example `partner-overview.pptx` or `moi-sovereign-trust-platform.pptx`, and give each variant its own governed record.
-
-## Promotion checklist
-
-Before promotion:
-
-1. Confirm the topic and owning domain.
-2. Check for an existing stable deck and update it instead of adding a numbered copy.
-3. Complete visual and overflow QA.
-4. Create or update the same-basename Markdown record without upgrading unverified claims or approval state.
-5. Remove scratch output from the handoff and run repository validation.
+Before promotion, check the existing stable path, complete visual and overflow QA, preserve source and approval states, and run repository validation. Moving a draft into the shared library does not approve its claims or external use.

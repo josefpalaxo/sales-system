@@ -1,7 +1,6 @@
-# Shared assets
+# Reusable assets
 
-This layer contains governed reusable binary artifacts that apply across two or more sales domains. It is not a working directory.
+- [Slides](slides/README.md) — maintained topic-based decks and their governed companion records.
+- [Investor materials](investors/README.md) — reusable investor drafting destinations.
 
-Every artifact must have a companion governed Markdown record. Build files, renders, montages, inspections, and temporary exports belong under the root `work/` directory.
-
-- [`slides/`](slides/README.md) contains topic-organized presentation decks.
+Reusable artifacts serve any sales motion. Keep one stable path per artifact, and record audience, purpose, status, classification, owner and provenance. Build scripts, renders, previews and inspection output belong under `work/`. Account-specific materials belong in the relevant relationship or project, subject to handling rules.

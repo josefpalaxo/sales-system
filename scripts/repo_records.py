@@ -4,13 +4,14 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import os
 import re
+import subprocess
 
 
 ROOT = Path(__file__).resolve().parents[1]
 RECORD_ROOTS = (
     ROOT / "shared",
-    ROOT / "domains",
     ROOT / "governance" / "source-register",
     ROOT / "governance" / "conflicts",
     ROOT / "governance" / "decisions",
@@ -58,15 +59,44 @@ class Record:
         return tuple(relation_type for relation_type, _ in self.relations)
 
 
+def repository_files(root: Path = ROOT) -> list[Path]:
+    """Respect Git exclusions; also support dependency-free exported snapshots."""
+    result = subprocess.run(
+        ["git", "-C", str(root), "ls-files", "--cached", "--others", "--exclude-standard", "-z"],
+        capture_output=True, check=False,
+    )
+    if result.returncode == 0:
+        return sorted({root / os.fsdecode(name) for name in result.stdout.split(b"\0")
+                       if name and (root / os.fsdecode(name)).is_file()
+                       and not (root / os.fsdecode(name)).is_symlink()})
+    paths = []
+    for directory, children, names in os.walk(root, followlinks=False):
+        children[:] = [name for name in children
+                       if name not in {".git", "node_modules", ".venv", "__pycache__"}
+                       and not name.startswith((".build-", ".lo-profile-"))]
+        paths.extend(Path(directory) / name for name in names
+                     if not (Path(directory) / name).is_symlink())
+    return sorted(paths)
+
+
+def historical_path(path: Path) -> bool:
+    # Source indices remain navigable; original inputs keep historical links.
+    return "sources" in path.relative_to(ROOT).parts and path.name != "README.md"
+
+
 def record_paths() -> list[Path]:
     paths: list[Path] = []
-    for root in RECORD_ROOTS:
-        if not root.exists():
+    for path in repository_files():
+        if path.suffix != ".md" or historical_path(path):
             continue
-        for path in root.rglob("*.md"):
-            if path.name in {"README.md", "DOMAIN.md"}:
+        if not any(path.is_relative_to(root) for root in RECORD_ROOTS):
+            continue
+        if path.name in {"README.md", "DOMAIN.md", "AGENTS.md"}:
+            # Supporting navigation needs no envelope. Preserve IDs on imported indices.
+            text = path.read_text(encoding="utf-8")
+            if not text.startswith("---\n") or not re.search(r"^id:", text.split("\n---\n", 1)[0], re.M):
                 continue
-            paths.append(path)
+        paths.append(path)
     return sorted(paths)
 
 
@@ -158,4 +188,10 @@ def read_record(path: Path) -> Record:
 
 
 def load_records() -> list[Record]:
-    return [read_record(path) for path in record_paths()]
+    records = []
+    for path in record_paths():
+        try:
+            records.append(read_record(path))
+        except ValueError as exc:
+            raise ValueError(f"{path.relative_to(ROOT)}: {exc}") from exc
+    return records

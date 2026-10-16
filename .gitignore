@@ -5,3 +5,30 @@ __pycache__/
 # Working artefacts are versioned for traceability. XML exports remain local.
 work/*.xml
 work/**/*.xml
+*-repomix.xml
+
+# Dependencies, local configuration and reproducible build products.
+node_modules
+.venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+.build*/
+.lo-profile*/
+font-cache/
+**/previews/
+**/preview/
+**/preview-4k/
+work/slides/**/build/render/
+work/slides/**/output/slide-*.png
+work/slides/**/output/*.layout.json
+work/slides/**/output/*montage*.png
+work/local-scratch/
+sources/investor-context/**/raw/
+relationships/**/local/
+
+# Existing standalone slide-generator checkout remains local tooling.
+/work/slide-tooling/circularo-slide-generator/

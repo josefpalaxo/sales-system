@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [trusted-execution-agentic-era.pptx](output/trusted-execution-agentic-era.pptx)
+- PowerPoint: [trusted-execution-agentic-era.pptx](work/local-output/trusted-execution-agentic-era.pptx)
 - Slides: 15
 - Audience: enterprise, government, technology, architecture, risk, and digital-transformation decision-makers
 - Use: strategic narrative for internal, partner, and approved external conversations
