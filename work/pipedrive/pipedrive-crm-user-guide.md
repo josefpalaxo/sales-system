@@ -9,7 +9,7 @@ owner: role:cso
 
 Use this guide for everyday CRM entry and review. It consolidates the Organization instructions in the [CRM Data Hygiene and Customization Log](https://circularo.atlassian.net/wiki/spaces/Sales/pages/735182849/CRM+Data+Hygiene+Customization+Log) against the October 16, 2026 audit and completed Parent migration. Current Pipedrive field names are used throughout.
 
-**Draft for owner review.** This is the replacement guide prepared for the repository; the Confluence page remains unchanged as historical context. Organization configuration and usage were audited. The user subsequently authorized the separate Partner type, Partner roles and Partner tier structure described below; see its [implementation record](partner-classification/README.md). The short Persons and Deals sections carry forward recorded instructions that still require their own entity audits. Other proposed field renames and retirements remain unimplemented.
+**Draft for owner review.** This is the replacement guide prepared for the repository; the Confluence page remains unchanged as historical context. Organization and Person configuration and usage were audited. The user subsequently authorized the separate Partner type, Partner roles and Partner tier structure described below; see its [implementation record](partner-classification/README.md). The [Person audit and proposed model](person-fields-audit/pipedrive-person-fields-audit.md) are read-only recommendations; no Person cleanup or renames have been implemented. Deals still require their own audit. Other proposed field renames and retirements remain unimplemented.
 
 ## Create or review an organization
 
@@ -91,17 +91,17 @@ The user deleted **Partner type (legacy)** and finalized the new field name **Pa
 
 ## Role distinguishes who uses and who is billed
 
-**Role** supports **EndCustomer**, **BillingEntity**, or both.
+**Customer role** supports **EndCustomer**, **BillingEntity**, or both.
 
 - **EndCustomer** identifies an organization actually using Circularo under a particular subscription, whether it pays directly or another group company pays on its behalf.
 - **BillingEntity** identifies the legal organization receiving Circularo's invoices for that subscription.
 - Select both when the same organization receives the invoices and also uses Circularo.
 
-One enterprise subscription can serve multiple companies within a group. Create a separate **Organization** record for each known consuming company and track it as **Type = Customer**, **Role = EndCustomer**, even when it has no separate contract or invoice. Record the verified subscription association for the billing entity and every consuming company.
+One enterprise subscription can serve multiple companies within a group. Create a separate **Organization** record for each known consuming company and track it as **Type = Customer**, **Customer role = EndCustomer**, even when it has no separate contract or invoice. Record the verified subscription association for the billing entity and every consuming company.
 
 For example, one shared subscription can cover:
 
-| Organization | Role | Subscription association |
+| Organization | Customer role | Subscription association |
 | --- | --- | --- |
 | Group Holding Ltd | BillingEntity | Subscription A |
 | Group Manufacturing Ltd | EndCustomer | Subscription A |
@@ -144,9 +144,9 @@ Keep a separate Organization record for each provider and consuming company. The
 
 Support several end customers per provider/subscription and, where applicable, several providers or subscriptions per end customer. Start with these directed associations. Introduce a service hierarchy only if nested providers or tenants create a real navigation or reporting need.
 
-Keep **Role** focused on billing and consumption. BillingEntity does not automatically mean service provider, and providing a service does not automatically make the provider an EndCustomer. Assign both existing roles only when the organization actually receives Circularo's invoices and consumes the service in the relevant arrangement. These recommendations do not require a new Role option.
+Keep **Customer role** focused on billing and consumption. BillingEntity does not automatically mean service provider, and providing a service does not automatically make the provider an EndCustomer. Assign both existing roles only when the organization actually receives Circularo's invoices and consumes the service in the relevant arrangement. These recommendations do not require a new Role option.
 
-Do not ignore provider-to-customer relationships when tracking end customers, or infer them from shared corporate ownership. The existing Role selections and single Subscription field cannot express the complete association by themselves. The CRM/integration owner should approve where these associations are maintained and how users can view them. This is a model recommendation; no separate service-association feature or tenant hierarchy is claimed to be implemented in Pipedrive.
+Do not ignore provider-to-customer relationships when tracking end customers, or infer them from shared corporate ownership. The existing Customer role selections and single Subscription field cannot express the complete association by themselves. The CRM/integration owner should approve where these associations are maintained and how users can view them. This is a model recommendation; no separate service-association feature or tenant hierarchy is claimed to be implemented in Pipedrive.
 
 ## Contact address and integration fields
 
@@ -165,15 +165,23 @@ Do not ignore provider-to-customer relationships when tracking end customers, or
 
 Several Odoo company records can map to one CRM organization. Never replace the explicit mapping with a guessed single company ID or overwrite legal/tax information from an arbitrary linked entity.
 
-## Persons and Deals instructions awaiting their own audits
+## Persons: current fields and review findings
 
-These are carried forward from the log, not newly verified field definitions or current population statistics.
+The October 16, 2026 live API audit found **13,299 Persons, 12 custom fields and 41 standard/system definitions**. ClickHouse was excluded by user instruction. See the [complete audit](person-fields-audit/pipedrive-person-fields-audit.md), [proposed dictionary](person-fields-audit/pipedrive-person-target-model.md) and [cleanup plan](person-fields-audit/pipedrive-person-cleanup-plan.md). These are drafts for review; keep the current UI names until changes are approved.
 
-**Person email.** The recorded rule allows automated communication only for **Email Status = valid**. Other recorded values are invalid, disposable, unknown and accept_all_unverifiable. Do not treat unknown or accept-all as confirmed valid. The log's email-validation totals are historical and internally inconsistent, so no current contact counts are carried into this guide.
+**Person email.** The recorded rule allows automated communication only for **Email Status = valid**. Other current values are invalid, disposable, unknown and accept_all_unverifiable; blank is unclassified. The audit found 3,670 valid flags, including 51 contacts with no current email, plus nine valid-status contacts with multiple addresses. Check the actual target address and supporting validation evidence; the field is neither a complete current audience nor communication permission. A further 3,796 contacts have email but no validation status. The old log's totals are historical. Native marketing-status fields were unavailable to this company through the inspected API.
+
+**Contact classification.** Current Person **Status** has Lead, Active, Re-engage, Dormant, Disqualified and Former; it does not have Organizations' Prospect option. **Persona** is multi-select relationship/buying context. **Contact type** is a separate multi-select operational responsibility field: Billing, Admin, Technical and Support. Do not copy Organization Partner type, Partner roles, Partner tier or billing/consumption classifications into these fields automatically.
+
+**Affiliation and routing.** Native Organization is the primary evidenced affiliation. The additional **Related organization** field is populated on 128 sync-enabled contacts, including ten cases not equal to native affiliation; preserve it until the integration owner confirms its purpose. Synchronize is a request/inclusion flag, not proof of successful sync. Review ownership for current work: 38 contacts with open deals have inactive owners. Shared email/phone and name matches are review candidates, not automatic merge instructions.
+
+**Lifecycle instructions.** Preserve the log's restrictive recorded rule: only Active → Re-engage after at least 12 months of verified inactivity may be automated, while Dormant, Former and Disqualified are protected from automatic reactivation. The log's broader trigger/follow-up text needs owner reconciliation. Deployment of that automation was not verified.
+
+## Deals instructions awaiting their own audit
 
 **Deal Commercial Volume.** The log instructs users to record the licensed-user count and/or annual transaction volume supporting the deal's pricing, for example **100 users**, **8,000 transactions per year**, or **5,000 transactions per year with 25 users**. The Deal field's current existence, type and usage still need verification in the planned Deals audit.
 
-The Organization audit does not establish that Persons use the same Status options or that the contact/deal automations described in the log are deployed.
+The Organization and Person audits do not establish that the deal fields or contact/deal automations described in the log are deployed.
 
 ## What has changed since the Confluence log
 
