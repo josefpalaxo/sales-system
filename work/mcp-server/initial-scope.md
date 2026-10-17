@@ -21,6 +21,8 @@ Use a lightweight master plan now to establish purpose, audience, boundaries, an
 
 This sequence produces a reviewable scope early while allowing API validation and user feedback to shape the engineering plan.
 
+Treat public discovery and documentation consistency as launch work alongside MCP implementation. The [agent-readiness assessment](agent-readiness.md) records strong public-schema descriptions, but also Legacy-oriented discovery, a missing guide link and differing responses from the Swagger asset URL. Keep existing endpoint mappings tied to the identified public snapshot until contract delivery is reconciled.
+
 ## Initial user scenarios
 
 The ranking reflects a proposed internal pilot, not measured customer demand. Validate frequency, value, risk, and effort with actual users before fixing the backlog.
@@ -278,5 +280,7 @@ Test ambiguous document names; missing or mistyped recipients; restricted accoun
 | A7 | Which supported public interface supplies subscription allowances, remaining transaction/SMS/KYC balances, reset dates, and licensed-seat headroom; what do consumption dashboards measure | The inspected public contract has no balance/subscription endpoint. API owner must define units, periods, metering, permissions, and any endpoint enhancement. Activity insights can proceed; remaining-capacity answers cannot be inferred from counts |
 | A8 | Which API contract/version will ship with Contract Terms & Renewals, whose feature catalog targets 26.2.0 while the inspected public API is 26.1.0 | User requests coordinated launch. Confirm the release relationship and supported public Term reads, queries, updates, AI source locators, permissions, concurrency, history and migration; see dedicated journey requirements |
 | A9 | Which contract decision/notice deadlines are represented beyond expiration and non-fixed termination calculations | Do not derive a non-renewal cutoff from an unrelated notice period; confirm the model and supported calculations before promising deadline-specific answers |
+| A10 | Why does the public Swagger initialization URL return the public contract in the browser and one HTTP context but the internal contract in another direct fetch | Preserve both observations and investigate serving behavior; publish a clearly identified standalone public schema and verify consistent delivery before generating the production adapter |
+| A11 | How will public developer discovery distinguish the new API from Legacy and repair the reference's missing `/latest/guides` target | Publish the current public task guides and schema entry, reconcile `llms.txt`/Markdown/search routing, and pass a domain-only agent discovery test |
 
 The maintained [source record](../../sources/api/circularo-mcp-planning.source.md) records versions, access dates, and evidence limits. Resolve A1 with the API owner and preserve the outcome before extending template tools.

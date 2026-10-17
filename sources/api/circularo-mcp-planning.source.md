@@ -25,6 +25,21 @@ References inspected on 2026-10-17 for [the MCP planning project](../../work/mcp
 
 The public reference and schemas directly support the endpoint mappings in the proposal. They do not establish customer entitlement, deployment readiness, or operational test results. Pin a reviewed schema before implementation because the sandbox URL is mutable.
 
+### Agent discovery and retrieval audit
+
+Additional read-only checks on 2026-10-17 support the [agent-readiness assessment](../../work/mcp-server/agent-readiness.md):
+
+- `https://developers.circularo.com/robots.txt` returned 200, `Allow: /`, and a sitemap URL. `https://developers.circularo.com/llms.txt` and `/llms-full.txt` returned 200 with `text/markdown` content. The index lists `.md` pages; full content begins with `version: "Legacy"`.
+- [Public FAQ](https://developers.circularo.com/latest/faqs) remained reachable and described query-string `token` authentication and session-token lifetimes. These statements concern a different API model from the captured new public schema. Search also surfaced older token/sharing guides alongside a previously indexed new guide.
+- The public reference's `externalDocs.url`, `https://developers.circularo.com/latest/guides`, returned 404 in a direct HTTP check. A search snippet for that page did not establish that it remained live.
+- The FAQ's [OpenAPI link](https://developers.circularo.com/developers/latest/OpenApi3.json) resolved to `https://circularo.com/api/full/26.1.0/OpenApi3.json`: OpenAPI 3.0.3, version 26.1.0, 321 paths and no `servers` value.
+- A fresh direct GET of `https://sandbox.circularo.com/public/docs/swagger-ui-init.js` returned an internal-platform schema with `/api/v1`, query-token security, 321 paths and 389 operations. Asset SHA-256: `36bbdd92e0fab6bef39bdf0475f64e7e46097e260c3387d5c9322f94606e39ce`. The effective URL remained the public asset URL.
+- A fresh browser tab at the public reference displayed the new API and `/api/v1/public`. A later asset GET with both `Referer: https://sandbox.circularo.com/public/docs/` and `Cache-Control: no-cache` matched the earlier public asset SHA-256 `3c4629685d5bcb9c3022199aa4c2e686f1ab11c1fc45e49e7fd8a205c8f28078`. This establishes differing retrieval observations, not their cause or a change to the deployed API implementation. A10 remains unresolved.
+- Static inspection of that identified public snapshot found 66 unique operation IDs, 66/66 summaries and descriptions, 135/135 parameter-entry descriptions, and 704/704 direct schema-property descriptions. Nine operations advertise `Idempotency-Key` and four advertise `If-Match`. These are documentation-coverage counts, not operational tests or proof that every constraint is encoded.
+- An existing-report lookup at `https://is-agentic.com/api/v1/report?url=https%3A%2F%2Fdevelopers.circularo.com%2F` returned 404 with `code: report_not_found`. No report score is claimed and no new public scan was started.
+
+Direct HTTP and browser observations complement search/web extraction; some machine-readable URLs were fetchable over HTTP even when the web extraction tool could not read them. A11 records the current/Legacy discovery and guide-link publication work. No authenticated API execution was added by this audit.
+
 ## Circularo developer documentation
 
 Confluence pages were read through the connected Atlassian tools. Version numbers identify the inspected editions; URLs may later change content.
