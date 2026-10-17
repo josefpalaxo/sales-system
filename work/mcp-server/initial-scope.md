@@ -48,6 +48,12 @@ The ranking reflects a proposed internal pilot, not measured customer demand. Va
 
 Plan five complete user journeys: **find and track**, **prepare and send from a template**, **collect the completed result and evidence**, **administer and understand organization activity and usage**, and **manage contract terms deadlines and renewals**. Start the fourth journey with read-only insights and lookups; add reviewed administrative actions in a later iteration. Design the fifth journey's public API contract alongside the feature so it can join the intended coordinated launch.
 
+## My Action Brief across the five journeys
+
+Add [My Action Brief](personal-action-brief.md) as a first-class personalized experience spanning the five journeys. Its MVP answers “What needs my attention?” with up to five document items covering current signatures and approvals, blocked work the user owns, and upcoming recorded contract expirations or renewals. Each item explains personal relevance and priority, cites current evidence, shows timing and coverage limits, and offers a supported next action.
+
+Use explicit ranking rules and resolve “my” from authenticated identity. VIP status or a management title does not expand document access. Generate the briefing from structured state; refresh and recheck permissions before moving into the existing signing or reviewed-change flows. Broader management oversight, delegated assistants, scheduled delivery and automatic execution are later extensions. Validate participation coverage and the new Term feed before committing the complete MVP.
+
 ## Journey five contract terms deadlines and renewals
 
 Treat ongoing contract management as a core product journey with its own [detailed scope](contract-terms-renewals.md). Include structured expiry/renewal queries, recorded-term inspection, reviewed manual date changes and renewal configuration, native reminders, non-fixed termination tracking, and native AI suggestions with locatable source passages. Preserve the feature's derived term types, dependent settings, access effects, permissions and audit history.
@@ -166,7 +172,7 @@ The first three journeys use the ten tools above and assume existing templates a
 | `list_groups` | `GET /groups` | Authorized group discovery for the organization administrator |
 | `search_audit_logs` | `GET /audit-logs` | Bounded investigation with time and subject filters, visible scope, and preserved redaction |
 
-These sixteen tools cover the first four journeys. The [six Term journey tools](contract-terms-renewals.md) bring the candidate surface to twenty-two, with their public mappings pending the new contract. Individual users need only their authorized subset. Usage questions initially compose dashboard and report tools. A dedicated balance-summary tool depends on A7 and must not be implemented with guessed entitlements.
+These sixteen tools cover the first four journeys. The [six Term journey tools](contract-terms-renewals.md) bring the domain tool set to twenty-two, with their public mappings pending the new contract. The proposed `get_my_action_brief` composition tool adds one interface over authorized domain reads; it returns ranked evidence and eligible next actions without executing them. Individual users need only their authorized subset. Usage questions initially compose dashboard and report tools. A dedicated balance-summary tool depends on A7 and must not be implemented with guessed entitlements.
 
 Add `remind_recipient` and `cancel_transaction` after the P0 journeys are reliable. They map to `POST /transactions/{id}/recipients/{recipientId}/remind` and `POST /transactions/{id}/cancel`. The recipient reminder endpoint documents a once-per-day limit; SMS also needs permission and credit.
 
@@ -219,6 +225,8 @@ Use accurate tool annotations, but enforce controls in code: [MCP tool metadata]
 
 Include document discovery, transaction status, signing-template discovery, reviewed template sends, history, completed output retrieval, and authorized read-only administration, reports, dashboards, and audit investigation. Include Contract Terms & Renewals as a coordinated-launch target with the public capability and acceptance gates in its dedicated scope. Restrict sends to a pilot template allowlist and approved recipient verification profiles. Include operational usage insights where the configured data supports them; remaining subscription capacity depends on A7.
 
+Include the on-demand My Action Brief MVP as a personalized way to use these capabilities. Its renewal feed depends on the public Term contract; unsupported or unavailable feeds must be visible rather than summarized as an empty workload. See its [delivery and acceptance criteria](personal-action-brief.md#delivery-and-acceptance).
+
 Defer self-signing, sealing, free-form field placement, KYC personal-data entry, recipient reassignment or delegation, direct signing links, template authoring, account/key changes, general permission administration, destructive deletion, broad exports, and unattended bulk sends. Explicitly reviewed native reminder-related view grants belong to the Term journey. Administrative mutations remain a later iteration of journey four. Advanced verification can remain part of a later approved profile without exposing identity documents or national identifiers to the assistant.
 
 External scheduling, email/Slack delivery, CRM writes, and other systems are orchestration capabilities with their own permissions. Configuring native Circularo expiration reminders belongs to the Term journey; their execution stays in Circularo. Scope downstream connector work separately.
@@ -227,15 +235,16 @@ External scheduling, email/Slack delivery, CRM writes, and other systems are orc
 
 | Phase | Deliverable | Gate to proceed |
 | --- | --- | --- |
-| 1 Product scope | Audience, primary clients, five user journeys, exclusions, proposed owners, and success measures | Product and technical owners agree representative scenarios and organization-level data access |
-| 2 API feasibility | Baseline and coordinated-release schemas, public Term requirements, endpoint/permission matrix, resolved documentation questions, synthetic sandbox fixtures | API and feature owners confirm release/version alignment and required capabilities; file and identity paths are feasible |
+| 1 Product scope | Audience, primary clients, five user journeys, My Action Brief MVP, exclusions, proposed owners, and success measures | Product and technical owners agree representative scenarios, personal ranking rules and organization-level data access |
+| 2 API feasibility | Baseline and coordinated-release schemas, public Term requirements, briefing identity/participation coverage, endpoint/permission matrix, resolved documentation questions, synthetic sandbox fixtures | API and feature owners confirm release/version alignment and required capabilities; file, identity and personal briefing feeds are feasible |
 | 3 Find and track | Authenticated connection context, search, metadata, and transaction status | Representative queries resolve correctly; denied and cross-tenant requests fail safely |
 | 4 Reviewed sending | Preparation, trusted authorization, idempotent send, operation recovery | Changed plans are rejected and repeated sends do not duplicate transactions |
 | 5 Results and evidence | History and completed artifacts with client compatibility evidence | Users can retrieve the correct completed outputs and distinguish incomplete evidence |
 | 6 Administration reports and usage | Authorized user/group and audit lookups, reports, available dashboards, metric definitions, and A7 disposition | Correct access scope, complete or explicitly partial aggregates, and no unsupported balance claims |
 | 7 Contract terms and renewals | Structured queries, reviewed settings/reminders, native AI evidence flow, non-fixed terms and history | Published public capabilities satisfy the dedicated Term journey gates; missing capabilities receive explicit release disposition |
-| 8 Pilot acceptance | Telemetry, runbook, and cross-client evaluation | Pilot users complete representative scenarios across all five journeys and operational failure cases pass |
-| 9 Product release | Customer onboarding, supported hosting/client matrix, credential lifecycle, support and change policy | Product, engineering, and security owners approve production readiness |
+| 8 My Action Brief | On-demand personal briefing over current actions, owned follow-up and recorded Term attention, with evidence and supported action handoffs | Compact, relevant and explainable output; per-feed coverage is explicit and actions refresh state/access |
+| 9 Pilot acceptance | Telemetry, runbook, and cross-client evaluation | Pilot users complete representative scenarios across all five journeys and the personal briefing; operational failure cases pass |
+| 10 Product release | Customer onboarding, supported hosting/client matrix, credential lifecycle, support and change policy | Product, engineering, and security owners approve production readiness |
 
 Estimate staffing and dates after phases 1 and 2 expose identity, file-transfer, hosting, and API-gap work. Those dependencies can outweigh the endpoint adapter itself.
 
@@ -247,6 +256,7 @@ Proposed pilot targets, to agree before implementation:
 - Users can distinguish queued, pending, and terminal outcomes and can retrieve artifacts in each supported pilot client.
 - Organization-wide insights are denied when the MCP policy disallows them, even when the account has upstream access. Every metric identifies its cohort, period, source, and completeness; unavailable balances are reported as unavailable.
 - The Term journey returns correct structured deadline queries, preserves native scheduling and calculations, and applies only reviewed changes. Every offered AI value has a valid current-document source location; reminder access grants are explicit.
+- My Action Brief returns at most five initial document items with valid personal relevance, explainable ranking, evidence and supported next steps; partial feeds never produce a false all-clear, and generating a brief performs no persistent business action.
 - Establish a baseline for task time and API latency, then agree a measured improvement target. Do not claim savings before measurement.
 
 Test ambiguous document names; missing or mistyped recipients; restricted accounts; missing template roles; external-sharing denial; stale approvals; timeout after a processed send; duplicate execution; 429/503; 409/412; unknown error types; expired cursors; rejection/cancellation/expiry; incomplete artifact downloads; and injected instructions inside documents. Journey four also needs tests for report versus dashboard permissions, denied organization-wide access, personal versus organization audit visibility, redaction, empty dashboard lists, missing usage semantics, partial pagination, creation versus completion dates, timezone boundaries, and unsupported quota questions. Run the dedicated [Term journey release checks](contract-terms-renewals.md#delivery-and-evaluation) for journey five. Add webhook-loss and replay cases only when that component is included. Use synthetic documents and designated test recipients: the API has no no-effect test mode.
@@ -257,6 +267,7 @@ Test ambiguous document names; missing or mistyped recipients; restricted accoun
 | --- | --- | --- |
 | Business outcome for the confirmed internal audience | Faster agreement preparation and follow-up, with reliable visibility into organization activity, access, and usage | Product owner and pilot sponsor |
 | Representative scenarios across five journeys | Find and track; prepare and send; collect results; administer/report usage; manage contract terms, deadlines and renewals | Pilot users and product owner |
+| Personal briefing behavior | Agree initial ranking thresholds, recipient identity coverage, freshness, preference storage and client action handoffs | Pilot users, product and API owners |
 | Coordinated feature/API launch | Confirm version mapping, target public Term contract, entitlement semantics, migration and native AI support | Product, feature and API owners |
 | Organization insight access and metric definitions | Name permitted reporting/admin roles, approved cohorts, and authoritative activity/consumption definitions | Operations sponsor, API owner, and security |
 | Primary clients | Select one reference client and one additional client for compatibility testing | Product and engineering |
@@ -282,5 +293,6 @@ Test ambiguous document names; missing or mistyped recipients; restricted accoun
 | A9 | Which contract decision/notice deadlines are represented beyond expiration and non-fixed termination calculations | Do not derive a non-renewal cutoff from an unrelated notice period; confirm the model and supported calculations before promising deadline-specific answers |
 | A10 | Why does the public Swagger initialization URL return the public contract in the browser and one HTTP context but the internal contract in another direct fetch | Preserve both observations and investigate serving behavior; publish a clearly identified standalone public schema and verify consistent delivery before generating the production adapter |
 | A11 | How will public developer discovery distinguish the new API from Legacy and repair the reference's missing `/latest/guides` target | Publish the current public task guides and schema entry, reconcile `llms.txt`/Markdown/search routing, and pass a domain-only agent discovery test |
+| A12 | How can a personal briefing reliably resolve the caller's recipient identities and retrieve pending versus broader document participation | Validate current/queued waiting coverage, incoming shares, aliases and supported involvement relations. A waiting-recipient query cannot establish complete historical participation; no silent fallback to unrestricted organization reports |
 
 The maintained [source record](../../sources/api/circularo-mcp-planning.source.md) records versions, access dates, and evidence limits. Resolve A1 with the API owner and preserve the outcome before extending template tools.
