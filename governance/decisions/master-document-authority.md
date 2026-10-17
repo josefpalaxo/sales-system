@@ -31,7 +31,7 @@ spec:
 
 Keep the full Commercial Model and Add-On Model as active canonical master documents in sales-system. Smaller structured records remain useful derived representations for agents and do not replace the approved business masters. Historical snapshots hold superseded evidence.
 
-Use `shared/master-documents/` for cross-domain masters and sales guidance, and `domains/partnerships/master-documents/` for partner-specific material. Preserve stable IDs of existing records. Add explicit master relationships and revision references to their derived representations.
+Use `shared/commercial/` for cross-domain masters and sales guidance, and `shared/playbooks/partners/` for partner-specific material. Preserve stable IDs of existing records. Add explicit master relationships and revision references to their derived representations.
 
 ## Migration disposition
 

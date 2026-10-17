@@ -15,7 +15,7 @@ Git history records what changed. Approval metadata records whether the resultin
 
 ## Master documents and derived records
 
-Active full master documents live under `shared/master-documents/` for cross-domain material and `domains/<domain>/master-documents/` for domain-specific material. A current approved master is the authoritative business definition for its stated scope. Draft masters remain drafts; placing a document in a master directory does not approve its contents or external use.
+Full master documents live with their subject in `shared/`, identified by `kind: master-document` and `record_role: master`. A current approved master is the authoritative business definition for its stated scope. Reusable drafts may also live in the library; placement does not approve their contents or external use.
 
 Structured records provide smaller, agent-readable representations of a master. They carry `record_role: derived`, a `derives_from` relation, `master_id`, and the reconciled `master_revision`. Their own approvals and review dates remain necessary for reuse. An approved structured representation cannot independently supersede its governing master.
 
@@ -115,21 +115,25 @@ Changes to `main` should use pull requests with:
 
 GitHub rules should require passing checks and CODEOWNER review. `CODEOWNERS` itself must be protected.
 
-## Working material
+## Content locations
 
-`work/` is the only working directory. Do not add `tmp`, `.work`, domain-specific work folders, or account-output trees. Working material remains non-canonical whether or not it is versioned.
+`shared/` contains reusable knowledge and materials by subject. `relationships/` contains permitted organization-specific context. `work/` contains projects, experiments, preparation and temporary output. Direct sales and partnerships are sales motions, not separate knowledge roots. Do not recreate retired standalone roots.
+
+A reusable draft may be promoted to a maintained shared location without being approved. Preserve its status, evidence, classification and provenance. Working and relationship material remains non-canonical whether or not it is versioned. Supporting navigation needs no record envelope; unknown owners and review dates may be explicit null/unassigned for drafts only. Review and approval require the existing accountability and evidence controls.
 
 The approved `work/m-capital/` exception versions original project documentation and explicitly allowlisted source files without sanitization. Its local `.gitignore` denies all other files by default, including raw/customer data, detailed evidence, generated workbooks, previews, dependencies and local connection configuration. These local artifacts must not be force-added. Adding another source file requires explicit allowlist review. Versioning is for internal traceability, not investor publication approval. This exception neither audits nor changes existing tracking in other working projects.
 
 Durable learning from working material is promoted by extracting the smallest reusable claim or pattern into a normal record, preserving provenance, and submitting it for review.
 
-## Investor workspace exception
+## Relationship records and investor outreach
 
-The user-authorized `investors/` folder is versioned within this repository for investor master drafts, strategic narratives, templates and permitted relationship summaries. Its local [governance](investors/GOVERNANCE.md) and [agent instructions](investors/AGENTS.md) define its evidence and handling rules. It uses the parent Git history and remote, with no nested repository. Investor records retain their own draft/approval states and reference approved shared commercial records rather than replacing them. Raw personal data, credentials, CRM exports and correspondence remain excluded. Versioning does not authorize investor-facing publication.
+Partner and investor workspaces live under `relationships/`, with local agent instructions and the applicable handling rules. Common investor context is maintained by subject under `shared/`; [investor preparation](shared/playbooks/investors/README.md) indexes it and links its evidence rules. Relationship records remain operational context, outside the reusable knowledge catalogue. Local profiles and sources retain their approval and confidentiality states.
+
+The explicit 2026-10-03 investor-outreach authorization continues at `relationships/investors/outreach/`: the requested research, contact lists/register, saved conversations, evidence, scripts and outputs may remain versioned as confidential drafts. This exception does not extend to unrelated CRM exports, customer dumps, credentials or other correspondence. Versioning never authorizes sending or publication. Other relationship material follows the existing exclusions and local rules. Use the parent repository history, not nested Git repositories.
 
 ## Governed binary assets
 
-Reusable sales artifacts such as slide decks may be committed under `shared/assets/` or `domains/<domain>/assets/`. Each committed artifact must have a companion governed Markdown record that states its stable path, audience, purpose, owner, status, classification, review dates, and source lineage.
+Reusable sales artifacts such as slide decks may be committed under `shared/assets/`, including partner-focused artifacts. Each committed artifact must have a companion governed Markdown record that states its stable path, audience, purpose, owner, status, classification, review dates, and source lineage.
 
 For slide decks, `domain` and singular `topic` are first-class organizational metadata. `topic` mirrors the one folder below `assets/slides/`. The Markdown record and PPTX use the same stable basename. A deck therefore has one authoritative physical location; use tags for flexible discovery and typed relations for secondary, governed associations rather than copied files.
 

@@ -14,7 +14,7 @@
       "master_id": "master:add-on-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/add-ons/commercial-rails.md",
+      "path": "shared/commercial/add-ons/commercial-rails.md",
       "record_role": "derived",
       "relations": [
         {
@@ -54,7 +54,7 @@
       "master_id": "master:add-on-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/add-ons/add-on-types.md",
+      "path": "shared/commercial/add-ons/add-on-types.md",
       "record_role": "derived",
       "relations": [
         {
@@ -93,7 +93,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-model/sales-layers.md",
+      "path": "shared/commercial/commercial-model/sales-layers.md",
       "record_role": "derived",
       "relations": [
         {
@@ -129,7 +129,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/add-on-plan-eligibility.md",
+      "path": "shared/commercial/commercial-rules/add-on-plan-eligibility.md",
       "record_role": "derived",
       "relations": [
         {
@@ -168,7 +168,7 @@
       "master_id": "master:add-on-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/add-ons/add-on-policy-flags.md",
+      "path": "shared/commercial/add-ons/add-on-policy-flags.md",
       "record_role": "derived",
       "relations": [
         {
@@ -205,7 +205,7 @@
       "master_id": "master:add-on-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/add-ons/add-on-principles.md",
+      "path": "shared/commercial/add-ons/add-on-principles.md",
       "record_role": "derived",
       "relations": [
         {
@@ -249,7 +249,7 @@
       "master_id": "master:add-on-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/add-ons/add-on-scopes.md",
+      "path": "shared/commercial/add-ons/add-on-scopes.md",
       "record_role": "derived",
       "relations": [
         {
@@ -290,7 +290,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/api-access.md",
+      "path": "shared/commercial/commercial-rules/api-access.md",
       "record_role": "derived",
       "relations": [
         {
@@ -334,7 +334,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/automated-transactions.md",
+      "path": "shared/commercial/commercial-rules/automated-transactions.md",
       "record_role": "derived",
       "relations": [
         {
@@ -375,7 +375,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/bulk-signing.md",
+      "path": "shared/commercial/commercial-rules/bulk-signing.md",
       "record_role": "derived",
       "relations": [
         {
@@ -419,7 +419,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/manual-transactions.md",
+      "path": "shared/commercial/commercial-rules/manual-transactions.md",
       "record_role": "derived",
       "relations": [
         {
@@ -459,7 +459,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/sandbox-environments.md",
+      "path": "shared/commercial/commercial-rules/sandbox-environments.md",
       "record_role": "derived",
       "relations": [
         {
@@ -500,7 +500,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/subscription-inclusions-exclusions.md",
+      "path": "shared/commercial/commercial-rules/subscription-inclusions-exclusions.md",
       "record_role": "derived",
       "relations": [
         {
@@ -545,7 +545,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/subscription-plan-eligibility.md",
+      "path": "shared/commercial/commercial-rules/subscription-plan-eligibility.md",
       "record_role": "derived",
       "relations": [
         {
@@ -589,7 +589,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/transaction-fair-use.md",
+      "path": "shared/commercial/commercial-rules/transaction-fair-use.md",
       "record_role": "derived",
       "relations": [
         {
@@ -629,7 +629,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/transactional-document-storage.md",
+      "path": "shared/commercial/commercial-rules/transactional-document-storage.md",
       "record_role": "derived",
       "relations": [
         {
@@ -671,7 +671,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/user-transaction-allowances.md",
+      "path": "shared/commercial/commercial-rules/user-transaction-allowances.md",
       "record_role": "derived",
       "relations": [
         {
@@ -719,7 +719,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/commercial-rules/user-types.md",
+      "path": "shared/commercial/commercial-rules/user-types.md",
       "record_role": "derived",
       "relations": [
         {
@@ -758,7 +758,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/company/circularo.md",
+      "path": "shared/company/circularo.md",
       "record_role": "derived",
       "relations": [
         {
@@ -1069,7 +1069,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/editions/plan-edition-deployment.md",
+      "path": "shared/commercial/editions/plan-edition-deployment.md",
       "record_role": "derived",
       "relations": [
         {
@@ -1092,6 +1092,1064 @@
       "topic": null
     },
     {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:business-business-model",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/commercial/investor-context/business-model.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Business Model",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:business-go-to-market",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/playbooks/go-to-market.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Go-to-Market",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:business-pricing-and-commercial-model",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/commercial/investor-context/pricing-and-commercial-model.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Pricing and Commercial Model",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:business-products-and-deployment-models",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/commercial/investor-context/products-and-deployment-models.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Products and Deployment Models",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:company-company-history",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/investor-context/company-history.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Company History",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:company-company-snapshot",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/investor-context/company-snapshot.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Company Snapshot",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:company-founders-and-team",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/investor-context/founders-and-team.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Founders and Team",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:company-ownership-and-funding-history",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/investor-context/ownership-and-funding-history.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Ownership and Funding History",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:data-quality",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/playbooks/investors/data-quality-and-open-questions.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 2,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Data Quality and Open Questions",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:executive-index",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/playbooks/investors/investor-materials-master.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Investor Materials Master",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:financials-arr-analysis",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/financials/arr-analysis.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "ARR Analysis",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:financials-forecasts",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/financials/forecasts.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Forecasts",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:financials-historical-financials",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/financials/historical-financials.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Historical Financials",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:financials-revenue-quality",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/financials/revenue-quality.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Revenue Quality",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:financials-valuation-context",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/financials/valuation-context.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Valuation Context",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:market-competitive-landscape",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/competitive-landscape.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Competitive Landscape",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:market-gcc-opportunity",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/gcc-opportunity.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "GCC Opportunity",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:market-industry-trends",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/industry-trends.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Industry Trends",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:market-market-opportunity",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/market-opportunity.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Market Opportunity",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:product-agentic-trusted-execution",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/product/strategy/agentic-trusted-execution.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Agentic Trusted Execution",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:product-edoc",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/product/strategy/edoc.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "eDoc",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:product-next-generation-architecture",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/product/strategy/next-generation-architecture.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Next-Generation Architecture",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:product-product-positioning",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/product/strategy/product-positioning.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Product Positioning",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:product-product-roadmap",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/product/strategy/product-roadmap.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Product Roadmap",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:product-trusted-records",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/product/strategy/trusted-records.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Trusted Records",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:risks-due-diligence-issues",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/risks/due-diligence-issues.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Due-Diligence Issues",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:risks-investor-questions",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/risks/investor-questions.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 2,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Change history",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:risks-risks-and-mitigation",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/risks/risks-and-mitigation.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Risks and Mitigation",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-agentic-future-thesis",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/agentic-future-thesis.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Change history",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-current-investor-narrative",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/current-investor-narrative.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Change history",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-growth-strategy",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/growth-strategy.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Growth Strategy",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-investment-thesis",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/investment-thesis.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Change history",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-investor-context",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/investor-context.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Change history",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-sovereign-platform-thesis",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/sovereign-platform-thesis.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Change history",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-sovereign-shared-services",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/sovereign-shared-services.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Sovereign and Shared Services Strategy",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-strategic-partnership-thesis",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/strategic-partnership-thesis.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo \\u2014 Strategic Partnership Thesis",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:strategy-strategic-vision",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/strategy/strategic-vision.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo \\u2014 Strategic Vision",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:traction-case-studies",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/proof/case-studies.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Case Studies",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:traction-customers",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/proof/customers.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Customers",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:traction-key-metrics",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/proof/key-metrics.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Key Metrics",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:traction-sovereign-deployments",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/proof/sovereign-deployments.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Sovereign Deployments",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:traction-strategic-partnerships",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/proof/strategic-partnerships.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Strategic Partnerships",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:transaction-long-term-exit-and-ipo",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/fundraising/long-term-exit-and-ipo.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Long-Term Exit and IPO",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:transaction-strategic-investment-opportunity",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/fundraising/strategic-investment-opportunity.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Strategic Investment Opportunity",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:transaction-transaction-structure",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/fundraising/transaction-structure.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Transaction Structure",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "investor-master:transaction-use-of-strategic-partner",
+      "kind": "investor-context",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/company/fundraising/use-of-strategic-partner.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": 1,
+      "source_refs": [
+        "source:investor-workspace-mandate"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Use of Strategic Partner",
+      "topic": null
+    },
+    {
       "classification": "internal",
       "depends_on": [
         "conflict:add-on-workspace-scope"
@@ -1103,7 +2161,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/Circularo Add-On Model and How it Works.md",
+      "path": "shared/commercial/Circularo Add-On Model and How it Works.md",
       "record_role": "master",
       "relations": [
         {
@@ -1131,7 +2189,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/Circularo Commercial Dictionary.md",
+      "path": "shared/commercial/Circularo Commercial Dictionary.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1156,7 +2214,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/Circularo Commercial Model.md",
+      "path": "shared/commercial/Circularo Commercial Model.md",
       "record_role": "master",
       "relations": [
         {
@@ -1184,7 +2242,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Internal Partner Price Book.md",
+      "path": "shared/commercial/partners/Circularo Internal Partner Price Book.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1207,7 +2265,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Deal Registration Guide.md",
+      "path": "shared/playbooks/partners/Circularo Partner Deal Registration Guide.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1230,7 +2288,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Pricing & Special Pricing Guide.md",
+      "path": "shared/commercial/partners/Circularo Partner Pricing & Special Pricing Guide.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1253,7 +2311,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Pricing Strategy Architecture.md",
+      "path": "shared/commercial/partners/Circularo Partner Pricing Strategy Architecture.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1276,7 +2334,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program FAQ.md",
+      "path": "shared/playbooks/partners/Circularo Partner Program FAQ.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1299,7 +2357,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Guide.md",
+      "path": "shared/playbooks/partners/Circularo Partner Program Guide.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1322,7 +2380,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Operations Guide.md",
+      "path": "shared/playbooks/partners/Circularo Partner Program Operations Guide.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1345,7 +2403,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo Partner Program Policy.md",
+      "path": "shared/playbooks/partners/Circularo Partner Program Policy.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1368,7 +2426,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Circularo SaaS Partner Sales Catalog.md",
+      "path": "shared/commercial/partners/Circularo SaaS Partner Sales Catalog.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1391,7 +2449,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/pricing-book/lessons-learned.md",
+      "path": "shared/commercial/partners/pricing-book/lessons-learned.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1414,7 +2472,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/pricing-book/plan.md",
+      "path": "shared/commercial/partners/pricing-book/plan.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1431,13 +2489,36 @@
       "classification": "restricted",
       "depends_on": [],
       "domain": "partnerships",
+      "id": "master:partner-management-pricing-book-readme",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/commercial/partners/pricing-book/README.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Internal Price Book",
+      "topic": null
+    },
+    {
+      "classification": "restricted",
+      "depends_on": [],
+      "domain": "partnerships",
       "id": "master:partner-management-pricing-book-technical-documentation",
       "kind": "master-document",
       "last_reviewed": "2026-10-14",
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/pricing-book/technical-documentation.md",
+      "path": "shared/commercial/partners/pricing-book/technical-documentation.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1460,7 +2541,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/pricing-book/user-manual.md",
+      "path": "shared/commercial/partners/pricing-book/user-manual.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1477,13 +2558,36 @@
       "classification": "internal",
       "depends_on": [],
       "domain": "partnerships",
+      "id": "master:partner-management-readme",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/playbooks/partners/README.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Partner Management",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "partnerships",
       "id": "master:partner-management-selling-circularo-saas-as-a-partner",
       "kind": "master-document",
       "last_reviewed": "2026-10-14",
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "domains/partnerships/master-documents/partner-management/Selling Circularo SaaS as a Partner.md",
+      "path": "shared/playbooks/partners/Selling Circularo SaaS as a Partner.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1506,7 +2610,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/API Licensing FAQs.md",
+      "path": "shared/playbooks/selling/API Licensing FAQs.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1529,7 +2633,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/API Licensing Principles.md",
+      "path": "shared/playbooks/selling/API Licensing Principles.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1552,7 +2656,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/API Pricing Recommendations.md",
+      "path": "shared/playbooks/selling/API Pricing Recommendations.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1575,7 +2679,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/Circularo Positioning Framework.md",
+      "path": "shared/playbooks/selling/Circularo Positioning Framework.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1598,7 +2702,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/Circularo Sales DOs and DO NOTs.md",
+      "path": "shared/playbooks/selling/Circularo Sales DOs and DO NOTs.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1615,13 +2719,36 @@
       "classification": "internal",
       "depends_on": [],
       "domain": "shared",
+      "id": "master:sales-guidelines-readme",
+      "kind": "master-document",
+      "last_reviewed": "2026-10-14",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "role:cso",
+      "path": "shared/playbooks/selling/README.md",
+      "record_role": "master",
+      "relations": [],
+      "review_by": "2027-01-12",
+      "revision": 1,
+      "source_refs": [
+        "source:sales-repo-canonical"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Sales Guidelines",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
       "id": "master:sales-guidelines-selling-circularo-api-plans",
       "kind": "master-document",
       "last_reviewed": "2026-10-14",
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/Selling Circularo API Plans.md",
+      "path": "shared/playbooks/selling/Selling Circularo API Plans.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1644,7 +2771,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/Selling Circularo  SaaS.md",
+      "path": "shared/playbooks/selling/Selling Circularo  SaaS.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1667,7 +2794,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/Selling Sovereign Trust Solutions.md",
+      "path": "shared/playbooks/selling/Selling Sovereign Trust Solutions.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1690,7 +2817,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/sales-guidelines/Why API is Sold Only with User-Based Subscriptions.md",
+      "path": "shared/playbooks/selling/Why API is Sold Only with User-Based Subscriptions.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1713,7 +2840,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/Sales Hub.md",
+      "path": "shared/playbooks/Sales Hub.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1736,7 +2863,7 @@
       "master_id": null,
       "master_revision": null,
       "owner": "role:cso",
-      "path": "shared/master-documents/TODO.md",
+      "path": "shared/commercial/TODO.md",
       "record_role": "master",
       "relations": [],
       "review_by": "2027-01-12",
@@ -1796,6 +2923,990 @@
     },
     {
       "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-dictionary-circularo-vocabulary",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/dictionary/circularo-vocabulary.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Vocabulary",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-dictionary-observations-and-recommendations",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/dictionary/observations-and-recommendations.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Narrative Dictionary Observations and Recommendations",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-dictionary-phrase-library",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/dictionary/phrase-library.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Phrase Library",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-dictionary-source-map",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/dictionary/source-map.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Narrative Dictionary Source Map",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-dictionary-usage-guidance",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/dictionary/usage-guidance.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Narrative Usage Guidance",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-explainers-circularo-narrative-evolution",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/explainers/circularo-narrative-evolution.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo narrative evolution",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-explainers-circularo-trust-orchestration",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/explainers/circularo-trust-orchestration.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Trust Orchestration",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-narratives-01-about-circularo",
+      "kind": "narrative",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/narratives/01-about-circularo.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "About Circularo",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-narratives-02-circularo-strategic-narrative",
+      "kind": "narrative",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/narratives/02-circularo-strategic-narrative.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Strategic Narrative",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-narratives-03-circularo-government-sovereign-trust-orchestration-pitch",
+      "kind": "narrative",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/narratives/03-circularo-government-sovereign-trust-orchestration-pitch.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Government & Sovereign Trust Orchestration Pitch",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-narratives-04-circularo-trusted-execution-for-the-agentic-era",
+      "kind": "narrative",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/narratives/04-circularo-trusted-execution-for-the-agentic-era.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo: Trusted Execution for the Agentic Era",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:circularo-narrative-working-set"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-circularo-narrative-review-consolidation-review",
+      "kind": "messaging-reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/circularo-narrative/review/consolidation-review.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:circularo-narrative-working-set",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:circularo-narrative-working-set"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo narrative: review and consolidation",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-blog-article",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/blog-article.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "How Unified Trust API connects digital trust to business applications",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-commercial-review",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/commercial-review.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API commercial correction review",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-evidence-and-review",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/evidence-and-review.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API evidence and review",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-landing-page-copy",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/landing-page-copy.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API landing page copy",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-landing-page-handoff",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/landing-page-handoff.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API landing page handoff",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-linkedin-posts",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/linkedin-posts.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API LinkedIn post drafts",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-pitch",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/pitch.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API pitch",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-positioning",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/positioning.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API positioning",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-proposal-copy",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/proposal-copy.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Unified Trust API proposal copy",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-sales-brief",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/sales-brief.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API sales brief",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "domain": "shared",
+      "id": "messaging:messaging-unified-trust-api-slack-message",
+      "kind": "sales-material",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/messaging/unified-trust-api/slack-message.md",
+      "record_role": null,
+      "relations": [
+        {
+          "target": "source:unified-trust-api-working-pack",
+          "type": "based_on"
+        }
+      ],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [
+        "source:unified-trust-api-working-pack"
+      ],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API team Slack message draft",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:market-competition-30-09-2026-circularo-competitive-positioning-master",
+      "kind": "competitive-analysis",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/competition/30-09-2026-Circularo Competitive Positioning Master.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "**Circularo Competitive Positioning Master**",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:market-competition-circularo-competitive-positioning-master",
+      "kind": "competitive-analysis",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/competition/Circularo-Competitive-Positioning-Master.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo Competitive Positioning Master",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:market-competition-circularo-executive-competitive-summary",
+      "kind": "competitive-analysis",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/competition/Circularo-Executive-Competitive-Summary.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:market-competition-circularo-omnitrust-us-positioning-against-docusign",
+      "kind": "competitive-analysis",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/competition/Circularo Omnitrust US Positioning Against Docusign.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo and OmniTrust US positioning against Docusign",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:market-competition-review-executive-summary-editorial-notes",
+      "kind": "competitive-analysis",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/market/competition/review/executive-summary-editorial-notes.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Executive competitive summary: editorial and evidence notes",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:playbooks-investors-governance",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/playbooks/investors/governance.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Investor information governance",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-contacts",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/contacts.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Contacts",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-interaction-log",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/interaction-log.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Interaction Log",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-investor-profile",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/investor-profile.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Investor Profile",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-meeting-prep",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/meeting-prep.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Meeting Preparation",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-next-actions",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/next-actions.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Next Actions",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-opportunity-map",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/opportunity-map.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Opportunity Map",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-questions-and-objections",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/questions-and-objections.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Questions and Objections",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "reference:templates-investor-relationship-strategic-fit",
+      "kind": "reference",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "shared/templates/investor-relationship/strategic-fit.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Strategic Fit",
+      "topic": null
+    },
+    {
+      "classification": "internal",
       "depends_on": [],
       "domain": "shared",
       "id": "source:add-on-model-2026",
@@ -1819,6 +3930,27 @@
       "classification": "internal",
       "depends_on": [],
       "domain": "shared",
+      "id": "source:circularo-narrative-working-set",
+      "kind": "source",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "governance/source-register/circularo-narrative-working-set.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Circularo narrative working sources",
+      "topic": null
+    },
+    {
+      "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
       "id": "source:commercial-model-2026",
       "kind": "source",
       "last_reviewed": "2026-08-28",
@@ -1834,6 +3966,27 @@
       "status": "approved",
       "tags": [],
       "title": "Circularo Commercial Model",
+      "topic": null
+    },
+    {
+      "classification": "confidential",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "source:investor-workspace-mandate",
+      "kind": "source",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "governance/source-register/investor-workspace-mandate.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Original investor workspace mandate",
       "topic": null
     },
     {
@@ -1880,6 +4033,27 @@
     },
     {
       "classification": "internal",
+      "depends_on": [],
+      "domain": "shared",
+      "id": "source:unified-trust-api-working-pack",
+      "kind": "source",
+      "last_reviewed": "null",
+      "master_id": null,
+      "master_revision": null,
+      "owner": "unassigned",
+      "path": "governance/source-register/unified-trust-api-working-pack.md",
+      "record_role": null,
+      "relations": [],
+      "review_by": "null",
+      "revision": null,
+      "source_refs": [],
+      "status": "draft",
+      "tags": [],
+      "title": "Unified Trust API working sources",
+      "topic": null
+    },
+    {
+      "classification": "internal",
       "depends_on": [
         "master:commercial-model",
         "source:commercial-model-2026"
@@ -1891,7 +4065,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/subscription-models/dms-only.md",
+      "path": "shared/commercial/subscription-models/dms-only.md",
       "record_role": "derived",
       "relations": [
         {
@@ -1927,7 +4101,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/subscriptions/subscription-structure.md",
+      "path": "shared/commercial/subscriptions/subscription-structure.md",
       "record_role": "derived",
       "relations": [
         {
@@ -1967,7 +4141,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/subscription-models/transaction-based.md",
+      "path": "shared/commercial/subscription-models/transaction-based.md",
       "record_role": "derived",
       "relations": [
         {
@@ -2009,7 +4183,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/subscription-models/user-based.md",
+      "path": "shared/commercial/subscription-models/user-based.md",
       "record_role": "derived",
       "relations": [
         {
@@ -2056,7 +4230,7 @@
       "master_id": "master:commercial-model",
       "master_revision": 1,
       "owner": "role:cso",
-      "path": "shared/knowledge/commercial/support/support-and-services.md",
+      "path": "shared/commercial/support/support-and-services.md",
       "record_role": "derived",
       "relations": [
         {

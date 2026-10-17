@@ -77,7 +77,7 @@ All paths below are relative to this folder:
 | previews/ | Document/workbook visual QA |
 | outputs/ | Deliverable workbooks and their validation evidence |
 
-Preserve existing evidence JSON files at their current root paths. Do not create a competing output/ directory. Empty SQL folders are placeholders, not implemented database models.
+Preserve existing evidence JSON files at their current root paths. Do not create a competing work/local-output/ directory. Empty SQL folders are placeholders, not implemented database models.
 
 ## Verification and handoff
 

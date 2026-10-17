@@ -31,8 +31,8 @@ Slides 7–14 are designed to function as an independent deck. Slide 7 is the ch
 
 ## Source
 
-- `work/circularo-narrative/sources/new-story/about-circularo-updated.md`
+- `shared/messaging/circularo-narrative/sources/new-story/about-circularo-updated.md`
 
 ## Deliverable
 
-- `output/about-circularo-internal.pptx`
+- `work/local-output/about-circularo-internal.pptx`

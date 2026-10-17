@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [circularo-sovereign.pptx](output/circularo-sovereign.pptx)
+- PowerPoint: [circularo-sovereign.pptx](work/local-output/circularo-sovereign.pptx)
 - Slides: 14
 - Audience: government, defence, critical infrastructure, financial institutions, regulated enterprises, and organizations requiring private-cloud, sovereign-cloud, or on-premises control
 - Use: internal sovereign-deployment narrative and architecture discovery

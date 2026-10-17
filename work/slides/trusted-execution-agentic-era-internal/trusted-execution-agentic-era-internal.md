@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [trusted-execution-agentic-era-internal.pptx](output/trusted-execution-agentic-era-internal.pptx)
+- PowerPoint: [trusted-execution-agentic-era-internal.pptx](work/local-output/trusted-execution-agentic-era-internal.pptx)
 - Slides: 23
 - Audience: Circularo leadership, product, engineering, sales, partnerships, and strategy teams
 - Use: internal alignment on Circularo's evolution and strategic position in the agentic era
@@ -47,5 +47,5 @@ The narrative combines current platform concepts with forward-looking strategy. 
 
 ## Main sources
 
-- `work/circularo-narrative/sources/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md`
+- `shared/messaging/circularo-narrative/sources/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md`
 - `.agents/skills/circularo-slides/`

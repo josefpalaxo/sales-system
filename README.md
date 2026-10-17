@@ -1,48 +1,34 @@
 # Circularo Sales System
 
-This repository is the governed source for Circularo sales knowledge, messaging, methodologies, plays, templates, proof, and agent procedures.
+Reusable sales knowledge and materials, relationship context, and active working projects.
 
-## Repository model
+## Find what you need
 
-The repository has three content zones:
+| Need | Start here |
+| --- | --- |
+| Company story and terminology | [Circularo narrative](shared/messaging/circularo-narrative/README.md) — maintained internal drafts |
+| Company context | [Company](shared/company/README.md) |
+| Product and strategic direction | [Product](shared/product/README.md) |
+| Packaging, subscriptions and commercial rules | [Commercial](shared/commercial/README.md) |
+| Messaging, pitches and sales packs | [Messaging](shared/messaging/README.md) |
+| Selling and partner enablement | [Playbooks](shared/playbooks/README.md) |
+| Market and competitive context | [Market](shared/market/README.md) |
+| Customer evidence | [Proof](shared/proof/README.md) |
+| Presentations and reusable deliverables | [Assets](shared/assets/README.md) |
+| Reusable starting documents | [Templates](shared/templates/README.md) |
+| A particular partner or investor | [Relationships](relationships/README.md) |
+| A project in progress | [Work](work/README.md) |
 
-- [`shared/`](shared/README.md) contains canonical knowledge and messaging used across sales domains.
-- [`domains/`](domains/README.md) contains modular sales domains such as direct sales and partnerships.
-- [`work/`](work/README.md) is the single non-canonical working directory for drafts and situational output.
+## Where things belong
 
-Governed binary artifacts live in topic folders under `shared/assets/` or `domains/<domain>/assets/`. Their normal revisions replace one stable file; Git history carries earlier versions.
+- **`shared/`** — knowledge and materials maintained for reuse. Organize by subject, regardless of direct or partner-led sales. Drafts are welcome and remain visibly draft.
+- **`relationships/`** — permitted context and materials for specific organizations. These records do not establish general company truth.
+- **`work/`** — projects, experiments, preparation and local output. Promote reusable results when they have a maintained purpose.
 
-The user-authorized [`investors/`](investors/README.md) workspace is also versioned here for investor context and relationship preparation, subject to its local governance and the investor workspace exception in `GOVERNANCE.md`.
+Only current approved records are canonical for their stated scope. A move into `shared/` improves discovery; it does not approve a claim or authorize publication. Check status, evidence, confidentiality, review dates and conflicts before reuse.
 
-Agents and humans must treat only current, approved records as canonical. Draft, reviewed, expired, or conflicted material must remain visibly qualified.
+## Maintain the repository
 
-Full active master documents are the business authority for their approved scopes. Smaller structured records are derived representations for agent use. Start with the [master document library](shared/master-documents/README.md), including the Commercial Model and Add-On Model; use the [partner document library](domains/partnerships/master-documents/README.md) for the imported partner program, pricing, and enablement material.
+Read [agent instructions](AGENTS.md), [governance](GOVERNANCE.md) and [contributing](CONTRIBUTING.md). Edit the governing document first; keep stable IDs and reconcile any derived records. Run `rtk make catalog` and `rtk make validate`.
 
-## Start here
-
-1. Read [GOVERNANCE.md](GOVERNANCE.md).
-2. Read the relevant shared records and domain README.
-3. Make changes through the workflow in [CONTRIBUTING.md](CONTRIBUTING.md).
-4. Run `rtk make validate` before review.
-
-## Current state
-
-The repository includes:
-
-- shared and domain-extensible information architecture;
-- governance, ownership, lifecycle, evidence, and conflict rules;
-- active master documents, a source register, and historical input snapshots;
-- initial records for the known commercial-model conflicts;
-- deterministic structural validation and a generated catalogue; and
-- domain definitions for direct sales and partnerships, with imported partner-program documents retaining their draft limitations.
-
-The Commercial Model and Add-On Model remain active full master documents. Structured commercial records support agent use and track the master revisions they represent. Importing the remaining sales-repo documents does not approve draft prices, programs, or external content. See the [migration report](work/commercial-master-migration/README.md) for coverage, differences, and dependencies still to migrate.
-
-## Key documents
-
-- [Repository architecture proposal](REPOSITORY_PROPOSAL.md)
-- [Governance](GOVERNANCE.md)
-- [Contributing](CONTRIBUTING.md)
-- [Agent instructions](AGENTS.md)
-- [Domain model](domains/README.md)
-- [Schema conventions](schemas/README.md)
+`governance/`, `sources/`, `.agents/`, `scripts/`, `schemas/` and `generated/` support the content library. [The structure guide](REPOSITORY_PROPOSAL.md) explains routing and extension. [The migration report](work/repository-restructure/README.md) records relocated paths, preserved approval states and remaining promotion work.

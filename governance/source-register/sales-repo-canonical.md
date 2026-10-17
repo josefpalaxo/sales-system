@@ -21,7 +21,7 @@ spec:
 
 # Sales Repo Canonical Document Library
 
-Josef requested that the canonical document library be retained in sales-system, with full master documents as the business authority and smaller records as derived representations. Cross-domain material is under [shared master documents](../../shared/master-documents/README.md); partner-specific material is under [partnership master documents](../../domains/partnerships/master-documents/README.md).
+Josef requested that the canonical document library be retained in sales-system, with full master documents as the business authority and smaller records as derived representations. Cross-domain material is under [shared master documents](../../shared/commercial/README.md); partner-specific material is under [partnership master documents](../../shared/playbooks/partners/README.md).
 
 Most imported documents were marked draft. One API licensing rationale was marked approved but lacked review dates; its imported record is reviewed pending confirmation of current approval and dates. The source metadata is preserved in each imported document. Legacy external labels are treated as intended audiences, not publication approval. Strictly internal price-book material is restricted.
 

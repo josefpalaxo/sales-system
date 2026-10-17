@@ -448,7 +448,7 @@ This is a proposed structure, not a requirement to create a tab for every questi
 
 Preserve exact plan IDs/names and billing intervals on Contracts. Customer-level multiple-plan display must not multiply monetary measures. The limited sample labels its plan as selected-contract context, not a complete current-plan inventory.
 
-Repository implementation follows TASK.md: staged `sql/` folders, `scripts/` for reproducible generation, existing `outputs/`, and stable evidence paths. No duplicate PROJECT.md or competing output/ folder is needed. Freeze actuals, annual forecast inputs, assumptions, FX and model versions under one run manifest. Cleanup is an inventory/review step, not automatic deletion of reporting evidence or dependencies.
+Repository implementation follows TASK.md: staged `sql/` folders, `scripts/` for reproducible generation, existing `outputs/`, and stable evidence paths. No duplicate PROJECT.md or competing work/local-output/ folder is needed. Freeze actuals, annual forecast inputs, assumptions, FX and model versions under one run manifest. Cleanup is an inventory/review step, not automatic deletion of reporting evidence or dependencies.
 
 Workbook principles:
 

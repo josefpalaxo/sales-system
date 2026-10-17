@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [digital-signatures-to-trusted-execution.pptx](output/digital-signatures-to-trusted-execution.pptx)
+- PowerPoint: [digital-signatures-to-trusted-execution.pptx](work/local-output/digital-signatures-to-trusted-execution.pptx)
 - Slides: 14
 - Audience: Circularo colleagues, technology partners, implementation partners, and channel partners
 - Use: internal strategy, partner education, discovery, and solution-design conversations

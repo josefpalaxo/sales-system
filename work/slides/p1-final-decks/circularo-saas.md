@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [circularo-saas.pptx](output/circularo-saas.pptx)
+- PowerPoint: [circularo-saas.pptx](work/local-output/circularo-saas.pptx)
 - Slides: 15
 - Audience: enterprises, regulated organizations, government entities consuming SaaS, holding companies, digital-transformation teams, CIOs, CTOs, CISOs, and business-process owners
 - Use: enterprise sales narrative and internal or partner solution preparation

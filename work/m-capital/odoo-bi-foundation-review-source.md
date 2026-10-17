@@ -5,7 +5,7 @@
 - Status: SOURCE REFERENCE - NOT APPROVED POLICY. Non-canonical working material; internal review only.
 - Evidence state: the source author's reported assessment and recommendations. Transcription does not independently verify its claims or approve its proposed designs.
 - Original filename: `Odoo BI Foundation Review & MRR_KPI Layer Design (1).pdf`.
-- Original PDF: [Open source PDF](</Users/josefneumann/Downloads/Odoo BI Foundation Review & MRR_KPI Layer Design (1).pdf>).
+- Original PDF: [Open source PDF](<</Users/josefneumann/Downloads/Odoo BI Foundation Review & MRR_KPI Layer Design (1>).pdf>).
 - Source SHA-256: `272614c854d2d8c215fa58a54119aaa0ad29d4d564b453ba50a549f381b88508`.
 - Source length: 12 pages.
 - Conversion date: 2026-09-24.

@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [circularo-sovereign-trust-solutions.pptx](output/circularo-sovereign-trust-solutions.pptx)
+- PowerPoint: [circularo-sovereign-trust-solutions.pptx](work/local-output/circularo-sovereign-trust-solutions.pptx)
 - Slides: 15
 - Audience: government, defence, critical infrastructure, financial institutions, regulated enterprises, sovereign organizations, and implementation or technology partners
 - Use: approved external, internal, and partner architecture conversations, subject to claim validation

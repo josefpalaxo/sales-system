@@ -4,7 +4,7 @@
 
 ## Deck
 
-- PowerPoint: [circularo-company.pptx](output/circularo-company.pptx)
+- PowerPoint: [circularo-company.pptx](work/local-output/circularo-company.pptx)
 - Slides: 14
 - Audience: enterprise and government leaders, strategic partners, digital-transformation leaders, CIOs, CTOs, CISOs, and business-process owners
 - Use: internal company and platform narrative

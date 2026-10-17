@@ -5,7 +5,7 @@ import { pathToFileURL } from "node:url";
 const SKILL_DIR = "/Users/josefneumann/.codex/plugins/cache/openai-primary-runtime/presentations/26.903.11726/skills/presentations";
 const workspaceDir = "/Users/josefneumann/Projects/ai-workspace/sales-system/work/slides/circularo-strategic-evolution-positioning";
 const candidatePath = path.join(workspaceDir, "build/candidate.pptx");
-const finalPath = path.join(workspaceDir, "output/circularo-strategic-evolution-positioning.pptx");
+const finalPath = path.join(workspaceDir, "work/local-output/circularo-strategic-evolution-positioning.pptx");
 const pythonExecutable = "/Users/josefneumann/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3";
 
 const { finalizePresentation } = await import(pathToFileURL(path.join(SKILL_DIR, "container_tools/artifact_tool_utils.mjs")).href);
