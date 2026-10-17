@@ -7,9 +7,9 @@ owner: role:cso
 
 # Pipedrive CRM user guide
 
-Use this guide for everyday CRM entry and review. It consolidates the Organization instructions in the [CRM Data Hygiene and Customization Log](https://circularo.atlassian.net/wiki/spaces/Sales/pages/735182849/CRM+Data+Hygiene+Customization+Log) against the October 16, 2026 audit and completed Parent migration. Current Pipedrive field names are used throughout.
+Use this guide for everyday CRM entry and review. It consolidates the Organization, Person and Deal instructions in the [CRM Data Hygiene and Customization Log](https://circularo.atlassian.net/wiki/spaces/Sales/pages/735182849/CRM+Data+Hygiene+Customization+Log) against the October 16–17, 2026 audits and completed Parent migration. Current Pipedrive field names are used throughout.
 
-**Draft for owner review.** This is the replacement guide prepared for the repository; the Confluence page remains unchanged as historical context. Organization and Person configuration and usage were audited. The user subsequently authorized the separate Partner type, Partner roles and Partner tier structure described below; see its [implementation record](partner-classification/README.md). The [Person audit and proposed model](person-fields-audit/pipedrive-person-fields-audit.md) are read-only recommendations; no Person cleanup or renames have been implemented. Deals still require their own audit. Other proposed field renames and retirements remain unimplemented.
+**Draft for owner review.** This is the replacement guide prepared for the repository; the Confluence page remains unchanged as historical context. Organization, Person and Deal configuration and usage were audited. The user subsequently authorized the separate Partner type, Partner roles and Partner tier structure described below; see its [implementation record](partner-classification/README.md). The [Person audit](person-fields-audit/pipedrive-person-fields-audit.md) and [Deal audit](deal-fields-audit/pipedrive-deal-fields-audit.md) and their proposed models are read-only recommendations; no Person/Deal cleanup or renames have been implemented. Other proposed field renames and retirements remain unimplemented.
 
 ## Create or review an organization
 
@@ -177,11 +177,19 @@ The October 16, 2026 live API audit found **13,299 Persons, 12 custom fields and
 
 **Lifecycle instructions.** Preserve the log's restrictive recorded rule: only Active → Re-engage after at least 12 months of verified inactivity may be automated, while Dormant, Former and Disqualified are protected from automatic reactivation. The log's broader trigger/follow-up text needs owner reconciliation. Deployment of that automation was not verified.
 
-## Deals instructions awaiting their own audit
+## Deals: opportunity context and operational records
 
-**Deal Commercial Volume.** The log instructs users to record the licensed-user count and/or annual transaction volume supporting the deal's pricing, for example **100 users**, **8,000 transactions per year**, or **5,000 transactions per year with 25 users**. The Deal field's current existence, type and usage still need verification in the planned Deals audit.
+The October 17 live API audit covered **2,419 Deals: 1,266 non-archived and 1,153 archived**, with **23 custom and 49 standard/system fields**. See the [complete Deal audit](deal-fields-audit/pipedrive-deal-fields-audit.md), [proposed dictionary](deal-fields-audit/pipedrive-deal-target-model.md) and [cleanup plan](deal-fields-audit/pipedrive-deal-cleanup-plan.md). No CRM changes were made; current UI names remain in use.
 
-The Organization and Person audits do not establish that the deal fields or contact/deal automations described in the log are deployed.
+**Status, stage and archive are different.** Native Status records open/won/lost; stage records position in a pipeline; archive is separate. The Circularo and Strategic Deals pipelines represent sales work, while Subscriptions contains plan-named stages and operational history. Do not mix their counts into one unqualified forecast or infer an active subscription from Won. Thirty-five open Deals sit in a stage named Lost, and six open subscription records sit in Closed; the owner must resolve their actual meaning before changing outcomes.
+
+**Commercial Volume.** This existing text field is populated on 229 Deals. Record the licensed-user count and/or annual transaction volume supporting the proposal, for example **100 users**, **8,000 transactions per year**, or **5,000 transactions per year with 25 users**. Keep units and period clear. Do not put Priority, plan names or deployment wording here. Native Products count reflected enabled product quantities in the audit, so it is not automatically a product-line count, user count or transaction volume.
+
+**Parties and contacts.** Keep Reseller and Distributor as evidenced roles in this transaction, independent of an organization's current primary Partner type. Native Organization, primary Contact person, Billing contact and Admin contact serve different purposes; shared-services or partner affiliations can explain differences. Do not overwrite them by assuming every participant must belong to the same organization.
+
+**Reason and source.** Reason contains enquiry/use-case context; native Lost reason explains a commercial loss; Lost to identifies the competitor. Keep them distinct. Marketing Source and native Source channel/origin are not yet reconciled into one definition. All five UTM fields are empty on Deals but contain Lead data in the shared schema; preserve them and the captured referral/geography evidence.
+
+**Subscription context.** Plan includes product families and Promo/Trial offers. Data Region includes geographic choices, named environments and deployment modes; it is not always a country. Subscription ID has 209 spacing variants that require a reviewed source-compatible cleanup, not guessed new identifiers. Start Date/End Date and Billing Period must follow the actual agreed term/cadence; do not derive an end date or entitlement from expected close or stage. One inverted date pair needs source confirmation. The audit did not verify external billing/provisioning state or automation deployment.
 
 ## What has changed since the Confluence log
 
@@ -191,7 +199,7 @@ Comparison is with **version 14, last saved March 9, 2026**. Its Last Reviewed e
 | --- | --- |
 | Type simplified to three values in one summary, six in another section | Six values are live. This guide uses that complete list. |
 | An older twelve-value Type list remains in the page | Historical description; it does not describe the current field. |
-| Lifecycle list contains six statuses | Seven are live, including Prospect. Its definition needs clarification. |
+| Organization lifecycle list contains six statuses | Seven Organization statuses are live, including Prospect. Persons have six; Deals use their native outcome status. |
 | Priority is mandatory | Recorded business requirement, but the live mandatory flag is false and usage is incomplete. |
 | Partner type used only with Partner Type | This is recorded intent, not consistent current data; 111 tagged organizations lack Partner. |
 | Parent/billing hierarchy is presented as a complete billing model | Native hierarchy migration is complete for 156 valid mappings; actual billing roles remain transaction-specific. |
