@@ -10,6 +10,7 @@ One home for source descriptions, original inputs and historical snapshots. Star
 | `source:repository-architecture-brief` | [Repository architecture source](repository/repository-architecture-brief.source.md) | [Original brief](repository/snapshots/repository-architecture-brief.md) |
 | `source:circularo-narrative-working-set` | [Narrative working sources](messaging/circularo-narrative.source.md) | [Original narratives and evolution notes](messaging/circularo-narrative/README.md) |
 | `source:unified-trust-api-working-pack` | [API working sources](api/unified-trust-api/unified-trust-api.source.md) | [Specification](api/unified-trust-api/unified-trust-api.json) and [changelog](<api/unified-trust-api/26.1.0 - API Changelog.md>) |
+| `source:circularo-mcp-planning` | [MCP planning references](api/circularo-mcp-planning.source.md) | Live public API, versioned Confluence references, Docusign comparison and MCP specification links |
 | `source:investor-workspace-mandate` | [Investor setup mandate](investor-context/investor-workspace-mandate.source.md) | [Original brief and historical inspection](investor-context/README.md) |
 
 The [competitive-research request](competitive-analysis/task.md) is retained as original working context. The complete machine-readable record index is [generated/catalog.json](../generated/catalog.json).
