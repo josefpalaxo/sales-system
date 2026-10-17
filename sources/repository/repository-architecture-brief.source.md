@@ -13,7 +13,7 @@ review_by: 2027-08-27
 sources: []
 relations: {}
 spec:
-  snapshot: sources/archived-snapshots/repository-architecture-brief.md
+  snapshot: sources/repository/snapshots/repository-architecture-brief.md
   authority: design intent that led to REPOSITORY_PROPOSAL.md
   migration_status: superseded-by-proposal
 ---

@@ -13,7 +13,7 @@ This folder is the investor workspace within the sales-system Git repository. Co
 8. When management supplies a newer authoritative fact, update the smallest master record with provenance, reporting period and change history. Preserve earlier periods and escalate unresolved contradictions. Do not infer business approval.
 9. Never change common facts solely for an investor narrative or assumption. Keep investor research in its workspace unless it becomes generally relevant and passes review.
 10. Keep common facts in the shared topic records; investor analyses link to them. Generated deliverables may quote approved facts with source and revision provenance.
-11. Preserve stable upstream IDs for commercial rules, limits, prices and claims. Resolve them through [the source register](../../sources/investor-context/internal/sales-system-register.md); do not copy precise rules into a second maintained record.
+11. Preserve stable upstream IDs for commercial rules, limits, prices and claims. Resolve them through [the source register](../../sources/README.md); do not copy precise rules into a second maintained record.
 12. Use concise executive language. Preserve evidence/source references for material claims. Evaluate strategic fit qualitatively; do not invent numerical investor scores.
 13. Treat `sources/investor-context/setup.md` at repository root as the setup mandate and attributed strategic direction, not proof of financials, customers, legal compliance or production capability.
 14. Use one stable path per deliverable; normal revisions belong in Git history. Archive only explicitly superseded material.

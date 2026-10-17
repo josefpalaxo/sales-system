@@ -21,7 +21,7 @@ relations: {}
 
 Compare equivalent deployment, product version and use-case scopes using dated primary evidence.
 
-**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../sources/investor-context/README.md) before replacing placeholders. See the [open questions](../playbooks/investors/data-quality-and-open-questions.md).
+**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../sources/README.md) before replacing placeholders. See the [open questions](../playbooks/investors/data-quality-and-open-questions.md).
 
 ## Comparison scope
 

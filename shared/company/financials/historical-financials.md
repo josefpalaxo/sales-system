@@ -21,7 +21,7 @@ relations: {}
 
 Maintain actuals with source, accounting basis, currency, period and approval.
 
-**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../../sources/investor-context/README.md) before replacing placeholders. See the [open questions](../../playbooks/investors/data-quality-and-open-questions.md).
+**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../../sources/README.md) before replacing placeholders. See the [open questions](../../playbooks/investors/data-quality-and-open-questions.md).
 
 ## Actual financial statements
 

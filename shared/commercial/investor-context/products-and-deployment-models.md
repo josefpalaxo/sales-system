@@ -28,7 +28,7 @@ relations: {}
 | Multi-tenant Shared Services | Setup brief; tenant models in `edition-model:plan-edition-deployment` | Commercial multi-tenancy alone does not establish a live Shared Services reference |
 | API / embedded model | `commercial-rule:api-access` | Approved commercial API rule exists; embedded use cases and capability claims require product evidence |
 
-See [sales-system source register](../../../sources/investor-context/internal/sales-system-register.md). Commercial availability is not proof of a named production deployment or a sovereign-compliance claim.
+See [sales-system source register](../../../sources/README.md). Commercial availability is not proof of a named production deployment or a sovereign-compliance claim.
 
 ## Required evidence
 

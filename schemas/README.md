@@ -9,3 +9,5 @@ Full masters and explicit structured representations live with their subjects. M
 The validator checks reusable records, registered IDs and relations, master dependencies, topic paths and deck companions, active Markdown links and retired roots. It respects Git exclusions, skips historical source links and project scratch, and validates exported snapshots without requiring Git metadata. Relationship records remain outside the reusable catalogue; investor provenance and state checks run from the root validation target.
 
 Run `rtk make catalog` after record changes and `rtk make validate`. Focused regression tests cover master dependencies, draft versus approved metadata, exported snapshots and local dependency exclusions.
+
+Source descriptions use `<name>.source.md` filenames under `sources/` and the common envelope with `kind: source`. They remain in the catalogue and dependency graph. Raw inputs and files under `snapshots/` or `originals/` are excluded, even when they contain copied record metadata. Malformed active descriptors fail validation rather than silently disappearing.

@@ -21,7 +21,7 @@ relations: {}
 
 Define ARR before recording or reconciling figures; link headline metrics instead of duplicating them.
 
-**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../../sources/investor-context/README.md) before replacing placeholders. See the [open questions](../../playbooks/investors/data-quality-and-open-questions.md).
+**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../../sources/README.md) before replacing placeholders. See the [open questions](../../playbooks/investors/data-quality-and-open-questions.md).
 
 ## ARR definition and reporting date
 

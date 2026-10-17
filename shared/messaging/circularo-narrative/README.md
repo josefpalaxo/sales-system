@@ -26,7 +26,7 @@ Start with the Strategic Narrative when reviewing the substance; use About Circu
 - [Explainers](explainers/README.md): why the narrative evolved and how Trust Orchestration connects capabilities to outcomes.
 - [Dictionary](dictionary/README.md): definitions, preferred phrases, usage guidance and source provenance.
 - [Consolidation review](review/consolidation-review.md): source-by-source assessment, alignment decisions and claims needing evidence.
-- [Original sources](sources/README.md): nine earlier narrative files and two evolution notes, preserved unchanged.
+- [Original sources](../../../sources/messaging/circularo-narrative/README.md): nine earlier narrative files and two evolution notes, preserved unchanged.
 
 ## How to maintain this set
 
@@ -43,7 +43,7 @@ Keep current capability, integrations, development and strategic direction visib
 | `work/new-story/consolidated-narrative/01–04…md` | `narratives/` — four reconciled documents. |
 | `work/new-story/consolidated-narrative/README.md` | [Consolidation review](review/consolidation-review.md). |
 | `work/narrative-dictionary/` | [dictionary/](dictionary/README.md) — maintained working vocabulary. |
-| Nine originals in `work/new-story/` | [sources/new-story/](sources/README.md) — historical evidence, not active guidance. |
-| `work/narrative-evolution/` | [explainers/](explainers/README.md) — aligned active explanations; originals preserved under `sources/narrative-evolution/`. |
+| Nine originals in `work/new-story/` | [Original narrative collection](../../../sources/messaging/circularo-narrative/README.md) — historical evidence, not active guidance. |
+| `work/narrative-evolution/` | [explainers/](explainers/README.md) — aligned active explanations; originals are in the shared source collection under `originals/narrative-evolution/`. |
 
 The old entry points contain relocation notices only. Existing P1, ideas and slide projects remain separate source or presentation projects; their provenance is retained in the dictionary's [source map](dictionary/source-map.md).

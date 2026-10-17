@@ -11,4 +11,4 @@ These documents explain the reasoning behind the Circularo story. Use them for o
 
 The [dictionary](../dictionary/README.md) owns working definitions. The [Strategic Narrative](../narratives/02-circularo-strategic-narrative.md) owns the master story. These explainers develop the reasoning; they do not introduce competing definitions or additional company narratives.
 
-The two originals from `work/narrative-evolution/` are preserved unchanged under [sources](../sources/README.md#narrative-evolution-sources). The active explainers retain their central arguments while aligning terminology, platform scope and future-facing claims with the current working set.
+The two originals from `work/narrative-evolution/` are preserved unchanged under [sources](../../../../sources/messaging/circularo-narrative/README.md#narrative-evolution-sources). The active explainers retain their central arguments while aligning terminology, platform scope and future-facing claims with the current working set.

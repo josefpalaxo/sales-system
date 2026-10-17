@@ -17,6 +17,7 @@ Reusable sales knowledge and materials, relationship context, and active working
 | Presentations and reusable deliverables | [Assets](shared/assets/README.md) |
 | Reusable starting documents | [Templates](shared/templates/README.md) |
 | A particular partner or investor | [Relationships](relationships/README.md) |
+| Evidence and original source material | [Sources](sources/README.md) |
 | A project in progress | [Work](work/README.md) |
 
 ## Where things belong

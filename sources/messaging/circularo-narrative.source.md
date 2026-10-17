@@ -13,6 +13,6 @@ sources: []
 relations: {}
 ---
 
-Preserved input: [source collection](../../shared/messaging/circularo-narrative/sources/README.md). Original narrative sources and editorial review; proposed language, not verified product or corporate facts.
+Preserved input: [source collection](circularo-narrative/README.md). Original narrative sources and editorial review; proposed language, not verified product or corporate facts.
 
 The maintained package is at `shared/messaging/circularo-narrative/`. Existing claim boundaries and review notes remain in force. This source registration records migration provenance, not a fresh factual review or approval. See the [migration report](../../work/repository-restructure/README.md).

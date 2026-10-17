@@ -34,4 +34,4 @@ relations: {}
 
 **VISION / reported strategic direction:** Circularo is evolving toward a digital trust and trusted execution platform built around identity, authority, verifiable workflows, institutional evidence and trusted records, with a long-term role in human, system and AI-agent transactions.
 
-This is the setup brief's proposed investor positioning, not an approved description of production capability. See the [strategic vision](../strategy/strategic-vision.md), [product roadmap](../../product/strategy/product-roadmap.md) and [sales-system source register](../../../sources/investor-context/internal/sales-system-register.md).
+This is the setup brief's proposed investor positioning, not an approved description of production capability. See the [strategic vision](../strategy/strategic-vision.md), [product roadmap](../../product/strategy/product-roadmap.md) and [sales-system source register](../../../sources/README.md).

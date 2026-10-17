@@ -15,7 +15,7 @@ relations: {}
 spec:
   document: shared/commercial/Circularo Add-On Model and How it Works.md
   master_id: master:add-on-model
-  snapshot: sources/archived-snapshots/Circularo Add-On Model and How it Works.md
+  snapshot: sources/commercial/snapshots/Circularo Add-On Model and How it Works.md
   source_status: approved
   authority: active approved full master; structured add-on records are derived representations
   migration_status: active-master-restored-2026-10-14

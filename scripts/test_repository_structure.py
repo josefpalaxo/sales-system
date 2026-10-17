@@ -37,10 +37,36 @@ class RepositoryStructure(unittest.TestCase):
             self.assertEqual(names, {"shared/example.md"})
 
     def test_promoted_narrative_stays_draft_and_sources_are_not_records(self):
-        records = [r for r in load_records() if "circularo-narrative" in r.path.parts]
+        records = [r for r in load_records() if r.path.is_relative_to(ROOT / "shared/messaging/circularo-narrative")]
         self.assertGreaterEqual(len(records), 4)
         self.assertTrue(all(r.metadata["status"] == "draft" for r in records))
         self.assertTrue(all("sources" not in r.path.relative_to(ROOT).parts for r in records))
+
+    def test_source_snapshot_cannot_duplicate_an_active_record(self):
+        from repo_records import record_paths
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            descriptor = root / "sources/example.source.md"
+            snapshot = root / "sources/snapshots/example.source.md"
+            raw = root / "sources/example-original.md"
+            for path in (descriptor, snapshot, raw):
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text("---\nid: source:example\nkind: source\n---\nSame source ID\n")
+            with patch.multiple("repo_records", ROOT=root, RECORD_ROOTS=(root / "sources",),
+                                repository_files=lambda: [descriptor, snapshot, raw]):
+                self.assertEqual(record_paths(), [descriptor])
+
+    def test_malformed_source_descriptor_is_reported(self):
+        from repo_records import load_records as read_records
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            descriptor = root / "sources/broken.source.md"
+            descriptor.parent.mkdir()
+            descriptor.write_text("Missing record metadata\n")
+            with patch.multiple("repo_records", ROOT=root, RECORD_ROOTS=(root / "sources",),
+                                repository_files=lambda: [descriptor]):
+                with self.assertRaisesRegex(ValueError, "broken.source.md.*frontmatter"):
+                    read_records()
 
     def test_relationships_are_outside_reusable_catalogue(self):
         self.assertTrue(all("relationships" not in r.path.relative_to(ROOT).parts for r in load_records()))

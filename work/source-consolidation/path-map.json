@@ -1,0 +1,38 @@
+{
+  "baseline_revision": "fabb7364662bdfa8cd2abda40740ff2576efb7d2",
+  "paths": {
+    "governance/source-register/add-on-model-2026.md": "sources/commercial/add-on-model-2026.source.md",
+    "governance/source-register/circularo-narrative-working-set.md": "sources/messaging/circularo-narrative.source.md",
+    "governance/source-register/commercial-model-2026.md": "sources/commercial/commercial-model-2026.source.md",
+    "governance/source-register/investor-workspace-mandate.md": "sources/investor-context/investor-workspace-mandate.source.md",
+    "governance/source-register/repository-architecture-brief.md": "sources/repository/repository-architecture-brief.source.md",
+    "governance/source-register/sales-repo-canonical.md": "sources/commercial/sales-repo-canonical.source.md",
+    "governance/source-register/unified-trust-api-working-pack.md": "sources/api/unified-trust-api/unified-trust-api.source.md",
+    "shared/messaging/circularo-narrative/sources/README.md": "sources/messaging/circularo-narrative/README.md",
+    "shared/messaging/circularo-narrative/sources/narrative-evolution/Circularo Trust Orchestration.md": "sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo Trust Orchestration.md",
+    "shared/messaging/circularo-narrative/sources/narrative-evolution/Circularo narrative evolution.md": "sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo narrative evolution.md",
+    "shared/messaging/circularo-narrative/sources/new-story/Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md",
+    "shared/messaging/circularo-narrative/sources/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md",
+    "shared/messaging/circularo-narrative/sources/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md": "sources/messaging/circularo-narrative/originals/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md",
+    "shared/messaging/circularo-narrative/sources/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md",
+    "shared/messaging/circularo-narrative/sources/new-story/Circularo-Three-Strategic-Narratives.md": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Three-Strategic-Narratives.md",
+    "shared/messaging/circularo-narrative/sources/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md": "sources/messaging/circularo-narrative/originals/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md",
+    "shared/messaging/circularo-narrative/sources/new-story/about-circularo-updated.md": "sources/messaging/circularo-narrative/originals/new-story/about-circularo-updated.md",
+    "shared/messaging/circularo-narrative/sources/new-story/about-circularo.md": "sources/messaging/circularo-narrative/originals/new-story/about-circularo.md",
+    "shared/messaging/circularo-narrative/sources/new-story/new-narrative.md": "sources/messaging/circularo-narrative/originals/new-story/new-narrative.md",
+    "sources/archived-snapshots/Circularo Add-On Model and How it Works.md": "sources/commercial/snapshots/Circularo Add-On Model and How it Works.md",
+    "sources/archived-snapshots/Circularo Commercial Model.md": "sources/commercial/snapshots/Circularo Commercial Model.md",
+    "sources/archived-snapshots/partner-library-introduction.md": "sources/commercial/snapshots/partner-library-introduction.md",
+    "sources/archived-snapshots/repository-architecture-brief.md": "sources/repository/snapshots/repository-architecture-brief.md",
+    "sources/archived-snapshots/sales-repo-commercial-model-original.md": "sources/commercial/snapshots/sales-repo-commercial-model-original.md",
+    "sources/investor-context/internal/sales-system-provenance.json": "sources/investor-context/sales-system-provenance.json",
+    "sources/investor-context/internal/sales-system-register.md": "sources/investor-context/snapshots/sales-system-register-2026-10-01.md"
+  },
+  "retired_navigation": {
+    "governance/source-register/README.md": "sources/README.md",
+    "sources/investor-archive/README.md": "sources/investor-context/README.md",
+    "sources/investor-context/archive/README.md": "sources/investor-context/README.md",
+    "sources/investor-context/external/README.md": "sources/README.md",
+    "sources/investor-context/internal/README.md": "sources/README.md"
+  }
+}

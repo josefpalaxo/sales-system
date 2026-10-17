@@ -30,7 +30,7 @@ Within this working set:
 3. About Circularo, the government pitch and the agentic narrative apply that story for distinct purposes.
    The [explainers](../explainers/README.md) develop its reasoning for internal learning and alignment; they do not define a competing narrative.
 4. [The review](../review/consolidation-review.md) records consolidation choices, evidence gaps and unresolved decisions.
-5. [Original narrative sources](../sources/README.md) preserve provenance, not current drafting instructions.
+5. [Original narrative sources](../../../../sources/messaging/circularo-narrative/README.md) preserve provenance, not current drafting instructions.
 
 The September 2026 reconciliation was requested by the user. It retained the dictionary's trusted-action preference, mechanism/outcome distinction, evolution framework and applicable legal/compliance outcome requirements while aligning the newer drafts. It added working explanatory models; it did not approve product claims.
 
@@ -41,7 +41,7 @@ The September 2026 reconciliation was requested by the user. It retained the dic
 - [Government & Sovereign Trust Orchestration Pitch](../narratives/03-circularo-government-sovereign-trust-orchestration-pitch.md) — government and shared-services application.
 - [Trusted Execution for the Agentic Era](../narratives/04-circularo-trusted-execution-for-the-agentic-era.md) — future direction, delegation, routed execution and completion evidence.
 
-All four remain internal drafts. The original nine files from `work/new-story/` are now under `shared/messaging/circularo-narrative/sources/new-story/`, unchanged. The dictionary moved from `work/narrative-dictionary/` and was edited in place at its new location.
+All four remain internal drafts. The original nine files from `work/new-story/` are now under `sources/messaging/circularo-narrative/originals/new-story/`, unchanged. The dictionary moved from `work/narrative-dictionary/` and was edited in place at its new location.
 
 ## Governed records consulted
 
@@ -93,8 +93,8 @@ Both are draft, internal assets. Their presence in the governed tree does not ap
 
 ## Narrative evolution explainers and originals
 
-- [Circularo narrative evolution](../explainers/circularo-narrative-evolution.md) — active aligned explainer; [original](<../sources/narrative-evolution/Circularo narrative evolution.md>).
-- [Circularo Trust Orchestration](../explainers/circularo-trust-orchestration.md) — active aligned explainer; [original](<../sources/narrative-evolution/Circularo Trust Orchestration.md>).
+- [Circularo narrative evolution](../explainers/circularo-narrative-evolution.md) — active aligned explainer; [original](<../../../../sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo narrative evolution.md>).
+- [Circularo Trust Orchestration](../explainers/circularo-trust-orchestration.md) — active aligned explainer; [original](<../../../../sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo Trust Orchestration.md>).
 
 The originals were moved from `work/narrative-evolution/` without content changes. They supplied reasoning retained by the dictionary: the first expands the story into digital trust, and the second makes Trust Orchestration explicit as the capability producing Trusted Execution. The active explainers preserve that reasoning while following current terminology and claim boundaries. The original notes were read directly from the repository and were not present in the supplied Repomix bundle.
 

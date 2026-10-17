@@ -15,6 +15,7 @@ Maintain a practical Circularo sales library. Agents consume and transform suppo
 - `relationships/`: permitted context for specific customers, partners, investors and intermediaries. These operational records do not establish general company truth.
 - `work/`: projects, experiments, preparation and local output. Promote useful results to a maintained shared home with their provenance and explicit status.
 - Do not recreate the retired `domains/`, `partners/`, `investors/`, `slides-projects/`, `output/` or `tmp/` roots. Direct and partner-led sales are motions, not separate knowledge hierarchies.
+- Keep source descriptions and original inputs together in `sources/`. Use `.source.md` for maintained source records and the single `sources/README.md` index; snapshots and originals remain historical evidence.
 - Add folders only for real content. Keep one maintained home per concept and reference it elsewhere.
 
 ## Authority and reuse

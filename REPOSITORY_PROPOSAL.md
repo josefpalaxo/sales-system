@@ -10,7 +10,7 @@ The repository is a practical sales library with three content destinations:
 
 Full masters and structured representations live with their subject. Stable IDs, `record_role`, revision references, approval metadata and conflicts express authority. Draft reusable material is discoverable in `shared/`; its placement never grants approval. Relationship records remain operational context, outside the reusable catalogue.
 
-`governance/` holds ownership, vocabularies, source registration, decisions and conflicts. `sources/` preserves original inputs and historical snapshots. `.agents/` holds procedures and brand/tool resources. `scripts/` and `schemas/` support validation; `generated/` contains derived catalogues.
+`governance/` holds ownership, vocabularies, source registration, decisions and conflicts. `sources/` keeps maintained `.source.md` descriptions beside original inputs or external references, with one source index. It also preserves historical snapshots; governance contains no separate source register. `.agents/` holds procedures and brand/tool resources. `scripts/` and `schemas/` support validation; `generated/` contains derived catalogues.
 
 ## Extend only when useful
 

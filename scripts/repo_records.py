@@ -12,7 +12,7 @@ import subprocess
 ROOT = Path(__file__).resolve().parents[1]
 RECORD_ROOTS = (
     ROOT / "shared",
-    ROOT / "governance" / "source-register",
+    ROOT / "sources",
     ROOT / "governance" / "conflicts",
     ROOT / "governance" / "decisions",
 )
@@ -79,9 +79,17 @@ def repository_files(root: Path = ROOT) -> list[Path]:
     return sorted(paths)
 
 
+def source_record_path(path: Path) -> bool:
+    """Explicit descriptors are active; preserved copies never join the catalogue."""
+    parts = path.relative_to(ROOT).parts
+    return (parts[0] == "sources" and path.name.endswith(".source.md")
+            and not {"snapshots", "originals", "archive", "archived-snapshots"}.intersection(parts[1:-1]))
+
+
 def historical_path(path: Path) -> bool:
-    # Source indices remain navigable; original inputs keep historical links.
-    return "sources" in path.relative_to(ROOT).parts and path.name != "README.md"
+    # Source indices and descriptors stay live; original inputs keep historical links.
+    return ("sources" in path.relative_to(ROOT).parts and path.name != "README.md"
+            and not source_record_path(path))
 
 
 def record_paths() -> list[Path]:

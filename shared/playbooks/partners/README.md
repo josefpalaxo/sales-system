@@ -44,4 +44,4 @@ Imported partner materials remain **draft proposals**. Inherited references to c
 
 Individual partner profiles, strategies and permitted activity summaries belong in [partner relationships](../../../relationships/partners/README.md). Common company, product, proof and commercial definitions remain under `shared/`.
 
-The original imported library introduction is preserved as a [historical source](../../../sources/archived-snapshots/partner-library-introduction.md). This navigation update changes no program policy, price or approval state.
+The original imported library introduction is preserved as a [historical source](../../../sources/commercial/snapshots/partner-library-introduction.md). This navigation update changes no program policy, price or approval state.

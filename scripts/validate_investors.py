@@ -28,7 +28,7 @@ def validate_investors():
                 if metadata.get(key, "") in {"", "null", "unassigned", "pending"}:
                     errors.append(f"{relative}: approved investor context requires {key}")
     try:
-        manifest = json.loads((ROOT / "sources/investor-context/internal/sales-system-provenance.json").read_text())
+        manifest = json.loads((ROOT / "sources/investor-context/sales-system-provenance.json").read_text())
         identifiers = set()
         for source in manifest["records"]:
             if source["id"] in identifiers:

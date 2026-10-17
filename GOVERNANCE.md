@@ -74,7 +74,9 @@ The owner is accountable for correctness and review. Approvers provide domain au
 
 ## Sources
 
-Important sources have records under `governance/source-register/`. Source authority is domain-specific. A document may be authoritative for a product capability but not price, or for what a buyer said but not objective truth.
+Source descriptions and preserved inputs live together under `sources/`, indexed by [sources/README.md](sources/README.md). A maintained description uses a `<name>.source.md` filename and retains the shared record metadata and stable source ID. Original inputs and historical editions stay separate from the maintained description, under `originals/` or `snapshots/` where helpful. There is one source index; do not create topic-specific or governance source registers.
+
+Source authority is scope-specific. A document may be authoritative for a product capability but not price, or for what a buyer said but not objective truth. A durable external reference can be sufficient; preserving a copy is optional and subject to access and handling rules. Relocation does not refresh reviews or approve new claims.
 
 Never resolve a conflict merely by selecting the newest source. Preserve the disagreement and route it to the accountable owner.
 
