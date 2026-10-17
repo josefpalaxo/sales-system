@@ -15,7 +15,7 @@ relations: {}
 spec:
   document: shared/commercial/Circularo Commercial Model.md
   master_id: master:commercial-model
-  snapshot: sources/archived-snapshots/Circularo Commercial Model.md
+  snapshot: sources/commercial/snapshots/Circularo Commercial Model.md
   source_status: approved
   authority: active approved full master; structured commercial records are derived representations
   migration_status: active-master-restored-2026-10-14

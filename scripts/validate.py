@@ -9,7 +9,7 @@ import re
 import sys
 from urllib.parse import unquote, urlsplit
 
-from repo_records import ID_PATTERN, REQUIRED_KEYS, ROOT, historical_path, load_records, repository_files
+from repo_records import ID_PATTERN, REQUIRED_KEYS, ROOT, historical_path, load_records, repository_files, source_record_path
 
 
 ALLOWED_RECORD_STATUSES = {"draft", "reviewed", "approved", "deprecated"}
@@ -114,6 +114,10 @@ def validate() -> list[str]:
             by_id[record_id] = record.path
 
         kind = metadata.get("kind", "")
+        if source_record_path(record.path) and kind != "source":
+            errors.append(f"{relative}: .source.md descriptors require kind: source")
+        if kind == "source" and not source_record_path(record.path):
+            errors.append(f"{relative}: source records belong in sources/ as .source.md descriptors")
         status = metadata.get("status", "")
         allowed_statuses = ALLOWED_CONFLICT_STATUSES if kind == "conflict" else ALLOWED_RECORD_STATUSES
         if status and status not in allowed_statuses:
@@ -203,6 +207,8 @@ def validate() -> list[str]:
         relative = path.relative_to(ROOT)
         if relative.parts[0] in retired_roots:
             errors.append(f"{relative}: use shared/, relationships/ or work/ rather than a retired root")
+        if relative.parts[:2] == ("governance", "source-register"):
+            errors.append(f"{relative}: source descriptions and inputs belong together in sources/")
 
     slide_roots = [ROOT / "shared" / "assets" / "slides"]
     for slide_root in slide_roots:

@@ -21,7 +21,8 @@ relations:
 
 **Status:** Internal working explainer; proposed platform reasoning, not confirmed comprehensive capability coverage.  
 **Purpose:** Explain why Trust Orchestration connects the platform story to Trusted Execution.  
-**Source:** [Original orchestration note](<../sources/narrative-evolution/Circularo Trust Orchestration.md>).  
+**Source:** [Original orchestration note](<../../../../sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo Trust Orchestration.md>).
+
 **Working references:** [Dictionary](../dictionary/README.md) and [Strategic Narrative](../narratives/02-circularo-strategic-narrative.md).
 
 ## The missing connection

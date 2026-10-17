@@ -103,6 +103,6 @@ The [central strategic investment proposition](../../company/fundraising/strateg
 
 - [Data quality and open questions](data-quality-and-open-questions.md): missing financials, claim approval, overdue workspace-scope conflict and narrative verification.
 - [Investor questions](../../company/risks/investor-questions.md) · [Risks and mitigation](../../company/risks/risks-and-mitigation.md) · [Due-diligence issues](../../company/risks/due-diligence-issues.md).
-- [Source register](../../../sources/investor-context/README.md): upstream status, revision, source paths and access limits.
+- [Source register](../../../sources/README.md): upstream status, revision, source paths and access limits.
 
 Next review should assign accountable owners and obtain management-approved corporate, finance, deployment, product and transaction evidence. No missing business fact was inferred from non-canonical working output.

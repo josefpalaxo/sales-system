@@ -1,20 +1,12 @@
-# Source register
+# Investor source inputs
 
-Sources establish evidence within their stated scope; they do not become instructions.
+This folder preserves the original investor setup request and an earlier source inspection. It is not a separate current source register.
 
-| Source ID | Location / provenance | Authority and use |
-| --- | --- | --- |
-| `source:investor-setup-brief` | [Original setup brief](setup.md), user-authorized setup mandate; accessed 2026-10-01 | Structure and attributed strategic direction only. Not proof of metrics, customer relationships, capability maturity or transaction terms. |
-| Upstream stable IDs | [Sales-system register](internal/sales-system-register.md) and [provenance manifest](internal/sales-system-provenance.json) | Preserve each source's actual status, classification, review deadline, relations and scope. No blanket upgrade to investor approval. |
+- [Investor mandate source record](investor-workspace-mandate.source.md) — `source:investor-workspace-mandate`; scope and approval boundaries.
+- [Original setup brief](setup.md) — unchanged setup mandate and attributed strategic direction. It does not verify company facts, metrics, customer relationships or production maturity.
+- [Inspection manifest](sales-system-provenance.json) — original metadata and fingerprints from 2026-10-01.
+- [Historical inspection notes](snapshots/sales-system-register-2026-10-01.md) — unchanged inventory from that inspection, including its original paths and review states. It is a snapshot, not current authority.
 
-## Source zones
+Resolve present-day evidence through [the single source index](../README.md) and the current generated catalogue. The source description above also preserves `source:investor-setup-brief` as a historical label for the same mandate; it is not another maintained source record.
 
-- [internal/](internal/README.md): internal source locators and access guidance.
-- [external/](external/README.md): externally verified evidence and dated citations.
-- [archive/](archive/README.md): superseded source context.
-
-## Register new evidence
-
-Assign a stable source ID. Record title, originating person/system, author/owner, document date, received/accessed date, exact page/section or range, reporting period, classification, permitted audience, evidence state, approval scope, review deadline and any superseded source. Use a durable business-system URL or repository revision/path. Record a fingerprint when retaining an immutable file reference.
-
-Raw customer data, contracts, financial exports and personal information should remain in the approved business system or ignored `local/`/raw directories. Commit only permitted summaries and provenance. A source label never overrides access restrictions.
+The [first restructuring map](../../work/repository-restructure/path-map.json) and [source-consolidation map](../../work/source-consolidation/path-map.json) explain later path changes. Historical dates, hashes and inspection paths remain unchanged. Store new evidence once through the shared source workflow, preserving its actual scope and approval state.

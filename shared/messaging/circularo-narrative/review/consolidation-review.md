@@ -21,7 +21,7 @@ relations:
 
 **Prepared:** 25 September 2026  
 **Status:** Internal editorial recommendation and consolidated drafts; non-canonical.  
-**Scope:** The nine original narrative Markdown files, now preserved byte-for-byte under [sources/new-story](../sources/README.md), plus alignment with the six-file working dictionary.
+**Scope:** The nine original narrative Markdown files, now preserved byte-for-byte in the [original source collection](../../../../sources/messaging/circularo-narrative/README.md), plus alignment with the six-file working dictionary.
 
 ## Recommendation
 
@@ -63,15 +63,15 @@ The material also contains a practical enterprise story that should survive cons
 
 | Source | Editorial assessment | Destination |
 | --- | --- | --- |
-| [about-circularo.md](../sources/new-story/about-circularo.md) | Useful basic company outline; repeats platform and AI material and includes unverified proof claims. | Short introduction in 01; proof claims held below. |
-| [about-circularo-updated.md](../sources/new-story/about-circularo-updated.md) | Strongest platform taxonomy; too long for About and inconsistent numbering. | Concise About in 01; six-area model in 02; future concepts in 04. |
-| [Circularo-Three-Strategic-Narratives.md](../sources/new-story/Circularo-Three-Strategic-Narratives.md) | Strong strategic structure; complexity ladder combines independent dimensions. | One integrated story and complexity dimensions in 02. |
-| [Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md](../sources/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md) | Comprehensive internal source; duplicates company, platform, government and AI explanations. | Common definitions in 02; government application in 03; agentic argument in 04. |
-| [Trusted-Execution-for-the-Agentic-Era-Final.md](../sources/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md) | Strong authority and evidence argument; first half repeats the whole platform story. “Final” does not establish approval. | Focused future narrative in 04; enterprise problem in 02. |
-| [Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md](../sources/new-story/Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md) | Clear audience and useful shared-services thesis; broad market, integration and competitor claims need narrowing. | Focused pitch, illustrative use case and next step in 03. |
-| [Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md](../sources/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md) | Best practical enterprise opening. Repeats evidence sections; says 16 slides but contains 17 and has an inconsistent opening lifecycle. | Enterprise entry point and record concept in 02. Retain original as deck input, not a separate narrative authority. |
-| [Circularo-Strategic-Narratives-Internal-Deck-Outline.md](../sources/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md) | Useful presentation treatment of the same strategy. | Structure and terminology absorbed into 02. Any later deck should derive from the consolidated master. |
-| [new-narrative.md](../sources/new-story/new-narrative.md) | Pointer to two other documents; no additional narrative substance. | Replaced functionally by this index; original retained. |
+| [about-circularo.md](../../../../sources/messaging/circularo-narrative/originals/new-story/about-circularo.md) | Useful basic company outline; repeats platform and AI material and includes unverified proof claims. | Short introduction in 01; proof claims held below. |
+| [about-circularo-updated.md](../../../../sources/messaging/circularo-narrative/originals/new-story/about-circularo-updated.md) | Strongest platform taxonomy; too long for About and inconsistent numbering. | Concise About in 01; six-area model in 02; future concepts in 04. |
+| [Circularo-Three-Strategic-Narratives.md](../../../../sources/messaging/circularo-narrative/originals/new-story/Circularo-Three-Strategic-Narratives.md) | Strong strategic structure; complexity ladder combines independent dimensions. | One integrated story and complexity dimensions in 02. |
+| [Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md](../../../../sources/messaging/circularo-narrative/originals/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md) | Comprehensive internal source; duplicates company, platform, government and AI explanations. | Common definitions in 02; government application in 03; agentic argument in 04. |
+| [Trusted-Execution-for-the-Agentic-Era-Final.md](../../../../sources/messaging/circularo-narrative/originals/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md) | Strong authority and evidence argument; first half repeats the whole platform story. “Final” does not establish approval. | Focused future narrative in 04; enterprise problem in 02. |
+| [Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md](../../../../sources/messaging/circularo-narrative/originals/new-story/Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md) | Clear audience and useful shared-services thesis; broad market, integration and competitor claims need narrowing. | Focused pitch, illustrative use case and next step in 03. |
+| [Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md](../../../../sources/messaging/circularo-narrative/originals/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md) | Best practical enterprise opening. Repeats evidence sections; says 16 slides but contains 17 and has an inconsistent opening lifecycle. | Enterprise entry point and record concept in 02. Retain original as deck input, not a separate narrative authority. |
+| [Circularo-Strategic-Narratives-Internal-Deck-Outline.md](../../../../sources/messaging/circularo-narrative/originals/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md) | Useful presentation treatment of the same strategy. | Structure and terminology absorbed into 02. Any later deck should derive from the consolidated master. |
+| [new-narrative.md](../../../../sources/messaging/circularo-narrative/originals/new-story/new-narrative.md) | Pointer to two other documents; no additional narrative substance. | Replaced functionally by this index; original retained. |
 
 ## Evidence and unresolved decisions
 
@@ -128,7 +128,7 @@ Broader P1, ideas and slide projects remain in their existing locations and are 
 
 ## Evolution explainers added
 
-On the user's subsequent request, the two `work/narrative-evolution/` notes were included as active [explainers](../explainers/README.md), with their originals preserved unchanged under `sources/narrative-evolution/`. They explain why the story expands and how orchestration connects capabilities to outcomes. They complement the four core narratives rather than expanding that set to six competing narratives.
+On the user's subsequent request, the two `work/narrative-evolution/` notes were included as active [explainers](../explainers/README.md), with their originals preserved unchanged in the source collection under `originals/narrative-evolution/`. They explain why the story expands and how orchestration connects capabilities to outcomes. They complement the four core narratives rather than expanding that set to six competing narratives.
 
 The aligned explanations retain the original reasoning while using trusted-action terminology, the dictionary's evolution sequence, the six-area platform model and explicit future direction. The first original used Digital Trust as a stage; the second introduced Trust Orchestration as the mechanism. The explainer makes that relationship explicit. It also distinguishes individual trust events from complete outcomes and removes any implication that the source proposals themselves granted canonical status or proved product availability.
 

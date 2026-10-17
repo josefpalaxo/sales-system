@@ -21,7 +21,7 @@ relations: {}
 
 ## Authoritative commercial references
 
-Resolve current records through the [sales-system source register](../../../sources/investor-context/internal/sales-system-register.md); do not maintain copied prices, limits or eligibility rules here.
+Resolve current records through the [sales-system source register](../../../sources/README.md); do not maintain copied prices, limits or eligibility rules here.
 
 | Topic | Stable source ID |
 | --- | --- |

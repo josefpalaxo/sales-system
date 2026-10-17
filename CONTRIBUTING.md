@@ -28,3 +28,7 @@ Use `.agents/skills/<skill-name>/SKILL.md` with name and description frontmatter
 ## Data and build files
 
 Preserve local allowlists and the explicitly authorized investor-outreach scope. Keep credentials, unrelated personal/raw customer data and CRM exports out of Git. Version permitted editable sources and selected deliverables; dependencies, caches, preview renders and temporary build directories remain local. Do not force-add excluded files.
+
+## Source evidence
+
+Keep a maintained `<name>.source.md` description beside the original inputs or durable external references under `sources/`. Register it once in the source index. Preserve source IDs, approval metadata and immutable originals; snapshots do not become current catalogue records. See [source guidance](sources/README.md).

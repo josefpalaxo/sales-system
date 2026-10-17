@@ -21,7 +21,7 @@ relations: {}
 
 Maintain approved routes to market, with actual performance separated from strategy.
 
-**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../sources/investor-context/README.md) before replacing placeholders. See the [open questions](investors/data-quality-and-open-questions.md).
+**NEEDS VERIFICATION — no approved investor claim populated.** Owner, source and review date are pending. Add evidence under the [source register](../../sources/README.md) before replacing placeholders. See the [open questions](investors/data-quality-and-open-questions.md).
 
 ## Direct sales
 

@@ -20,7 +20,7 @@ relations:
 spec:
   authority: active canonical master document for its stated scope, subject to recorded conflicts
   relocation_date: 2026-10-14
-  previous_snapshot: "sources/archived-snapshots/Circularo Add-On Model and How it Works.md"
+  previous_snapshot: "sources/commercial/snapshots/Circularo Add-On Model and How it Works.md"
   previous_snapshot_sha256: 618799d4165edd2c75e040539af3d0ce3fccdf880547ea3facba5fc2b3e5efb6
   content_review: inherited 2026-08-28 approval; relocation does not refresh commercial review
   legacy_frontmatter: |

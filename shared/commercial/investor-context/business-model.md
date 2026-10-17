@@ -29,7 +29,7 @@ Current approved internal sales records document a subscription-based commercial
 | Subscription structure | `subscription-model:structure` | Resolve model/packaging rules upstream |
 | Deployment model | `edition-model:plan-edition-deployment` | Resolve exact plan/deployment mapping upstream |
 
-Source versions, dates and classifications: [sales-system source register](../../../sources/investor-context/internal/sales-system-register.md).
+Source versions, dates and classifications: [sales-system source register](../../../sources/README.md).
 
 ## Economic evidence still required
 

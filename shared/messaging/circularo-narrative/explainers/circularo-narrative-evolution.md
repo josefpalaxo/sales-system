@@ -21,7 +21,8 @@ relations:
 
 **Status:** Internal working explainer; strategic reasoning, not a product release history or approved capability statement.  
 **Purpose:** Explain why the Circularo story expands while retaining digital signatures as a foundation.  
-**Source:** [Original evolution note](<../sources/narrative-evolution/Circularo narrative evolution.md>), interpreted alongside [the orchestration explainer](circularo-trust-orchestration.md).  
+**Source:** [Original evolution note](<../../../../sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo narrative evolution.md>), interpreted alongside [the orchestration explainer](circularo-trust-orchestration.md).
+
 **Working references:** [Dictionary](../dictionary/README.md) and [Strategic Narrative](../narratives/02-circularo-strategic-narrative.md).
 
 ## One continuous evolution

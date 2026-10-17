@@ -20,7 +20,7 @@ relations:
 spec:
   authority: active canonical master document for its stated scope, subject to recorded conflicts
   relocation_date: 2026-10-14
-  previous_snapshot: "sources/archived-snapshots/Circularo Commercial Model.md"
+  previous_snapshot: "sources/commercial/snapshots/Circularo Commercial Model.md"
   previous_snapshot_sha256: 7bbd98cdbf813cd5cdb0841519f6d0292b8cf83b079c832f32ff84dbb6c556ff
   content_review: inherited 2026-08-28 approval; relocation does not refresh commercial review
   legacy_frontmatter: |

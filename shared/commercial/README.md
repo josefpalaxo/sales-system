@@ -7,7 +7,7 @@ Start with the full business definitions. Structured records below are reconcile
 - [Commercial Dictionary](<Circularo Commercial Dictionary.md>) — imported draft terminology.
 - [Partner commercial library](partners/README.md) — draft pricing architecture, price book, catalogues and workbook package.
 - [Commercial follow-up notes](TODO.md) — proposals, not approved commercial changes.
-- [Investor commercial context](investor-context/) — confidential drafts referencing the governed rules.
+- [Investor commercial context](investor-context) — confidential drafts referencing the governed rules.
 
 Focused representations are grouped under `add-ons/`, `commercial-model/`, `commercial-rules/`, `editions/`, `subscription-models/`, `subscriptions/` and `support/`. Use stable IDs for precise terms and inspect their governing master revision before reuse.
 

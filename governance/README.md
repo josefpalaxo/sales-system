@@ -1,8 +1,8 @@
-# Governance records
+# Governance
 
 - `owners.yaml` registers accountable roles and teams.
 - `vocabularies.yaml` defines controlled repository terms.
-- `source-register/` records important evidence sources and their authority.
-- `conflicts/` keeps unresolved truth visible.
-- `decisions/` explains material repository and commercial decisions.
+- `conflicts/` keeps unresolved disagreements visible.
+- `decisions/` records material repository and commercial decisions.
 
+Source descriptions, preserved inputs and historical snapshots live together under [sources](../sources/README.md). Governance defines their handling and approval rules; it does not maintain another source register.

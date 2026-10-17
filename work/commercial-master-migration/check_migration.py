@@ -14,10 +14,12 @@ from validate import validate, validate_master_dependencies
 
 manifest = json.loads((Path(__file__).parent / "manifest.json").read_text())
 relocations = json.loads((ROOT / "work/repository-restructure/path-map.json").read_text())["paths"]
+source_relocations = json.loads((ROOT / "work/source-consolidation/path-map.json").read_text())["paths"]
 
 
 def current_path(relative):
-    return ROOT / relocations.get(relative, relative)
+    first = relocations.get(relative, relative)
+    return ROOT / source_relocations.get(first, first)
 
 
 errors = []

@@ -35,7 +35,7 @@ No numeric investor financial/customer dataset was present in the governed recor
 | DQ-04 | Sovereign-platform deck is a draft with no source lineage | `deck:unified-sovereign-trust-platform` | Do not use it to confirm capabilities, deployments or future architecture | Product / product marketing |
 | DQ-05 | Approved commercial references have review deadlines of 2026-11-26 | Source register, inspected 2026-10-01 | Current at inspection only; recheck status, dependencies and deadline before later use | Source owner: role:cso |
 
-These findings constrain their stated scopes. The open material workspace conflict does not invalidate unrelated approved records. Full source locators and fingerprints are in the [source register](../../../sources/investor-context/internal/sales-system-register.md).
+These findings constrain their stated scopes. The open material workspace conflict does not invalidate unrelated approved records. Full source locators and fingerprints are in the [source register](../../../sources/README.md).
 
 ## Missing information and management confirmation
 

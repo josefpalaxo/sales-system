@@ -1,0 +1,219 @@
+{
+  "baseline_revision": "fabb7364662bdfa8cd2abda40740ff2576efb7d2",
+  "record_ids_and_metadata_checked": 155,
+  "source_records_relocated": 7,
+  "original_inputs_checked_byte_for_byte": 22,
+  "dependency_graph_unchanged": true,
+  "source_records": [
+    {
+      "id": "source:add-on-model-2026",
+      "old_path": "governance/source-register/add-on-model-2026.md",
+      "current_path": "sources/commercial/add-on-model-2026.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "approved",
+      "revision": 3,
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26"
+    },
+    {
+      "id": "source:circularo-narrative-working-set",
+      "old_path": "governance/source-register/circularo-narrative-working-set.md",
+      "current_path": "sources/messaging/circularo-narrative.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "draft",
+      "revision": null,
+      "classification": "internal",
+      "owner": "unassigned",
+      "last_reviewed": "null",
+      "review_by": "null"
+    },
+    {
+      "id": "source:commercial-model-2026",
+      "old_path": "governance/source-register/commercial-model-2026.md",
+      "current_path": "sources/commercial/commercial-model-2026.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "approved",
+      "revision": 4,
+      "classification": "internal",
+      "owner": "role:cso",
+      "last_reviewed": "2026-08-28",
+      "review_by": "2026-11-26"
+    },
+    {
+      "id": "source:investor-workspace-mandate",
+      "old_path": "governance/source-register/investor-workspace-mandate.md",
+      "current_path": "sources/investor-context/investor-workspace-mandate.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "draft",
+      "revision": null,
+      "classification": "confidential",
+      "owner": "unassigned",
+      "last_reviewed": "null",
+      "review_by": "null"
+    },
+    {
+      "id": "source:repository-architecture-brief",
+      "old_path": "governance/source-register/repository-architecture-brief.md",
+      "current_path": "sources/repository/repository-architecture-brief.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "approved",
+      "revision": 1,
+      "classification": "internal",
+      "owner": "role:repository-steward",
+      "last_reviewed": "2026-08-27",
+      "review_by": "2027-08-27"
+    },
+    {
+      "id": "source:sales-repo-canonical",
+      "old_path": "governance/source-register/sales-repo-canonical.md",
+      "current_path": "sources/commercial/sales-repo-canonical.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "reviewed",
+      "revision": 1,
+      "classification": "restricted",
+      "owner": "role:cso",
+      "last_reviewed": "2026-10-14",
+      "review_by": "2027-01-12"
+    },
+    {
+      "id": "source:unified-trust-api-working-pack",
+      "old_path": "governance/source-register/unified-trust-api-working-pack.md",
+      "current_path": "sources/api/unified-trust-api/unified-trust-api.source.md",
+      "kind": "source",
+      "record_role": null,
+      "master_id": null,
+      "master_revision": null,
+      "domain": "shared",
+      "topic": null,
+      "status": "draft",
+      "revision": null,
+      "classification": "internal",
+      "owner": "unassigned",
+      "last_reviewed": "null",
+      "review_by": "null"
+    }
+  ],
+  "preserved_inputs": [
+    {
+      "path": "sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo Trust Orchestration.md",
+      "sha256": "9f1c3f25735d9e887be3e559c719953f93bb556a6c0de108f1892ee4c35ad6b5"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/narrative-evolution/Circularo narrative evolution.md",
+      "sha256": "4fe91bad3ba7254ca8a6bf78e8d906284c849c4f8e42c9440c168c5bb2adf752"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Government-Sovereign-Trust-Orchestration-Pitch.md",
+      "sha256": "3e04f6be34e28f7e7cfcd3b4d9c5b4cab1181829ca035d066a91d0430eb7b8a4"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Narrative-Trust-Orchestration-and-Agentic-Trusted-Execution.md",
+      "sha256": "7e52198dc550d43e8623852b8fd87da03d71a7363054115e58d586e02cf7b9ea"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/Circularo-SaaS-End-to-End-Trusted-Execution-Deck-Outline.md",
+      "sha256": "d925889aedb29f478c7e0d673bd13cfd9af8ee5a262c4231a7988cb433306faf"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Strategic-Narratives-Internal-Deck-Outline.md",
+      "sha256": "465caac3f6a3d7022c5c6b9fbdff7a4fda6bf49acbd6d66660a801d488d07f11"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/Circularo-Three-Strategic-Narratives.md",
+      "sha256": "8ae1d0e91d9d7f2e42469c490708a954ed732742d58ad44e1bc94c9b82a86b13"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/Trusted-Execution-for-the-Agentic-Era-Final.md",
+      "sha256": "03c35035e01bdb804ad7617dcf3a386adb0718e81c8031b3c85d9910124bbb00"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/about-circularo-updated.md",
+      "sha256": "5f11da89b06ae327008e736b8242a932dcd92088afbdc167bc18a6eab38612e8"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/about-circularo.md",
+      "sha256": "c060ace3a1f4fe78934c6cb6741c5aae3af2df8bdfc6bc5f7fda8cf6c13d38db"
+    },
+    {
+      "path": "sources/messaging/circularo-narrative/originals/new-story/new-narrative.md",
+      "sha256": "b290be0761b0f6364d1559d9a82fa4ead8713e8890012a27c231db35ffd2869f"
+    },
+    {
+      "path": "sources/api/unified-trust-api/26.1.0 - API Changelog.md",
+      "sha256": "284965e91dc5ebfe5ec344d617e40215b3c8410267c22fc207b4e39f1af43938"
+    },
+    {
+      "path": "sources/api/unified-trust-api/unified-trust-api.json",
+      "sha256": "6428a0cee60bfbb2d09e85fd8615ee22e21a5344444c382219652657c613a6dd"
+    },
+    {
+      "path": "sources/commercial/snapshots/Circularo Add-On Model and How it Works.md",
+      "sha256": "618799d4165edd2c75e040539af3d0ce3fccdf880547ea3facba5fc2b3e5efb6"
+    },
+    {
+      "path": "sources/commercial/snapshots/Circularo Commercial Model.md",
+      "sha256": "7bbd98cdbf813cd5cdb0841519f6d0292b8cf83b079c832f32ff84dbb6c556ff"
+    },
+    {
+      "path": "sources/commercial/snapshots/partner-library-introduction.md",
+      "sha256": "f2819f1271831744ce3ebd674a7d6df75329764b19e0667d614cf2529b1453d6"
+    },
+    {
+      "path": "sources/repository/snapshots/repository-architecture-brief.md",
+      "sha256": "deaf19acd0a2f9bcc9118a762a62565f1de2c2f27a170d4048689be4fbd15581"
+    },
+    {
+      "path": "sources/commercial/snapshots/sales-repo-commercial-model-original.md",
+      "sha256": "b4099531f4bbccae17bec1019e8b6e0684b17cedf4f8f0e901ae58214c554e53"
+    },
+    {
+      "path": "sources/competitive-analysis/task.md",
+      "sha256": "191ea5815148a5c09acb091a447c1a3ba9edadd959bafa6a3897f391463677cc"
+    },
+    {
+      "path": "sources/investor-context/sales-system-provenance.json",
+      "sha256": "891a72dcbc4944e825cbc32543d45855baa02d10175ca6d2d7287808d4c9e7f2"
+    },
+    {
+      "path": "sources/investor-context/snapshots/sales-system-register-2026-10-01.md",
+      "sha256": "b200bc630a5f2f655b3110129fa00ac7a1500857651c369d24f85c5ea974e286"
+    },
+    {
+      "path": "sources/investor-context/setup.md",
+      "sha256": "3d53df42bd367e9495a7c8b590790836cff006590f9f372854176539e3532134"
+    }
+  ],
+  "errors": []
+}
